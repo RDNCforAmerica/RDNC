@@ -1,4 +1,4 @@
-# Project ARA 2028 — American Renewal Agenda
+# Project ARA 2028 — American Renewal Agenda (and accompanying project white paper).
 
 **A 65-proposal governing platform, drafted into legislation, scored against international evidence, and free for any candidate to run on.**
 
