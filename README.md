@@ -1,5 +1,7 @@
 # Project ARA 2028 — American Renewal Agenda (and accompanying project white paper).
 
+(indexing terms) policy, policy-platform, ARA American-Renewal Renewal-Agenda Reform, Politics, American-Politics policy-platform, legislation, economics, antitrust, fiscal-policy, open-source-governance, and public-interest
+
 **A 65-proposal governing platform, drafted into legislation, scored against international evidence, and free for any candidate to run on.**
 
 Produced by the Reform Democrats of the New Commonwealth (RDNC) — a self-funded policy research project operating in the think-tank model. No institutional donors. No corporate sponsors. No party that owns the work.
