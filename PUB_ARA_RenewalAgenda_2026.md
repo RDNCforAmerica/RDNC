@@ -1,0 +1,14589 @@
+# PROJECT ARA 2028
+
+## The American Renewal Agenda
+
+**A complete governing blueprint — 65 scored, sourced proposals, 12 drafted bills, the implementation sequence, and the fiscal case.**
+
+Healthcare. Education. Infrastructure.
+
+*Reform Democrats of the New Commonwealth · American Renewal Initiative · 2026 Edition*
+
+**Public document. Free to distribute. The ideas belong to anyone willing to fight for them.**
+
+-----
+
+|                                   |                       |
+|-----------------------------------|-----------------------|
+|**65** Proposals                   |**12** Bills drafted   |
+|**7.4** Avg score /10              |**370** Sources cited  |
+|**31 / 34** Executive / Legislative|**9** Policy categories|
+
+-----
+
+## About This Document
+
+Project ARA 2028 — The American Renewal Agenda is the single consolidated public edition of a governing framework developed by the Reform Democrats of the New Commonwealth (RDNC), the policy think tank that authored it, and carried forward for public adoption by the American Renewal Initiative (ARI). It collects, in one volume, the ideological framework, the scored and sourced 65-proposal policy framework, the written-out implementation sequence, the full text of all twelve drafted bills, the scoring methodology, the fiscal-feasibility analysis, and the complete source register.
+
+It is built on the model of a complete, citable governing roadmap rather than a campaign pamphlet. Project 2025 demonstrated that a detailed, sequenced, ready-to-execute plan is a decisive political instrument. This is the answer to that, built around the public interest rather than against it, scored and sourced so it can be audited, and published in full so it can be adopted, criticized, and improved by anyone.
+
+**How to read this document:** Parts I–II make the argument and state the principles. Part III is the scored framework at a glance — the 65 proposals, each keyed to the source register. Part IV is the written-out implementation sequence, with the roadmap and the Day-1 cabinet briefing. Part V explains every proposal in depth, with the evidence behind each score. Part VI makes the fiscal-feasibility and durability case. Part VII is the legislative core: a card per bill, then the complete verbatim text of all twelve. Part VIII documents the scoring methodology, Part IX is the full source register, and Part X is a brief note on method and authorship.
+
+-----
+
+## Who This Is For, and How to Use It
+
+This is a public document. It is meant to be picked up and carried — by candidates running for office, by campaign staff and advisors building positions, by voters who want to know what is actually possible, by organizers and civic groups, by journalists and scholars auditing the work, and by anyone willing to fight for the ideas in it. **No permission is required. No fee. No application. No institutional relationship. The ideas belong to anyone willing to fight for them.**
+
+### The Layers — What to Use for What
+
+- **For the thirty-second conversation** — the pitch and the three pillars: Fix the Foundations, Same Rules for Everyone, Build What Lasts. Healthcare, education, infrastructure. Renew. Rebuild. Deliver.
+- **For a candidate platform or stump speech** — Parts I–II of this document — the argument, the principles, and the diagnosis. Five reasons the system stopped working, three principles that say what to build instead.
+- **For policy positions and debate preparation** — Part III at a glance and Part V in depth. All 65 proposals, each with the international precedent, the US trajectory, the welfare case, and the evidence behind every score.
+- **For legislative staff and drafting counsel** — Part VII — the twelve fully drafted bills, with vehicle, dependencies, and attack-and-defense framing. Reproduced verbatim from canonical drafted text.
+- **For journalists, scholars, and auditors** — Part VI (fiscal feasibility), Part VIII (the scoring methodology, with comparator pool and per-axis rubric), and Part IX (the 370-source register with evidence-tier ratings). Every claim is traceable.
+- **For everyone** — All of it. Read it, share it, adapt it. Disagree with it in public if you disagree — that is what a serious document is for.
+
+### If You Are Running on This
+
+**What is asked.** Fidelity to the policy positions in the framework. Run on what the platform says, not a selective reading of it. If you disagree with a specific proposal, say so openly and explain why — intellectual honesty is part of the brand. Beyond that: nothing.
+
+**What is not asked.** No fee. No endorsement process. No required relationship with any organization or official. No control over your campaign — your campaign is yours. The framework is the reference point, publicly available for any voter to check.
+
+**How to describe the relationship.** “I’m running on the American Renewal Agenda — a detailed governing platform developed by the Reform Democrats of the New Commonwealth. It’s publicly available. I didn’t invent it, but I believe in it, and I’m committed to delivering it.” That is accurate, complete, and enough.
+
+> **The window is open. A detailed governing plan exists. Legislation is drafted. The framework is ready. What is needed now is people willing to carry it forward.**
+
+-----
+
+## Contents
+
+- Part I — The Argument
+- Part II — Principles & Diagnosis
+- Part III — The Policy Framework
+- Part IV — The Implementation Sequence
+- Part V — The Proposals in Depth
+- Part VI — Economic Feasibility
+- Part VII — The Legislative Series
+- Part VIII — The Scoring Methodology
+- Part IX — The Source Register
+- Part X — A Note on Method and Authorship
+
+*Part VII bill order: 1 COLT · 2 IIC · 3 ACFM · 4 FSW · 5 BWDS · 6 POHE · 7 DRDO · 8 HCI · 9 UCT · 10 AIPE · 11 DIR · 12 NFSA. Each bill is reproduced from its canonical drafted version exactly as approved; no operative text has been altered in consolidation.*
+
+-----
+
+# PART I — The Argument
+
+*What was built, what was taken, and what a serious answer requires.*
+
+-----
+
+## The Core Thesis
+
+The United States built something remarkable: a governing system, a broad middle class, and public institutions capable of keeping concentrated power in check. That system has been methodically weakened — by corporate interests that found it more profitable to capture government than compete within it, and by an ever-expanding defense economy that continues to consume public resources that could be building the country from within. The result is a country where the cost of living rises every year, the institutions meant to protect ordinary people have been hollowed out, and neither major party has offered a coherent plan to reverse it.
+
+> **Project 2025 is a detailed governing roadmap for finishing the dismantling. This is the answer — equally specific, equally serious, built around the public interest rather than against it. Not a reaction. A plan.**
+
+## What Was Built, and What Was Taken
+
+The post-war American system was not perfect. But it worked in ways worth understanding, because understanding what worked is the precondition for rebuilding it.
+
+Between roughly 1945 and 1980, the United States maintained a set of institutional arrangements that produced broadly shared economic growth: regulated financial markets, progressive taxation, strong labor protections, public investment in infrastructure and education, and government agencies with genuine enforcement capacity. These were not accidental. They were the result of political choices made after the failures of unregulated markets had become undeniable.
+
+The dismantling of those arrangements began in earnest in the 1980s and accelerated across both parties through the 1990s and 2000s. It was not a conspiracy — it was a sustained ideological and lobbying effort by interests who stood to gain from deregulation, privatization, and the defunding of oversight. The results are now visible everywhere: healthcare costs that consume an ever-larger share of household income, wages that have not kept pace with productivity for five decades, public agencies that lack the staff to enforce the laws they are supposed to administer, and an infrastructure deficit measured in the trillions.
+
+## The Three Pillars
+
+The diagnostic question that runs through every proposal in this agenda is the same: what does a functioning advanced society look like, and what specifically stands between us and that? That question — applied consistently — produces a coherent governing model.
+
+Healthcare, education, and infrastructure are not separate issues with separate constituencies. They are the three pillars on which every advanced society’s broad prosperity rests — and they are precisely what has been most systematically attacked, corporatized, and neglected over the past several decades. When those pillars are strong, people can absorb economic disruption, take productive risks, and participate fully in civic life. When they are weak — as they currently are in the United States — everything else becomes harder.
+
+> **The policies in this framework are not experiments. They exist and function in comparable advanced democracies. The question is not whether they work. It is how to build the political path from here to there.**
+
+## What This Agenda Is — and Is Not
+
+- **It is not a third party.** It is a governing vision for reform-oriented Democrats who believe the party needs a spine, not a new home.
+- **It is not a collection of wish-list items.** Every proposal is sequenced by feasibility and societal benefit, organized into implementation phases, and accompanied by defense strategies and fallback positions. It is designed to survive contact with political reality.
+- **It is not anti-business.** It is pro-competition. The antitrust provisions, the data-ownership framework, the patent reform proposals — these are designed to make markets work better for more people, not to eliminate them.
+- **It is not anti-military.** It is pro-national-security-broadly-defined. A nation whose grid is vulnerable, whose semiconductor supply chain depends on adversaries, and whose infrastructure is crumbling is not a secure nation — regardless of how large its defense budget is.
+
+> **What it is: a governing synthesis. A coherent answer to the question of what government is for, translated into specific policy, sequenced into a realistic implementation roadmap, and defended against the opposition it will inevitably face.**
+
+> **One difference is decisive, and worth stating at the outset. Project 2025 was built to move fast, and is — by its own design and its own record — easy to reverse. This agenda is built to survive contact with power: sequenced for durability, anchored in constituencies that resist rollback, and, across every economic scenario modeled, the more fiscally durable of the two. Speed was their advantage. Endurance is ours.**
+
+-----
+
+# PART II — Principles & Diagnosis
+
+*The philosophical spine, and how the problem is named before the solution is offered.*
+
+-----
+
+## Three Principles
+
+These three principles are the spine of every position in this framework. Any specific proposal should trace back to at least one of them.
+
+**1 · The system was built to work — and can be again.**
+Healthcare, infrastructure, education, and democratic accountability all function in comparable countries right now. The question is not whether these things are possible. It is whether we are willing to fight for them. This is not a call for something radical or untested. It is a call to do what we already know how to do.
+
+**2 · Corporate capture is the root cause, not a side effect.**
+The cost of healthcare, the absence of childcare, the stagnation of wages, the decay of public institutions — these are not accidents. They are the predictable result of policy shaped to serve shareholders over citizens. Naming that clearly is the first step to changing it.
+
+**3 · A roadmap beats a reaction.**
+Project 2025 succeeded in part because it existed — detailed, sequenced, ready to execute the moment power was available. The American Renewal Agenda is the counter-roadmap: equally specific, equally serious, built around opposite values. Outrage without architecture changes nothing.
+
+## Five Diagnostic Arguments
+
+Lead with the diagnosis, not the policy. When people recognize the problem in these terms, they are already thinking in this framework.
+
+**1 · The Cost-of-Living Diagnosis**
+Americans are not struggling because of personal failure. They are struggling because healthcare, childcare, housing, and education have been transformed from shared infrastructure into profit centers. The cost of a functional life has been allowed to outpace wages for decades. That is a policy choice, made by people who benefited from it.
+
+**2 · The Institutional Decay Diagnosis**
+Federal inspectors, regulators, and oversight bodies were defunded not by accident but by design — because they were effective. Corporations do not fear an EPA stripped of enforcement staff. Politicians do not fear an FEC that has been defanged. Restoring those institutions is not bureaucracy expansion. It is accountability restoration.
+
+**3 · The Democratic Establishment Diagnosis**
+The Democratic Party has produced good individual policies and failed to produce a governing vision. Without a shared theory of what government is for, elections erase each other’s work and nothing compounds. This framework is not a rejection of the Democratic coalition — it is an attempt to give it the spine it is missing.
+
+**4 · The Project 2025 Diagnosis**
+Project 2025 correctly understood that a detailed governing roadmap beats improvisation every time. It is being executed right now. The appropriate response is not outrage — it is an equally detailed counter-roadmap built around opposite values. That is what this framework is.
+
+**5 · The Opportunity Diagnosis**
+The conditions for structural reform rarely align. Public trust in the status quo is low. The failure of trickle-down economics is visible. The Democratic coalition, however fractured, is looking for direction. A coherent governing vision — specific, sequenced, and serious — has a better chance of taking hold right now than at almost any point in recent memory. The window is open. The question is whether anyone walks through it.
+
+-----
+
+# PART III — The Policy Framework
+
+*Sixty-five proposals across nine categories, each scored on three axes and keyed to the source register. Aggregate Score = (GP + UT + B) ÷ 1.5.*
+
+-----
+
+## The Scored and Sourced Framework
+
+Each proposal carries three axis scores — **Global Precedent (GP)**, **US Transition Difficulty (UT)**, and **Societal Benefit (B)**, each 1–5 — and a Priority Score 1–10. The anchor line gives the legislative or executive vehicle. The Sources line keys each axis to the numbered entries in the Part IX source register.
+
+-----
+
+### ECONOMY & TAX REFORM — 7 proposals
+
+*Corporate capture, wage stagnation, tax equity — the cost of living is a policy failure, not a market outcome.*
+
+|Proposal                                                                                 |GP   |UT   |B    |Score  |Phase|
+|-----------------------------------------------------------------------------------------|-----|-----|-----|-------|-----|
+|**P1 · IRS Reform & Pre-Filed Taxes** — Bill 1 (COLT Act Title I)                        |★★★★★|★★★★☆|★★★★☆|**8.7**|Ph I |
+|**P2 · Antitrust Enforcement & Corporate Accountability** — Bill 3 (ACFM Act Title III)  |★★★★☆|★★★☆☆|★★★★☆|**7.3**|Ph I |
+|**P3 · Ban Waste Export** — Executive (EPA rulemaking)                                   |★★★★☆|★★★★☆|★★★☆☆|**7.3**|Ph I |
+|**P4 · Close Wealth Accumulation Loopholes** — Bill 5 (BWDS Act Title III)               |★★★★☆|★★☆☆☆|★★★★★|**7.3**|Ph II|
+|**P5 · Moving Minimum Wage (Fed-Managed)** — Executive (Federal Reserve coordination)    |★★☆☆☆|★★★☆☆|★★★★★|**6.7**|Ph II|
+|**P6 · Billionaire Wealth Tax & Digital Services Levy** — Bill 5 (BWDS Act Titles I & II)|★★★★☆|★★☆☆☆|★★★★★|**7.3**|Ph II|
+|**P7 · US Sovereign AI & Autonomous Systems Wealth Fund** — Bill 10 (AIPE Act)           |★★★☆☆|★★★☆☆|★★★★★|**7.3**|Ph II|
+
+-----
+
+### HEALTHCARE & SOCIAL PROGRAMS — 8 proposals
+
+*The foundations of a functional life. Universal in comparable democracies. Non-negotiable in a serious governing agenda.*
+
+|Proposal                                                                                              |GP   |UT   |B    |Score  |Phase |
+|------------------------------------------------------------------------------------------------------|-----|-----|-----|-------|------|
+|**P8 · Restore Public Health Infrastructure & Biomedical Accountability** — Executive (HHS/CDC hybrid)|★★★★★|★★★☆☆|★★★★★|**8.7**|Ph I  |
+|**P9 · Socialized Public Childcare** — Bill 4 (FSW Act Title I)                                       |★★★★★|★★★☆☆|★★★★★|**8.7**|Ph II |
+|**P10 · Universal Basic Investment for Children** — Bill 4 (FSW Act Title III)                        |★★★☆☆|★★★☆☆|★★★★★|**7.3**|Ph II |
+|**P11 · Non-Profit Prison System** — Executive (DOJ + state incentives)                               |★★★★☆|★★★☆☆|★★★★☆|**7.3**|Ph II |
+|**P12 · Drug Rescheduling & Harm Reduction** — Executive (DEA/HHS rulemaking)                         |★★★★☆|★★☆☆☆|★★★★☆|**6.7**|Ph II |
+|**P13 · Universal Government-Funded Healthcare** — Bill 9 (UCT Act, Phase III)                        |★★★★★|★☆☆☆☆|★★★★★|**7.3**|Ph III|
+|**P14 · Bodily Autonomy Legal Framework** — Executive (Constitutional/judicial pathway)               |★★★★☆|★★☆☆☆|★★★★★|**7.3**|Ph III|
+|**P15 · Social Security Modernization** — Bill 9 (UCT Act)                                            |★★★☆☆|★★☆☆☆|★★★★☆|**6.0**|Ph III|
+
+-----
+
+### DEMOCRACY & ELECTORAL REFORM — 6 proposals
+
+*A democracy that can be captured, gerrymandered, or flooded with foreign money is not a functioning democracy.*
+
+|Proposal                                                                                               |GP   |UT   |B    |Score  |Phase|
+|-------------------------------------------------------------------------------------------------------|-----|-----|-----|-------|-----|
+|**P16 · Address Gerrymandering** — Bill 11 (DIR Act Phase III Title V)                                 |★★★★☆|★★★☆☆|★★★★★|**8.0**|Ph I |
+|**P17 · National Voting Holiday** — Bill 1 (COLT Act Title IV)                                         |★★★★☆|★★★☆☆|★★★☆☆|**6.7**|Ph I |
+|**P18 · Shutdown Accountability for Congress** — Executive (House/Senate rules change)                 |★★☆☆☆|★★★☆☆|★★★★☆|**6.0**|Ph I |
+|**P19 · Restore Independent Local News & Media Ownership** — Executive (FCC rulemaking + CPB funding)  |★★★★☆|★★★☆☆|★★★★★|**8.0**|Ph I |
+|**P20 · Fraud & Foreign Interference Enforcement Act** — Executive (DOJ/FBI + FTC coordination)        |★★★★☆|★★★☆☆|★★★★☆|**7.3**|Ph II|
+|**P21 · National Firearm Standards Framework (Two-Track)** — Bill 12 (NFSA full two-track architecture)|★★★★☆|★★★☆☆|★★★★★|**8.0**|Ph II|
+
+-----
+
+### LEGAL & GOVERNANCE — 12 proposals
+
+*The rules that apply to citizens must apply to representatives, corporations, and the wealthiest individuals.*
+
+|Proposal                                                                                         |GP   |UT   |B    |Score  |Phase |
+|-------------------------------------------------------------------------------------------------|-----|-----|-----|-------|------|
+|**P22 · Citizen Data Ownership Laws** — Bill 7 (DRDO Act Titles I–IV)                            |★★★★☆|★★★☆☆|★★★★★|**8.0**|Ph I  |
+|**P23 · Ban Congressional Insider Trading** — Bill 3 (ACFM Act Title I)                          |★★★★☆|★★★☆☆|★★★★☆|**7.3**|Ph I  |
+|**P24 · Higher Standards & Accountability for Officials** — Bill 3 (ACFM Act Titles I–II)        |★★★★☆|★★★☆☆|★★★★☆|**7.3**|Ph I  |
+|**P25 · Full Financial Transparency for Presidents** — Bill 3 (ACFM Act Title II)                |★★★☆☆|★★★☆☆|★★★★☆|**6.7**|Ph I  |
+|**P26 · Bipartisan Oversight of Detention Facilities** — Executive (EO + congressional directive)|★★☆☆☆|★★★☆☆|★★★★☆|**6.0**|Ph I  |
+|**P27 · Restrict Corporate Home Ownership** — Bill 8 (HCI Act Title I)                           |★★★☆☆|★★★☆☆|★★★★☆|**6.7**|Ph I  |
+|**P28 · Stricter Advertising Laws** — Bill 7 (DRDO Act Title II + Title V)                       |★★★★★|★★★☆☆|★★★☆☆|**7.3**|Ph I  |
+|**P29 · Age & Term Limits for Officials** — Bill 11 (DIR Act Phase III)                          |★★★★☆|★★★☆☆|★★★★☆|**7.3**|Ph II |
+|**P30 · AI Safety & Rights Framework** — Standalone framework legislation                        |★★☆☆☆|★★★☆☆|★★★★☆|**6.5**|Ph II |
+|**P31 · Patent Law Reform** — Executive (Commerce/USPTO rulemaking)                              |★★★★☆|★★★☆☆|★★★★☆|**7.3**|Ph II |
+|**P32 · Repeal / Reform Citizens United** — Bill 11 (DIR Act Phase III Title III)                |★★★★☆|★☆☆☆☆|★★★★★|**6.7**|Ph III|
+|**P33 · Supreme Court Reform** — Bill 11 (DIR Act Phase III Title II)                            |★★★☆☆|★★☆☆☆|★★★★★|**6.7**|Ph III|
+
+-----
+
+### EDUCATION — 4 proposals
+
+*Human capital is infrastructure. The workforce of 2040 is the student of 2025.*
+
+|Proposal                                                                                    |GP   |UT   |B    |Score  |Phase |
+|--------------------------------------------------------------------------------------------|-----|-----|-----|-------|------|
+|**P34 · Reduce Tuition & Expand Adult Education** — Bill 4 (FSW Act Title II)               |★★★★☆|★★★☆☆|★★★★☆|**7.3**|Ph I  |
+|**P35 · Digital Minor Protection Standards (Three-Tier)** — Bill 7 (DRDO Act Title V)       |★★★★☆|★★★☆☆|★★★★★|**8.0**|Ph II |
+|**P36 · Shift Corporate Role from Healthcare to Training** — Bill 4 (FSW Act Title IV)      |★★☆☆☆|★★★☆☆|★★★★☆|**6.0**|Ph II |
+|**P37 · Adopt Scandinavian Education Model** — Executive (DOE rulemaking + state incentives)|★★★★★|★★☆☆☆|★★★★★|**8.0**|Ph III|
+
+-----
+
+### INFRASTRUCTURE & ENERGY — 8 proposals
+
+*The country stopped building. The result is visible in every crumbling bridge, every supply chain crisis.*
+
+|Proposal                                                                              |GP   |UT   |B    |Score  |Phase |
+|--------------------------------------------------------------------------------------|-----|-----|-----|-------|------|
+|**P38 · Renewable & Nuclear Energy Investment** — Bill 2 (IIC Act Titles I & II)      |★★★★★|★★★☆☆|★★★★★|**8.7**|Ph I  |
+|**P39 · Restore & Expand Federal Inspectors** — Bill 2 (IIC Act Title IV)             |★★★★☆|★★★★☆|★★★★☆|**8.0**|Ph I  |
+|**P40 · Shoreline & Fishery Protection** — Executive (NOAA/EPA rulemaking)            |★★★★☆|★★★☆☆|★★★★☆|**7.3**|Ph I  |
+|**P41 · Strategic Domestic Technology Investment** — Bill 2 (IIC Act Title II)        |★★★★★|★★★☆☆|★★★★★|**8.7**|Ph I  |
+|**P42 · Cooperative Mining with Allied Nations** — Executive (State Department)       |★★★★☆|★★★☆☆|★★★★☆|**7.3**|Ph I  |
+|**P43 · Modernize Airports & Air Traffic Control** — Bill 2 (IIC Act Title III)       |★★★★☆|★★★★☆|★★★☆☆|**7.3**|Ph I  |
+|**P44 · Electrify & Modernize USPS** — Bill 2 (IIC Act Title III)                     |★★★★☆|★★★★☆|★★★☆☆|**7.3**|Ph I  |
+|**P45 · National High-Speed Rail Network** — Executive (Phase III major authorization)|★★★★★|★★☆☆☆|★★★★☆|**7.3**|Ph III|
+
+-----
+
+### MILITARY & DEFENSE — 7 proposals
+
+*National security broadly defined — grid, supply chain, alliances — not just procurement and contractor relationships.*
+
+|Proposal                                                                            |GP   |UT   |B    |Score  |Phase|
+|------------------------------------------------------------------------------------|-----|-----|-----|-------|-----|
+|**P46 · Expand Cyberwarfare Defenses** — Executive (DoD/NSA directive)              |★★★★☆|★★★☆☆|★★★★★|**8.0**|Ph I |
+|**P47 · Expand NASA & Space Force** — Executive (NDAA authorization)                |★★★★☆|★★★★☆|★★★☆☆|**7.3**|Ph II|
+|**P48 · Reinforce War Powers Act** — Executive (Congressional resolution)           |★★★★☆|★★★☆☆|★★★★☆|**7.3**|Ph I |
+|**P49 · Pentagon Budget Audit Accountability** — Executive (NDAA + IG directive)    |★★★☆☆|★★★☆☆|★★★★☆|**6.7**|Ph I |
+|**P50 · Reduce Military Contractor Dependence** — Executive (DoD procurement reform)|★★★★☆|★★★☆☆|★★★★☆|**7.3**|Ph I |
+|**P51 · Strategic Military Workforce Pivot to Infrastructure** — Bill 4 (FSW Act)   |★★★☆☆|★★★☆☆|★★★★☆|**6.7**|Ph II|
+|**P52 · Multilateral Peacekeeping Coalition** — Executive (State Department)        |★★★★☆|★★★☆☆|★★★★☆|**7.3**|Ph II|
+
+-----
+
+### AGRICULTURE & ENVIRONMENT — 9 proposals
+
+*Food security, water rights, and ecological foundations are national security assets.*
+
+|Proposal                                                                               |GP   |UT   |B    |Score  |Phase|
+|---------------------------------------------------------------------------------------|-----|-----|-----|-------|-----|
+|**P53 · Water Rights & Foreign Ownership Ban** — Bill 8 (HCI Act Title I)              |★★★★☆|★★★☆☆|★★★★★|**8.0**|Ph I |
+|**P54 · Domestic Food Priority Laws** — Executive (USDA rulemaking)                    |★★★☆☆|★★★☆☆|★★★★☆|**6.7**|Ph I |
+|**P55 · Protect Marine Life & Expand Aquaculture** — Executive (NOAA rulemaking)       |★★★★☆|★★★☆☆|★★★★★|**8.0**|Ph I |
+|**P56 · Subsidize Agricultural Electrification** — Executive (USDA/DOE grants)         |★★★★☆|★★★☆☆|★★★★☆|**7.3**|Ph I |
+|**P57 · Address Farm Labor Abuses** — Executive (DOL enforcement)                      |★★★★☆|★★★☆☆|★★★★☆|**7.3**|Ph I |
+|**P58 · Break Up Agricultural Monopolies** — Bill 3 (ACFM Act Title III)               |★★★★☆|★★★☆☆|★★★★☆|**7.3**|Ph I |
+|**P59 · National Climate Preparedness Corps** — Executive (FEMA/EPA reorganization)    |★★★☆☆|★★★★☆|★★★★★|**8.0**|Ph I |
+|**P60 · Invest in Desalination Infrastructure** — Executive (DOE/Bureau of Reclamation)|★★★★★|★★★☆☆|★★★★★|**8.7**|Ph II|
+|**P61 · FDA Split & Reform** — Executive (HHS reorganization)                          |★★★★★|★★★☆☆|★★★★☆|**8.0**|Ph II|
+
+-----
+
+### FOREIGN AFFAIRS & IMMIGRATION — 4 proposals
+
+*Strategic relationships are asymmetric advantages. Immigration managed intelligently is a net economic positive.*
+
+|Proposal                                                                              |GP   |UT   |B    |Score  |Phase|
+|--------------------------------------------------------------------------------------|-----|-----|-----|-------|-----|
+|**P62 · Diplomatic Restoration & Strategic Investment** — Executive (State Department)|★★★★☆|★★★☆☆|★★★★★|**8.0**|Ph I |
+|**P63 · Selective & Streamlined Immigration Policy** — Executive (DHS/DOS rulemaking) |★★★★☆|★★★☆☆|★★★★☆|**7.3**|Ph I |
+|**P64 · International Property Ownership Framework** — Bill 8 (HCI Act Title I)       |★★★★☆|★★★☆☆|★★★☆☆|**6.7**|Ph I |
+|**P65 · Nuclear Diplomacy via Allied Mediation** — Executive (State Department)       |★★★★☆|★★★☆☆|★★★★★|**8.0**|Ph II|
+
+-----
+
+### Summary by Category
+
+|Category                     |N |Ph I|Ph II|Ph III|Avg |High|
+|-----------------------------|--|----|-----|------|----|----|
+|Economy & Tax Reform         |7 |3   |4    |—     |7.41|8.7 |
+|Healthcare & Social Programs |8 |1   |4    |3     |7.41|8.7 |
+|Democracy & Electoral Reform |6 |4   |2    |—     |7.33|8.0 |
+|Legal & Governance           |12|7   |3    |2     |6.94|8.0 |
+|Education                    |4 |1   |2    |1     |7.33|8.0 |
+|Infrastructure & Energy      |8 |7   |—    |1     |7.74|8.7 |
+|Military & Defense           |7 |4   |3    |—     |7.23|8.0 |
+|Agriculture & Environment    |9 |7   |2    |—     |7.70|8.7 |
+|Foreign Affairs & Immigration|4 |3   |1    |—     |7.50|8.0 |
+
+**Aggregate: 65 proposals · nine categories · average Priority Score 7.4/10 · 37 Phase I, 21 Phase II, 7 Phase III · 31 executive, 34 legislative · evidence base of 370 tier-rated sources across 20 domains.**
+
+-----
+
+# PART IV — The Implementation Sequence
+
+*Phase 0 through Phase III, written out: how power is won, what moves on Day 1, and why the order is what it is.*
+
+-----
+
+## The Sequencing Logic
+
+Every proposal in this framework carries a phase assignment and an implementation route. The phasing is not arbitrary. It reflects a deliberate theory of how durable structural reform actually happens: fast, visible, hard-to-reverse wins first, and the structural changes those wins make politically survivable later. The principles are fixed. The order is not — this is a living strategy calibrated to political conditions, not a fixed timetable.
+
+The sequencing discipline is constant regardless of which version of the sequence is active: **build constituency before expanding, prove before scaling, and never lead with constitutional fights.** A severe recession, a reform-aligned Senate, a hostile court ruling, or a wave election can each move the order — but not the principles.
+
+### The Agenda in Motion
+
+|Phase 0                                      |Phase I                                                      |Phase II                                             |Phase III                                                      |
+|---------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------|
+|Before power                                 |Years 0–5                                                    |Years 5–15                                           |Years 15–30                                                    |
+|Primary wins · coalition · personnel pipeline|COLT · IIC · ACFM · Redistricting Standards — foundation wins|FSW · BWDS · POHE · DRDO · HCI — structural expansion|UCT · AIPE · DIR — systemic transformation, after preconditions|
+|0 enacted                                    |37 proposals                                                 |+21 (58)                                             |+7 (65)                                                        |
+
+*The agenda moves left to right: each phase is unlocked by the political capital and proven results of the one before it. Roughly half of all 65 proposals require no congressional vote and can begin in Phase 0–I by executive action; the legislative core is paced behind the constituencies that will defend it.*
+
+## Six System-Level Principles
+
+1. **Use reconciliation aggressively but selectively.** Front-load cost reduction and direct benefits. Keep controversial structural reforms out of early reconciliation bills — they invite Byrd Rule challenges and overreach narratives.
+1. **Sequence by political capital.** Popular and simple, then popular and complex, then controversial and necessary. Never lead with constitutional fights.
+1. **Build policy stickiness.** Every bill must create constituencies who benefit and who will resist rollback. Childcare recipients, healthcare enrollees, and direct-payment beneficiaries are the most durable political shields.
+1. **Design for partial passage.** Every bill must still produce benefit if cut in half during Senate negotiation. A weakened bill that passes beats a pure bill that fails.
+1. **Expect counterattack.** Legal challenges, media narratives, industry lobbying, and economic pressure are certainties, not risks. Every bill carries an attack surface and a defense.
+1. **Name policies for survivability.** Some proposals fail not on the merits but because they are easy to weaponize. Frame every policy around what it delivers, not what it restricts. The policy is identical; the name determines whether it lives long enough to be debated.
+
+## Phase 0 — Winning Power, Before Legislation Begins
+
+No sequence matters without power. The primary strategy is not a third party: reform candidates run in Democratic primaries on this platform, replacing institutional Democrats who have no governing vision with reform Democrats who do. Primary targets are districts and states where the incumbent is retiring, vulnerable, or demonstrably out of step with a cost-of-living electorate.
+
+The Phase I coalition is deliberately narrow: working-class voters responding to cost-of-living relief, small businesses responding to anti-monopoly framing, and moderates responding to anti-corruption positioning. These three groups have high overlap with swing constituencies and low overlap with tribal partisan identity. The coalition expands in Phase II to organized labor, climate voters, and families — but the discipline is to lead with the Phase I coalition and not try to assemble the whole coalition before winning anything.
+
+The single largest remaining gap is organizational, not intellectual. The legislative layer is complete: twelve bill frameworks, a sequencing map, a glossary, and a personnel methodology with fifteen priority position profiles. What does not yet exist is the actual database of vetted personnel ready to staff an administration on Day 1 — the instrument that made Project 2025 executable. Building that database must begin years before power is sought, not after.
+
+## The Day-1 Cadence — What Does Not Need Congress
+
+Of the 65 proposals, 34 require legislation and 31 are achievable through executive action — presidential directives, agency rulemaking, departmental reorganization, or diplomatic outreach. The standard attack — “you’ll never get anything through Congress” — is answered structurally: nearly half the agenda does not go through Congress.
+
+- **Day 1 (~10 actions).** Diplomatic relationship restoration, Pentagon audit-accountability review, War Powers Act enforcement, cyberwarfare-expansion directive, cooperative mining coordination with allies, FDA-split announcement, Climate Preparedness Corps announcement, bipartisan detention oversight, shutdown-accountability rules push, and restoration of public-health infrastructure (CDC/NIH funding, ACIP independence, Vaccines for Children).
+- **Month 1–6 (~12 actions).** The waste-export ban, drug-rescheduling review, non-profit-prison DOJ guidance, farm-labor enforcement, shoreline and marine-life rulemaking, agricultural-electrification and desalination grants, food-priority rules, military-contractor reform, and multilateral peacekeeping outreach.
+- **Held until conditions exist (~9 actions).** Minimum-wage Federal Reserve coordination waits for COLT Act wins; bodily-autonomy judicial pathway waits for a Supreme Court shift; immigration rulemaking — the most volatile — waits for economic wins first.
+
+## The Day-1 Cabinet Briefing
+
+|Department              |Day-1 Directives                                                                                                                    |Month 1–6 Follow-On                                                                                                 |
+|------------------------|------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+|Attorney General (DOJ)  |Pentagon audit-accountability review; bipartisan detention-oversight directive.                                                     |Farm-labor enforcement; non-profit-prison DOJ guidance; fraud & foreign-interference enforcement (Month 3+).        |
+|Secretary of Defense    |Pentagon audit announcement; cyberwarfare-expansion directive; War Powers Act enforcement memo.                                     |Military-contractor reform; NASA / Space Force NDAA request (Month 3).                                              |
+|Secretary of State      |Diplomatic-relationship restoration outreach; cooperative-mining allied coordination.                                               |Nuclear diplomacy via allied mediation (Month 3+); multilateral peacekeeping discussions.                           |
+|Secretary of Energy     |Renewable and nuclear investment-priorities memo; desalination grant review.                                                        |Desalination grants (Month 2); agricultural-electrification grants (Month 3).                                       |
+|Secretary of Agriculture|Farm-labor enforcement coordination with DOL; aquaculture-protection review.                                                        |Food-priority rulemaking (Month 3); agricultural-electrification grants (Month 4).                                  |
+|EPA Administrator       |Climate Preparedness Corps reorganization announcement; shoreline-protection review.                                                |Waste-export ban rulemaking (Month 2); marine-life and fishery rulemaking (Month 3); Corps consolidation (Month 6). |
+|Secretary of HHS / FDA  |FDA-split announcement; biosafety-standards review; EO restoring ACIP independence, CDC/NIH baseline funding, Vaccines for Children.|Drug-rescheduling DEA coordination (Month 2); school-vaccination standards (Month 3); FDA-split implementation plan.|
+|Secretary of Labor      |Farm-labor enforcement coordination; shutdown-accountability communication.                                                         |Minimum-wage Federal Reserve coordination (after the first cost-of-living wins).                                    |
+|Secretary of Commerce   |Cooperative-mining allied outreach; local-news / media-ownership review; semiconductor-investment program launch.                   |Media-ownership standards rulemaking (after FCC review); strategic domestic-technology investment.                  |
+
+*Day-1 directives are the announcement and initiation layer. Full implementation of most executive actions requires six to eighteen months of agency rulemaking — the Day-1 action signals intent and starts the clock.*
+
+## The Three Phases
+
+**Phase I — Foundation (Years 0–5)**
+
+Lock in fast, visible wins using the easiest legislative paths and establish political capital and voter trust. Everything in later phases depends on Phase I succeeding. The anchor is the COLT Act (Bill 1, Months 1–18, no dependencies) — it delivers the two most universally felt cost reductions, taxes and childcare, within the first year and creates a constituency that is politically costly to reverse. The IIC Act follows on the same reconciliation logic; the ACFM Act lands on Months 6–18 carried by anti-corruption polling that runs above 70% across party lines, deliberately forcing opposition into an untenable position. A standalone Federal Redistricting Standards Act, operating purely under the Elections Clause and structured to be Callais-proof, is introduced after the ACFM vote. Thirty-seven proposals are assigned here.
+
+**Phase II — Structural Expansion (Years 5–15)**
+
+Shift structural incentives using momentum built in Phase I. Each reform expands a system already proven popular rather than launching a new one. The FSW Act (Year 3–5) builds directly on the COLT Act childcare constituency and uses a second reconciliation window; the BWDS Act carries wealth and digital-services taxation through the same vehicle; the POHE Act establishes the public option whose performance is the precondition for everything in Phase III. The message in this phase is empirical, not ideological: *we did what we said, it worked, now we extend it.* Backlash risk is high — sequence strictly by political capital. Twenty-one proposals are assigned here.
+
+**Phase III — Systemic Transformation (Years 15–30)**
+
+Lock in structural convergence only after Phases I and II have built the political conditions. These are the reforms that require prior dominance of the earlier systems to be viable at all. The UCT Act transitions the demonstrated public option to universal coverage by age band and region. The AIPE Act builds the public-equity and sovereign-fund framework on the Norway model, starting voluntary and expanding as it proves out. The DIR Act carries the constitutional track, built on state-level precedent established years earlier. Seven proposals are assigned here.
+
+## When the Sequence Adapts
+
+The order is calibrated to conditions as of this edition, not fixed for all time. The triggers that warrant reassessment are known in advance:
+
+- **A severe economic recession** — may accelerate Phase II social spending or force a Phase I contraction.
+- **A reform-aligned Senate supermajority** — may allow Phase II or III proposals to be introduced earlier than scheduled.
+- **A hostile Supreme Court ruling** — may require rerouting constitutional exposure; certain Phase II vehicles may need substitution.
+- **A political crisis or wave election** — may open a window for landmark legislation outside the expected phase timeline.
+- **Public-option success faster than projected** — may permit Phase III healthcare earlier than its scheduled window.
+- **Coalition collapse or a midterm loss** — triggers defensive consolidation: protect Phase I gains, pause Phase II expansion.
+
+> **The Phase III condition.** These reforms are attempted only after Phases I and II have created durable political conditions. Constitutional fights attempted before Phase II succeeds will fail and damage the entire agenda. Patience here is not weakness — it is strategy.
+
+-----
+
+
+# PART V — The Proposals in Depth
+
+*All 65 proposals, explained: what each does, the vehicle that carries it, and the evidence behind every score.*
+
+-----
+
+## Reading the Framework Closely
+
+Part III scored the framework at a glance. This part explains it. Each of the 65 proposals is set out with what it does, the vehicle that carries it, and the evidence behind each of its three scores — the international precedent (GP), the US implementation trajectory (UT), and the population-wide welfare case (B). The numbers after each axis key to the source register.
+
+This is the level at which the agenda is meant to be argued: not slogans, but a specific policy, a specific vehicle, and a specific evidentiary basis that can be checked and contested.
+
+-----
+
+ECONOMY & TAX REFORM
+
+7 proposals
+
+Corporate capture, wage stagnation, tax equity — the cost of living is a policy failure, not a market outcome.
+
+P1 IRS Reform & Pre-Filed Taxes
+Bill 1 — COLT Act Title I · Priority 8.7/10 · Phase I
+
+Pre-calculate citizen tax liability; eliminate commercial tax prep industry dominance.
+GP [5 — Proven] Pre-filled returns standard in 85%+ of OECD administrations; 10+ Tier 1 nations with documented
+high-compliance, high-satisfaction outcomes; IRS Direct File pilot (296,531 users, 94% satisfaction) validates US
+feasibility. [GP sources: 1, 2, 8]
+UT [4 — Achievable] Reconciliation vehicle (Bill 1); IRS demonstrated capacity via $80B IRA appropriation; Direct File
+pilot confirmed scope, cost, and schedule targets; 2–3 year national rollout timeline with no structural barrier. [UT
+sources: 2, 8, 196]
+
+B [4 — High] ~150M filing households benefit; $31.7B/yr in commercial prep costs eliminated; burden relief most
+progressive for lower-income filers (highest share of income spent on tax prep); enforcement ROI $3.18–$12 per
+$1 invested. [B sources: 3, 5, 6, 7, 37]
+
+P2 Antitrust Enforcement & Corporate Accountability
+Bill 3 — ACFM Act Title III · Priority 7.3/10 · Phase I
+
+Extend antitrust law to duopolies and captured markets; escalating criminal consequences for repeat violations.
+GP [4 — Strong] Over 75% of US industries increased concentration over 20 years; EU DMA (2022) and German
+GWB §19a demonstrate structural remedy frameworks with documented deterrence; criminal executive liability for
+repeat violators has documented behavioral-change effect in European enforcement. [GP sources: 64, 65, 66, 67]
+UT [3 — Moderate Difficulty] 60-vote Senate threshold applies to statutory criminal liability; executive enforcement
+posture (FTC/DOJ) can begin immediately; American Innovation and Choice Online Act (2022) stalled in Senate
+demonstrating political headwinds; 5–8 year timeline to structural market change. [UT sources: 66, 196]
+B [4 — High] Anticompetitive markups cost workers $1.4T annually in suppressed wages; consumers bear $1.4T+ in
+excess rents across concentrated sectors; distributional impact progressive (lower-income households spend
+higher share of income in concentrated markets). [B sources: 67, 68, 69]
+
+
+
+
+P3 Ban Waste Export
+Executive — EPA rulemaking · Priority 7.3/10 · Phase I
+
+Prohibit selling domestic waste and recyclables abroad; develop domestic solutions.
+GP [4 — Strong] Basel Convention Amendment (2019, 187 parties) prohibits OECD-to-non-OECD hazardous waste
+export; EU, UK, and Canada enforce domestic processing mandates; China's National Sword policy (2018)
+documented global market impact. [GP sources: 196]
+UT [4 — Achievable] EPA statutory authority under RCRA provides implementation vehicle without new legislation;
+export restrictions on hazardous waste already in force; 3–5 year domestic infrastructure buildout is primary
+constraint; synergy with Bill 2/IIC capital investment. [UT sources: 195]
+B [3 — Moderate] Environmental benefit primarily accrues to export-destination nations (Indonesia, Malaysia,
+Vietnam); domestic geographic concentration of benefit near processing facilities; domestic job creation in waste
+processing sectors documented. [B sources: 162]
+
+P4 Close Wealth Accumulation Loopholes
+Bill 5 — BWDS Act Title III · Priority 7.3/10 · Phase II
+
+Eliminate offshore accounts, shell corporations, and investment account loopholes enabling indefinite tax-deferred
+wealth
+GP [4 — Strong] OECD FATF enforcement frameworks documented across Tier 1 nations; Tax Justice Network
+estimates $427B in annual global tax revenue lost to offshore evasion; EU's ATAD I/II and FATF standards establish
+international compliance architecture. [GP sources: 19, 194]
+UT [2 — Very Hard] Requires 60-vote Senate threshold; offshore enforcement requires multilateral cooperation with
+IRS data-sharing agreements; estimated 4–7 year implementation to meaningful offshore enforcement at scale;
+Moore v. United States (2024) constrains property-tax framing — income-inclusion approach more durable. [UT
+sources: 3, 4, 20]
+
+B [5 — Critical] $160B+ annually in taxes top 1% choose not to pay; PWBM mark-to-market approach projected
+$2.0–3.0T over 10 years; enforcement directly progressive — captures income that currently bypasses taxation at
+highest-wealth levels. [B sources: 3, 4, 15, 19]
+
+P5 Moving Minimum Wage (Fed-Managed)
+Executive — Federal Reserve coordination · Priority 6.7/10 · Phase II
+
+Transfer minimum wage authority to Federal Reserve; tie wage floor to economic conditions.
+GP [2 — Limited] No Tier 1 comparator delegates minimum wage authority to central bank;
+economic-condition-indexed minimum wages exist in limited form (UK Low Pay Commission, some state automatic
+adjustment mechanisms); the specific Fed-managed design is novel without direct international analog. [GP sources:
+70, 71, 72]
+
+UT [3 — Moderate Difficulty] Requires Federal Reserve Act amendment and legislative action; Dube-Lester-Reich and
+Cengiz et al. meta-analyses support economic-condition-indexed approach conceptually; 5+ year institutional
+design and implementation timeline; political difficulty high. [UT sources: 70, 71, 72, 73]
+B [5 — Critical] $15/hr phase-in would raise wages for 17M workers; Dube-Lester-Reich county-pair analysis:
+near-zero employment effect in tight labor markets; Cengiz meta-analysis (138 state changes): documented wage
+gains with minimal job displacement; strongly progressive distribution. [B sources: 70, 71, 72, 73]
+
+
+
+
+P6 Billionaire Wealth Tax & Digital Services Levy
+Bill 5 — BWDS Act Titles I & II · Priority 7.3/10 · Phase II
+
+Progressive annual tax on billionaire income on accrual basis; targeted levy on large digital services platforms.
+GP [4 — Strong] PWBM Warren 2%/3% wealth tax projected $2.1T conventional over 10 years; Saez-Zucman
+mark-to-market approach $2.0–3.0T; France, Norway, Switzerland operate wealth tax variants; EU Digital Services
+Levy (2021 negotiations) precedent. [GP sources: 14, 15, 19]
+UT [2 — Very Hard] Moore v. United States (2024) constrains net-worth property-tax framing; income-inclusion
+approach more constitutionally durable; 60-vote Senate threshold; billionaire lobbying and constitutional litigation
+risk are primary barriers; 5–8 year implementation even under favorable conditions. [UT sources: 15, 20]
+B [5 — Critical] Top 1% pay estimated $160B less annually than legally owed; mark-to-market taxation corrects the
+realization asymmetry that enables indefinite tax-deferred compounding; revenue directly finances healthcare,
+childcare, and infrastructure with documented progressive benefit. [B sources: 3, 4, 14, 15]
+
+P7 US Sovereign AI & Autonomous Systems Wealth Fund
+Bill 10 — AIPE Act · Priority 7.3/10 · Phase II
+
+Federally managed wealth fund capitalized through AI/autonomous systems licensing, taxation, and equity stakes.
+GP [3 — Partial] Norway Government Pension Fund Global (NBIM, $1.78T as of 2024, authorized 1990) is the
+canonical model; 6.64% long-term average return at 0.04% management cost; governance: Ministry of Finance →
+Norges Bank mandate → NBIM execution. [GP sources: 286]
+UT [3 — Moderate Difficulty] NBIM took ~13 years from first inflows to $1T — a realistic US sovereign fund timeline;
+AIPE Act Phase III preconditions required; requires statutory authorization with 60-vote threshold; capitalization
+through AI licensing and equity stakes is revenue-model novelty without direct precedent. [UT sources: 286]
+B [5 — Critical] Fund returns projected to finance healthcare, Social Security, Universal Basic Investment, and
+infrastructure; automation displacement creates long-term distributional pressure that sovereign fund returns can
+offset; universal distribution of AI productivity gains. [B sources: 286, 131]
+
+HEALTHCARE & SOCIAL PROGRAMS
+
+8 proposals
+
+The foundations of a functional life. Universal in comparable democracies. Non-negotiable in a serious governing agenda.
+
+P8 Restore Public Health Infrastructure & Biomedical Accountability
+Executive — HHS/CDC hybrid (Day 1 exec + Phase I legislation) · Priority 8.7/10 · Phase I
+
+Restore ACIP statutory independence; return CDC/NIH funding to inflation-adjusted 2019 baseline; rebuild public
+health
+GP [5 — Proven] UK NICE, Germany RKI, France Santé Publique France, Australia ATAGI all operate with statutory
+independence and multi-year funding stability; OECD documents consistent correlation between infrastructure
+investment and population outcomes; US CDC was global leader through mid-2010s. [GP sources: 39, 192]
+UT [3 — Moderate Difficulty] Day 1 executive component (funding restoration, ACIP independence) requires no
+congressional action; legislative components (mandatory CDC Director confirmation, vaccination standards)
+require Phase I legislation; 1–3 year timeline to operational restoration; Yale Budget Lab documents $600B deficit
+impact of IRS defunding — same root cause documented for CDC. [UT sources: 5, 54, 195]
+B [5 — Critical] COVID-19 demonstrated the population-wide cost of infrastructure deterioration: CDC test failure
+(Feb 2020) attributable to budget cuts contributed to pandemic spread costing hundreds of thousands of lives;
+measles outbreak (4,000+ cases since Jan 2025, three deaths; CDC, 2026) is the current consequence of ACIP
+authority erosion; public health workforce shortfall ~80,000. [B sources: 39, 40, 54, 192]
+
+
+
+
+P9 Socialized Public Childcare
+Bill 4 — FSW Act Title I · Priority 8.7/10 · Phase II
+
+Federally funded childcare accessible to all families, modeled on Nordic systems.
+GP [5 — Proven] 41 high-income OECD and EU countries provide subsidized childcare; Germany and Estonia: net
+cost 0–1% of household wages; Quebec natural experiment (Baker-Gruber-Milligan, JPE 2008) is Tier A evidence;
+US has highest childcare costs as percentage of wages among OECD nations. [GP sources: 42, 43, 44, 46]
+UT [3 — Moderate Difficulty] Reconciliation vehicle via Bill 4/FSW (IRC §21 structure); CBO BBB childcare score
+($381.5B gross over 6 years) establishes scoring precedent; 3–5 year to meaningful implementation; Connecticut,
+Vermont, and DC programs demonstrate state-level feasibility. [UT sources: 44, 47]
+B [5 — Critical] Quebec: every $1 invested returned $1.49 to government; ~70,000 additional mothers employed,
+$5.1B Quebec GDP impact (Fortin-Godbout-St-Cerny, 2013); affects 70%+ of families with children; strongly
+progressive burden relief — childcare costs represent highest share of income for lower-income working families.
+[B sources: 42, 44, 45, 46, 47]
+
+P10 Universal Basic Investment for Children
+Bill 4 — FSW Act Title III · Priority 7.3/10 · Phase II
+
+Monthly investment credits for children ages 1–16; held in government bonds released at 18.
+GP [3 — Partial] Connecticut CT Baby Bonds (launched July 2023, ~13,300 enrolled in first 9 months at
+$3,200/Medicaid birth) is the US analog; UK Child Trust Fund (2002–2011) and Singapore Baby Bonus demonstrate
+Tier 1 precedent for government-initiated child investment accounts. [GP sources: 44, 287]
+UT [3 — Moderate Difficulty] Connecticut pilot confirms administrative feasibility; Urban Institute DYNASIM model:
+projected age-18 balances $26K (Black), $27K (Hispanic), $18K (white), reducing white:Black wealth gap 2.4× to
+2.1×; CRFB estimates federal cost ~$60B/yr; 18-year outcome lag is UT constraint. [UT sources: 287]
+B [5 — Critical] Expanded Child Tax Credit (2021) reduced child poverty 40%, lifting 3.7M children from poverty in
+first full month; universal baby bonds directly address intergenerational wealth gap; distributional impact
+maximally progressive — highest benefit to children born into lowest-wealth households. [B sources: 44, 48, 287]
+
+P11 Non-Profit Prison System
+Executive — DOJ + state incentives · Priority 7.3/10 · Phase II
+
+Eliminate private prisons; nonprofit management of all facilities; expand mental and behavioral health programs.
+GP [4 — Strong] US incarceration rate: 608 per 100,000 vs. OECD average ~120 per 100,000; all major Tier 1
+comparators operate predominantly public, non-profit prison systems; DOJ rulemaking and contracting authority
+allow transition from private to non-profit management without new legislation. [GP sources: 60, 61]
+UT [3 — Moderate Difficulty] Federal facilities (BOP): executive authority sufficient for contract non-renewal; state
+facilities require DOJ incentive grants and cooperative agreements; private prison contracts associated with higher
+incarceration rates per Vera Institute (2022); full transition 5–10 years. [UT sources: 60, 61]
+B [4 — High] Private prisons have no documented cost savings after quality adjustment per Vera Institute;
+non-profit model with expanded mental/behavioral health programs reduces recidivism (documented in DOJ
+treatment program evaluations); distributional impact progressive — incarceration falls disproportionately on
+lower-income and minority populations. [B sources: 60, 61]
+
+
+
+
+P12 Drug Rescheduling & Harm Reduction
+Executive — DEA/HHS rulemaking · Priority 6.7/10 · Phase II
+
+Regulated recreational/social drug schedule; enforce quality testing, taxation, and safe delivery research.
+GP [4 — Strong] Portugal decriminalization (2001) with harm reduction services documented 75% reduction in
+drug-related deaths; Netherlands, Switzerland, Canada supervised consumption sites; DEA partial final order (April
+23, 2026) moved FDA-approved and state-medical marijuana to Schedule III — first US executive step. [GP sources:
+289]
+
+UT [2 — Very Hard] DEA administrative rescheduling of Schedule I substance: 32+ months from HHS
+recommendation to first partial order (August 2023 → April 2026), still incomplete; Trump EO 14370 (Dec 2025)
+directed expedited review but timeline remains uncertain; political reversal risk high. [UT sources: 289]
+B [4 — High] Regulated recreational drug schedule with quality testing and taxation reduces overdose deaths,
+reduces incarceration for non-violent drug offenses, and generates state/federal tax revenue; harm reduction
+interventions have Tier A evidence for reducing HIV transmission and overdose mortality. [B sources: 289]
+
+P13 Universal Government-Funded Healthcare
+Bill 9 — UCT Act (Phase III; Bill 6 must operate 4+ years first) · Priority 7.3/10 · Phase III
+
+Single-payer healthcare for all ages; funded by reallocating military budget and new revenue streams.
+GP [5 — Proven] Implemented at national scale in all 16 Tier 1 comparators; US spends $14,885/capita (17.2% of
+GDP) vs. OECD average $5,967 (9.3%); every peer nation provides universal coverage at lower cost;
+Commonwealth Fund: US ranks last on equity, access, and efficiency. [GP sources: 39, 40, 41, 55, 192]
+UT [1 — Extremely Hard] Structural barrier: ERISA §502 coordination, provider rate-setting, private insurance
+elimination ($1.1T annual premiums), 60-vote Senate threshold, and organized industry opposition combine to
+make transition genuinely structural rather than merely political; German multi-payer model is most feasible path;
+7+ year phased implementation minimum; CBO single-payer: +$1.5–3.0T federal subsidies in 2030 alone. [UT
+sources: 55, 56, 57, 58]
+
+B [5 — Critical] Medical debt contributes to ~500,000 annual bankruptcies (Himmelstein et al., AJPH 2019);
+Sommers-Gawande-Baicker (NEJM 2012): Medicaid expansion reduced mortality 6.1%; universal coverage
+eliminates the coverage gaps, network inadequacy, and cost-sharing barriers that disproportionately burden
+lower-income Americans. [B sources: 39, 40, 41, 55]
+
+P14 Bodily Autonomy Legal Framework
+Executive — Constitutional/judicial pathway · Priority 7.3/10 · Phase III
+
+Federal bodily autonomy standard protecting abortion, contraception, gender-affirming care, and IVF from state
+compulsion.
+GP [4 — Strong] France amended constitution to protect abortion rights (March 2024); Canada Morgentaler (1988)
+constitutional protection; Germany §218 StGB parliamentary protection; most of Western Europe provides
+statutory or constitutional protection; WHO documents restrictions increase unsafe abortion rates. [GP sources: 49, 50,
+51, 52]
+
+UT [2 — Very Hard] Post-Dobbs constitutional landscape: federal statutory protection faces immediate challenge;
+interstate travel and commerce clause architecture requires doctrinal development; 60-vote Senate threshold;
+most durable protection requires constitutional amendment or significant Court composition change; UT=2
+reflects statutory track feasibility under favorable conditions. [UT sources: 49, 51, 53]
+B [5 — Critical] ACOG documents abortion restrictions increase maternal mortality, complicate miscarriage and
+ectopic pregnancy care, and delay cancer treatment; IVF restrictions would eliminate ~75,000 births annually;
+Turnaway Study (Foster et al.): women denied abortions show worse economic, health, and child welfare outcomes
+across 5-year follow-up; gender-affirming care (Endocrine Society 2023) associated with significant mental health
+improvements. [B sources: 49, 50, 51, 52, 53]
+
+
+
+
+P15 Social Security Modernization
+Bill 9 — UCT Act (healthcare transition reduces SS burden) · Priority 6.0/10 · Phase III
+
+Structural review integrating with Universal Basic Investment; reorient toward greatest need; ensure generational
+solvency.
+GP [3 — Partial] Australia's superannuation system (mandatory employer contributions, government supplements)
+and Nordic multi-pillar pension systems demonstrate structural reform models; US-specific challenge — preserving
+earned-benefit covenant while integrating Universal Basic Investment — has limited direct peer analog. [GP sources:
+62, 288]
+
+UT [2 — Very Hard] SSA Trustees Report (2024): OASI depletion by FY2033; combined OASDI: 2034; post-depletion
+benefits 77% of scheduled; Social Security Fairness Act (2025) worsened trajectory $195.7B/10yr; 60-vote
+threshold, AARP political mobilization, and cross-partisan constituent attachment make reform extremely
+politically constrained; 10+ year implementation. [UT sources: 62, 288]
+B [4 — High] CBO: 75-year actuarial imbalance 4.3% of taxable payroll; solvency requires payroll tax increase from
+12.4% to 16.2% or 24% benefit cut absent reform; reorientation toward greatest need would increase replacement
+rate for lowest-income retirees who currently receive smallest share of pre-retirement income; integration with
+Universal Basic Investment creates two-pillar retirement system. [B sources: 62, 288]
+
+DEMOCRACY & ELECTORAL REFORM
+
+6 proposals
+
+A democracy that can be captured, gerrymandered, or flooded with foreign money is not a functioning democracy.
+
+P16 Address Gerrymandering
+Bill 11 — DIR Act Phase III Title V · Priority 8.0/10 · Phase I
+
+Federal districting standards for congressional elections; require uniformity in ranked-choice voting rules.
+GP [4 — Strong] Australia Electoral Commission, Canada provincial boundary commissions, UK Boundary
+Commissions, and New Zealand Representation Commission all remove partisan control from districting; Arizona
+AIRC and California IIRC demonstrate US state-level feasibility; AIRC upheld in Arizona State Legislature v. AIRC
+(2015). [GP sources: 197]
+UT [3 — Moderate Difficulty] Federal authority under Elections Clause (Art. I §4) for congressional elections is
+constitutionally established; Callais (3d Cir., April 2026) reinterpreted VRA §2 to require intentional discrimination
+proof, complicating enforcement but not Elections Clause authority; 30+ state transition requires either legislative
+compliance or federal enforcement; one redistricting cycle (2–3 years) for meaningful impact. [UT sources: 196, 197]
+B [5 — Critical] Competitive districts structurally increase constituent responsiveness; local newspaper closure
+studies (Rubado-Jennings 2020) document lower turnout and higher corruption in uncompetitive districts; every
+other ARA proposal's durability depends on Congress that faces real electoral accountability; distributional impact
+universal. [B sources: 197]
+
+
+
+
+P17 National Voting Holiday
+Bill 1 — COLT Act Title IV · Priority 6.7/10 · Phase I
+
+Establish Election Day as a federal holiday; consolidate minor federal holidays to maintain work-schedule neutrality.
+GP [4 — Strong] France, New Zealand, Australia designate election days as public holidays or hold elections on
+Sundays; OECD turnout data shows higher baseline participation in nations with weekend or holiday voting; 10+
+Tier 1 comparators with documented structure. [GP sources: 196, 197]
+UT [3 — Moderate Difficulty] Achievable via simple majority legislation or executive proclamation — no structural
+barrier to enactment; but Audit 5 research found that federal holiday designation alone does not reach the
+60–90% population affected threshold within 10 years because workers in retail, service, and healthcare
+(highest-turnout-suppression sectors) are least likely to observe the holiday. [UT sources: 196]
+B [3 — Moderate] Farber (2009, Princeton) found approximately zero statistically significant effect on voter turnout
+from Election Day federal holiday designation; policy retains real value as civic signal and marginal scheduling
+improvement for some workers, but the primary claimed mechanism (turnout increase) is not supported by Tier A
+evidence. [B sources: 196]
+
+P18 Shutdown Accountability for Congress
+Executive — House/Senate rules change · Priority 6.0/10 · Phase I
+
+Strip congressional salaries during shutdowns; require members to remain in DC until resolved.
+GP [2 — Limited] No Tier 1 comparator experiences government shutdowns as a routine legislative mechanism;
+parliamentary systems resolve budget standoffs through confidence votes, mandatory continuing resolutions
+(Germany, Australia), or automatic temporary spending authority; principle (legislators bear cost of failure) is
+universal but mechanism is US-specific structural outlier. [GP sources: 196, 197]
+UT [3 — Moderate Difficulty] 27th Amendment constraints on pay reduction require prospective compensation
+forfeiture rather than retroactive reduction; House and Senate rules changes achievable by majority vote without
+presidential signature; primary political difficulty: the majority that changes the rules benefits from shutdown
+threats. [UT sources: 196]
+B [4 — High] 2018–2019 35-day shutdown: $11B direct economic cost (OMB); 800,000+ workers affected; federal
+contractor harm and long-term recruitment damage documented; shutdown normalization degrades federal
+workforce capacity and public trust in government functioning. [B sources: 195]
+
+P19 Restore Independent Local News & Media Ownership Standards
+Executive — FCC rulemaking + CPB funding restoration · Priority 8.0/10 · Phase I
+
+Restore CPB funding; reinstate FCC ownership caps; mandatory local news production minimums; editorial/ownership
+GP [4 — Strong] BBC (UK), CBC (Canada), ABC (Australia), ARD/ZDF (Germany), NRK (Norway) demonstrate
+well-documented public media models; EU Media Freedom Act (2024) establishes ownership concentration limits;
+FCC broadcast ownership caps (1975–2003) represent prior US domestic standard — restoration is reversion, not
+novelty. [GP sources: 196, 197]
+UT [3 — Moderate Difficulty] FCC rulemaking to reinstate ownership caps is within existing statutory authority; CPB
+funding restoration (~$500M/yr) achievable through reconciliation; structural editorial separation requirements
+face First Amendment challenge but commercial speech and broadcast licensing frameworks provide footing; 3–5
+year timeline for market structural change. [UT sources: 195, 196]
+B [5 — Critical] Northwestern Local News Initiative: 2,500+ newspapers closed since 2005; Rubado-Jennings
+(Political Research Quarterly, 2020): local newspaper closure associated with lower voter turnout, higher
+corruption; Gao et al. (Journal of Finance, 2020): municipal borrowing costs increase after local newspaper closure;
+democratic accountability infrastructure is at stake. [B sources: 196]
+
+
+
+
+P20 Fraud & Foreign Interference Enforcement Act
+Executive — DOJ/FBI + FTC coordination · Priority 7.3/10 · Phase II
+
+Legal definitions and criminal penalties for coordinated domestic fraud and foreign-linked disinformation; narrowly
+scoped to
+GP [4 — Strong] EU Digital Services Act (2022) establishes platform accountability for disinformation; Germany
+NetzDG (2017) criminalizes coordinated inauthentic behavior at scale; UK Online Safety Act (2023) creates
+platform liability for coordinated harms; US DOJ has existing authority under FARA and computer fraud statutes.
+[GP sources: 131, 138]
+
+UT [3 — Moderate Difficulty] DOJ and FBI enforcement under existing FARA, computer fraud, and election interference
+statutes can begin immediately; new statutory criminal penalties for coordinated domestic fraud require
+legislation; First Amendment constraints require narrow scoping to avoid overbreadth; 3–5 year timeline for full
+statutory and enforcement infrastructure. [UT sources: 196]
+B [4 — High] Foreign-linked disinformation campaigns (documented in 2016, 2018, 2020, 2022, 2024 election
+cycles) impose welfare costs on democratic decision-making; domestic coordinated fraud causes direct economic
+harm; enforcement deters future interference with democratic institutions. [B sources: 196, 197]
+
+P21 National Firearm Standards Framework (Two-Track)
+Bill 12 — NFSA full two-track architecture · Priority 8.0/10 · Phase II
+
+Track A: existing state hunting/sporting licenses for manual-action long guns. Track B: Federal Civilian Ownership
+Certificate
+GP [4 — Strong] Maryland Firearm Safety Act (2013): Crifasi (2017) 82% reduction in firearm diversion indicators in
+Baltimore; Doucette (2024): 32.3% reduction in firearm injury hospitalization rates; NFA eForms system achieves
+4–10 day processing turnaround, demonstrating federal firearms processing feasibility. [GP sources: 294, 295]
+UT [3 — Moderate Difficulty] Track B (FCOC) is constitutionally achievable post-Bruen — history and tradition of
+licensing for dangerous activities supports certification framework; ATF eForms demonstrates 65,000–80,000
+applications/month processing capacity; Maryland HQL implementation: 3–4 years from enactment to measured
+outcome; 5–8 year timeline to full FCOC compliance. [UT sources: 294, 295, 296]
+B [5 — Critical] RAND Gun Policy in America (2024): Tier A evidence for licensing requirements reducing firearm
+homicide and suicide in states with licensing vs. non-licensing; FCOC compliance reaches ~65M annual acquisition
+events; Track A preserves existing state-administered hunting/sporting licenses — no disruption to existing lawful
+users. [B sources: 294, 295, 296]
+
+LEGAL & GOVERNANCE
+
+12 proposals
+
+The rules that apply to citizens must apply to representatives, corporations, and the wealthiest individuals.
+
+
+
+
+P22 Citizen Data Ownership Laws
+Bill 7 — DRDO Act Titles I–IV · Priority 8.0/10 · Phase I
+
+Data fiduciary standard: companies hold user data in trust with duties of care, loyalty, and confidentiality. Consent
+and
+GP [4 — Strong] EU GDPR (2018) establishes fiduciary-standard data protection with documented compliance
+effects: documented reduction in data broker activity, behavioral changes in platform consent architecture;
+California CCPA/CPRA, UK GDPR, Canada PIPEDA, Japan APPI, South Korea PIPA all provide national frameworks. [GP
+sources: 131, 138]
+
+UT [3 — Moderate Difficulty] Federal data privacy legislation stalled 10+ years; but bipartisan agreement on need for
+federal standard increased post-Loper Bright (2024) given weakened Chevron deference making rulemaking less
+reliable; Bill 7/DRDO provides statutory framework with FTC enforcement; 60-vote threshold; 3–5 year compliance
+infrastructure buildout. [UT sources: 131, 138, 293]
+B [5 — Critical] Data extraction harms documented: manipulative advertising targeting vulnerable populations,
+discriminatory algorithmic decision-making in housing and credit, surveillance enabling IPV; harm concentration in
+lower-income, lower-education, and minority populations; baseline consent and fiduciary protection is foundational
+to digital participation. [B sources: 131, 138]
+
+P23 Ban Congressional Insider Trading
+Bill 3 — ACFM Act Title I · Priority 7.3/10 · Phase I
+
+Prohibit members of Congress from trading individual securities while in office; mandatory blind trusts; criminal
+penalties and
+GP [4 — Strong] UK Parliamentary Standards Act, Canadian MP conflict rules, Australian Ministerial Standards, EU
+institutional integrity frameworks all restrict official trading and require disclosure; STOCK Act (2012) provides US
+statutory basis — gap is enforcement, not authority. [GP sources: 197]
+UT [3 — Moderate Difficulty] Constitutional framework sound (Brewster 1972, Gravel 1972 establish Speech or Debate
+Clause does not protect securities trading); Bill 3/ACFM strengthens penalties and establishes blind trust
+requirements beyond STOCK Act; 60-vote threshold; 2022 House-passed bill stalled in Senate demonstrating
+political headwinds. [UT sources: 196, 197]
+B [4 — High] Members with personal investment in regulated sectors have documented structural conflict of
+interest; mandatory blind trusts eliminate ongoing conflict; disgorgement and criminal penalties provide
+deterrence; democratic legitimacy benefit from eliminating appearance of self-dealing. [B sources: 196, 197]
+
+P24 Higher Standards & Accountability for Officials
+Bill 3 — ACFM Act Titles I–II · Priority 7.3/10 · Phase I
+
+Stiffer criminal penalties for crimes committed in office; no plea bargains or reduced charges for politicians.
+GP [4 — Strong] UK Bribery Act (2010) strict liability for official corruption; Germany StGB Amtsmissbrauch
+mandatory penalties; France HATVP mandatory personal asset disclosure; Transparency International Corruption
+Perceptions Index documents strong correlation between accountability frameworks and lower corruption. [GP
+sources: 197]
+
+UT [3 — Moderate Difficulty] Enhanced criminal penalties for official misconduct require legislation (Bill 3/ACFM);
+Brewster establishes criminal prosecution does not implicate Speech or Debate Clause for trading conduct;
+broader constituent and public support than insider trading ban makes political passage more achievable. [UT
+sources: 196, 197]
+
+B [4 — High] World Bank Governance Indicators document correlation between rule of law (including official
+accountability) and economic development, public service delivery quality, and investment; adverse selection
+reduction (self-interested actors less likely to seek office when consequences are high). [B sources: 197]
+
+
+
+
+P25 Full Financial Transparency for Presidents
+Bill 3 — ACFM Act Title II · Priority 6.7/10 · Phase I
+
+Eliminate privacy protections on presidential investments, finances, and healthcare records while in office.
+GP [3 — Partial] France HATVP requires full asset disclosure for presidential candidates; Canada ethics
+commissioner has Prime Ministerial jurisdiction; Germany ministerial disclosure; no peer nation has faced the
+specific US situation of a president with large, publicly visible private business empire managed while in office. [GP
+sources: 197]
+
+UT [3 — Moderate Difficulty] Trump v. Mazars (2020) established four-factor balancing test; statutory mandatory
+disclosure as condition of public office is constitutionally distinguishable from subpoena power; Duplantier v.
+United States (5th Cir. 1979) upheld mandatory disclosure for federal officials; novel Article II questions counsel
+external legal review before introduction. [UT sources: 196]
+B [4 — High] Documented conflicts in Trump administrations (tariffs, regulatory enforcement, foreign engagement
+decisions proximate to presidential financial interests); transparency enables Congressional, judicial, and public
+accountability for apparent conflicts; mechanism is accountability-enabling. [B sources: 197]
+
+P26 Bipartisan Oversight of Detention Facilities
+Executive — EO + congressional directive · Priority 6.0/10 · Phase I
+
+Migrant facilities managed by balanced party committee; mandatory rotating congressional inspections.
+GP [2 — Limited] EU Reception Conditions Directive standards and independent monitoring bodies across member
+states provide accountability precedent; bipartisan committee structure for detention oversight is structurally
+novel among Tier 1 comparators whose parliamentary systems provide oversight through different mechanisms.
+[GP sources: 132]
+
+UT [3 — Moderate Difficulty] Partial implementation via executive order (mandatory inspection schedules, reporting
+requirements for privately managed facilities); full statutory bipartisan committee structure requires legislation;
+DHS rulemaking can establish facility standards within existing authority. [UT sources: 132, 195]
+B [4 — High] DHS OIG (2019–2024) documented inadequate medical care, overcrowding, and in-custody deaths (41
+in 2022, highest recorded); ~40,000 individuals in daily detention; facility conditions affect detainee capacity to
+participate in immigration proceedings with documented case outcome effects. [B sources: 132]
+
+P27 Restrict Corporate Home Ownership
+Bill 8 — HCI Act Title I · Priority 6.7/10 · Phase I
+
+Ban corporations from owning vacant single-family homes; progressive property taxation on residential holdings
+beyond two
+GP [3 — Partial] Canada Prohibition on Purchase by Non-Canadians Act (2023); Australia planning approval
+requirements; New Zealand Overseas Investment Act (2018 amendments); EU member states emerging
+restrictions; domestic corporate (vs. foreign) single-family acquisition restrictions are more novel. [GP sources: 133,
+134]
+
+UT [3 — Moderate Difficulty] Bill 8/HCI provides statutory vehicle; Takings Clause and Due Process constraints limit
+retroactive application but permit prospective prohibition; incentive-based state adoption achievable through
+reconciliation funding; direct federal prohibition requires 60-vote threshold; private equity real estate lobby
+significant. [UT sources: 133, 134, 196]
+B [4 — High] Harvard JCHS (2024): 12.1 million renter households severely cost-burdened; institutional investors
+own up to 40% of single-family rental homes in some submarkets; NLIHC: 7.3M affordable home shortage;
+corporate ownership displaces first-time buyers from primary wealth-building mechanism. [B sources: 133, 134]
+
+
+
+
+P28 Stricter Advertising Laws
+Bill 7 — DRDO Act Title II + Title V · Priority 7.3/10 · Phase I
+
+Truth-in-advertising standards modeled on Japanese law; strict limits on advertising targeting children under 16.
+GP [5 — Proven] Japan JFTC truth-in-advertising enforcement with documented compliance effects is direct model;
+UK HFSS ad ban (9pm watershed + 24hr online: enforcement January 2026, estimated 20,000 fewer childhood
+obesity cases); EU Unfair Commercial Practices Directive; Quebec consumer protection advertising ban (1978, 45+
+years of evidence). [GP sources: 143, 144, 145]
+UT [3 — Moderate Difficulty] FTC rulemaking averages 5+ years ANPR-to-final; Click-to-Cancel rule (Oct 2024) was
+vacated by 8th Circuit (July 8, 2025); Commercial Surveillance ANPR stalled 3.7+ years; statutory authority via Bill
+7/DRDO is more durable path; 60-vote threshold; Central Hudson framework permits reasonable restrictions on
+false/misleading commercial speech. [UT sources: 293]
+B [3 — Moderate] Children's advertising restrictions have documented welfare effects (Quebec ban: Dhar-Baylis
+reduced fast-food purchase propensity 13%/week; Boyland meta-analysis: 96 studies confirm food marketing
+increases caloric intake); adult truth-in-advertising provides real but diffuse consumer welfare protection; below
+Moderate because primary mechanism affects a subset of advertising. [B sources: 143, 144, 145]
+
+P29 Age & Term Limits for Officials
+Bill 11 — DIR Act Phase III · Priority 7.3/10 · Phase II
+
+Maximum age caps for all three branches; term limits for Supreme Court justices via senior status model.
+GP [4 — Strong] Germany Constitutional Court: single 12-year terms; Spain Constitutional Court: single 9-year
+terms; France Constitutional Council: single 9-year terms; no Tier 1 comparator with similar constitutional review
+function uses life tenure. [GP sources: 197]
+UT [3 — Moderate Difficulty] Term limits for Article III judges face 'good behaviour' clause challenge; senior status
+model (active→senior after 18 years) is most constitutionally defensible statutory path; age caps for legislators
+require constitutional amendment for Congress but are achievable via party rule for caucus membership; litigation
+will follow any statutory implementation. [UT sources: 196, 197]
+B [4 — High] Life tenure creates judicial accountability deficit; no other Tier 1 comparator with judicial review uses
+life tenure; polling consistently shows 70%+ public support for age limits; senior status model maintains expertise
+while introducing democratic renewal. [B sources: 197]
+
+P30 AI Safety & Rights Framework
+Standalone framework legislation · Priority 6.5/10 · Phase II
+
+Establish federal standards for AI safety, liability, and algorithmic-harm attribution, the legal status of autonomous
+systems, and a public right of access — the conduct-and-rights dimension of AI policy, distinct from the fiscal-capture
+mechanisms carried by the Innovation & Public Equity Act.
+Method note This proposal is authored directly by human hand and is deliberately held back from AI-assisted
+drafting. Where a proposal governs the conduct of AI itself, the method that produced the rest of this framework
+should not write the rules for its own kind. The commitment is stated here; the statutory text is reserved for direct
+human authorship — a limit on the method, applied rather than merely asserted.
+
+
+
+
+P31 Patent Law Reform
+Executive — Commerce/USPTO rulemaking · Priority 7.3/10 · Phase II
+
+Reduce effective patent exclusivity periods; clearer compulsory licensing pathways; address evergreening practices.
+GP [4 — Strong] EU pharmaceutical patent compulsory licensing under TRIPS Article 31; Australia Pharmaceutical
+Benefits Scheme reference pricing; Canada Patented Medicine Prices Review Board; UK NICE cost-effectiveness
+thresholds — all constrain evergreening and reduce effective monopoly periods. [GP sources: 196]
+UT [3 — Moderate Difficulty] USPTO rulemaking authority for patent claim construction and continuation practice
+reform is within existing statutory authority; compulsory licensing pathway expansion requires legislation;
+evergreening restrictions face TRIPS compliance requirements; pharmaceutical industry opposition significant. [UT
+sources: 196]
+
+B [4 — High] I-MAK (2022): top 12 drugs by revenue cost $96B/year in excess pricing from evergreening; shorter
+effective patent periods reduce drug costs for consumers and government programs; compulsory licensing for
+high-public-value patents directly reduces cost of medications bearing the highest burden on lower-income
+patients. [B sources: 196]
+
+P32 Repeal / Reform Citizens United
+Bill 11 — DIR Act Phase III Title III · Priority 6.7/10 · Phase III
+
+Limit corporate money in politics via legislation or constitutional amendment; regulate lobbying.
+GP [4 — Strong] UK Electoral Commission: strict third-party spending limits; Germany Parteiengesetz: contribution
+limits and transparency requirements; Canada Elections Act: strict third-party advertising expenditure limits;
+France: corporate campaign contributions prohibited entirely; US is structural outlier after Citizens United +
+McCutcheon. [GP sources: 197]
+UT [1 — Extremely Hard] Citizens United is a First Amendment constitutional decision; overturning via legislation
+requires Supreme Court reversal or constitutional amendment (two-thirds of Congress + 38 states); current Court
+composition shows no appetite for reconsideration; Track A (enhanced disclosure, foreign corporation prohibitions)
+is achievable by statute but does not fully address Citizens United holding. [UT sources: 196, 197]
+B [5 — Critical] Corporate campaign expenditure is the primary mechanism by which private economic power
+translates into legislative outcomes; documented correlation between corporate PAC activity and legislative voting
+records on taxation, regulation, pharmaceutical pricing; unlimited expenditure concentrates political influence in
+proportion to wealth, directly inverting democratic equality principle. [B sources: 197]
+
+P33 Supreme Court Reform
+Bill 11 — DIR Act Phase III Title II · Priority 6.7/10 · Phase III
+
+Restore ideological balance; impose term limits via senior status model; expand authority to curtail executive
+overreach.
+GP [3 — Partial] Germany Constitutional Court: single 12-year terms mandatory retirement at 68; Spain
+Constitutional Court: single 9-year terms; France Constitutional Council: single 9-year terms; no Tier 1 comparator
+with constitutional review function uses life tenure — US is a structural outlier. [GP sources: 197]
+UT [2 — Very Hard] 'Good behaviour' clause (Art. III §1) creates constitutional challenge for statutory term limits;
+senior status model (active→senior at 18 years) is most constitutionally defensible path and may be achievable by
+statute; court expansion requires only legislation but faces strong political norm against 'court-packing'; UT=2
+because senior status model may be achievable in favorable conditions. [UT sources: 196, 197]
+B [5 — Critical] Post-Dobbs, post-Loper Bright Court has demonstrated that life-tenure justices appointed by
+minority-popular-vote presidents can eliminate 50-year constitutional rights and reshape the administrative state;
+term limits align judicial tenure with democratic accountability; Court composition determines constitutional space
+for every other ARA proposal. [B sources: 196, 197]
+
+
+
+
+EDUCATION
+
+4 proposals
+
+Human capital is infrastructure. The workforce of 2040 is the student of 2025.
+
+P34 Reduce Tuition & Expand Adult Education
+Bill 4 — FSW Act Title II · Priority 7.3/10 · Phase I
+
+Cap and reduce college tuition; tie unemployment benefits to free vocational or behavioral health enrollment.
+GP [4 — Strong] Germany's dual apprenticeship system (50%+ of students, longitudinal employment outcome data:
+Tier A); Denmark, Finland, Sweden: universal adult vocational retraining programs tied to employment transitions;
+Germany eliminated university tuition nationally (2014); OECD Education at a Glance documents per-student
+outcomes. [GP sources: 135, 290]
+UT [3 — Moderate Difficulty] Title IV funding conditions (South Dakota v. Dole constitutional authority) allow federal
+tuition cap leverage; Tennessee Promise (150,000+ enrolled, $4,537/student/yr community college, all-time high
+83.8% first-to-second semester success in 2024) is strongest US analog; 28 state promise programs confirm
+scaling model; 5–10 year federal scaling timeline. [UT sources: 135, 290, 291]
+B [4 — High] $1.7T outstanding student debt; average $37,000 per graduate; adult vocational retraining directly
+addresses workforce displacement; Tennessee Promise data: scalable at ~$4,500/student/yr; burden relief most
+progressive for graduates from lower-income families with highest debt-to-income ratios. [B sources: 135, 136, 290]
+
+P35 Digital Minor Protection Standards (Three-Tier)
+Bill 7 — DRDO Act Title V · Priority 8.0/10 · Phase II
+
+Platform-level accountability: under-13 no access without verified parental consent; 13–15 chronological feeds only;
+16–17
+GP [4 — Strong] UK Children's Code (2021) restricts behavioral profiling, targeted advertising, and nudge
+techniques for users under 18; EU Digital Services Act (2022) minor protection provisions; three-tier structure in
+DRDO Act Title V modeled directly on UK Children's Code with demonstrated architecture. [GP sources: 138]
+UT [3 — Moderate Difficulty] FTC enforcement authority via Bill 7/DRDO provides statutory vehicle; COPPA established
+that Congress can regulate children's online activity; platform technical compliance (age verification, algorithmic
+feed architecture) is the primary 3–5 year implementation challenge; 60-vote threshold applies. [UT sources: 138, 293]
+B [5 — Critical] Haidt (The Anxious Generation, 2024) documents causal link between social media use and
+adolescent mental health decline; Boyland meta-analysis: 96 studies confirm food marketing increases caloric
+intake for minors; algorithmic exploitation of developmental vulnerability is documented at scale; three-tier
+architecture protects under-13 absolutely while preserving older teen agency with defaults. [B sources: 138, 143, 144]
+
+P36 Shift Corporate Role from Healthcare to Training
+Bill 4 — FSW Act Title IV · Priority 6.0/10 · Phase II
+
+Remove corporate healthcare obligations; create tax incentives for corporations to fund employee training.
+GP [2 — Limited] OECD Getting Skills Right (2019): firms in countries where healthcare is publicly provided invest
+more in worker training; German employer training investment substantially exceeds US average; but specific
+policy mechanism (removing healthcare obligation to reallocate to training) has no direct Tier 1 analog — most
+comparators operate both systems simultaneously. [GP sources: 81, 82]
+UT [3 — Moderate Difficulty] JCT: employer health insurance exclusion is 3rd-largest federal tax expenditure at
+$252.4B; WOTC authorization expired Dec 31, 2025, pending reauthorization; Registered Apprenticeship +114% in
+10 years is realistic US workforce scaling benchmark; 60-vote threshold; healthcare industry resistance significant;
+5–10 year transition. [UT sources: 21, 80, 81, 291]
+B [4 — High] US employers spend avg $20,143/worker on family health insurance vs. $1,054–1,254/worker on
+training — a 12–16× disparity; Registered Apprenticeship: average entry wage $18/hr, exit $32/hr (+77%),
+lifetime earnings premium &gt;$240K; workforce retraining reduces displacement harm for workers in declining
+industries. [B sources: 80, 81, 82, 291]
+
+
+
+
+P37 Adopt Scandinavian Education Model
+Executive — DOE rulemaking + state incentives (Phase III) · Priority 8.0/10 · Phase III
+
+Overhaul K–12 toward Nordic best practices; hands-on learning; reduce screen time under-16; teacher
+professionalization.
+GP [5 — Proven] Finland: consistent top-tier PISA performance with near-zero achievement gap; US ranks 28th
+reading, 35th mathematics among OECD; McKinsey (2009): closing US achievement gap would add 3–5% GDP
+annually; all Nordic nations document superior outcomes relative to US per-student spending. [GP sources: 135, 136,
+137]
+
+UT [2 — Very Hard] K–12 is constitutionally state function; federal lever (Title I, IDEA, ESSA) is incentive-based and
+constitutionally constrained post-NFIB v. Sebelius; teacher professionalization to Scandinavian level
+(graduate-degree entry, high salary, high social status) requires 15–20 year pipeline; 300,000 unfilled teaching
+positions nationally is starting-point deficit; 50-state adoption required. [UT sources: 135, 136]
+B [5 — Critical] Educational outcomes are highest-leverage determinants of lifetime welfare: Chetty et al.
+Opportunity Insights documents causal relationship between teacher quality and lifetime earnings; Goldin-Katz
+documents education as primary driver of productivity growth; Finland's documented success closing achievement
+gaps across income levels is the welfare case — replication at US scale would be generational. [B sources: 135, 136,
+137]
+
+INFRASTRUCTURE & ENERGY
+
+8 proposals
+
+The country stopped building. The result is visible in every crumbling bridge, every supply chain crisis.
+
+P38 Renewable & Nuclear Energy Investment
+Bill 2 — IIC Act Titles I & II · Priority 8.7/10 · Phase I
+
+Major public investment in solar, wind, hydroelectric, and thorium nuclear; infrastructure standards resilient through
+GP [5 — Proven] EU Green Deal (€600B, 2021–2030), Germany Energiewende (80% renewable target by 2030),
+France nuclear fleet (70%+ of electricity), Denmark (50%+ wind generation), Japan Green Transformation; IEA
+(2024): renewables = 90% of new global electricity capacity additions; solar LCOE declined 90% (2010–2023). [GP
+sources: 26, 34, 35]
+
+UT [3 — Moderate Difficulty] Reconciliation vehicle (no 60-vote threshold); IRA (2022) established investment
+framework — this proposal extends and scales; physical grid constraint: US permitting for major transmission
+projects averages 7+ years; thorium nuclear carries additional technical uncertainty (no commercial scale
+deployment in Tier 1 comparators). [UT sources: 26, 34, 35]
+B [5 — Critical] Lawrence Berkeley National Laboratory (2024): IRA-driven solar/wind now lowest-cost new electricity
+in most US regions; DOE (2024): 80% clean electricity by 2035 reduces consumer costs up to $500/household/yr;
+IRA manufacturing credits support 279,000 jobs by 2030; IPCC AR6: clean energy transition is the single
+highest-impact climate mitigation pathway. [B sources: 26, 34, 35]
+
+
+
+
+P39 Restore & Expand Federal Inspectors
+Bill 2 — IIC Act Title IV · Priority 8.0/10 · Phase I
+
+Dramatically increase federal auditors and inspectors to restore corporate and governmental accountability.
+GP [4 — Strong] UK HSE, Germany Bundesbehörden, France inspection régimes maintain
+inspector-to-regulated-entity ratios substantially exceeding current US levels; OECD Regulatory Policy Outlook
+documents peer nations maintain consistent enforcement staffing as core public administration function. [GP
+sources: 5, 195]
+
+UT [4 — Achievable] Within executive authority and Bill 2/IIC appropriations authorization; OPM hiring averages 101
+days job-announcement to hire; OSHA inspector training ~5 years; pipeline can be launched immediately but
+operational capacity builds over 3–5 years; Yale Budget Lab: reducing IRS staffing 28,000 increases deficit
+~$600B/10yr — same root cause for inspection capacity erosion. [UT sources: 5, 195, 276]
+B [4 — High] Haviland-Burns-Gray (NBER, 2010): OSHA inspections reduce injuries 9.4% and workers' compensation
+costs 26% over 4+ years with no employment effect; GAO High Risk List documents inspection capacity gaps
+across food safety, workplace safety, and environmental enforcement; distributional impact progressive —
+lower-wage workers in agriculture/construction/food processing bear highest enforcement gap burden. [B sources: 5,
+195, 276]
+
+P40 Shoreline & Fishery Protection
+Executive — NOAA/EPA rulemaking · Priority 7.3/10 · Phase I
+
+Protected shorelines, sustainable fisheries, and aquaculture investment; moratorium on mass seafloor mining
+pending
+GP [4 — Strong] Norway ITQ fishery management system is the international reference for sustainable catch
+management; EU Common Fisheries Policy with documented stock recovery outcomes; Australia GBRMPA
+integrated marine protection model; Marine Protected Areas with adequate enforcement show documented
+biodiversity and catch recovery in adjacent areas. [GP sources: 163]
+UT [3 — Moderate Difficulty] NOAA Status of Stocks (2023): ~2 stock rebuilds/yr since 2000; rebuilding plans typically
+exceed 10 years for depleted stocks; no NOAA implementation trajectory evidence for reaching 60–90%
+population within 10 years; seafloor mining moratorium requires executive order (vulnerable to reversal) or
+legislation; ecological recovery timeline is the binding UT constraint. [UT sources: 163]
+B [4 — High] NOAA: ocean-based industries $373B to US GDP annually; 46 stocks subject to overfishing or
+overfished; shoreline ecosystem services (storm surge mitigation, carbon sequestration, wildlife habitat) have
+documented monetized value; coastal fishing communities bear concentrated economic harm from stock
+depletion. [B sources: 163]
+
+
+
+
+P41 Strategic Domestic Technology Investment
+Bill 2 — IIC Act Title II · Priority 8.7/10 · Phase I
+
+Substantially expand federal investment in domestic semiconductor fabrication and next-generation battery
+technology.
+GP [5 — Proven] Taiwan TSMC (government-linked public-private semiconductor dominance); South Korea
+Samsung/SK Hynix state-directed investment; EU Chips Act (2023, €43B); Japan semiconductor reinvestment
+program; SIA (2021): concentration of advanced semiconductor production in Taiwan is documented supply chain
+vulnerability. [GP sources: 278]
+UT [3 — Moderate Difficulty] Reconciliation vehicle (extends CHIPS Act framework); primary constraint is physical —
+semiconductor fab construction takes 5–7 years groundbreaking to production; CHIPS R&D; workforce
+development requires specialized training pipelines; timeline to meaningful domestic production capacity is at
+outer edge of Phase I window. [UT sources: 278]
+B [5 — Critical] 2021–2022 chip shortage: ~$240B in lost US manufacturing output (Chicago Fed estimate);
+contributed to inflation across multiple consumer sectors; battery technology cost reduction accelerates clean
+energy deployment (P38 compounding effect); domestic capacity reduces adversarial supply chain leverage over
+defense and consumer technology systems. [B sources: 278]
+
+P42 Cooperative Mining with Allied Nations
+Executive — State Department · Priority 7.3/10 · Phase I
+
+Joint mineral extraction agreements with allies to reduce adversary supply chain dependence.
+GP [4 — Strong] US-Australia Critical Minerals Partnership, EU Critical Raw Materials Act (2023), Japan-Australia
+critical minerals cooperation, G7 Partnership for Global Infrastructure and Investment all represent documented
+allied-nation supply chain collaboration frameworks with active implementation. [GP sources: 196]
+UT [3 — Moderate Difficulty] Bilateral cooperation agreements within State Department executive authority; major
+extraction treaty frameworks require Senate two-thirds ratification; partner-nation extraction capacity expansion
+requires private investment alongside government frameworks; meaningful supply chain diversification takes 7+
+years. [UT sources: 196]
+B [4 — High] China dominates processing of cobalt, lithium, and rare earths — strategic leverage over electric
+vehicles, clean energy systems, and defense electronics; supply chain diversification reduces cost volatility and
+adversarial leverage; secondary benefit: environmental and labor standard conditions in allied-nation agreements.
+[B sources: 196]
+
+P43 Modernize Airports & Air Traffic Control
+Bill 2 — IIC Act Title III · Priority 7.3/10 · Phase I
+
+Capital investment in airports; hire and train more air traffic controllers; restructure TSA.
+GP [4 — Strong] Germany Fraport, France ADP, Singapore Changi, Japan NARITA demonstrate government-led
+airport infrastructure excellence; EU SESAR mandates member-state ATC modernization; peer nations maintain
+lower delay rates and higher efficiency metrics than current US system. [GP sources: 146, 195]
+UT [4 — Achievable] Bill 2/IIC appropriations authorization; FAA statutory authority established; but FAA NextGen
+program: $15B+ spent, ~16% of projected benefits delivered as of 2025, completion projected 2030+; UT=4
+maintained because legislative/funding mechanism is achievable — implementation constraint is managerial not
+structural. [UT sources: 272, 195]
+B [3 — Moderate] Primary beneficiaries are frequent air travelers (disproportionately higher-income) and cargo
+efficiency; FAA documented implementation efficiency problem (16% of NextGen projected benefits delivered)
+moderates near-term benefit confidence; infrastructure maintenance value is real but welfare distribution is less
+progressive than most Phase I proposals. [B sources: 272, 195]
+
+
+
+
+P44 Electrify & Modernize USPS
+Bill 2 — IIC Act Title III · Priority 7.3/10 · Phase I
+
+Convert USPS fleet to electric; prepare for next-generation delivery; restore operating budget.
+GP [4 — Strong] Germany Deutsche Post DHL, France La Poste, UK Royal Mail all pursuing or achieving partial fleet
+electrification; Biden EO requiring 100% EV federal vehicle purchases by 2035 established policy direction; USPS
+NGDV contract with Oshkosh Defense provides implementation framework. [GP sources: 273]
+UT [4 — Achievable] Bill 2/IIC provides appropriations authorization; USPS has statutory authority and began NGDV
+execution; but USPS NGDV: ~9 years from program initiation to ~2,500 vehicles (Nov 2025, ~3% of fleet), 3× cost
+estimate; UT=4 maintained because legislative mechanism is clear — pace requires acceleration to achieve
+meaningful fleet transition within term. [UT sources: 273]
+B [3 — Moderate] USPS fleet electrification reduces long-term operating costs contributing to USPS financial
+instability; service reliability improvement for rural/elderly/lower-income populations most dependent on USPS for
+medication, financial correspondence, and package services; emissions reduction and domestic manufacturing
+employment (NGDV production) are secondary benefits. [B sources: 273]
+
+P45 National High-Speed Rail Network
+Executive — Phase III major authorization · Priority 7.3/10 · Phase III
+
+Cross-continental HSR serving as backbone for new power grid and internet infrastructure corridors.
+GP [5 — Proven] Japan Shinkansen (3,000+ km since 1964), France TGV (2,800+ km since 1981), Germany ICE,
+China HSR (45,000+ km), Spain AVE, South Korea KTX — all demonstrate HSR viability at national scale with Tier A
+ridership, energy efficiency, and corridor revenue data; IEA: HSR substantially more energy-efficient per
+passenger-km than aviation. [GP sources: 26, 274]
+UT [2 — Very Hard] California HSR: 3–4× cost escalation (CHSRA 2025: $126B from $33B in 2008); FRA withdrew
+$4B grant (2025); right-of-way acquisition costs 3–5× European equivalents in US litigated property system; no
+dedicated HSR corridor outside Northeast; interstate commerce framework requires federal authorization; aviation
+and auto industries benefit from passenger rail underdevelopment. [UT sources: 26, 274]
+B [4 — High] Mode shift from aviation on 200–500 mile corridors with documented cost advantages; HSR
+rights-of-way provide infrastructure corridors for new power grid and internet infrastructure; reduced highway
+congestion costs; access to intercity transportation for populations currently served only by private automobile;
+primary early beneficiaries are higher-income travelers (limits B=5). [B sources: 26, 274]
+
+MILITARY & DEFENSE
+
+7 proposals
+
+National security broadly defined — grid, supply chain, alliances — not just procurement and contractor relationships.
+
+P46 Expand Cyberwarfare Defenses
+Executive — DoD/NSA directive · Priority 8.0/10 · Phase I
+
+Invest heavily in domestic cyber defense; treat foreign cyberattacks as acts of war; respond with military pressure
+and
+GP [4 — Strong] UK NCSC (est. 2016), France ANSSI, Germany BSI, Israel Unit 8200 ecosystem, NATO CCDCOE all
+represent institutional models with documented offensive and defensive capacity; US CYBERCOM elevated to
+Unified Combatant Command (2018) provides organizational framework. [GP sources: 282]
+UT [3 — Moderate Difficulty] Expanding CYBERCOM within executive authority; bipartisan NDAA support for cyber
+provisions; DoD Cyberspace Workforce Strategy 2023–2027: original CMF reached FOC at 133 teams (2018), NDAA
+FY2022 approved expansion to 147 teams — 12 of 14 new teams established by May 2025; cybersecurity talent
+gap 750,000+ unfilled positions is the binding UT constraint. [UT sources: 282]
+B [5 — Critical] SolarWinds (2020), Colonial Pipeline (2021), multiple healthcare ransomware events demonstrate
+cyber vulnerability translates directly to population welfare harm: fuel shortages, medication delivery failures,
+financial disruptions; all Americans depend on resilient power, water, financial, and healthcare systems; marginal
+resilience improvement at scale is uniquely high-value. [B sources: 282]
+
+
+
+P47 Expand NASA & Space Force
+Executive — NDAA authorization · Priority 7.3/10 · Phase II
+
+Increase funding for space exploration and defensive space capabilities.
+GP [4 — Strong] All major peer nations have active space programs with increasing national security components;
+ESA, JAXA, CSA, UK Space Agency all represent documented investment; Space Force mission has no direct
+international analog but space-based military capability development is universal among peer powers. [GP sources:
+277]
+
+UT [4 — Achievable] NDAA authorization provides legislative vehicle; NASA authorization-to-output timeline: 9–16
+years for crewed vehicles; JWST: 25 years from concept to first light; UT=4 maintained because legislative
+authority is clear — timeline to meaningful output is long but Phase II (5–15 year) is the appropriate window. [UT
+sources: 277]
+
+B [3 — Moderate] Space exploration generates documented technology spillovers; defensive space capabilities
+protect GPS, communications, and satellite infrastructure on which all US economic and military activity depends;
+primary beneficiaries (technology spillovers, national security) are diffuse; B=3 appropriate given indirect welfare
+mechanism. [B sources: 277]
+
+P48 Reinforce War Powers Act
+Executive — Congressional resolution · Priority 7.3/10 · Phase I
+
+Require full congressional approval for any military conflict; annual re-authorization of active conflicts.
+GP [4 — Strong] UK Parliament Vote on Iraq (2003); Germany Bundeswehr Parlamentsbeteiligungsgesetz (2005)
+requires Bundestag approval for foreign deployments; Netherlands, Denmark, Finland have comparable
+parliamentary authorization requirements; Watson Institute: $8T+ post-9/11 operations, none with formal
+declarations of war. [GP sources: 156, 157]
+UT [3 — Moderate Difficulty] Congressional resolution within Article I authority; Chadha (1983) invalidated legislative
+veto mechanism; appropriations-conditional authorization is most constitutionally durable path; bipartisan
+executive resistance consistent across administrations since 1973 is the primary UT barrier; GP corrected to
+Strong (4) in v25 from prior Partial assessment. [UT sources: 157, 196]
+B [4 — High] $8T+ spent on unauthorized military engagements with documented humanitarian consequences;
+military service falls disproportionately on lower-income Americans — accountability for deployment is a
+distributionally progressive reform; WPR 48-year non-enforcement track record is itself the evidence for legislative
+reform. [B sources: 156, 157]
+
+P49 Pentagon Budget Audit Accountability
+Executive — NDAA + IG directive · Priority 6.7/10 · Phase I
+
+Consequences for repeated failed audits that discourage waste without gutting military readiness.
+GP [3 — Partial] UK MOD, German Bundeswehr, French DGA complete annual audits; US DoD is the only major
+agency of any Tier 1 government to fail annual audits for seven consecutive years (FY2018–FY2024 all disclaimers
+of opinion, per GAO-25-107427); no direct model for consequences-for-failure because no peer faces this situation.
+[GP sources: 158, 283]
+
+UT [3 — Moderate Difficulty] NDAA provisions establishing IG directives and audit performance requirements
+achievable through regular authorization; GAO-25-107427 (Sept 2025): 28 material weaknesses persist DoD-wide;
+Financial Management Systems Modernization remediation slipped from FY2028 to FY2031; statutory mandate:
+clean audit by December 31, 2028 — trajectory not currently on track. [UT sources: 158, 283]
+B [4 — High] DoD IG (2023): $247.5M duplicate payments, $6.8B accounting adjustments without documentation,
+$1.9T in assets 'cannot be verified'; consequences-for-failure framework creates incentives for system
+modernization; fiscal waste captured is directly available for either enhanced defense capacity or domestic
+investment. [B sources: 158, 283]
+
+
+
+
+P50 Reduce Military Contractor Dependence
+Executive — DoD procurement reform · Priority 7.3/10 · Phase I
+
+Directly hire civilians into non-combat roles; eliminate contractor middlemen inflating defense costs.
+GP [4 — Strong] UK MOD, German Bundeswehr, French Armée all maintain significantly higher ratios of direct
+government employment to contractors for non-combat functions; RAND defense studies document 1.3–1.5× cost
+premium for contractor provision of comparable non-combat functions; Quincy/Brown: contractors received 54% of
+$4.4T Pentagon budget 2020–2024. [GP sources: 148, 149]
+UT [3 — Moderate Difficulty] DoD procurement reform within executive authority for most contracting and
+employment decisions; major LOGCAP framework changes require NDAA action; defense contractor industry lobby
+(Lockheed, Raytheon, General Dynamics, KBR) significant; 3–5 year transition timeline for structured conversion
+programs. [UT sources: 148, 149, 150]
+B [4 — High] Commission on Wartime Contracting (2011): $31–60B lost to contractor fraud and waste in Iraq and
+Afghanistan alone; contractor premium 1.3–1.5× over direct employment for non-combat functions represents
+recoverable fiscal waste; direct government employment provides better benefits and career paths for equivalent
+roles. [B sources: 148, 149]
+
+P51 Strategic Military Workforce Pivot to Domestic Infrastructure
+Bill 4 — FSW Act (National Infrastructure Corps) · Priority 6.7/10 · Phase II
+
+National Infrastructure Corps offering voluntary transition pathways for separating military personnel into energy grid,
+GP [3 — Partial] ASCE Infrastructure Report Card (2021): C- grade, $2.6T investment gap; AmeriCorps (75,000
+full-time members/yr) demonstrates federal corps scaling; ACC (launched Sept 2023): claimed 15,000 members by
+Sept 2024 but mostly relabeled existing positions; BLS: construction workforce gap ~430,000 workers. [GP sources:
+146, 147, 285]
+
+UT [3 — Moderate Difficulty] Bill 4/FSW provides National Infrastructure Corps provisions; ASCE: $3.3T economic
+benefit from closing infrastructure gap; ACC termination by EO (January 20, 2025) demonstrates rapid reversal risk
+for executive-only programs — statutory protection through Bill 4/FSW is essential; veteran transition pipeline
+requires 3–5 year ramp. [UT sources: 146, 147, 285]
+B [4 — High] Infrastructure investment multiplier 1.5–1.6 (NBER, non-recession); ASCE: closing infrastructure gap
+saves each household $3,300/yr in avoided costs; veteran employment in infrastructure trades addresses both
+workforce gap (~430,000) and veteran underemployment; distributional impact progressive — infrastructure jobs
+concentrated in areas with displaced industrial workforces. [B sources: 146, 147]
+
+P52 Multilateral Peacekeeping Coalition
+Executive — State Department · Priority 7.3/10 · Phase II
+
+Work with allied nations to form a standing peacekeeping force; reduce burden of unilateral US military deployments.
+GP [4 — Strong] NATO collective defense framework, UN peacekeeping system, EU Common Security and Defence
+Policy (CSDP) all represent documented allied peacekeeping burden-sharing models; US participation in UN
+peacekeeping under assessed rate frameworks is established practice. [GP sources: 284]
+UT [3 — Moderate Difficulty] State Department executive authority for bilateral/multilateral coalition-building; UN
+peacekeeping budget declining ($6.1B FY2023–24 → $5.4B FY2025–26); US statutory 25% cap creates arrears
+&gt;$1.5B (as of April 2025); multilateral coalition building is a 5–10 year diplomatic effort; China now second
+largest assessed contributor at 23.785%. [UT sources: 284]
+B [4 — High] Multilateral peacekeeping reduces unilateral US burden for global stability operations; documented
+reduction in US casualties and equipment wear in shared deployments vs. unilateral; allied cooperation builds
+interoperability that increases collective security value; US arrears ($1.5B) are a documented constraint on
+influence in peacekeeping governance. [B sources: 284]
+
+
+
+
+AGRICULTURE & ENVIRONMENT
+
+9 proposals
+
+Food security, water rights, and ecological foundations are national security assets.
+
+P53 Water Rights & Foreign Ownership Ban
+Bill 8 — HCI Act Title I · Priority 8.0/10 · Phase I
+
+National water ownership laws; prohibit foreign investment in domestic water and groundwater rights.
+GP [4 — Strong] Australia FIRB evaluates all significant foreign water rights acquisitions; EU Water Framework
+Directive establishes water as public good; Chile Constitutional debate (2022) centered on water rights
+reallocation; GAO (2024): 43.4 million acres of US agricultural land under foreign ownership, up 66% over a
+decade. [GP sources: 160]
+UT [3 — Moderate Difficulty] CFIUS authority exists for national security review of water-adjacent agricultural land;
+primary gap is state-level framework consistency and national ownership registry; Bill 8/HCI provides federal
+model legislation; 60-vote threshold for statutory registry; water rights law is primarily state-administered
+requiring model legislation adoption pathway. [UT sources: 160, 196]
+B [5 — Critical] Water access is foundational to agricultural production, municipal supply, and regional economic
+viability; water is a non-reproducible resource in water-scarce regions; foreign acquisition permanently reduces US
+strategic flexibility; GAO: foreign ownership of agricultural land up 66% in a decade; distributional impact universal
+— water security is foundational physical welfare. [B sources: 160]
+
+P54 Domestic Food Priority Laws
+Executive — USDA rulemaking · Priority 6.7/10 · Phase I
+
+Require minimum percentage of produce sold domestically before export.
+GP [3 — Partial] EU export restriction powers exist for crisis situations (food security emergency provisions); some
+middle-income agricultural exporters use domestic supply priority requirements as standard regulation; direct Tier
+1 comparator precedent at US agricultural scale is limited — GP=3 reflects partial comparability. [GP sources: 162, 63]
+UT [3 — Moderate Difficulty] USDA rulemaking under Agricultural Marketing Act provides primary vehicle; but USDA
+REAP frozen by executive order (2025), demonstrating executive vulnerability of USDA programmatic food policy;
+no US implementation study found for food supply chain intervention at required scale; WTO Agricultural
+Agreement constraints on domestic supply priority requirements add legal complexity. [UT sources: 63, 280]
+B [4 — High] USDA ERS (2024): 12.8% of US households (17M) experienced food insecurity in 2023; US is world's
+largest food exporter despite this rate; FAO: countries with domestic food security buffers have 23% lower acute
+food insecurity during commodity price shocks; food price stabilization is most progressive in distributional impact
+(lower-income households spend higher income share on food). [B sources: 63, 162]
+
+P55 Protect Marine Life & Expand Aquaculture
+Executive — NOAA rulemaking · Priority 8.0/10 · Phase I
+
+Invest in sustainable aquaculture and marine protection; ban seafloor mining until environmental studies complete.
+GP [4 — Strong] Norway is global leader in sustainable salmon aquaculture (government investment, research
+partnerships, regulatory frameworks); Australia GBRMPA integrated marine protection model; Japan and South
+Korea government-supported aquaculture scaling; NOAA: ocean-based industries contribute $373B to US GDP
+annually. [GP sources: 162, 163]
+UT [3 — Moderate Difficulty] NOAA rulemaking authority under Magnuson-Stevens is the primary vehicle; but NOAA
+Aquaculture Strategic Plan 2023–2028 contains NO quantitative production target; US ranks 17th–18th globally in
+aquaculture production with &lt;1% of global output; 2016–2020 +50% target was missed and abandoned;
+seafloor mining moratorium is reversible without statutory protection. [UT sources: 163]
+B [5 — Critical] Aquaculture now accounts for 57% of seafood for human consumption globally (FAO); marine
+protection provides ecosystem services (storm surge mitigation, carbon sequestration); coastal fishing
+communities bear concentrated economic harm from stock depletion; benefit is high but trajectory uncertainty
+from NOAA's demonstrated implementation gap moderates score from Critical to just below. [B sources: 162, 163]
+
+
+
+P56 Subsidize Agricultural Electrification
+Executive — USDA/DOE grants · Priority 7.3/10 · Phase I
+
+Federal subsidies for farm electrification; tax incentives for transitioning agricultural equipment and processing from
+fossil
+GP [4 — Strong] EU Common Agricultural Policy includes green investment requirements; Germany and Netherlands
+agricultural electrification programs; IRA (2022) USDA REAP established US framework; OECD documents peer
+nations investing in agricultural energy transition as standard practice. [GP sources: 280]
+UT [3 — Moderate Difficulty] USDA/DOE grant authority provides implementation vehicle; REAP freeze (2025)
+demonstrates statutory protection needed for durability; farm equipment replacement cycle (10–15 years per
+machine) limits electrification pace regardless of subsidy availability; rural EV charging infrastructure is nascent;
+5–10 year meaningful fleet transition. [UT sources: 280]
+B [4 — High] Electric agricultural equipment operating costs lower than diesel equivalents long-term; rural
+agricultural communities bear disproportionate air quality costs from diesel equipment; USDA/DOE modeling
+documents emissions and cost-reduction trajectory; distributional benefit most progressive for family farms (less
+access to capital for equipment transitions). [B sources: 280]
+
+P57 Address Farm Labor Abuses
+Executive — DOL enforcement · Priority 7.3/10 · Phase I
+
+Enforce laws against underage and undocumented labor on farms; strengthen worker protections.
+GP [4 — Strong] EU Seasonal Workers Directive (2014) and member-state enforcement; Canada SAWP with federal
+oversight; Australia Fair Work Act agricultural coverage — all provide documented frameworks with enforcement
+outcomes; US FLSA and MSPA (1983) provide statutory authority — gap is enforcement capacity. [GP sources: 169]
+UT [3 — Moderate Difficulty] DOL Wage and Hour Division (WHD) enforcement capacity expansion within executive
+authority; WHD inspector staffing at historically low levels relative to regulated workforce; H-2A agricultural guest
+worker program creates parallel channel complicating enforcement; 1–3 year timeline for meaningfully expanded
+agricultural enforcement presence. [UT sources: 169, 195]
+B [4 — High] ~2.4M agricultural workers including ~70% undocumented status (least able to report violations); EPI
+(2022): systematic wage theft estimated at billions annually; documented physical risks (heat illness, pesticide
+exposure, housing deficiency); enforcement directly transfers income from violating employers to workers —
+strongly progressive distributional impact. [B sources: 169]
+
+P58 Break Up Agricultural Monopolies
+Bill 3 — ACFM Act Title III · Priority 7.3/10 · Phase I
+
+Apply antitrust law to equipment monopolies; prevent market capture in agriculture.
+GP [4 — Strong] EU blocking of Bayer-Monsanto (2018) with structural remedy conditions; Packers and Stockyards
+Act authority for DOJ/USDA enforcement; Biden DOJ agriculture-specific antitrust enforcement increase
+(2021–2024); documented correlation between agricultural consolidation and input price increases. [GP sources: 66,
+163]
+
+UT [3 — Moderate Difficulty] Bill 3/ACFM applies repeat-violator criminal liability to agricultural sector; Packers and
+Stockyards Act enforcement within executive priority directive; ADM, Cargill, Tyson, JBS, Deere have significant
+Congressional relationships particularly in Senate agricultural states; multi-year enforcement timeline for
+structural market change. [UT sources: 66, 196]
+B [4 — High] Agricultural consolidation imposes welfare costs on both sides: farmers face monopsony (fewer
+buyers, lower prices), consumers face oligopoly (fewer sellers, higher food costs); AAI documents price-cost
+margin expansion following consolidation; distributional impact progressive — family farmers and lower-income
+food consumers bear highest burden. [B sources: 66, 68]
+
+
+
+
+P59 National Climate Preparedness Corps
+Executive — FEMA/EPA reorganization · Priority 8.0/10 · Phase I
+
+Consolidate FEMA and EPA functions under unified climate response mandate — environmental monitoring, disaster
+GP [3 — Partial] Germany Technisches Hilfswerk (THW), Japan Cabinet Office Disaster Management, Netherlands
+Delta Programme for proactive climate infrastructure hardening; EU Civil Protection Mechanism; but integrated
+proactive-reactive climate response under unified mandate is novel design. [GP sources: 285]
+UT [4 — Achievable] President's Reorganization Authority allows agency restructuring with congressional
+notification; ACC (launched Sept 2023, claimed 15,000 members by Sept 2024) demonstrates corps scaling
+capacity; ACC termination by EO (Jan 20, 2025) demonstrates reversal risk — statutory framework essential;
+FEMA/EPA institutional coordination complexity manageable within executive authority; UT=4 maintained with
+durability caveat. [UT sources: 285]
+B [5 — Critical] NOAA documents weather/climate disasters ($1B+ damage) increased from 7.9/yr (1980–2022 avg)
+to 18/yr (recent 5-year period); climate welfare burden falls disproportionately on lower-income communities with
+less adaptive capacity; proactive preparedness (environmental monitoring, infrastructure hardening, coordinated
+response) reduces both frequency and severity of welfare harm; population affected is universal. [B sources: 285]
+
+P60 Invest in Desalination Infrastructure
+Executive — DOE/Bureau of Reclamation grants · Priority 8.7/10 · Phase II
+
+Federal funding for large-scale desalination plants to address long-term water scarcity.
+GP [5 — Proven] Israel (50%+ of freshwater from desalination); Saudi Arabia, UAE, Spain (Barcelona desalination
+plant) all demonstrate large-scale desalination at documented cost and output; NAS (2023): desalination costs
+down 80% since 1970 and continuing to decline with membrane technology. [GP sources: 161]
+UT [3 — Moderate Difficulty] DOE and Bureau of Reclamation grant authority provides implementation vehicle; no new
+legislation required for initial investment; environmental permitting for large coastal plants is the primary
+implementation constraint (3–5 year NEPA process); 5–10 year timeline from investment to meaningful water
+supply contribution. [UT sources: 161]
+B [5 — Critical] Western US water scarcity is an existential risk to agriculture, municipal supply, and regional
+economic viability in Arizona, California, Nevada, and New Mexico; Colorado River over-allocation by 20%+
+relative to current flows; desalination diversifies freshwater supply away from precipitation dependence; welfare
+impact is universal in affected regions. [B sources: 161]
+
+P61 FDA Split & Reform
+Executive — HHS reorganization · Priority 8.0/10 · Phase II
+
+Separate FDA into drug regulation and food safety agencies; adopt EU food and agricultural safety standards; improve
+GP [5 — Proven] EFSA (EU Food Safety Authority) separated from EMA (European Medicines Agency) since 2002;
+Health Canada operates separate Drug and Food Directorates; UK MHRA/FSA separation; separation of food safety
+from drug regulation is the international standard — US FDA's combined structure is the outlier. [GP sources: 292]
+UT [3 — Moderate Difficulty] HHS reorganization authority provides executive pathway; KFF historical analysis: major
+HHS sub-agency restructurings require 18–36 month minimum; HHS 2025 restructuring (partially enjoined in D.
+Rhode Island and N.D. California) demonstrates judicial challenge risk; FDA center-level changes typically take 2–3
+years to operationalize. [UT sources: 292]
+B [4 — High] FDA food safety oversight covers 77%+ of the food supply; supplement oversight failures
+documented; drug approval timelines are the primary PDUFA metric — separating into dedicated agencies allows
+each to optimize independently; EU food and agricultural safety standards provide the baseline for the new food
+agency. [B sources: 292]
+
+FOREIGN AFFAIRS & IMMIGRATION
+
+4 proposals
+
+Strategic relationships are asymmetric advantages. Immigration managed intelligently is a net economic positive.
+
+
+
+
+P62 Diplomatic Relationship Restoration & Strategic Investment
+Executive — State Department · Priority 8.0/10 · Phase I
+
+Systematic effort to repair damaged alliances; restore US credibility; continue support for nations under active
+external
+GP [4 — Strong] Post-Cold War German reunification diplomacy, post-Vietnam US diplomatic repair (1970s),
+Obama-era JCPOA negotiation — all document structured diplomatic restoration with measurable economic and
+security outcome improvements; G7 Partnership for Global Infrastructure and Investment provides current allied
+development partnership model. [GP sources: 196]
+UT [3 — Moderate Difficulty] Alliance re-engagement within executive authority — Day 1 executable; rejoining
+multilateral frameworks (Paris Agreement re-accession procedurally available) is near-immediate; but substantive
+relationships require sustained institutional behavior over multiple years; adversarial normalization (China, Russia)
+requires sustained engagement not reducible to Day 1 action; 1–3 year timeline for allied repair, longer for
+adversarial normalization. [UT sources: 196]
+B [5 — Critical] US diplomatic relationships underpin multilateral frameworks governing trade, security, technology,
+and climate; documented allied relationship disruption imposed costs on export market access, security
+cooperation, pandemic preparedness, and international rules-based order; effective diplomacy is the
+infrastructure for every dimension of international welfare that affects American living standards and security. [B
+sources: 196]
+
+P63 Selective & Streamlined Immigration Policy
+Executive — DHS/DOS rulemaking · Priority 7.3/10 · Phase I
+
+Tighter admissions criteria paired with cleaner, faster citizenship pathway. Asylum and refugee protections
+maintained.
+GP [4 — Strong] Canada Express Entry (points-based with fast processing), Australia skilled migration framework,
+Germany Fachkräfteeinwanderungsgesetz (2020) — all combine tighter admissions criteria with cleaner, faster
+citizenship pathways and documented economic integration outcomes. [GP sources: 196, 197]
+UT [3 — Moderate Difficulty] DHS and DOS have significant regulatory authority within INA statutory framework;
+processing efficiency improvements (digitization, adjudicator staffing, asylum court capacity) within executive
+authority; structural visa system reform requires 60-vote threshold; USCIS backlogs exceeded 10M applications
+(2024); 3–5 year administrative modernization timeline. [UT sources: 196, 197]
+B [4 — High] USCIS backlog &gt;10M applications creates legal limbo harm for immigrants and employer
+productivity loss; cleaner citizenship pathways reduce social exclusion and improve long-term integration
+outcomes; Canada and Australia demonstrate that structured systems produce superior economic integration
+outcomes relative to US current system; points-based selection improves labor market match quality. [B sources: 196,
+197]
+
+
+
+
+P64 International Property Ownership Framework
+Bill 8 — HCI Act Title I · Priority 6.7/10 · Phase I
+
+Federal model legislation and incentive structures for states to govern property acquisitions by foreign nationals —
+limits on
+GP [4 — Strong] Australia FIRB restricts all significant foreign real estate acquisitions; Canada Investment Canada
+Act reviews agricultural land acquisitions; New Zealand Overseas Investment Act (2018 amendments) restricts
+foreign residential and agricultural purchases; GAO (2024): foreign agricultural land ownership up 66% in a
+decade. [GP sources: 160, 281]
+UT [3 — Moderate Difficulty] CFIUS CY2024: reviewed 325 covered transactions, issued 5 civil penalties (record,
+largest at $60M) — but narrow scope confirms UT cannot support broad policy coverage claim; no implementation
+study found for federal model legislation at scale; 50-state adoption through incentive mechanism adds
+implementation complexity. [UT sources: 160, 281]
+B [3 — Moderate] Foreign acquisition of residential and agricultural property creates documented local welfare
+concerns (housing affordability, food security) but affects a meaningful subset rather than dominant share of total
+property transactions; CFIUS 325 transactions/yr vs. millions of total US property transactions illustrates current
+narrow reach; indirect welfare mechanism earns B≈3.2 rather than B=3 or B=4. [B sources: 160, 281]
+
+P65 Nuclear Diplomacy via Allied Mediation
+Executive — State Department · Priority 8.0/10 · Phase II
+
+Broker nuclear non-proliferation agreements through allied nations whose diplomatic standing exceeds current US
+leverage in
+GP [4 — Strong] Norway, Finland, Switzerland: documented successful mediation traditions; Oslo Accords (Norway),
+Iran nuclear deal (Switzerland/EU); Bulletin of Atomic Scientists Doomsday Clock (2024): 90 seconds to midnight,
+closest ever; Arms Control Association: US and Russia account for ~90% of global warheads. Sources: 153a, 154,
+155. UT [3 — Moderate Difficulty] ★★★☆☆: State Department executive authority for multilateral mediation
+engagement; US direct leverage with adversarial nuclear powers is currently limited — allied-mediation model
+specifically addresses this gap; sustained diplomatic engagement is multi-year; Russia-Ukraine conflict and
+US-China tensions create challenging entry conditions. Sources: 153a, 154. B [5 — Critical] ★★★★★: Nuclear risk
+reduction is by definition a Critical welfare benefit — the welfare benefit of reducing existential nuclear risk is
+maximal; Doomsday Clock at closest ever position; US-Russia strategic stability dialogue suspended; allied
+mediators (Norway, Finland, Switzerland) have documented credibility that US currently lacks in key bilateral
+relationships; B=5 reflects the magnitude of existential risk being addressed. [GP sources: 154, 155]
+UT [3 — Moderate Difficulty] State Department executive authority for multilateral mediation engagement; US direct
+leverage with adversarial nuclear powers is currently limited — allied-mediation model specifically addresses this
+gap; sustained diplomatic engagement is multi-year; Russia-Ukraine conflict and US-China tensions create
+challenging entry conditions. Sources: 153a, 154. B [5 — Critical] ★★★★★: Nuclear risk reduction is by definition a
+Critical welfare benefit — the welfare benefit of reducing existential nuclear risk is maximal; Doomsday Clock at
+closest ever position; US-Russia strategic stability dialogue suspended; allied mediators (Norway, Finland,
+Switzerland) have documented credibility that US currently lacks in key bilateral relationships; B=5 reflects the
+magnitude of existential risk being addressed. [UT sources: 154, 155]
+B [5 — Critical] Nuclear risk reduction is by definition a Critical welfare benefit — the welfare benefit of reducing
+existential nuclear risk is maximal; Doomsday Clock at closest ever position; US-Russia strategic stability dialogue
+suspended; allied mediators (Norway, Finland, Switzerland) have documented credibility that US currently lacks in
+key bilateral relationships; B=5 reflects the magnitude of existential risk being addressed. [B sources: 154, 155]
+
+GP = international precedent · UT = US implementation trajectory · B = population-wide welfare. Source numbers key to the Part IX
+register.
+
+-----
+
+# PART VI — Economic Feasibility
+
+*The second test: the agenda must not only score well on its merits — it must be fiscally feasible and structurally durable.*
+
+-----
+
+## The Fiscal Case
+
+A policy framework must clear two independent tests: it must score well on its merits, and it must be fiscally feasible. The fiscal methodology is independent of the policy-scoring methodology but applies the same calibrated conservatism: where mainstream modelers diverge on magnitude, the analysis adopts the lower-revenue or higher-cost figure as its central estimate. All major figures are presented as low / central / high ranges.
+
+*Built on Congressional Budget Office, Joint Committee on Taxation, Penn Wharton Budget Model, Committee for a Responsible Federal Budget, Peterson Institute, Tax Foundation, Tax Policy Center, Yale Budget Lab, NBER, and Federal Reserve research.*
+
+### The Fiscal-Effect Rating Key
+
+|Rating       |Meaning                                                                                                                      |
+|-------------|-----------------------------------------------------------------------------------------------------------------------------|
+|**Revenue+** |Net positive federal revenue over the 10-year window. Best-case fiscal outcome.                                              |
+|**Rev+/Cost**|Upfront investment, net positive returns within 10 years. Self-funding or better over time.                                  |
+|**Cost-Net** |Net cost with significant economic or welfare offsets that partially compensate; documented returns beyond the budget window.|
+|**High Cost**|Large federal expenditure with limited direct fiscal offset; may produce welfare gains outside the budget window.            |
+|**Welfare+** |Not a direct budget measure; documented economic welfare gains that expand the tax base over time.                           |
+
+### Representative Proposal Economics
+
+|Proposal                                |FE       |10-Year Range                          |Timing   |Mechanism                                                                            |
+|----------------------------------------|---------|---------------------------------------|---------|-------------------------------------------------------------------------------------|
+|IRS Reform & Pre-Filed Taxes            |Revenue+ |+$120B to +$561B (central +$124B)      |Yr 3–10  |Closes part of the $696B annual gross tax gap; enforcement ROI $3.18–$12 per $1.     |
+|Close Wealth Accumulation Loopholes     |Revenue+ |+$160B to +$300B                       |Yr 2–10  |$160B+ annually the top 1% choose not to pay.                                        |
+|Billionaire Wealth Tax & Digital Levy   |Rev+/Cost|+$1.9T to +$2.9T (TPC, Feb 2025)       |Yr 1–10  |Largest single revenue-positive component; constitutional risk under *Moore* flagged.|
+|Antitrust Enforcement                   |Welfare+ |+$750B to +$2T welfare                 |Yr 2–10  |Welfare, not budget; literature contested.                                           |
+|Patent Law Reform                       |Welfare+ |+$100B to +$300B consumer/payer savings|Yr 2–10  |Concentrated in pharmaceutical and device markets.                                   |
+|Public Option Healthcare                |Rev+/Cost|−$0 to +$388B                          |Yr 3–10  |CBO 2013 conservative central case; self-executing premium formula.                  |
+|Socialized Public Childcare             |Rev+/Cost|Upfront cost, returns within window    |Yr 1–6   |Labor-force-participation and earnings effects documented across OECD comparators.   |
+|Strategic Domestic Technology Investment|Rev+/Cost|−$52B direct; +$630B+ leveraged        |Yr 2–10  |Direct outlay crowds in multiples in announced private investment.                   |
+|Reduce Military Contractor Dependence   |Rev+/Cost|+$100B to +$1T over the decade         |Yr 3–10  |Procurement reform; savings scale with insourcing depth.                             |
+|Restore Public Health Infrastructure    |Cost-Net |−$5B to −$15B; large prevented cost    |Immediate|Small direct outlay against large prevented-harm and capacity value.                 |
+|Universal Government-Funded Healthcare  |High Cost|+$28T–$34T federal; −$2T to +$7T NHE   |Yr 15+   |Phase III only; large federal cost with national-health-expenditure offset range.    |
+
+### Platform Comparison — 10-Year Deficit Impact
+
+|Platform                      |Low   |Central         |High   |Debt/GDP 2035|
+|------------------------------|------|----------------|-------|-------------|
+|ARA (American Renewal Agenda) |+$0.5T|+$1.5T to +$2.5T|+$4.0T |~130–135%    |
+|DNC 2024 Platform             |+$0.3T|+$3.95T         |+$8.30T|~133%        |
+|Project 2025 / OBBBA (enacted)|+$3.4T|+$5.0T to +$6.0T|+$8.0T+|~140%+       |
+
+*ARA central estimate is an analytical derivation, not an official score — none exists. Project 2025 reflects enacted OBBBA (P.L. 119-21) plus the post-SCOTUS tariff environment.*
+
+### Three Conclusions
+
+1. **Asymmetric risk.** The agenda’s worst case (about +$4T) remains less severe than Project 2025’s central case (+$5.0T–$6.0T). With OBBBA enacted (Public Law 119-21; CBO February 2026 anchors it at +$4.1T with interest), that finding has strengthened, not weakened.
+1. **Countercyclical capacity.** The agenda retains the strongest countercyclical capacity of the three platforms, on government-purchase multipliers. The claim is preserved on infrastructure and public-health components and explicitly hedged on transfer-based components per the narrowed post-2024 multiplier literature.
+1. **Revenue-offset differentiator.** The agenda contains the most significant revenue-positive proposals of any platform — IRS enforcement, the wealth tax, antitrust welfare gains — partially offsetting new spending in a way neither Project 2025 nor the DNC 2024 platform matches.
+
+> **Net assessment: across all three economic scenarios, Project 2025 / OBBBA is the most fiscally damaging package and the directional finding has strengthened with enactment; the DNC 2024 platform is the lowest-variance, lowest-effect package; and the American Renewal Agenda holds the highest fiscal upside in poor conditions. The source apparatus is built so every assertion is auditable.**
+
+*An honest limit, stated plainly: no official CBO, PWBM, or CRFB score for the American Renewal Agenda exists. The figures here apply documented research to the agenda’s components by analogy with scored comparable proposals. They are directional, not definitive — and the most uncertain estimates (the wealth tax, with constitutional risk under Moore and capital-flight exposure; antitrust, a welfare rather than budget measure on a contested rising-markup literature) are flagged as such rather than smoothed over.*
+
+### The Durability Contrast
+
+|Dimension            |This Agenda|Project 2025|Why                                                                                                                                       |
+|---------------------|-----------|------------|------------------------------------------------------------------------------------------------------------------------------------------|
+|Legislative readiness|High       |High        |Twelve drafted bill frameworks, a sequencing map, and a personnel methodology. Parity reached on documents.                               |
+|Executive readiness  |Developing |High        |Position profiles and vetting methodology complete; the vetted-personnel database is the one remaining organizational gap, stated plainly.|
+|Political durability |High       |Low         |Built on policy stickiness — benefit constituencies that resist rollback. The comparator proved highly reversible in practice.            |
+|Systemic impact      |High       |Moderate    |Long-term structural change across every category, rather than fast but unstable wins.                                                    |
+
+*The honest gap, named rather than hidden: a reform program needs not only the documents but the people. The legislative layer is complete; the database of vetted personnel ready to staff an administration is the organizational work that must happen before power is sought, not after. Acknowledging it is itself part of the method.*
+
+-----
+
+
+# PART VII — The Legislative Series
+
+*Twelve drafted bills. A summary card for each, then the complete verbatim text of every bill.*
+
+-----
+
+PART VII · THE LEGISLATIVE SERIES
+
+BILL 1
+
+COLT
+Cost of Living Reduction & Tax Simplification Act of 2027
+Phase I · Track A · v_4
+
+Reproduced in full from the canonical drafted bill. No operative text has been altered in consolidation.
+
+PROJECT ARA 2028 · 57
+
+
+RDNC Bill Framework · COLT Act of 2027 · REF_ · 2026
+
+Reform Democrats of the New Commonwealth · Project ARA 2028
+Legislative Ecosystem Document Leg02 of Leg14
+
+Cost of Living Reduction & Tax Simplification Act
+of 2027
+Bill Framework & Legislative Brief
+Phase I · Track A · Budget Reconciliation Vehicle · Phase I · Track A · Anchor Bill
+
+LEGAL DISCLAIMER — POLICY DISCUSSION DOCUMENT
+This document is a policy discussion framework and bill scaffold. It is not formally introduced legislation, has not been
+reviewed by licensed legislative counsel, and does not constitute legal advice of any kind.
+All provisions marked [TBD] — including dollar amounts, specific IRC section numbers, penalty thresholds,
+appropriation amounts, and CBO scoring figures — require resolution by licensed legislative drafting counsel (the
+Office of Legislative Counsel for the House or Senate, as applicable), relevant agency technical staff, and the
+Congressional Budget Office before introduction as formal legislation.
+Constitutional arguments, legal analyses, and statutory framings presented herein are analytical assessments
+developed for policy planning purposes. They are not legal opinions and have not been reviewed or validated by
+licensed legal counsel. This document identifies constitutional and legal risks requiring independent review — those
+identifications are planning guidance, not legal conclusions.
+This framework was produced by the Reform Democrats of the New Commonwealth (RDNC), a private citizen policy
+research organization. It is not affiliated with any sitting Member of Congress, congressional office, government
+agency, or political party organization in any official capacity.
+Consultation with licensed legislative counsel, the Congressional Budget Office, and relevant agency
+technical staff is required before any framework in this series may be introduced as formal legislation.
+Distribution is subject to RDNC classification protocols (REF_ layer: internal use and trusted partners only).
+
+Phase I · Track A · Budget Reconciliation Vehicle
+
+Part I — Legislative Brief (Non-Technical Summary)
+Designed for staffers, coalition partners, journalists, and elected officials. Explains what this bill does, why it uses the
+legislative vehicle it does, who benefits, and how to defend it.
+
+AT A GLANCE
+Bill Title
+
+Cost of Living Reduction & Tax Simplification Act of 2027
+
+Short Title (Cite As)
+
+The COLT Act of 2027
+
+Legislative Vehicle
+
+Budget Reconciliation (simple Senate majority)
+
+Phase / Track
+
+Phase I · Track A — First 18 months
+
+REF_RDNC_Leg02_Bill1_COLT_2027_4 · Page 1 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 58
+
+
+RDNC Bill Framework · COLT Act of 2027 · REF_ · 2026
+
+Primary Committees
+
+Ways & Means; Education & Workforce; Energy & Commerce
+
+Dependencies
+
+None — this is the anchor bill
+
+Estimated Direct
+Beneficiaries
+
+150–200 million taxpayers; 20–30 million childcare-age families
+
+Funding Mechanism
+
+IRS enforcement revenue recovery + improper payment reduction
+
+Deficit Impact
+
+Structured for neutrality within 10-year budget window
+
+Byrd Rule Status
+
+All provisions carry direct budget impact — reconciliation eligible
+
+What This Bill Does:
+Three things, directly felt by most Americans within 12 months of passage:
+1. Makes filing taxes easier. The IRS will pre-fill your return using information it already has. You review,
+correct if needed, and submit. Opt-in at first, default after Year 3. This is already how it works in 36 other
+countries.
+2. Makes the wealthy pay what they already owe. No new tax rates. The bill funds enforcement specifically
+targeting high-income evasion — the IRS estimates $600B+ in unpaid taxes annually, heavily concentrated
+above $400K income.
+3. Cuts childcare costs. Caps childcare expenses at no more than 7% of household income for eligible
+families, phased in over 5 years. Pairs with supply-side grants to increase provider availability.
+
+Why Reconciliation:
+All three provisions have direct and measurable budget impact — making them reconciliation-eligible. Reconciliation
+requires only a simple Senate majority (51 votes), bypassing the filibuster. This is the same vehicle used for the Tax
+Cuts and Jobs Act (2017) and the Inflation Reduction Act (2022). Using it here is not procedural aggression — it is
+standard practice for budget-relevant legislation.
+
+Who Benefits:
+• Working and middle-class taxpayers: simpler filing, lower compliance costs, less vulnerability to predatory tax
+prep companies.
+• Families with young children: direct cost reduction on childcare, which currently consumes 10–25% of
+household income for many families.
+• Labor force participation: childcare cost reduction is one of the highest-ROI economic interventions available
+— it enables parents, particularly mothers, to maintain employment.
+• Federal revenue base: enforcement targeting high-income evasion recovers funds already legally owed — not
+a tax increase.
+
+REF_RDNC_Leg02_Bill1_COLT_2027_4 · Page 2 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 59
+
+
+RDNC Bill Framework · COLT Act of 2027 · REF_ · 2026
+
+ATTACK
+SURFACE
+
+"IRS expansion." "Government doing your taxes." "Childcare spending." These are the three
+lines the opposition will use. They are predictable and pre-answerable.
+
+DEFENSE
+STRATEGY
+
+"Making taxes easier, not higher." Opt-in framing neutralizes the overreach attack. Enforcement
+is explicitly targeted at wealthy evasion — not middle-income audits. Childcare is framed as
+workforce and economic policy: "If we want parents working, we need childcare they can afford."
+
+FALLBACK
+POSITION
+
+If enforcement expansion is removed during negotiation, the bill still functions: pre-filled returns
+alone are a meaningful win. Fund enforcement separately through executive agency direction.
+Do not sacrifice childcare provision to save enforcement — childcare is the constituency-building
+anchor.
+
+Message Discipline Note: Every communication about this bill should use consistent language: "Lower costs. Fairer
+rules. Simpler systems." Do not introduce technical language (reconciliation, Byrd Rule, IRC amendments) in
+public-facing materials.
+
+Part II — Bill Framework
+This is the structural scaffold of the bill. Dollar amounts, specific IRC section numbers, and CBO scoring are flagged as
+[TBD] — these require congressional counsel, Treasury technical staff, and CBO scoring before introduction. The
+framework below is ready for that conversion.
+119TH CONGRESS
+
+1ST SESSION
+
+H. R. ____
+
+To provide for reconciliation pursuant to the concurrent resolution on the budget; to reduce the
+cost of living for American households; to increase tax compliance and simplify filing; to expand
+access to affordable childcare; and for other purposes.
+
+A B I L L
+Be it enacted by the Senate and House of Representatives of the United States of America in
+Congress assembled,
+SEC. 1. SHORT TITLE.
+This Act may be cited as the "Cost of Living Reduction and Tax Simplification Act of 2027"
+or the "COLT Act of 2027".
+SEC. 2. FINDINGS AND PURPOSE.
+(a) FINDINGS.—Congress finds the following:
+(1) The United States tax compliance burden falls disproportionately on middle-income
+wage earners who have limited ability to shelter income.
+(2) Thirty-six advanced economies currently operate government-prepared or pre-filled
+tax return systems with documented reductions in taxpayer compliance costs.
+(3) The IRS estimates that the annual tax gap exceeds $600 billion, with the highest
+concentration of noncompliance among high-income individuals and complex pass-through
+entities.
+(4) The IRS piloted a free government direct-filing program in 2024, expanded it in
+2025, and the program was discontinued by executive action in November 2025.
+This demonstrates that a free filing option requires a permanent statutory mandate.
+(5) The commercial tax preparation industry has spent over $100 million lobbying to
+prevent a free government filing option, while the average American family spends
+approximately $300 on tax preparation annually.
+
+REF_RDNC_Leg02_Bill1_COLT_2027_4 · Page 3 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 60
+
+
+RDNC Bill Framework · COLT Act of 2027 · REF_ · 2026
+
+(6) Childcare costs currently consume between 10 and 25 percent of household income
+for millions of American families, representing a primary barrier to workforce participation.
+(7) Expanding affordable childcare access produces measurable increases in labor force
+participation and generates positive returns to Federal revenue.
+(b) PURPOSE.—The purposes of this Act are to—
+(1) codify a permanent, free government tax filing system that cannot be discontinued
+by executive action;
+(2) reduce individual tax filing costs and complexity;
+(3) increase tax compliance among high-income noncompliers without increasing rates
+on middle-income households;
+(4) expand access to affordable childcare for working families; and
+(5) improve Federal revenue efficiency within a budget-neutral framework.
+
+TITLE I — TAX ADMINISTRATION AND SIMPLIFICATION
+SEC. 101. PRE-FILLED TAX RETURN SYSTEM.
+(a) IN GENERAL.—Chapter 77 of the Internal Revenue Code of 1986 is amended by adding
+at the end the following new section:
+"SEC. 7529. PRE-FILLED RETURNS.
+"(a) ESTABLISHMENT.—The Secretary shall establish a program to provide pre-filled Federal
+income tax returns to eligible taxpayers using information returns described in sections
+6041, 6051, and related provisions of this title.
+"(b) ELIGIBILITY.—An eligible taxpayer is any individual who—
+"(1) receives income subject to third-party information reporting;
+"(2) claims the standard deduction; and
+"(3) has no income from self-employment, complex partnership interests, or foreign
+financial accounts.
+"(c) PHASED IMPLEMENTATION.—Voluntary phase: taxable years 2028–2029. Default enrollment:
+taxable years beginning after December 31, 2029.
+"(d) TAXPAYER RIGHTS.—An eligible taxpayer may review and correct any pre-filled return
+before submission; opt out at any time; and file independently using any lawful method.
+"(e) PRIVACY PROTECTIONS.—Information used to prepare pre-filled returns shall not be
+used for any purpose other than Federal tax administration."
+SEC. 102. DIRECT FILE PROGRAM — PERMANENT STATUTORY MANDATE.
+"SEC. 7530A. DIRECT FILE PROGRAM.
+"(a) IN GENERAL.—The Secretary of the Treasury shall operate and maintain a free,
+IRS-administered electronic filing system ("Direct File") available to all individual taxpayers
+without charge. Operation and availability of Direct File shall not be discontinued, suspended,
+or limited by any executive action, agency directive, or administrative determination.
+"(b) MINIMUM FUNCTIONALITY.—The Direct File system shall, at minimum—
+"(1) accept federal individual income tax returns for all taxpayers eligible to file Form 1040;
+"(2) pre-populate available fields from information returns filed with the Secretary; and
+"(3) support filing in the Spanish language and any other language in which the Secretary
+offers substantial filing assistance.
+"(c) PROHIBITION ON CONTRACTING.—No function of the Direct File program that is directly
+used by taxpayers shall be contracted to any private entity that provides competing commercial
+tax preparation services.
+"(d) APPROPRIATION.—$[TBD] appropriated for each of fiscal years 2028 through 2037."
+SEC. 103. HIGH-INCOME ENFORCEMENT INITIATIVE.
+(a) APPROPRIATION.—$[TBD] appropriated to the IRS for each of fiscal years 2028–2037.
+(b) TARGETING LIMITATION.—Funds shall be used exclusively for enforcement targeting—
+(1) individuals with adjusted gross income exceeding $400,000;
+(2) complex pass-through entities and partnerships; and
+(3) offshore financial accounts subject to FBAR and FATCA requirements.
+
+REF_RDNC_Leg02_Bill1_COLT_2027_4 · Page 4 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 61
+
+
+RDNC Bill Framework · COLT Act of 2027 · REF_ · 2026
+
+(c) MIDDLE-INCOME AUDIT PROTECTION.—No funds may be used to increase audit rates
+for taxpayers with AGI below $400,000 relative to fiscal year 2022 baseline rates.
+SEC. 104. ENHANCED COMPLIANCE PENALTIES.
+(a) SUBSTANTIAL UNDERSTATEMENT.—Section 6662(d) of the Internal Revenue Code of 1986
+is amended to increase the substantial understatement threshold penalty for high-income
+taxpayers with repeated violations.
+[Note to counsel: Specify multiplier and threshold. CBO scoring required for Byrd Rule
+compliance. Consider 40% → 75% for repeat high-income violations per Part III guidance.]
+(b) EXECUTIVE LIABILITY.—[TBD: Provision establishing officer liability for willful corporate
+tax evasion schemes, consistent with existing Responsible Person doctrine under IRC §6672.
+DOJ and Treasury joint drafting recommended.]
+(c) EFFECTIVE DATE.—Amendments apply to returns filed for taxable years beginning after
+December 31, 2027.
+
+TITLE II — CHILDCARE COST REDUCTION
+SEC. 201. CHILDCARE AFFORDABILITY CREDIT.
+"SEC. 36C. CHILDCARE AFFORDABILITY CREDIT.
+"(a) ALLOWANCE OF CREDIT.—A credit shall be allowed equal to the excess of—
+"(1) the taxpayer's qualified childcare expenditures for the taxable year, over
+"(2) 7 percent of the taxpayer's modified adjusted gross income for the taxable year.
+"(b) ELIGIBLE TAXPAYER.—A taxpayer who—
+"(1) has one or more qualifying children under age 13;
+"(2) has modified adjusted gross income not exceeding $[TBD] (phased out above $[TBD]);
+"(3) incurs qualified childcare expenditures during the taxable year; and
+"(4) is not a dependent of another taxpayer.
+"(c) QUALIFIED CHILDCARE EXPENDITURES.—The term 'qualified childcare expenditures' means
+amounts paid for care of a qualifying child by a licensed childcare provider, not to exceed
+$[TBD] per child per year.
+"(d) REFUNDABILITY.—The credit under this section shall be fully refundable."
+SEC. 202. CHILDCARE PROVIDER SUPPLY GRANTS.
+(a) The Secretary of HHS shall establish a grant program to expand childcare provider capacity.
+(b) APPROPRIATION.—$[TBD] for each of fiscal years 2028 through 2032.
+(c) PRIORITY.—Grants prioritized to childcare deserts and areas with highest cost burden.
+
+TITLE III — REVENUE AND FUNDING PROVISIONS
+SEC. 301. ENFORCEMENT-BASED REVENUE.
+Revenue generated through enforcement activities under section 103 shall be scored by CBO
+as a budget offset and applied to the cost of Titles I and II of this Act.
+SEC. 302. IMPROPER PAYMENT REDUCTION OFFSET.
+(a) IN GENERAL.—Federal agencies shall implement measures to identify and reduce improper
+payments, with savings contributing to overall Act budget neutrality.
+(b) REPORTING.—The Office of Management and Budget shall publish annual improper
+payment reduction totals attributed to measures under this section.
+
+TITLE IV — IMPLEMENTATION AND OVERSIGHT
+SEC. 401. IMPLEMENTATION TIMELINE.
+(a) YEAR 1 (2028).—Launch pre-filled return voluntary pilot; begin IRS enforcement hiring;
+open childcare credit enrollment; launch first round of provider supply grants.
+
+REF_RDNC_Leg02_Bill1_COLT_2027_4 · Page 5 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 62
+
+
+RDNC Bill Framework · COLT Act of 2027 · REF_ · 2026
+
+(b) YEAR 3 (2030).—Pre-filled returns become default; full enforcement operations.
+(c) YEAR 5 (2032).—Full childcare credit; comprehensive review of enforcement ROI;
+Secretary report on pre-filled system expansion options.
+SEC. 402. INDEPENDENT OVERSIGHT BOARD.
+The Secretary of the Treasury shall establish an independent oversight board to monitor
+implementation of this Act, including—
+(1) tax pre-fill accuracy and taxpayer satisfaction;
+(2) enforcement targeting compliance with section 103(c); and
+(3) childcare credit delivery and provider grant outcomes.
+The Board shall report annually to Congress.
+SEC. 403. CONGRESSIONAL REPORTING.
+Not later than 90 days after the end of each fiscal year, the Secretary shall submit to the
+Committee on Ways and Means of the House and the Committee on Finance of the Senate a
+report including—
+(1) total revenue recovered under the enforcement initiative;
+(2) aggregate taxpayer compliance cost savings;
+(3) number of families receiving childcare credit and average benefit amount; and
+(4) geographic distribution of provider supply grants.
+
+Part III — Notes for Congressional Counsel
+The following items require resolution by Treasury technical staff and congressional counsel before introduction.
+
+Item Requiring
+Resolution
+
+Guidance
+
+IRS enforcement
+appropriation — IRA
+model, Byrd-safe [Source
+271]
+
+IRA §10301 $79.4B IRS enforcement appropriation SURVIVED the 2022 Byrd bath
+as a direct mandatory appropriation producing scoreable revenue offsets. Target the
+same structure: a direct appropriation to IRS Operations Support and Enforcement
+with a spending plan requirement. CBO pre-score based on the IRA's confirmed 5:1
+ROI on enforcement investment over 10 years. The OBBBA 2025 Byrd bath [Source
+271] struck IRS Strategic Operating Plan reporting mandates — keep mandates
+OUT of the reconciliation vehicle; operate under Treasury administrative authority
+after appropriation.
+
+Childcare credit —
+refundable tax credit
+structure required [Source
+271]
+
+UPDATED: The refundable tax credit model (IRC §21 expansion) is the
+HIGHEST-SURVIVAL Byrd path for the childcare cost cap. The BBBA childcare
+entitlement with wage-parity and quality-standard conditions was flagged high-risk in
+advisory rulings; the ARPA $15 minimum wage was struck because it primarily
+affects private-sector relationships (not budget). REQUIRED STRUCTURE: Convert
+the 7% income cap to a refundable IRC §21 credit equal to qualifying childcare costs
+exceeding 7% of AGI. Direct revenue effect; clearest Byrd-compliant pathway.
+Model against existing CDCC (§21): current caps $3,000/$6,000 per child; consider
+doubling and making fully refundable. Phase-out at $75K–$150K AGI range.
+
+REF_RDNC_Leg02_Bill1_COLT_2027_4 · Page 6 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 63
+
+
+RDNC Bill Framework · COLT Act of 2027 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+IRS Direct File — deliberate
+mandate posture with
+appropriation-only fallback
+[Source 271]
+
+The bill departs from the standard “appropriate funds, do not mandate design”
+Byrd-survival posture in Sec 102. This is intentional: Findings (4) and (5) document
+the November 2025 executive discontinuation of Direct File after the 2024 pilot and
+2025 expansion, and the $100M+ commercial-tax-prep lobbying record. The Sec
+102(a) executive-proof language is a direct statutory response — a free filing option
+requires permanence to survive future executive reversal. This creates Byrd
+exposure the parallel structures (childcare credit, IRS enforcement, supply grants)
+do not face.
+(1) Primary defense. The Sec 102(d) $[TBD] mandatory appropriation provides the
+direct revenue effect anchoring all four subsections. Functional specifications in (b)
+and contracting prohibition in (c) operate as terms and conditions of the (d) outlay
+rather than free-standing regulatory mandates. MacDonough's
+current-policy-baseline reasoning in the June–July 2025 OBBBA proceedings
+[Source 271] provides additional support for treating the recently-operating Direct
+File program as a baseline reference rather than novel policy.
+(2) Fallback if Sec 102(a)–(c) are struck. The Sec 102(d) appropriation alone is
+Byrd-safe — follows IRA §10301(1)(B) Direct File feasibility-study precedent that
+SURVIVED the 2022 Byrd bath. If (a)–(c) are removed by Parliamentarian
+challenge, the surviving appropriation funds operations under existing Treasury/IRS
+statutory authority (31 U.S.C. §321, 26 U.S.C. §7801). Reporting and operational
+standards would then be re-imposed administratively by Treasury Secretary letter —
+the post-IRA Yellen-letter pattern after the Strategic Operating Plan mandate strike.
+The program continues operationally even if statutory permanence is lost.
+(3) Parliamentarian engagement. Pre-introduction Byrd letter from Senate Budget
+Committee staff required. Sec 102(b) functional specifications and Sec 102(c)
+contracting prohibition are the most exposed provisions; counsel should request
+advisory ruling on these specifically. Sec 102(a) executive-proof language and Sec
+102(d) appropriation are anticipated to survive together. This is a defensible posture,
+not an automatic Byrd-safe path — brief counsel and committee staff on the
+deliberate trade.
+
+IRC §7529 / §7530A
+section-number
+verification
+
+Counsel to confirm both §7529 (pre-filled returns) and §7530A (Direct File program)
+are unoccupied in the current Internal Revenue Code after IRA 2022 and OBBBA
+2025 amendments. Chapter 77 section-number landscape has shifted post-IRA; if
+either number is occupied or reserved, alternate placements should be identified
+before introduction. Office of Legislative Counsel resolution required.
+
+§7529 default-enrollment
+Byrd fallback
+
+The Sec 101(c) default enrollment provision (taxable years beginning after
+December 31, 2029) is the highest Byrd-risk provision in Title I. Although the IRC
+amendment carries direct compliance and revenue effects, program-design
+mandates ride the “merely incidental” test edge. Fallback structure if default
+enrollment is struck: the voluntary phase (taxable years 2028–2029) survives under
+the Sec 101 IRC amendment alone, with default enrollment re-imposed
+administratively by Treasury under existing discretion. The pre-filled return program
+continues operationally either way. Counsel should request advisory ruling on Sec
+101(c) specifically before introduction.
+
+REF_RDNC_Leg02_Bill1_COLT_2027_4 · Page 7 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 64
+
+
+RDNC Bill Framework · COLT Act of 2027 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Childcare credit income
+thresholds and phase-out
+
+Treasury to model optimal phase-out range. ARPA expanded childless-worker EITC
+in 2021 at $75K–$150K phase-out. For childcare credit: target near-universal
+coverage up to 300% of federal poverty level (≈ $90,000 for a family of four in 2027).
+Request CBO dynamic score supplement capturing labor-force-participation gains
+from childcare access.
+
+Penalty enhancement
+multiplier (Sec. 104)
+
+DOJ input required. Align with existing substantial understatement penalty
+framework (IRC §6662) — consider 40%→75% for repeat high-income violations.
+Avoid creating new penalty categories with novel policy architecture that could be
+characterized as merely incidental in Byrd analysis — enhance existing IRC penalty
+structures rather than creating new ones.
+
+Executive liability
+provision (Sec. 104(b))
+
+Expand existing Responsible Person doctrine under IRC §6672 (trust fund recovery
+penalty). DOJ and Treasury joint drafting recommended. Keep within existing §6672
+framework rather than creating a new liability mechanism — novel architecture risks
+Byrd challenge on policy-vs-budget grounds.
+
+Provider supply grant —
+terms and conditions of
+outlay [Source 271]
+
+NEW: Frame childcare supply grants as terms and conditions of outlay to existing
+CCDBG pipeline (42 U.S.C. §9858) rather than as a new programmatic mandate.
+Direct CCDBG supplement appropriations have the cleanest Byrd profile. HHS to
+provide childcare desert mapping data for targeting. Avoid wage-parity or
+quality-standard conditions tied to grant eligibility — most analogous to BBBA
+wage-parity provisions flagged as high Byrd risk in advisory rulings.
+
+Byrd Rule certification —
+OBBBA 2025 is controlling
+precedent [Source 271]
+
+The One Big Beautiful Bill Act (July 4, 2025) [Source 271] is the most current Byrd
+bath precedent. What survived from IRA (the model): all tax credits with direct
+revenue effects; IRS enforcement appropriation; direct Medicare/Medicaid spending
+adjustments. What was struck: Strategic Operating Plan mandates; mandatory
+SNAP state cost-share; Medicaid provider-tax-cap regulatory change (~$250B
+struck despite dollar magnitude). MacDonough's current-policy baseline ruling
+(June–July 2025) allowed TCJA-extension scoring against current policy. Senate
+Parliamentarian contact (pre-introduction) and bills-committee staff review are
+required for each provision. Request a pre-introduction Byrd letter from Senate
+Budget Committee staff.
+
+CBO cost estimate
+
+Required before introduction. Full score including: enforcement revenue offsets (IRA
+ROI precedent); childcare credit cost; Direct File operational appropriation; provider
+supply grant appropriation. Request dynamic scoring supplement from CBO
+capturing labor-force-participation gains and childcare-induced earnings increases
+as budget offsets.
+
+REF_RDNC_Leg02_Bill1_COLT_2027_4 · REF_ Reference Layer · Reform Democrats of the New Commonwealth · 2026
+Legal disclaimer applies — see page 1. This framework requires licensed legislative counsel review before introduction.
+Originally conceived and authored by a concerned American citizen. Developed with the assistance of Claude (Anthropic). The ideas
+belong to anyone willing to fight for them.
+
+REF_RDNC_Leg02_Bill1_COLT_2027_4 · Page 8 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 65
+
+
+PART VII · THE LEGISLATIVE SERIES
+
+BILL 2
+
+IIC
+Infrastructure & Industrial Capacity Act of 2027
+Phase I · Track A · v_4
+
+Reproduced in full from the canonical drafted bill. No operative text has been altered in consolidation.
+
+PROJECT ARA 2028 · 66
+
+
+RDNC Bill Framework · IIC Act of 2027 · REF_ · 2026
+
+Reform Democrats of the New Commonwealth · Project ARA 2028
+Legislative Ecosystem Document Leg03 of Leg14
+
+Infrastructure & Industrial Capacity Act of 2027
+Bill Framework & Legislative Brief
+Phase I · Track A · Budget Reconciliation Vehicle · Phase I · Track A · Months 6–24
+
+LEGAL DISCLAIMER — POLICY DISCUSSION DOCUMENT
+This document is a policy discussion framework and bill scaffold. It is not formally introduced legislation, has not been
+reviewed by licensed legislative counsel, and does not constitute legal advice of any kind.
+All provisions marked [TBD] — including dollar amounts, specific IRC section numbers, penalty thresholds,
+appropriation amounts, and CBO scoring figures — require resolution by licensed legislative drafting counsel (the
+Office of Legislative Counsel for the House or Senate, as applicable), relevant agency technical staff, and the
+Congressional Budget Office before introduction as formal legislation.
+Constitutional arguments, legal analyses, and statutory framings presented herein are analytical assessments
+developed for policy planning purposes. They are not legal opinions and have not been reviewed or validated by
+licensed legal counsel. This document identifies constitutional and legal risks requiring independent review — those
+identifications are planning guidance, not legal conclusions.
+This framework was produced by the Reform Democrats of the New Commonwealth (RDNC), a private citizen policy
+research organization. It is not affiliated with any sitting Member of Congress, congressional office, government
+agency, or political party organization in any official capacity.
+Consultation with licensed legislative counsel, the Congressional Budget Office, and relevant agency
+technical staff is required before any framework in this series may be introduced as formal legislation.
+Distribution is subject to RDNC classification protocols (REF_ layer: internal use and trusted partners only).
+
+Phase I · Track A · Budget Reconciliation Vehicle · Bill 2
+
+Part I — Legislative Brief (Non-Technical Summary)
+Designed for staffers, coalition partners, journalists, and elected officials. Explains what this bill does, why it uses the
+legislative vehicle it does, who benefits, and how to defend it.
+
+AT A GLANCE
+Bill Title
+
+Infrastructure & Industrial Capacity Act of 2027
+
+Short Title (Cite As)
+
+The IIC Act of 2027
+
+Legislative Vehicle
+
+Budget Reconciliation (simple Senate majority)
+
+Phase / Track
+
+Phase I · Track A — Months 6–24
+
+Primary Committees
+
+Ways & Means; Energy & Commerce; Transportation & Infrastructure; Armed
+Services
+
+REF_RDNC_Leg03_Bill2_IIC_2027_4 · Page 1 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 67
+
+
+RDNC Bill Framework · IIC Act of 2027 · REF_ · 2026
+
+Dependencies
+
+Bill 1 (COLT Act) political momentum; preferably passed in same reconciliation
+package
+
+Core Framing
+
+Jobs + Supply chain resilience + National security
+
+Deficit Impact
+
+Structured for neutrality within 10-year budget window via ROI-positive investments
+
+Byrd Rule Status
+
+All provisions carry direct budget impact — reconciliation eligible
+
+What This Bill Does:
+Four investments, each framed around national security and job creation — the two arguments that survive the widest
+range of political opposition:
+1. Modernizes the national energy grid and accelerates domestic clean energy production — solar, wind,
+hydroelectric, and nuclear. Frames this explicitly as grid security and energy independence, not environmental
+policy.
+2. Funds domestic semiconductor fabrication and next-generation battery manufacturing. These are
+national security assets — dependence on foreign supply chains for the components that run every weapons
+system, communication network, and critical infrastructure element is a documented strategic vulnerability.
+3. Modernizes airports and the USPS delivery network. These are job-dense, geographically distributed
+investments that produce visible, local improvements — exactly the kind of tangible benefit that builds Phase I
+political capital.
+4. Dramatically expands the federal inspector and auditor workforce. Corporations have systematically
+defunded the agencies that regulate them. Inspectors are the mechanism by which every other regulatory law
+becomes real. This provision is the accountability infrastructure that makes the rest of the RDNC agenda
+enforceable.
+
+Why Reconciliation:
+All four investment areas carry direct, scoreable budget impact — capital expenditures, workforce appropriations, and
+revenue effects from grid modernization and enforcement recovery. The national security framing is not rhetorical — it
+is legally relevant, as defense-adjacent spending has historically received broader reconciliation latitude. Ideally this
+bill is packaged in the same reconciliation vehicle as Bill 1 (COLT Act) to reduce procedural exposure.
+
+Who Benefits:
+• American workers: construction, manufacturing, logistics, and inspection jobs — geographically distributed
+and impossible to offshore.
+• Domestic manufacturers: semiconductor and battery investment reduces input costs and supply chain
+vulnerability for every industry that depends on these components.
+• Rural and suburban communities: energy grid modernization and airport investment are not coastal priorities
+— they are evenly distributed infrastructure upgrades.
+• The enforcement ecosystem: inspector expansion restores the capacity to enforce existing law across every
+sector — food safety, financial markets, environmental standards, workplace safety.
+• Long-term fiscal position: infrastructure investment has documented positive returns to GDP. Grid
+modernization reduces energy costs. Enforcement expansion pays for itself in recovered revenue and penalties.
+
+REF_RDNC_Leg03_Bill2_IIC_2027_4 · Page 2 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 68
+
+
+RDNC Bill Framework · IIC Act of 2027 · REF_ · 2026
+
+ATTACK
+SURFACE
+
+"Too expensive." "Government picking winners." "Green energy mandate." These are the three
+predictable lines. All are pre-answerable with the national security frame.
+
+DEFENSE
+STRATEGY
+
+"We are building what China and our adversaries are building. We cannot outsource the
+components that power our military, our hospitals, and our grid." Lead with semiconductor and
+battery manufacturing — hardest to attack as frivolous. Energy investment follows as grid
+security, not climate policy. Inspector expansion is framed as fraud reduction and cost savings,
+not bureaucracy.
+
+FALLBACK
+POSITION
+
+If the full bill faces Byrd Rule challenges, semiconductor and battery investment + inspector
+expansion are the most defensible core — both have clear, direct budget impact and the
+strongest national security rationale. Energy grid and USPS modernization can be separated
+into executive action or a subsequent standalone bill.
+
+Sequencing Note: This bill is most powerful when passed in the same reconciliation package as Bill 1 (COLT Act).
+Together they deliver three immediate, tangible benefits: lower tax friction, lower childcare costs, and visible
+infrastructure investment in communities across the country. Passed separately, each is defensible. Passed together,
+they constitute a governing statement.
+
+Part II — Bill Framework
+This is the structural scaffold of the bill. Dollar amounts, specific agency allocations, and CBO scoring are flagged as [TBD]
+— these require congressional counsel, relevant agency technical staff, and CBO scoring before introduction. The
+framework below is ready for that conversion.
+119TH CONGRESS
+
+1ST SESSION
+
+H. R. ____
+
+To provide for reconciliation pursuant to the concurrent resolution on the budget; to modernize
+domestic energy infrastructure and supply chains; to invest in domestic semiconductor and
+battery manufacturing capacity; to modernize federal transportation and delivery infrastructure;
+to expand federal enforcement and accountability capacity; and for other purposes.
+
+A B I L L
+Be it enacted by the Senate and House of Representatives of the United States of America in
+Congress assembled,
+SEC. 1. SHORT TITLE.
+This Act may be cited as the "Infrastructure and Industrial Capacity Act of 2027" or the
+"IIC Act of 2027".
+SEC. 2. FINDINGS AND PURPOSE.
+(a) FINDINGS.—Congress finds the following:
+(1) The United States electrical grid operates on aging infrastructure with significant
+vulnerability to cyberattack, extreme weather, and cascading failure.
+(2) Domestic semiconductor manufacturing capacity has declined from approximately
+37 percent of global production in 1990 to approximately 12 percent, creating
+documented supply chain vulnerabilities in defense, healthcare, and critical
+infrastructure systems.
+(3) Next-generation battery technology is a strategic national security asset
+underpinning domestic energy transition, military readiness, and supply chain
+resilience.
+
+REF_RDNC_Leg03_Bill2_IIC_2027_4 · Page 3 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 69
+
+
+RDNC Bill Framework · IIC Act of 2027 · REF_ · 2026
+
+(4) The Federal Aviation Administration has identified significant airport
+infrastructure deficits that reduce capacity and compromise safety margins.
+(5) The United States Postal Service requires capital investment in fleet
+electrification and delivery modernization to remain viable as a universal service
+provider.
+(6) Federal enforcement capacity across regulatory agencies has declined substantially,
+reducing the government's ability to detect fraud, recover revenue, and enforce
+existing law.
+(b) PURPOSE.—The purposes of this Act are to—
+(1) modernize domestic energy infrastructure to reduce vulnerability and lower long-term
+costs;
+(2) restore domestic manufacturing capacity in semiconductor and battery sectors
+essential to national security;
+(3) modernize federal transportation and delivery infrastructure; and
+(4) rebuild federal enforcement capacity to recover revenue, reduce fraud, and enforce
+existing statutory obligations.
+SEC. 3. BUDGETARY COMPLIANCE.
+(a) RECONCILIATION.—The provisions of this Act are enacted pursuant to reconciliation
+instructions in the concurrent resolution on the budget for fiscal year 2027.
+(b) DEFICIT NEUTRALITY.—The provisions of this Act shall be implemented in a manner that
+does not increase the Federal deficit over the 10-year budget window, as determined by the
+Congressional Budget Office. Where capital investments produce long-term Federal revenue
+benefits, such benefits shall be counted toward budget neutrality in accordance with
+applicable CBO scoring rules.
+(c) BYRD RULE COMPLIANCE.—All provisions are designed to produce direct budgetary effects.
+Any provision determined by the Senate Parliamentarian to be extraneous under 2 U.S.C.
+§644 shall be severable from the remainder of the Act.
+
+TITLE I — ENERGY GRID MODERNIZATION AND DOMESTIC CLEAN ENERGY
+SEC. 101. GRID MODERNIZATION INVESTMENT FUND.
+(a) ESTABLISHMENT.—The Secretary of Energy shall establish a Grid Modernization Investment
+Fund to support capital investment in the resilience, security, and capacity of the
+domestic electrical grid.
+(b) APPROPRIATION.—$[TBD] for each of fiscal years 2028 through 2035.
+(c) ELIGIBLE USES.—Funds shall be available for transmission line modernization and
+expansion; grid cybersecurity hardening and redundancy systems; distributed energy
+resource integration; grid-scale energy storage deployment; and interconnection upgrades
+between regional grid systems.
+(d) NATIONAL SECURITY DESIGNATION.—The Secretary shall coordinate with the Department of
+Defense and the Cybersecurity and Infrastructure Security Agency to ensure grid
+modernization activities funded under this section address identified national security
+vulnerabilities.
+SEC. 102. DOMESTIC CLEAN ENERGY PRODUCTION INVESTMENT.
+(a) IN GENERAL.—The Secretary of Energy shall provide grants, loans, and loan guarantees
+for the development and expansion of domestic clean energy production facilities,
+including—
+(1) solar manufacturing and installation;
+(2) wind energy generation and component manufacturing;
+(3) hydroelectric generation and modernization; and
+(4) advanced nuclear energy development, including thorium-based and small modular
+reactor technologies.
+(b) DOMESTIC CONTENT REQUIREMENT.—Not less than [TBD] percent of components in
+federally-supported clean energy projects shall be manufactured in the United States.
+
+REF_RDNC_Leg03_Bill2_IIC_2027_4 · Page 4 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 70
+
+
+RDNC Bill Framework · IIC Act of 2027 · REF_ · 2026
+
+(c) WORKFORCE REQUIREMENT.—Projects receiving support under this section shall pay
+prevailing wages as determined by the Secretary of Labor and shall utilize registered
+apprenticeship programs where available.
+(d) APPROPRIATION.—$[TBD] for fiscal years 2028 through 2035.
+[Note to counsel: Sec 102(b) and (c) face Byrd Rule risk. Three-level fallback ladder
+documented in Part III. Brief Senate Budget staff on deliberate posture and prepared
+restructure language for Level 2 (IRA §§48/48E/45/45Y bonus credit conversion) if
+(b)/(c) struck.]
+
+TITLE II — DOMESTIC SEMICONDUCTOR AND BATTERY MANUFACTURING
+SEC. 201. SEMICONDUCTOR MANUFACTURING INVESTMENT PROGRAM.
+(a) IN GENERAL.—The Secretary of Commerce shall establish a Domestic Semiconductor
+Manufacturing Investment Program to expand domestic fabrication capacity for
+semiconductors essential to defense, healthcare, and critical infrastructure systems.
+(b) AUTHORIZED ACTIVITIES.—The Program shall provide direct grants for new or expanded
+fabrication facility construction; investment tax credits for qualifying capital
+expenditures; workforce development grants for semiconductor manufacturing skills training;
+and research and development grants for next-generation fabrication processes.
+(c) DEFENSE COORDINATION.—The Secretary of Commerce shall coordinate with the Secretary
+of Defense to prioritize investment in semiconductor categories identified as critical
+defense supply chain vulnerabilities.
+(d) ANTI-FOREIGN ADVERSARY PROVISION.—No entity substantially owned or controlled by a
+foreign adversary (as defined in applicable Federal law; see Part III for citation
+verification) shall be eligible for support under this section.
+(e) APPROPRIATION.—$[TBD] for fiscal years 2028 through 2035.
+[Note to counsel: CHIPS Act ($52.7B, Pub. L. 117-167, 2022) provides baseline. Counsel
+to assess additionality and coordination per Part III guidance.]
+SEC. 202. NEXT-GENERATION BATTERY MANUFACTURING PROGRAM.
+(a) IN GENERAL.—The Secretary of Energy shall establish a Next-Generation Battery
+Manufacturing Program to expand domestic production of advanced battery technologies for
+energy storage, transportation, and defense applications.
+(b) AUTHORIZED ACTIVITIES.—The Program shall support manufacturing facility construction
+and expansion; materials processing and supply chain development; battery recycling and
+second-life technology; and workforce training for battery manufacturing.
+(c) ALLIED NATION COORDINATION.—The Secretary shall pursue cooperative agreements with
+allied nations to develop resilient battery material supply chains that reduce dependence
+on foreign adversary sources.
+(d) APPROPRIATION.—$[TBD] for fiscal years 2028 through 2035.
+
+TITLE III — TRANSPORTATION AND DELIVERY INFRASTRUCTURE
+SEC. 301. AIRPORT MODERNIZATION PROGRAM.
+(a) IN GENERAL.—The Secretary of Transportation shall establish an Airport Modernization
+Program to fund capital investment in domestic airport infrastructure.
+(b) ELIGIBLE PROJECTS.—Grants under this section shall be available for terminal
+modernization and capacity expansion; runway and taxiway rehabilitation; air traffic
+control facility upgrades; ground transportation integration improvements; and
+accessibility and passenger experience upgrades.
+(c) AIR TRAFFIC CONTROLLER WORKFORCE.—The Administrator of the Federal Aviation
+Administration shall develop and implement a plan to hire and train not fewer than [TBD]
+additional certified air traffic controllers over the 5-year period following enactment.
+(d) APPROPRIATION.—$[TBD] for fiscal years 2028 through 2033.
+SEC. 302. UNITED STATES POSTAL SERVICE MODERNIZATION.
+
+REF_RDNC_Leg03_Bill2_IIC_2027_4 · Page 5 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 71
+
+
+RDNC Bill Framework · IIC Act of 2027 · REF_ · 2026
+
+(a) FLEET ELECTRIFICATION.—The Postmaster General shall develop and implement a plan for
+the electrification of the USPS delivery vehicle fleet, including acquisition of electric
+delivery vehicles; installation of charging infrastructure at postal facilities; and
+workforce training for electric vehicle maintenance.
+(b) DELIVERY NETWORK MODERNIZATION.—The Postmaster General shall invest in next-generation
+sorting, tracking, and delivery systems to maintain USPS competitiveness as a universal
+service provider.
+(c) BUDGET RESTORATION.—$[TBD] appropriated to the USPS to restore operating capacity
+reduced by prior administrative actions, subject to a modernization plan approved by the
+Postal Regulatory Commission.
+(d) APPROPRIATION.—$[TBD] for fiscal years 2028 through 2033.
+
+TITLE IV — FEDERAL ENFORCEMENT AND ACCOUNTABILITY CAPACITY
+SEC. 401. FEDERAL INSPECTOR AND AUDITOR WORKFORCE EXPANSION.
+(a) IN GENERAL.—The heads of covered agencies shall expand the inspector, auditor, and
+enforcement workforce to levels sufficient to fulfill each agency's statutory enforcement
+obligations, under existing OPM competitive service hiring authorities (5 U.S.C. §3301
+et seq.).
+(b) COVERED AGENCIES.—For purposes of this section, covered agencies include—
+(1) the Environmental Protection Agency;
+(2) the Food and Drug Administration;
+(3) the Occupational Safety and Health Administration;
+(4) the Securities and Exchange Commission;
+(5) the Commodity Futures Trading Commission;
+(6) the Federal Trade Commission; and
+(7) such other agencies as the Director of the Office of Management and Budget
+identifies as having significant enforcement capacity deficits.
+(c) WORKFORCE TARGETS.—Each covered agency head shall, within 180 days of enactment,
+submit to Congress an enforcement capacity assessment, establish a 5-year workforce
+expansion target, and publish annual enforcement activity reports including penalties
+assessed, penalties collected, and revenue recovery attributable to enforcement activities.
+(d) APPROPRIATION.—$[TBD] for each of fiscal years 2028 through 2033 for covered agencies
+to carry out this section.
+[Note to counsel: Enforcement expansion is self-funding over the budget window — CBO
+to score enforcement revenue recovery as budget offset. Sec 401(c) workforce targets
+and reporting function as terms and conditions of (d) outlay; if struck, (d)
+appropriation alone survives with reporting/targets re-imposed administratively by
+OMB. See Part III for fallback structure.]
+SEC. 402. INSPECTOR GENERAL INDEPENDENCE AND CAPACITY.
+(a) IN GENERAL.—$[TBD] appropriated to the Council of the Inspectors General on Integrity
+and Efficiency (CIGIE) to expand Inspector General office capacity across the Federal
+Government.
+(b) INDEPENDENCE PROTECTIONS.—No appropriation under this section may be conditioned on
+any requirement that an Inspector General submit findings for prior executive review
+before transmission to Congress.
+(c) REPORTING.—Each Inspector General receiving funds under this section shall submit an
+annual report to Congress including total fraud and waste identified, total funds
+recovered, and enforcement referrals made and outcomes.
+
+TITLE V — IMPLEMENTATION
+SEC. 501. IMPLEMENTATION TIMELINE.
+(a) YEAR 1 (2028).—Grid Modernization Fund operational; Semiconductor Program accepting
+
+REF_RDNC_Leg03_Bill2_IIC_2027_4 · Page 6 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 72
+
+
+RDNC Bill Framework · IIC Act of 2027 · REF_ · 2026
+
+applications; Airport Modernization grants awarded (first round); USPS electrification
+plan submitted; agency enforcement capacity assessments submitted to Congress.
+(b) YEAR 3 (2030).—First domestic semiconductor facilities operational; grid modernization
+milestone review; enforcement workforce at 50 percent of 5-year target; USPS fleet
+electrification at [TBD] percent.
+(c) YEAR 5 (2032).—Comprehensive program review and reauthorization assessment;
+enforcement workforce at 100 percent of targets; GDP and employment impact assessment.
+
+Part III — Notes for Congressional Counsel
+The following items require resolution by relevant agency technical staff and congressional counsel before introduction.
+
+REF_RDNC_Leg03_Bill2_IIC_2027_4 · Page 7 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 73
+
+
+RDNC Bill Framework · IIC Act of 2027 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Sec 102
+wage/apprenticeship +
+domestic-content
+mandates — deliberate
+posture with three-level
+fallback ladder [Source
+271]
+
+Sec 102 carries two provisions Group G research identifies as Byrd-exposed: Sec
+102(b) domestic content requirement and Sec 102(c) prevailing-wage and
+apprenticeship mandate. Both are retained as primary bill text because the
+labor-standards and domestic-content signaling carries political value beyond their
+structural Byrd survival. The bill is structured around a three-level fallback ladder so
+that program continuity and policy substance survive even if (b) and (c) are struck.
+(1) Primary structure. Sec 102(b) domestic content + Sec 102(c) prevailing-wage
+and apprenticeship requirements operate as conditions on federally-supported clean
+energy projects. Sec 102(d) $[TBD] mandatory appropriation provides the direct
+revenue effect anchoring all four subsections. Conditions on (a)–(c) function as
+terms and conditions of the (d) outlay rather than free-standing regulatory mandates.
+MacDonough's current-policy-baseline reasoning [Source 271] in the June–July
+2025 OBBBA proceedings provides additional support where prior-Congress IRA
+structure is the reference baseline.
+(2) Mid-level fallback if Sec 102(b) and/or (c) are struck. Restructure surviving
+content as IRA §§48/48E/45/45Y bonus credit architecture: domestic content +
+Davis-Bacon compliance unlock a higher tax credit rate rather than operating as
+mandates. This is the structurally cleanest path Group G research identifies — IRA
+§§48/48E/45/45Y bonus credits SURVIVED the 2022 Byrd bath as tax credits with
+direct revenue effects (meeting or failing the threshold changes tax liability directly).
+Conversion preserves both labor-standards and domestic-content policy substance
+with the Byrd posture changed to credits-with-eligibility-thresholds rather than
+grants-with-mandates. Counsel should have Level 2 restructure language drafted
+and ready before introduction.
+(3) Bottom-level fallback if Sec 102 is struck wholesale. The Sec 102(d)
+appropriation alone is Byrd-safe — direct mandatory appropriation for clean energy
+production under existing DOE statutory authority (Energy Policy Act, 42 U.S.C.
+§16231 et seq.). If (a)–(c) are removed by Parliamentarian challenge, the surviving
+appropriation funds the program operationally. Domestic-content and wage
+standards would then be re-imposed administratively by DOE in grant award terms
+and conditions — the post-IRA Yellen-letter pattern after the IRS Strategic Operating
+Plan mandate strike. The clean-energy investment program continues operationally
+even if statutory direction is lost.
+(4) Parliamentarian engagement. Pre-introduction Byrd letter from Senate Budget
+Committee staff required. Sec 102(c) prevailing-wage and apprenticeship mandate
+is the most exposed provision under ARPA $15 minimum wage precedent —
+counsel should request advisory ruling on (c) specifically, with prepared (b)→(c)
+restructure language ready for a Level 2 conversion if needed. Sec 102(a) clean
+energy authority and Sec 102(d) appropriation are anticipated to survive together.
+This is a defensible posture, not an automatic Byrd-safe path — brief counsel and
+committee staff on the deliberate trade and the prepared fallback architecture.
+
+REF_RDNC_Leg03_Bill2_IIC_2027_4 · Page 8 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 74
+
+
+RDNC Bill Framework · IIC Act of 2027 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Grid modernization
+appropriation (Sec. 101) —
+direct appropriation,
+Byrd-safe
+
+Direct mandatory appropriation to DOE grid programs under existing FPA (16 U.S.C.
+§824) and Energy Act (42 U.S.C. §16231) authority is Byrd-safe. BIL (2021) invested
+$65B in grid — cite the infrastructure gap. Avoid creating new regulatory frameworks
+or DOE rulemaking mandates in the reconciliation vehicle; operate under existing
+DOE authority after appropriation. CBO to score long-term revenue benefits from
+reduced outage costs and increased grid efficiency.
+
+Clean energy production
+appropriation (Sec. 102) —
+IRA additionality
+
+IRA (2022) provides $369B baseline for clean energy production. Counsel to assess
+additionality carefully: supplement, do not duplicate IRA credit mechanisms. Battery
+manufacturing (Sec. 202): structure as grants for manufacturing capacity (direct
+appropriation) rather than tax credits to avoid duplicating IRA §45X manufacturing
+credit. Where IIC clean energy provisions overlap with IRA, frame as supplements to
+existing Title 26 authority rather than parallel new mechanisms.
+
+Inspector workforce
+appropriation (Sec. 401) —
+direct appropriation
+structure [Source 271]
+
+NEW: The OBBBA 2025 Byrd bath [Source 271] confirms that direct mandatory
+appropriations to agency staffing under EXISTING OPM hiring authorities are
+Byrd-safe; novel inspectorate architectures with new definitions, titles, and
+governance are at risk. REQUIRED STRUCTURE: appropriate funds directly to
+covered-agency Inspector workforce under existing OPM competitive service
+authorities (5 U.S.C. §3301 et seq.). Do NOT create a new Inspector General-type
+body or a new Inspector category with statutory duties and pay structures — that
+architecture faces merely-incidental Byrd analysis. Sec 401(c) workforce targets and
+reporting function as terms and conditions of (d) outlay; if struck, the appropriation
+continues with reporting/targets re-imposed administratively by OMB. OMB
+agency-by-agency capacity deficit assessment and CBO
+enforcement-revenue-recovery scoring as budget offset are required.
+
+Semiconductor
+appropriation (Sec. 201)
+
+CHIPS Act ($52.7B, Pub. L. 117-167, 2022) is the precedent. CHIPS was
+non-reconciliation by deliberate choice — its programmatic architecture (eligibility
+criteria, guardrails, workforce requirements) cannot survive Byrd. For IIC:
+appropriate funds directly to the existing CHIPS program (15 U.S.C. §4652) as a
+supplement. Target defense-critical categories not fully covered by original CHIPS
+allocation. DoD supply chain assessment required. Avoid recreating CHIPS
+programmatic architecture; supplement existing program.
+
+Airport and USPS
+appropriations (Secs. 301,
+302)
+
+Airport (Sec. 301): estimate $10–15B in unmet airport capital needs under existing
+FAA Airport Improvement Program (49 U.S.C. §47101 et seq.). ATC workforce plan
+to be developed with FAA Administrator under existing FAA authority. USPS (Sec.
+302): Postal Regulatory Commission to certify modernization plan before funds
+released — prevents funds being used to reverse prior service reductions rather
+than modernize. ARPA 2021 USPS electrification appropriation precedent supports
+Byrd survival. Both are direct appropriations with clean Byrd profiles if structured
+without new programmatic mandates.
+
+REF_RDNC_Leg03_Bill2_IIC_2027_4 · Page 9 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 75
+
+
+RDNC Bill Framework · IIC Act of 2027 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Anti-foreign-adversary
+citation verification (Sec.
+201(d))
+
+Counsel to verify the operative cross-reference for the foreign-adversary definition.
+Multiple potentially applicable statutes exist post-2024: Secure and Trusted
+Communications Networks Act (47 U.S.C. §1608), Foreign Adversary
+Communications Reporting Act, Section 1758 of NDAA, and EO 14034 framework.
+Office of Legislative Counsel resolution required before introduction; align with
+controlling export control regime in force at time of drafting.
+
+Byrd Rule certification —
+OBBBA 2025 controlling
+[Source 271]
+
+The OBBBA Byrd bath (July 2025) [Source 271] is the most current precedent. IIC is
+at risk on any provision that: (a) creates new regulatory architectures (new
+inspectorate, new domestic-content enforcement mechanism, new USPS or FAA
+program frameworks); (b) includes policy conditions on infrastructure grants that
+outweigh the budget effect; or (c) duplicates existing IRA credit mechanisms in a
+way the Parliamentarian characterizes as redundant. What survived OBBBA: all
+IRA-model tax credits; direct appropriations to existing agency accounts. What was
+struck: REINS Act, EPA passenger-vehicle emissions repeal, NEPA fee-for-bypass
+— all regulatory policy dressed as budget. Keep IIC provisions as direct
+appropriations to existing agency accounts under existing statutory authority. Senate
+Parliamentarian contact (pre-introduction) and bills-committee staff review required
+for each provision.
+
+Packaging with Bill 1
+(COLT Act)
+
+Strong preference is single reconciliation package with COLT. If packaged
+separately, introduce in same reconciliation window. Combined reconciliation
+package should be reviewed as a unified Byrd submission — interactions between
+IIC and COLT provisions can create unintended Byrd exposure if scored separately.
+Both bills carry deliberate Byrd-exposure postures (COLT Direct File mandate; IIC
+Sec 102 wage/content mandates) — combined Parliamentarian engagement should
+address both as a deliberate institutional pattern, not isolated bets.
+
+CBO cost estimate
+
+Required before introduction. Full score including: grid modernization revenue
+benefits (reduced outage costs, increased efficiency); semiconductor and battery
+manufacturing supply-chain offsets; airport and USPS infrastructure benefits;
+enforcement revenue recovery (Title IV ROI). Note: infrastructure investment CBO
+methodology often understates long-term GDP benefits. Counsel to request dynamic
+scoring supplement capturing GDP, employment, and supply-chain resilience
+effects.
+
+REF_RDNC_Leg03_Bill2_IIC_2027_4 · REF_ Reference Layer · Reform Democrats of the New Commonwealth · 2026
+Legal disclaimer applies — see page 1. This framework requires licensed legislative counsel review before introduction.
+Originally conceived and authored by a concerned American citizen. Developed with the assistance of Claude (Anthropic). The ideas
+belong to anyone willing to fight for them.
+
+REF_RDNC_Leg03_Bill2_IIC_2027_4 · Page 10 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 76
+
+
+PART VII · THE LEGISLATIVE SERIES
+
+BILL 3
+
+ACFM
+Anti-Corruption & Fair Markets Act of 2027
+Phase I · Track C · v_4
+
+Reproduced in full from the canonical drafted bill. No operative text has been altered in consolidation.
+
+PROJECT ARA 2028 · 77
+
+
+RDNC Bill Framework · ACFM Act of 2027 · REF_ · 2026
+
+Reform Democrats of the New Commonwealth · Project ARA 2028
+Legislative Ecosystem Document Leg04 of Leg14
+
+Anti-Corruption & Fair Markets Act of 2027
+Bill Framework & Legislative Brief
+Phase I · Track C · Standalone Legislation · Phase I · Track C · Months 6–18
+
+LEGAL DISCLAIMER — POLICY DISCUSSION DOCUMENT
+This document is a policy discussion framework and bill scaffold. It is not formally introduced legislation, has not been
+reviewed by licensed legislative counsel, and does not constitute legal advice of any kind.
+All provisions marked [TBD] — including dollar amounts, specific U.S. Code section numbers, criminal penalty
+thresholds, appropriation amounts, and CBO scoring figures — require resolution by licensed legislative drafting
+counsel (the Office of Legislative Counsel for the House or Senate, as applicable), relevant agency technical staff,
+and the Department of Justice before introduction as formal legislation.
+Constitutional arguments, legal analyses, and statutory framings presented herein are analytical assessments
+developed for policy planning purposes. They are not legal opinions and have not been reviewed or validated by
+licensed legal counsel. This document identifies constitutional and legal risks requiring independent review — those
+identifications are planning guidance, not legal conclusions.
+This framework was produced by the Reform Democrats of the New Commonwealth (RDNC), a private citizen policy
+research organization. It is not affiliated with any sitting Member of Congress, congressional office, government
+agency, or political party organization in any official capacity.
+Consultation with licensed legislative counsel, the Department of Justice, and relevant agency technical
+staff is required before any framework in this series may be introduced as formal legislation. Distribution is
+subject to RDNC classification protocols (REF_ layer: internal use and trusted partners only).
+
+Phase I · Track C · Standalone Legislation
+
+Strategic Note: This bill differs fundamentally from Bills 1 and 2. It requires 60 Senate votes. Its power is not
+primarily in passing. It is in the recorded vote. Every Senator who votes against it is on record opposing the
+principle that elected officials should follow the same rules as everyone else. Design the bill so that vote is
+indefensible.
+
+Part I — Legislative Brief (Non-Technical Summary)
+Designed for staffers, coalition partners, journalists, and elected officials. Explains what this bill does, why it uses the
+legislative vehicle it does, who benefits, and how to defend it.
+
+AT A GLANCE
+Bill Title
+
+Anti-Corruption & Fair Markets Act of 2027
+
+Short Title (Cite As)
+
+The ACFM Act of 2027
+
+REF_RDNC_Leg04_Bill3_ACFM_2027_4 · Page 1 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 78
+
+
+RDNC Bill Framework · ACFM Act of 2027 · REF_ · 2026
+
+Legislative Vehicle
+
+Standalone Legislation — 60-vote Senate threshold
+
+Phase / Track
+
+Phase I · Track C — Months 6–18
+
+Primary Committees
+
+Senate: Judiciary; Commerce; Finance. House: Judiciary; Financial Services
+
+Dependencies
+
+Political capital from Bills 1 & 2; public pressure campaign pre-launch
+
+Core Framing
+
+"Same rules for everyone." Simple. Unassailable. Repeat it.
+
+Primary Strategic Goal
+
+Force a recorded vote on accountability, regardless of passage
+
+Public Support
+
+Anti-corruption measures poll above 70% across party lines
+
+What This Bill Does:
+1. Bans congressional insider trading with criminal penalties. Members of Congress and their immediate
+families are prohibited from trading individual securities while in office. Violations are criminal, not civil.
+2. Mandates comprehensive financial disclosure for elected officials and senior appointees. Real-time
+disclosure (5 business days), qualifying blind trust requirements, and annual certification of compliance.
+3. Establishes graduated executive criminal liability for repeated corporate violations. Four-tier framework
+from civil penalties through mandatory minimum felony — modeled on the Responsible Corporate Officer
+doctrine (U.S. v. Park, 1975), with mens rea elements calibrated to penalty severity at each tier.
+4. Closes the revolving door. Extends and strengthens post-government employment restrictions for senior
+officials, regulators, and congressional staff under 18 U.S.C. §207.
+
+ATTACK
+SURFACE
+
+"Government overreach." "Chilling effect on public service." "Already have disclosure rules."
+Quiet bipartisan resistance is the real threat — members of both parties benefit from the current
+system.
+
+DEFENSE
+STRATEGY
+
+"Same rules for everyone." Do not over-explain. Every amendment that weakens the bill should
+be characterized publicly. Criminal penalties are essential — they are what distinguishes this
+from prior disclosure-only reforms that changed nothing.
+
+FALLBACK
+POSITION
+
+If criminal penalties face Senate opposition: accept enhanced civil penalties with mandatory
+disgorgement plus trading suspension. If revolving door provisions face constitutional challenge:
+narrow to 2-year cooling-off periods. Do not accept delay as a substitute.
+
+The Pressure Campaign: Introduce alongside a public pressure campaign. Launch sequence: (1) introduce the bill;
+(2) immediately publicize the names of every member who has made significant stock trades in the past 12 months;
+(3) ask each of them on record whether they support the bill.
+
+Part II — Bill Framework
+This is the structural scaffold of the bill. Dollar amounts, specific U.S. Code references, criminal penalty thresholds, and
+CBO scoring are flagged as [TBD] — these require licensed legislative counsel, the Department of Justice, and relevant
+agency technical staff before introduction. The framework below is ready for that conversion.
+119TH CONGRESS
+
+1ST SESSION
+
+S. ____
+
+REF_RDNC_Leg04_Bill3_ACFM_2027_4 · Page 2 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 79
+
+
+RDNC Bill Framework · ACFM Act of 2027 · REF_ · 2026
+
+To prohibit securities trading by Members of Congress on the basis of nonpublic information; to
+require comprehensive financial disclosure by Members of Congress and senior Federal officials;
+to establish graduated executive criminal liability for repeated corporate violations; to
+strengthen post-government employment restrictions; and for other purposes.
+
+A B I L L
+Be it enacted by the Senate and House of Representatives of the United States of America in
+Congress assembled,
+SEC. 1. SHORT TITLE.
+This Act may be cited as the "Anti-Corruption and Fair Markets Act of 2027" or the "ACFM
+Act of 2027".
+SEC. 2. FINDINGS AND PURPOSE.
+(a) FINDINGS.—Congress finds the following:
+(1) Public trust in Federal institutions is at historic lows, with a majority of
+Americans believing that elected officials use their positions for personal financial
+gain.
+(2) Members of Congress have access to material nonpublic information through their
+official duties that may affect the value of publicly traded securities.
+(3) Existing disclosure requirements under the STOCK Act of 2012 (Pub. L. 112-105) have
+not eliminated the practice of congressional trading on nonpublic information, and
+civil penalties have proven insufficient as deterrents.
+(4) Stock trading by a Member of Congress is private commercial activity, not a
+legislative act, and is therefore not protected by the Speech or Debate Clause under
+United States v. Brewster, 408 U.S. 501 (1972).
+(5) Corporate executives whose companies repeatedly violate Federal law face
+insufficient personal consequences, resulting in regulatory fines being treated as a
+cost of doing business.
+(6) The movement of senior Government officials directly into employment in industries
+they regulated undermines the independence and public credibility of Federal agencies.
+(b) PURPOSE.—The purposes of this Act are to—
+(1) prohibit securities trading by Members of Congress and their immediate families
+during periods of Congressional service, with criminal and civil enforcement;
+(2) establish comprehensive real-time financial disclosure for Members of Congress and
+senior Federal officials, with mandatory blind-trust requirements for covered holdings;
+(3) establish a graduated framework of executive accountability for repeated corporate
+violations, with mens-rea elements calibrated to penalty severity at each tier; and
+(4) strengthen post-government employment restrictions for senior Federal officials,
+senior congressional staff, and senior regulatory personnel.
+SEC. 3. CONSTITUTIONAL FOUNDATION.
+(a) SPEECH OR DEBATE.—The provisions of this Act, including the criminal prohibitions in
+Title I, regulate private commercial conduct of Members of Congress, not legislative acts
+or motivation for legislative acts. Prosecutions under this Act may proceed under United
+States v. Brewster, 408 U.S. 501 (1972), provided that the evidentiary segregation
+requirements of section 102(b) are observed.
+(b) ETHICS COMMITTEE PRIMARY ENFORCEMENT.—The primary civil enforcement structure
+established under section 102(a) preserves congressional self-discipline as a protected
+legislative activity under Eastland v. United States Servicemen's Fund, 421 U.S. 491
+(1975), with criminal referral to the Department of Justice limited to non-privileged
+evidence as required by United States v. Helstoski, 442 U.S. 477 (1979).
+(c) SEVERABILITY.—If any provision of this Act, or the application thereof to any person
+or circumstance, is held invalid, the remainder of this Act, and the application of such
+provision to other persons or circumstances, shall not be affected.
+
+REF_RDNC_Leg04_Bill3_ACFM_2027_4 · Page 3 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 80
+
+
+RDNC Bill Framework · ACFM Act of 2027 · REF_ · 2026
+
+TITLE I — CONGRESSIONAL SECURITIES TRADING PROHIBITION
+SEC. 101. PROHIBITION ON CONGRESSIONAL SECURITIES TRADING.
+(a) IN GENERAL.—No Member of Congress, nor any spouse, domestic partner, or dependent
+child of a Member, shall purchase or sell any covered security during any period of
+Congressional service.
+(b) COVERED SECURITY.—For purposes of this section, the term "covered security" means—
+(1) any individual security as defined in section 3(a)(10) of the Securities Exchange
+Act of 1934 (15 U.S.C. §78c(a)(10));
+(2) any commodity future or option on a commodity future; or
+(3) any digital asset or cryptocurrency with a transaction value above $[TBD].
+(c) PERMITTED INVESTMENTS.—The prohibition under subsection (a) shall not apply to—
+(1) diversified mutual funds;
+(2) index funds tracking broad-market indices, excluding sector-specific funds;
+(3) exchange-traded funds, excluding sector-specific funds;
+(4) United States Treasury securities;
+(5) investment-grade municipal bonds; and
+(6) assets held in a qualifying blind trust under section 202.
+(d) DURATION.—The prohibition under subsection (a) shall apply throughout the period of
+Congressional service and for the 180-day period immediately following separation from
+service.
+SEC. 102. CIVIL AND CRIMINAL ENFORCEMENT.
+(a) PRIMARY CIVIL ENFORCEMENT.—The Committee on Ethics of the House of Representatives
+and the Select Committee on Ethics of the Senate (the "Ethics Committees") shall have
+primary civil enforcement authority for violations of section 101. Civil penalties shall
+include—
+(1) disgorgement of all profit gained from the prohibited transaction, plus interest
+at the rate prescribed for delinquent Federal taxes;
+(2) civil fine equal to 10 percent of the profit gained; and
+(3) public disclosure of the violation on the chamber's official website not later
+than 48 hours after adjudication by the Ethics Committee.
+(b) CRIMINAL REFERRAL AND EVIDENTIARY SEGREGATION.—Not later than 30 days after
+adjudication of a violation under subsection (a), the Ethics Committee shall refer the
+matter to the Department of Justice for criminal review. Such referral—
+(1) shall transmit only non-privileged evidence, including brokerage records, public
+statements, and trading history;
+(2) shall not transmit any committee briefing, legislative-act record, or other
+material protected under the Speech or Debate Clause as construed in United States v.
+Helstoski, 442 U.S. 477 (1979); and
+(3) shall include a written certification by the Ethics Committee that the segregation
+requirements of this subsection have been observed.
+(c) CRIMINAL PENALTIES.—A Member of Congress who knowingly violates section 101 shall be
+subject to—
+(1) a fine of not less than 3 times the profit gained; and
+(2) imprisonment of not more than [TBD] years.
+(d) ENFORCEMENT BY MEMBERS.—Nothing in this section limits the authority of either chamber
+to discipline its own Members under article I, section 5, clause 2 of the Constitution.
+
+TITLE II — FINANCIAL DISCLOSURE
+SEC. 201. REAL-TIME DISCLOSURE.
+(a) IN GENERAL.—Section 103 of the Ethics in Government Act of 1978 (5 U.S.C. app.) is
+amended to require Members of Congress and covered senior Federal officials to disclose
+any reportable transaction not later than 5 business days after the date of the transaction.
+(b) COVERED SENIOR FEDERAL OFFICIAL.—For purposes of this section, the term "covered
+
+REF_RDNC_Leg04_Bill3_ACFM_2027_4 · Page 4 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 81
+
+
+RDNC Bill Framework · ACFM Act of 2027 · REF_ · 2026
+
+senior Federal official" means—
+(1) any individual serving in a position at level I, II, or III of the Executive
+Schedule (5 U.S.C. §§5312–5314);
+(2) any individual confirmed by the Senate to lead a Federal agency or independent
+regulatory commission;
+(3) any senior congressional staff member with annual compensation exceeding the
+threshold established under section 109 of the Ethics in Government Act of 1978; and
+(4) any senior regulatory staff member designated by the head of a Federal agency or
+independent regulatory commission.
+(c) PUBLIC AVAILABILITY.—Disclosures under this section shall be published on a
+publicly searchable Federal database not later than 1 business day after filing.
+(d) PENALTIES.—Failure to file a required disclosure within the time period required
+under subsection (a) shall result in a civil fine of $[TBD] per day of delinquency.
+SEC. 202. QUALIFYING BLIND TRUSTS.
+(a) ESTABLISHMENT.—A Member of Congress or covered senior Federal official with covered
+holdings exceeding $[TBD] shall transfer such holdings to a qualifying blind trust not
+later than 90 days after taking office.
+(b) QUALIFYING BLIND TRUST.—For purposes of this section, the term "qualifying blind
+trust" means a trust—
+(1) administered by an independent trustee with no familial, business, or political
+relationship to the beneficiary;
+(2) in which the beneficiary has no knowledge of the specific composition of trust
+assets following initial transfer;
+(3) in which the beneficiary may not communicate with the trustee regarding the
+management of trust assets except through quarterly aggregate reports prepared by the
+trustee; and
+(4) certified as compliant with this section by the Office of Government Ethics or
+the Ethics Committees, as applicable.
+(c) PENALTIES.—Failure to establish a qualifying blind trust within the time period
+required under subsection (a), or any communication with the trustee in violation of
+subsection (b)(3), shall result in—
+(1) a civil fine of $[TBD]; and
+(2) referral to the Ethics Committees or the Office of Government Ethics for further
+action.
+SEC. 203. ANNUAL CERTIFICATION.
+(a) IN GENERAL.—Each Member of Congress and covered senior Federal official shall, not
+later than 60 days after the end of each calendar year, submit to the Office of
+Government Ethics or the Ethics Committees, as applicable, a certification that—
+(1) the official has complied with the requirements of sections 101, 201, and 202
+during the preceding calendar year;
+(2) all required disclosures have been filed within the time periods required; and
+(3) all covered holdings, if any, are held in a qualifying blind trust.
+(b) FALSE CERTIFICATION.—A knowingly false certification under this section shall be
+subject to the penalties applicable to false statements under section 1001 of title 18,
+United States Code.
+
+TITLE III — GRADUATED EXECUTIVE ACCOUNTABILITY
+SEC. 301. GRADUATED EXECUTIVE ACCOUNTABILITY TIERS.
+(a) IN GENERAL.—Liability of an officer, director, or other responsible person of a
+covered corporate entity for repeated violations of Federal law by such entity shall be
+determined under the graduated tier framework set forth in this section.
+(b) TIER 1 — CIVIL CORPORATE PENALTIES.—Existing statutory civil penalties against the
+corporate entity. No individual executive liability under this tier.
+
+REF_RDNC_Leg04_Bill3_ACFM_2027_4 · Page 5 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 82
+
+
+RDNC Bill Framework · ACFM Act of 2027 · REF_ · 2026
+
+(c) TIER 2 — PERSONAL CIVIL LIABILITY FOR REPEAT VIOLATIONS.—Where a covered entity has
+been adjudicated to have committed a substantively similar violation within the 5 prior
+fiscal years, individual responsible persons shall be subject to—
+(1) personal civil disgorgement of any profit, bonus, or compensation received during
+the period of violation; and
+(2) 5-year debarment from Federal contracts under 41 U.S.C. §3304 and Federal grants.
+No mens rea element is required for Tier 2 civil consequences. (See Part III for Park-zone
+constitutional analysis.)
+(d) TIER 3 — RESPONSIBLE CORPORATE OFFICER MISDEMEANOR.—An individual responsible person
+of a covered entity shall be subject to misdemeanor prosecution where—
+(1) the entity has been adjudicated to have committed a Tier 2 violation within the
+5 prior fiscal years; and
+(2) the responsible person knew or, in the exercise of reasonable diligence under the
+responsibilities of office, should have known of the violation.
+Tier 3 penalties: fine up to $[TBD]; imprisonment up to 1 year. (See Part III for
+DeCoster-zone constitutional analysis.)
+(e) TIER 4 — RECIDIVIST FELONY WITH SPECIFIC-INTENT ELEMENTS.—An individual responsible
+person shall be subject to felony prosecution with mandatory minimum imprisonment of [TBD]
+years where—
+(1) the entity has been adjudicated to have committed a Tier 3 violation within the
+5 prior fiscal years;
+(2) the responsible person knew that the violation was occurring; AND
+(3) the responsible person either—
+(A) had specific intent that the violation continue; or
+(B) was willfully blind to the violation, defined as deliberate avoidance of
+knowledge of the violation.
+The mental-state elements in paragraphs (2) and (3) are required for Tier 4 prosecution.
+(See Part III for Staples-zone constitutional analysis.)
+(f) AFFIRMATIVE DEFENSE.—An individual responsible person shall not be subject to
+liability under Tier 2, Tier 3, or Tier 4 of this section if such person establishes by a
+preponderance of the evidence that the person—
+(1) took good-faith documented steps to prevent the violation; and
+(2) did not personally benefit financially from the violation.
+(g) LAMBERT NOTICE.—The Department of Justice shall publish, not later than 180 days
+after enactment, clear prescriptions of officer duties under this section. No individual
+shall be prosecuted under Tier 3 or Tier 4 for conduct occurring before such prescriptions
+are published.
+
+TITLE IV — REVOLVING DOOR RESTRICTIONS
+SEC. 401. POST-GOVERNMENT EMPLOYMENT RESTRICTIONS.
+(a) IN GENERAL.—Section 207 of title 18, United States Code, is amended to extend the
+cooling-off periods established under that section as set forth in this section.
+(b) SENIOR OFFICIALS.—A 2-year cooling-off period shall apply to—
+(1) Members of Congress;
+(2) heads of Federal agencies and independent regulatory commissions;
+(3) Senate-confirmed appointees at level I, II, or III of the Executive Schedule;
+barring lobbying activities directed at the chamber, agency, or commission such individual
+served.
+(c) SENIOR CONGRESSIONAL STAFF.—A 1-year cooling-off period shall apply to senior
+congressional staff, barring lobbying activities directed at the chamber such individual
+served.
+(d) SENIOR REGULATORY STAFF.—A 1-year cooling-off period shall apply to senior regulatory
+staff, barring representation of parties before the agency or commission such individual
+served.
+(e) NARROW SCOPE.—The restrictions established under this section apply only to
+
+REF_RDNC_Leg04_Bill3_ACFM_2027_4 · Page 6 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 83
+
+
+RDNC Bill Framework · ACFM Act of 2027 · REF_ · 2026
+
+compensated lobbying activity as defined in section 3 of the Lobbying Disclosure Act of
+1995 (2 U.S.C. §1602). Advocacy, public testimony, public communications, and
+uncompensated activity are not restricted under this section.
+(f) PENALTIES.—Knowing violations of this section shall result in—
+(1) a fine of up to $[TBD]; and
+(2) imprisonment of up to [TBD] years.
+
+TITLE V — IMPLEMENTATION AND OVERSIGHT
+SEC. 501. EFFECTIVE DATE.
+(a) GENERAL.—Except as otherwise provided in this Act, the provisions of this Act shall
+take effect on the date that is 180 days after the date of enactment.
+(b) DELAYED PROVISIONS.—
+(1) The Department of Justice publication required under section 301(g) shall be
+completed not later than 180 days after the date of enactment.
+(2) Tier 3 and Tier 4 prosecutions under section 301 may not be initiated until after
+the publication required under section 301(g) has been completed.
+(3) The qualifying blind trust requirement under section 202 shall apply to Members
+of Congress and covered senior Federal officials in office at enactment beginning 270
+days after enactment.
+SEC. 502. IMPLEMENTATION GUIDANCE.
+(a) ETHICS COMMITTEE PROCEDURES.—The Ethics Committees shall, not later than 90 days
+after enactment, publish procedures for—
+(1) adjudication of section 101 violations;
+(2) evidentiary segregation under section 102(b); and
+(3) certification under section 102(b)(3).
+(b) OFFICE OF GOVERNMENT ETHICS PROCEDURES.—The Office of Government Ethics shall, not
+later than 90 days after enactment, publish procedures for—
+(1) qualifying blind trust certification under section 202;
+(2) annual certification under section 203; and
+(3) coordination with Ethics Committees on covered congressional officials.
+SEC. 503. ANNUAL REPORTING.
+(a) IN GENERAL.—Not later than 90 days after the end of each fiscal year, the Department
+of Justice, the Office of Government Ethics, and each Ethics Committee shall jointly
+submit to Congress an annual report including—
+(1) the number of violations adjudicated under each title of this Act, by category;
+(2) the aggregate civil and criminal penalties imposed;
+(3) the number of qualifying blind trusts established and maintained;
+(4) the number of revolving-door restriction violations; and
+(5) recommendations for legislative or administrative refinement.
+
+Part III — Notes for Congressional Counsel
+All [TBD] items and constitutional questions below require resolution before introduction. Constitutional precedent
+integration draws on Speech-or-Debate (Brewster, Helstoski, Eastland, Rayburn/Renzi), RCO doctrine (Park, DeCoster,
+Staples), and revolving-door precedent (Duplantier, NTEU).
+
+REF_RDNC_Leg04_Bill3_ACFM_2027_4 · Page 7 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 84
+
+
+RDNC Bill Framework · ACFM Act of 2027 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Stock trading is NOT a
+legislative act — Brewster
+controls [Source 241]
+
+United States v. Brewster (1972) [Source 241] is the core authority: taking a bribe is
+no part of the legislative process or function; it is not a legislative act. A Member can
+be prosecuted for corrupt conduct provided the government's case does not rely on
+legislative acts or motivation for legislative acts. Stock trading by a Member is
+private commercial activity — no published opinion holds otherwise. ACFM Title I
+criminal prohibition on congressional securities trading is constitutionally sound
+under Brewster. The bill's Sec 2(a)(4) finding and Sec 3(a) constitutional foundation
+provision foreclose the Speech or Debate challenge at the outset by stating the
+Brewster basis explicitly in operative text.
+
+Helstoski evidentiary bar
+— segregate
+non-privileged evidence at
+referral [Source 243]
+
+United States v. Helstoski (1979) [Source 243] held the government may not use
+past legislative acts as evidence even when prosecuting a Member for
+non-legislative crimes. Waiver requires explicit and unequivocal expression.
+OPERATIONAL RISK: if proving the ACFM violation requires showing the Member
+received material nonpublic information through a committee briefing, Helstoski bars
+that evidence as a protected legislative act under Eastland [Source 250]. BILL TEXT
+IMPLEMENTATION: Sec 102(b) referral mechanism requires the Ethics Committee
+to segregate non-privileged evidence (brokerage records, public statements, trading
+history) from any privileged legislative-act materials before transmitting to DOJ. Sec
+102(b)(3) requires written certification of segregation. DOJ prosecutors may not use
+committee briefings or legislative-act records as the evidentiary foundation for the
+charge.
+
+Rayburn/Renzi circuit split
+— non-disclosure privilege
+[Sources 246, 247]
+
+A circuit split governs document non-disclosure. Rayburn House Office Building
+(D.C. Cir. 2007) [Source 246] holds the non-disclosure privilege is absolute — the
+Executive branch cannot search congressional offices for legislative materials even
+under valid warrant. Renzi (9th Cir. 2011) [Source 247] explicitly rejected Rayburn —
+individual (non-committee) Member fact-finding is not even a legislative act. ACFM's
+Ethics Committee-primary structure navigates this split: committee fact-gathering is
+protected under Eastland regardless of circuit; only non-privileged evidence is
+transmitted at referral. The structure is robust against either circuit's framework
+controlling at trial.
+
+Ethics Committee primary
+enforcement — why this
+structure is correct
+[Source 250]
+
+Eastland v. United States Servicemen's Fund (1975) [Source 250] confirmed internal
+ethics-committee fact-finding is protected legislative activity. The ACFM structure —
+Ethics Committees as primary civil enforcement, mandatory 30-day DOJ criminal
+referral — is constitutionally well-designed: committee investigation stays within
+protected legislative sphere; Executive branch has no exposure to legislative-act
+materials until referral; at referral, only non-privileged evidence (brokerage records,
+public statements, trading history) is transmitted. Sec 102(d) preserves each
+chamber's Article I, section 5, clause 2 self-discipline authority as an additional layer.
+
+REF_RDNC_Leg04_Bill3_ACFM_2027_4 · Page 8 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 85
+
+
+RDNC Bill Framework · ACFM Act of 2027 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Sec 101 prohibition
+threshold — per-trade vs
+cumulative
+
+Sec 101(b)(3) digital asset threshold $[TBD] requires counsel disambiguation:
+counsel should specify whether the threshold is per-transaction, cumulative annual,
+or cumulative across the entire period of service. RECOMMENDED: per-transaction
+threshold of $1,000 (de minimis exemption matching SEC Form 4 reporting practice)
+with no cumulative cap, to align enforcement with existing securities reporting
+infrastructure. The traditional securities prohibition under Sec 101(b)(1) and (2) has
+no threshold — the prohibition is categorical and the threshold question applies only
+to digital assets.
+
+Title I criminal penalty
+thresholds (Sec. 102(c))
+
+DOJ to advise on sentencing guideline compatibility. Model on existing insider
+trading penalties under 18 U.S.C. §1348 (up to 25 years for securities fraud). The 3x
+profit multiplier in Sec 102(c)(1) is precedented in securities fraud sentencing.
+Imprisonment cap in Sec 102(c)(2) is [TBD] — counsel should benchmark against
+Sec 1348's 25-year ceiling and consider whether congressional context warrants a
+lower cap (e.g., 10 years) to reduce constitutional and political challenge surface.
+
+REF_RDNC_Leg04_Bill3_ACFM_2027_4 · Page 9 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 86
+
+
+RDNC Bill Framework · ACFM Act of 2027 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Title III tier-structure
+constitutional analysis —
+Park / DeCoster / Staples
+zones [Sources 245, 248]
+
+The Title III tier structure tracks four constitutional zones, with mens rea
+elements calibrated to penalty severity at each tier.
+(1) Tier 1 (existing civil corporate penalties, no individual liability) is in the Park
+zone — no mens rea required, well-precedented under U.S. v. Park (1975) [Source
+245] for FDCA-type strict-liability corporate civil penalties.
+(2) Tier 2 (personal civil disgorgement + 5-year debarment for repeat
+violations) remains in the Park zone for individual liability purposes — civil
+consequences without imprisonment do not require mens rea. Federal contract
+debarment under 41 U.S.C. §3304 is a well-precedented administrative
+consequence. The combination of personal civil disgorgement and debarment for
+repeat violations is structurally distinct from the corporate civil penalty in Tier 1 and
+provides graduated consequences without crossing the criminal threshold.
+(3) Tier 3 (RCO misdemeanor) is in the DeCoster zone — U.S. v. DeCoster (8th
+Cir. 2016) [Source 248] expressly upheld 3-month FDCA prison sentences for RCOs
+based on the relatively small penalty as the constitutional safety valve. Tier 3's
+“knew or should have known” standard combined with up to 1-year imprisonment is
+the outer edge of DeCoster's safe harbor. Counsel should benchmark fines against
+existing FDCA RCO sentencing guidelines and consider whether the imprisonment
+cap should be reduced to 6 months to track DeCoster's actual upheld range more
+conservatively.
+(4) Tier 4 (recidivist felony, mandatory minimum) requires the Staples scrutiny
+protections that the body enumerates explicitly: knowledge that the violation was
+occurring AND either specific intent that the violation continue OR willful blindness.
+Staples v. United States (1994) established that the harsher the penalty, the more
+likely mens rea is required. No federal appellate decision has upheld a felony RCO
+conviction without proof of at least recklessness or willful blindness; mandatory
+minimums increase Staples scrutiny further. The body's Tier 4 mental-state
+elements as drafted should survive Staples challenge — counsel should not weaken
+them during refinement, and should document the constitutional rationale in the bill's
+legislative history.
+
+Lambert notice
+requirement (Sec. 301(g))
+
+Lambert v. California (1957) requires “fair warning” for criminal prosecution where
+conduct does not have inherently obvious criminality. RCO prosecutions for conduct
+before published officer-duty prescriptions face Lambert challenge. Sec 301(g)
+implements Lambert by requiring DOJ publication within 180 days of enactment and
+barring Tier 3/Tier 4 prosecutions for pre-publication conduct. The 180-day window
+is a counsel-discretion item — could be 90 or 365 days depending on DOJ's stated
+implementation timeline. The Sec 501(b)(2) effective-date trigger ties prosecution
+authority to publication completion, providing structural redundancy.
+
+REF_RDNC_Leg04_Bill3_ACFM_2027_4 · Page 10 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 87
+
+
+RDNC Bill Framework · ACFM Act of 2027 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Affirmative defense (Sec.
+301(f))
+
+The preponderance-of-evidence standard for the good-faith/no-personal-benefit
+defense is constitutionally and practically sound — preserves the executive's
+incentive to take preventive action without forcing prosecution into proving universal
+negative. Defense applies to Tiers 2/3/4; Tier 1 is corporate-only with no individual
+liability and therefore needs no defense. Counsel should draft pattern jury
+instructions for the affirmative defense in coordination with DOJ before the first Tier
+4 prosecution.
+
+Cooling-off period length
+(Sec. 401) — within
+HLOGA-precedented range
+[Source 249]
+
+Section 401's cooling-off periods (2 years senior officials; 1 year senior staff and
+senior regulatory) track 18 U.S.C. §207 (HLOGA 2007) ranges. No federal court has
+upheld a 4-year cooling-off period; no court has challenged one either — that range
+is beyond the uniformly upheld range. The 2-year and 1-year structures here are the
+constitutional safe harbor. Lifetime bans confined to foreign-government
+representation and switching-sides contexts (existing §207(a)(1) and (f)) are
+unaffected by this Act.
+
+Financial disclosure —
+settled doctrine [Source
+249]
+
+Duplantier v. United States (5th Cir. 1979) [Source 249] upheld Ethics in
+Government Act mandatory financial disclosure under a balancing test. No sitting
+federal official has successfully invoked Fifth Amendment to defeat statutory
+financial disclosure. Required-records doctrine controls. ACFM Title II real-time
+disclosure (Sec 201), qualifying blind trust (Sec 202), and annual certification (Sec
+203) are constitutionally sound for sub-presidential officials. Presidential blind-trust
+mandate raises novel Article II questions — Sec 202 as drafted applies only to
+Members of Congress and covered senior Federal officials, deliberately not
+extending to the President; counsel should preserve this limitation to avoid Article II
+challenge that could delay the main bill.
+
+Real-time disclosure
+period (Sec. 201)
+
+Current STOCK Act baseline: 45 days (frequently violated). Sec 201 requires 5
+business days. Benchmark: SEC Form 4 (2 business days for insiders). Americans
+for Prosperity Foundation v. Bonta (2021) [Source 268] requires narrow tailoring for
+compelled disclosure — official financial disclosure is distinguishable: applies to
+voluntary office-seekers, precisely tailored to anti-corruption, not a blunderbuss
+general mandate. Counsel may consider tightening to 2 business days to align with
+SEC Form 4, with a transitional 5-day period during the first 2 years post-enactment
+to allow agency systems to develop.
+
+First Amendment
+considerations (Title IV)
+
+Revolving-door restrictions implicate First Amendment associational rights. No
+federal court has struck a §207-style cooling-off period. U.S. v. NTEU (1995) sets
+the outer limit: invalidated an executive-branch honoraria ban as overbroad as
+applied to an immense class of federal workers with negligible power to confer
+favors. ACFM Title IV applies to senior officials with direct regulatory power — well
+within the NTEU safe harbor. Sec 401(e) narrows scope to compensated lobbying
+activity only; advocacy, testimony, and public communications are explicitly
+excluded. This narrowing is constitutionally important and should not be amended
+out during refinement.
+
+REF_RDNC_Leg04_Bill3_ACFM_2027_4 · Page 11 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 88
+
+
+RDNC Bill Framework · ACFM Act of 2027 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Section 1001
+false-certification reference
+(Sec. 203(b))
+
+Sec 203(b) references 18 U.S.C. §1001 (false statements to Federal agency) for
+false certification penalties. This is the standard cross-reference for federal
+disclosure regimes. Counsel should verify §1001's current scope post-Yates v.
+United States (2015) does not require additional specifying language for the
+certification context.
+
+Source 119 verification —
+Restore Trust in Congress
+Act bipartisan template
+
+Source 119 references the Restore Trust in Congress Act (Senators Moody and
+Gillibrand, January 2026) as the bipartisan template. Counsel and SRG maintainer
+to verify Source 119 in SRG v11 actually maps to this specific bill (not a prior
+session-numbered bill or an earlier Restoring Public Trust in Government Act). If
+verification fails, substitute current bipartisan precedent; the political argument
+(bipartisan template exists) requires only that some bipartisan template exist, not
+specifically Source 119.
+
+60-vote strategy
+
+Identify Republican co-sponsors with anti-corruption credibility. A bipartisan bill is
+stronger; a party-line vote on congressional stock trading is a political gift to the
+opposition. The Restore Trust in Congress Act bipartisan template (subject to
+verification per row above) provides the starting point. The ACFM bill's power is in
+the RECORDED VOTE: every Senator who votes against it is on record opposing
+the principle that elected officials follow the same rules as everyone else.
+Pressure-campaign launch sequence (Part I) is integral to this strategy, not optional.
+
+REF_RDNC_Leg04_Bill3_ACFM_2027_4 · REF_ Reference Layer · Reform Democrats of the New Commonwealth · 2026
+Legal disclaimer applies — see page 1. This framework requires licensed legislative counsel review before introduction.
+Originally conceived and authored by a concerned American citizen. Developed with the assistance of Claude (Anthropic). The ideas
+belong to anyone willing to fight for them.
+
+REF_RDNC_Leg04_Bill3_ACFM_2027_4 · Page 12 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 89
+
+
+PART VII · THE LEGISLATIVE SERIES
+
+BILL 4
+
+FSW
+Family Stability & Workforce Investment Act of 2029
+Phase II · Track A · v_4
+
+Reproduced in full from the canonical drafted bill. No operative text has been altered in consolidation.
+
+PROJECT ARA 2028 · 90
+
+
+RDNC Bill Framework · FSW Act of 2029 · REF_ · 2026
+
+Reform Democrats of the New Commonwealth · Project ARA 2028
+Legislative Ecosystem Document Leg05 of Leg14
+
+Family Stability & Workforce Investment Act of
+2029
+Bill Framework & Legislative Brief
+Phase II · Track A · Second Reconciliation Window · Phase II · Track A · Year 3–5
+
+LEGAL DISCLAIMER — POLICY DISCUSSION DOCUMENT
+This document is a policy discussion framework and bill scaffold. It is not formally introduced legislation, has not been
+reviewed by licensed legislative counsel, and does not constitute legal advice of any kind.
+All provisions marked [TBD] — including dollar amounts, specific IRC section numbers, penalty thresholds,
+appropriation amounts, and CBO scoring figures — require resolution by licensed legislative drafting counsel (the
+Office of Legislative Counsel for the House or Senate, as applicable), relevant agency technical staff, and the
+Congressional Budget Office before introduction as formal legislation.
+Constitutional arguments, legal analyses, and statutory framings presented herein are analytical assessments
+developed for policy planning purposes. They are not legal opinions and have not been reviewed or validated by
+licensed legal counsel. This document identifies constitutional and legal risks requiring independent review — those
+identifications are planning guidance, not legal conclusions.
+This framework was produced by the Reform Democrats of the New Commonwealth (RDNC), a private citizen policy
+research organization. It is not affiliated with any sitting Member of Congress, congressional office, government
+agency, or political party organization in any official capacity.
+Consultation with licensed legislative counsel, the Congressional Budget Office, and relevant agency
+technical staff is required before any framework in this series may be introduced as formal legislation.
+Distribution is subject to RDNC classification protocols (REF_ layer: internal use and trusted partners only).
+
+Phase II · Track A · Second Reconciliation Window · Bill 4
+
+Part I — Legislative Brief (Non-Technical Summary)
+Phase II opens when Phase I has delivered. This bill assumes the COLT Act's childcare provisions have worked — costs
+are down, enrollment is up, and the political constituency for expansion is established. Bill 4 does not introduce a new
+program. It extends and deepens one that is already demonstrably popular.
+
+AT A GLANCE
+Bill Title
+
+Family Stability & Workforce Investment Act of 2029
+
+Short Title (Cite As)
+
+The FSW Act of 2029
+
+Legislative Vehicle
+
+Budget Reconciliation (second window)
+
+Phase / Track
+
+Phase II · Track A · Year 3–5
+
+REF_RDNC_Leg05_Bill4_FSW_2029_4 · Page 1 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 91
+
+
+RDNC Bill Framework · FSW Act of 2029 · REF_ · 2026
+
+Primary Committees
+
+Senate Finance; HELP Committee
+
+Dependencies
+
+COLT Act (Bill 1) enacted and operational; childcare constituency established
+
+Core Framing
+
+Expanding what works. Building the workforce of the next economy.
+
+Deficit Impact
+
+Structured for neutrality; workforce participation gains score as revenue offsets
+
+Byrd Rule Status
+
+All provisions carry direct budget impact — Sec 201 deliberate-exposure posture
+documented
+
+What This Bill Does:
+1. Expands childcare access toward near-universality. Builds directly on the COLT Act's 7% income cap —
+extending eligibility, raising income thresholds, and increasing provider supply grants.
+2. Creates a workforce training pipeline tied to benefits. Unemployment insurance enrollment is linked to
+free access to vocational training, community college, and behavioral health programs — implemented through
+existing WIOA, Perkins V, Apprenticeship, and Job Corps programs.
+3. Expands earned income supports for working families. Restructures and expands the EITC to cover more
+workers, including those without qualifying children and self-employed workers.
+4. Establishes corporate training tax incentives. Companies that invest in employee training receive
+structured tax credits, shifting the corporate role from benefits provider to skills investor.
+
+ATTACK
+SURFACE
+
+"We already did childcare — why more spending?" "Government dependency." "Corporate
+welfare." The Phase I success is actually the defense: it worked, and this expands what worked.
+
+DEFENSE
+STRATEGY
+
+"We did what we said. It worked. Now we're expanding it." Corporate training incentive reframes
+the narrative: corporations are partners in building the workforce. Earned income expansion
+frames as rewarding work.
+
+FALLBACK
+POSITION
+
+If corporate training credits face opposition, they can be separated as standalone legislation.
+Childcare expansion and EITC expansion are the core — protect those through reconciliation.
+Sec 201 training-linked UI carries body-baked safety mechanism + three-level fallback ladder
+per Part III.
+
+Part II — Bill Framework
+This is the structural scaffold of the bill. Dollar amounts, income thresholds, IRC section cross-references, and CBO scoring
+are flagged as [TBD] — these require licensed legislative counsel, Treasury technical staff, and the Department of Labor
+before introduction. COLT Act coordination is required for Title I amendments.
+119TH CONGRESS
+
+1ST SESSION
+
+S. ____
+
+To expand access to affordable childcare and workforce development programs; to reform and
+expand the earned income tax credit; to incentivize corporate investment in employee training;
+and for other purposes.
+
+A B I L L
+
+REF_RDNC_Leg05_Bill4_FSW_2029_4 · Page 2 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 92
+
+
+RDNC Bill Framework · FSW Act of 2029 · REF_ · 2026
+
+Be it enacted by the Senate and House of Representatives of the United States of America in
+Congress assembled,
+SEC. 1. SHORT TITLE.
+This Act may be cited as the "Family Stability and Workforce Investment Act of 2029" or
+the "FSW Act of 2029".
+SEC. 2. FINDINGS AND PURPOSE.
+(a) FINDINGS.—Congress finds the following:
+(1) Childcare costs remain a significant barrier for working families even after
+Phase I COLT Act provisions. Near-universal access requires expanded eligibility
+thresholds.
+(2) Unemployment insurance, in its current passive form, represents a missed
+opportunity to actively invest in the next phase of a worker's career.
+(3) The Earned Income Tax Credit, while effective, fails to cover all workers who
+would benefit from its expansion, particularly workers without qualifying children.
+(4) Corporate investment in employee training lags peer nations where employer
+healthcare burden is lower, suggesting a crowd-out effect on training investment.
+(b) PURPOSE.—The purposes of this Act are to—
+(1) expand the Childcare Affordability Credit established under the COLT Act of
+2027 toward near-universal coverage of working families;
+(2) establish a training-linked unemployment compensation framework, implemented
+through existing Federal workforce-development programs, to provide free vocational
+training, community college, behavioral health, and reemployment services to
+individuals receiving unemployment compensation;
+(3) reform and expand the Earned Income Tax Credit to cover more workers, including
+those without qualifying children and self-employed workers; and
+(4) establish an Employer Training Investment Tax Credit to incentivize corporate
+investment in employee training and skills development.
+SEC. 3. BUDGETARY COMPLIANCE.
+(a) RECONCILIATION.—The provisions of this Act are enacted pursuant to reconciliation
+instructions in the concurrent resolution on the budget for fiscal year 2030.
+(b) DEFICIT NEUTRALITY.—The provisions of this Act shall be implemented in a manner
+that does not increase the Federal deficit over the 10-year budget window, as determined
+by the Congressional Budget Office. Workforce participation gains, EITC expansion-induced
+earnings increases, and childcare-induced labor force participation effects shall be
+counted toward budget neutrality in accordance with applicable CBO scoring rules.
+(c) BYRD RULE COMPLIANCE.—All provisions are designed to produce direct budgetary
+effects. Any provision determined by the Senate Parliamentarian to be extraneous under
+2 U.S.C. §644 shall be severable from the remainder of the Act. Sec 201 fallback
+structures are established in Part III of this framework.
+SEC. 4. COORDINATION WITH COLT ACT.
+(a) IN GENERAL.—Provisions of this Act amending or expanding sections of the Internal
+Revenue Code originally enacted by the Cost of Living Reduction and Tax Simplification
+Act of 2027 (Pub. L. ___, the "COLT Act of 2027") shall be coordinated with COLT Act
+provisions to avoid duplicative scoring or Byrd-Rule double-jeopardy exposure.
+(b) AMENDMENT REFERENCES.—All amendments to IRC §36C (Childcare Affordability Credit)
+shall use COLT Act-as-enacted section numbers; counsel to verify codification before
+introduction.
+
+TITLE I — CHILDCARE EXPANSION
+SEC. 101. CHILDCARE AFFORDABILITY CREDIT EXPANSION.
+(a) IN GENERAL.—Section 36C of the Internal Revenue Code of 1986 (as added by section
+
+REF_RDNC_Leg05_Bill4_FSW_2029_4 · Page 3 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 93
+
+
+RDNC Bill Framework · FSW Act of 2029 · REF_ · 2026
+
+201 of the COLT Act of 2027) is amended as set forth in this section.
+(b) EXPANDED ELIGIBILITY.—Section 36C(b)(2) is amended by striking $[TBD] (as enacted
+by COLT Act) and inserting $[TBD] (FSW expanded threshold), with phase-out range
+correspondingly expanded to $[TBD] (FSW expanded phase-out ceiling). Target nearuniversal coverage of households up to 300 percent of the Federal poverty level.
+(c) PER-CHILD CAP EXPANSION.—Section 36C(c) per-child qualifying childcare expenditure
+cap is amended from $[TBD] to $[TBD] per child per year.
+(d) PROVIDER SUPPLY GRANT EXPANSION.—Section 202 of the COLT Act of 2027 is amended
+to authorize an additional $[TBD] for provider supply grants for each of fiscal years
+2030 through 2035, with priority to childcare deserts and high-cost-burden areas as
+defined by the Secretary of Health and Human Services.
+(e) EFFECTIVE DATE.—Amendments made by this section shall apply to taxable years
+beginning after December 31, 2029.
+
+TITLE II — WORKFORCE TRAINING PIPELINE
+SEC. 201. TRAINING-LINKED UNEMPLOYMENT BENEFITS.
+(a) IN GENERAL.—States receiving Federal unemployment compensation grants under
+chapter 23 of title 26, United States Code, shall offer to each individual receiving
+unemployment compensation—
+(1) free vocational training aligned with regional labor market needs;
+(2) free enrollment in community college courses or programs aligned with regional
+labor market needs;
+(3) behavioral health services for individuals with documented barriers to workforce
+reentry; and
+(4) career counseling and reemployment services.
+Participation by individuals receiving unemployment compensation in services offered
+under this subsection is VOLUNTARY.
+(b) IMPLEMENTATION THROUGH EXISTING ACCOUNTS.—The services required to be offered
+under subsection (a) shall be carried out through supplemental appropriations to and
+capacity expansion within existing Federal workforce-development programs, including—
+(1) workforce investment activities under the Workforce Innovation and Opportunity
+Act, Title I (29 U.S.C. §3151 et seq.);
+(2) career and technical education under the Strengthening Career and Technical
+Education for the 21st Century Act (Perkins V, 20 U.S.C. §2301 et seq.);
+(3) Registered Apprenticeship programs (29 U.S.C. §50);
+(4) the Job Corps (29 U.S.C. §3191 et seq.); and
+(5) Reemployment Services and Eligibility Assessments (42 U.S.C. §506).
+The Secretary of Labor shall not establish a new programmatic architecture, new
+eligibility criteria, or new performance measurement framework under subsection (a);
+existing program authority and existing program governance apply.
+(c) SUPPLEMENTAL APPROPRIATION.—$[TBD] appropriated for each of fiscal years 2030
+through 2035 for distribution to State workforce development boards under the existing
+programmatic frameworks identified in subsection (b).
+(d) BENEFIT CONTINUATION.—An individual receiving unemployment compensation who
+voluntarily enrolls in services under subsection (a) shall continue to receive
+unemployment compensation benefits during the period of training participation, not to
+exceed [TBD] additional weeks beyond the standard State unemployment compensation
+eligibility period.
+(e) STATE COORDINATION.—States shall coordinate services offered under subsection (a)
+with State workforce development plans submitted under section 102 of WIOA (29 U.S.C.
+§3112). State workforce development boards established under section 101 of WIOA
+
+REF_RDNC_Leg05_Bill4_FSW_2029_4 · Page 4 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 94
+
+
+RDNC Bill Framework · FSW Act of 2029 · REF_ · 2026
+
+(29 U.S.C. §3111) shall administer the services within their existing governance
+structures.
+[Note to counsel: Sec 201(a) faces highest Byrd Rule risk in the bill series under
+OBBBA 2025 Workforce Pell strike precedent. Three-level fallback ladder documented
+in Part III. Brief Senate Budget staff on body-baked safety mechanism (subsection
+(b)) and prepared restructure language for Level 2 (IRA §§48/48E/45/45Y bonus
+credit conversion) if (a) is read as creating new architecture.]
+
+TITLE III — EARNED INCOME SUPPORT EXPANSION
+SEC. 301. EARNED INCOME TAX CREDIT REFORM.
+(a) IN GENERAL.—Section 32 of the Internal Revenue Code of 1986 is amended as set
+forth in this section.
+(b) CHILDLESS WORKER EXPANSION.—Section 32(b)(1) is amended to increase the credit
+percentage applicable to taxpayers with no qualifying children from [TBD] percent to
+[TBD] percent.
+(c) MINIMUM AGE.—Section 32(c)(1)(A)(ii)(II) is amended by striking "25" and inserting
+"[TBD]" as the minimum age threshold for taxpayers with no qualifying children.
+(d) PHASE-OUT INCOME THRESHOLD.—Section 32(b)(2) phase-out income thresholds for
+taxpayers with no qualifying children shall be raised by [TBD] percent.
+(e) SELF-EMPLOYMENT INCLUSION.—Section 32(c)(2) earned income definition is amended
+to include qualifying self-employment income on a fully eligible basis, with anti-abuse
+standards developed under Treasury rulemaking.
+(f) EFFECTIVE DATE.—Amendments made by this section shall apply to taxable years
+beginning after December 31, 2029.
+
+TITLE IV — CORPORATE TRAINING INVESTMENT
+SEC. 401. EMPLOYER TRAINING INVESTMENT TAX CREDIT.
+(a) IN GENERAL.—Subpart D of part IV of subchapter A of chapter 1 of the Internal
+Revenue Code of 1986 is amended by adding a new section establishing an Employer
+Training Investment Tax Credit equal to [TBD] percent of qualifying training
+expenditures.
+(b) PER-EMPLOYEE CAP.—The credit allowed under this section shall not exceed $[TBD]
+per employee per taxable year.
+(c) QUALIFYING TRAINING EXPENDITURES.—For purposes of this section, qualifying
+training expenditures shall be limited to amounts paid for—
+(1) accredited education at an institution participating in Title IV programs under
+the Higher Education Act;
+(2) employer-operated training programs registered with the Department of Labor;
+(3) on-the-job training programs registered with the Department of Labor;
+(4) Registered Apprenticeship programs under 29 U.S.C. §50; and
+(5) services related to qualifying training, including assessment, certification,
+and placement.
+(d) WORKER-COMPENSATION ELIGIBILITY THRESHOLD.—Training expenditures shall qualify
+under subsection (c) only if directed at employees with annual compensation, as
+determined under section 3401, not exceeding [TBD] percent of the median annual
+compensation for the employer's industry, as determined annually by the Bureau of Labor
+Statistics.
+(e) REFUNDABILITY.—The credit allowed under this section shall be treated as a
+refundable credit under subpart C of part IV of subchapter A of chapter 1.
+(f) COORDINATION WITH OTHER CREDITS.—Amounts qualifying as expenditures under section
+41 (research credit) or section 51 (work opportunity credit) shall not also qualify
+under this section.
+TITLE V — IMPLEMENTATION AND OVERSIGHT
+
+REF_RDNC_Leg05_Bill4_FSW_2029_4 · Page 5 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 95
+
+
+RDNC Bill Framework · FSW Act of 2029 · REF_ · 2026
+
+SEC. 501. IMPLEMENTATION TIMELINE.
+(a) YEAR 1 (2030).—COLT Act §36C amendments effective; Sec 201 supplemental
+appropriations distributed to State workforce development boards; Title III EITC
+expansion effective; Title IV employer training credit accepting first claims.
+(b) YEAR 3 (2032).—Childcare expansion enrollment milestone review; workforce training
+pipeline at full operational capacity; CBO interim report on workforce participation
+gains and revenue offsets.
+(c) YEAR 5 (2034).—Comprehensive program review and reauthorization assessment;
+cumulative workforce participation, GDP, and revenue impact assessment.
+SEC. 502. COLT ACT COORDINATION CERTIFICATION.
+(a) IN GENERAL.—Not later than 90 days after the date of enactment, the Secretary of
+the Treasury shall submit to Congress a certification that all amendments to IRC §36C
+and other COLT Act provisions made by this Act have been coordinated with the Internal
+Revenue Service implementation of the COLT Act to avoid duplicative scoring, phase-out
+cliff effects, or Byrd-Rule double-jeopardy exposure.
+(b) PHASE-OUT COORDINATION.—The certification under subsection (a) shall include the
+Treasury's analysis of phase-out structure interactions between this Act, the COLT Act,
+and existing IRC §32 EITC provisions.
+SEC. 503. ANNUAL REPORTING.
+Not later than 90 days after the end of each fiscal year, the Secretary of the Treasury,
+the Secretary of Labor, and the Secretary of Health and Human Services shall jointly
+submit to Congress an annual report including—
+(1) Childcare Affordability Credit enrollment and benefit amount data;
+(2) Sec 201 training-linked unemployment benefits participation data, including
+program-by-program enrollment under existing WIOA/Perkins V/Apprenticeship/Job Corps
+accounts;
+(3) EITC claims, including childless-worker expansion uptake and self-employment
+claims;
+(4) Employer Training Investment Tax Credit claims and qualifying expenditure data,
+including worker-compensation threshold compliance; and
+(5) CBO-validated workforce participation and revenue offset metrics.
+
+Part III — Notes for Congressional Counsel
+All [TBD] items and constitutional/Byrd Rule questions below require resolution before introduction. Sec 201 carries the
+established three-level fallback ladder pattern (third application across COLT Sec 102, IIC Sec 102, FSW Sec 201). Sec
+401(d) carries the IRA-style eligibility-threshold structure with documented alternative pathways.
+
+REF_RDNC_Leg05_Bill4_FSW_2029_4 · Page 6 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 96
+
+
+RDNC Bill Framework · FSW Act of 2029 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Sec 201 hybrid mandate-wi
+th-existing-account-imple
+mentation — body-baked
+safety with three-level
+fallback ladder [Source
+271]
+
+Sec 201 is the highest-Byrd-risk provision in the entire RDNC bill series per Group G
+research. The OBBBA 2025 Workforce Pell strike [Source 271] is the controlling
+2025 precedent — MacDonough struck the expansion of Workforce Pell Grants to
+unaccredited providers despite substantial dollar magnitude because the
+eligibility-architecture changes represented policy substantially outweighing budget
+effect. Sec 201 is structured to mitigate this risk in two layers: the operative
+mechanism is implementation through existing programs (body-baked safety in
+subsection (b)), and a three-level fallback ladder is documented here for residual
+exposure.
+(1) Primary structure (body as drafted). Sec 201(a) creates the politically loud
+“states shall offer free training” framing. Sec 201(b) operates as the structural
+anchor: services under (a) are carried out through supplemental appropriations to
+existing WIOA Title I, Perkins V, Apprenticeship, Job Corps, and RESEA programs
+under existing programmatic authority. No new programmatic architecture is
+created; (b) explicitly bars the Secretary of Labor from establishing new eligibility
+criteria, performance frameworks, or governance structures. Sec 201(c) provides the
+direct mandatory appropriation. The “merely incidental” Byrd analysis turns on
+whether (a)'s “states shall offer” language is read as a new mandate or as a
+description of what existing programs (now supplemented under (c)) will do with
+additional funding. The bill body is structured to support the latter reading.
+(2) Mid-level fallback if Sec 201(a) is read as creating new architecture. If the
+Parliamentarian reads “states shall offer” as a new mandate independent of the (b)
+implementation mechanism, Sec 201(a) restructures as a tax-credit eligibility
+threshold under IRA §§48/48E/45/45Y bonus credit precedent — states that comply
+with the training-offer obligation receive a higher Federal match rate on existing UI
+grants. This converts the Byrd posture from mandate-with-conditions to
+credit-with-eligibility-threshold, which Group G research identifies as Byrd-safe.
+Counsel should have Level 2 restructure language drafted before introduction.
+(3) Bottom-level fallback if Sec 201(a)–(b) are struck wholesale. The Sec 201(c)
+supplemental appropriation alone is Byrd-safe — direct mandatory appropriation to
+existing WIOA/Perkins V/Apprenticeship/Job Corps accounts under existing
+programmatic authority. If (a) and (b) are removed, the existing programs continue to
+operate with the supplement, and the training-offer expectation is established
+through Department of Labor rulemaking and grant award conditions — the
+post-OBBBA pattern for workforce expansion provisions. The training expansion
+continues operationally even if statutory direction is lost.
+(4) Parliamentarian engagement. Pre-introduction Byrd letter from Senate Budget
+Committee staff is REQUIRED — this is the single most exposed provision in the bill
+series. Counsel should request advisory ruling on Sec 201(a) specifically, with
+prepared (a)→(b)+(c) restructure language ready for a Level 2 conversion if needed.
+Counsel should also brief committee staff on the deliberate institutional pattern: this
+is the third application of the deliberate-Byrd-exposure fallback-ladder structure in
+the RDNC bill series (COLT Sec 102, IIC Sec 102, FSW Sec 201). The pattern is
+named, not concealed — the three-level fallback ladder is the prepared institutional
+response, not a post-hoc scramble.
+
+REF_RDNC_Leg05_Bill4_FSW_2029_4 · Page 7 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 97
+
+
+RDNC Bill Framework · FSW Act of 2029 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+OBBBA 2025 Workforce
+Pell strike — controlling
+precedent context [Source
+271]
+
+BODY-BAKED SAFETY APPLIED: The One Big Beautiful Bill Act (July 4, 2025)
+[Source 271] STRUCK the expansion of Workforce Pell Grants to unaccredited
+providers, even though the provision had a substantial dollar impact. MacDonough
+found the eligibility-architecture changes (allowing unaccredited providers)
+represented policy that substantially outweighed the budget effect. This is the
+CONTROLLING 2025 PRECEDENT for FSW Title II workforce training. The Sec
+201 architecture (implementation through existing WIOA Title I (29 U.S.C. §3151),
+Perkins V (20 U.S.C. §2301), Registered Apprenticeship (29 U.S.C. §50), Job Corps
+(29 U.S.C. §3191), RESEA (42 U.S.C. §506)) is the response to this precedent —
+supplementing existing accounts rather than creating new architecture. Sec 201(b)
+bars the Secretary of Labor from establishing new eligibility criteria, performance
+frameworks, or governance under (a). Counsel should preserve this architecture
+during refinement; restructuring (a) into independent program creation would
+re-introduce the Byrd risk the body was designed to mitigate.
+
+Training tax credits —
+Byrd-safe structure
+[Source 271]
+
+NEW (preserved from _3): Refundable tax credits for employer-provided training
+are Byrd-safe because they have a direct revenue effect — meeting the training
+threshold changes tax liability. Model: (1) Extension/expansion of Work Opportunity
+Tax Credit (26 U.S.C. §51) — add apprenticeship-completion bonus; (2) New
+§41-style training credit on qualifying workforce-development expenditures (Sec 401
+of this Act). These credit mechanisms should be coordinated with COLT Act
+provisions to avoid double-counting. Any provision that imposes conditions on
+private employers INDEPENDENTLY of a federal financial flow faces the ARPA
+$15-minimum-wage Byrd precedent.
+
+COLT Act coordination
+(Sec. 101)
+
+Amendments must reference correct IRC section numbers as enacted by COLT Act.
+Counsel to verify §36C was properly codified before drafting amendments. FSW
+childcare and EITC provisions are structured as AMENDMENTS to COLT Act
+provisions, not standalone credits, to avoid duplicate scoring and Byrd-Rule
+double-jeopardy exposure. Sec 4 of this Act establishes the coordination
+requirement in operative bill text; Sec 502 requires Treasury certification of
+coordination within 90 days of enactment.
+
+Income threshold amounts
+(Sec. 101(b))
+
+Treasury to model optimal phase-out range. Target near-universal coverage —
+households up to 300% of federal poverty level is a reasonable starting point (≈
+$90,000 for a family of four in 2030). Coordinate with COLT Act phase-out structure
+to avoid cliff effects at income boundaries between the two bills. Sec 502(b) requires
+Treasury to address phase-out interactions in the coordination certification.
+
+Benefit continuation period
+(Sec. 201(d))
+
+DOL to advise. Current average UI duration is 14–18 weeks. Training extension of
+26 additional weeks is a reasonable baseline. Sec 201(d) is structured as an
+extension of EXISTING UI benefit authority (26 U.S.C. §3306) with
+training-participation condition — this is a terms-and-conditions-of-outlay structure
+under the Sec 201(c) appropriation, not a new mandate, and has a clean Byrd profile
+under the established §3306 framework.
+
+REF_RDNC_Leg05_Bill4_FSW_2029_4 · Page 8 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 98
+
+
+RDNC Bill Framework · FSW Act of 2029 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+EITC expansion amounts
+(Sec. 301)
+
+The ARPA childless-worker EITC temporary expansion in 2021 is the template. Cost
+estimate: ~$15B/year for permanent expansion. Sec 301 is structured as a
+permanent amendment to IRC §32 — direct revenue effect; clearly Byrd-compliant
+as an income tax provision. Coordinate phase-out structure with FSW Sec. 101 and
+COLT Act childcare credit to avoid overlapping phase-outs. Sec 301(c)
+minimum-age threshold should be set to 19 (matching ARPA precedent) or 21 (more
+conservative); counsel to advise.
+
+Sec 401(d) anti-abuse
+worker-compensation
+threshold —
+eligibility-threshold
+structure with alternative
+pathways
+
+Sec 401(d) is structured as a credit eligibility threshold under IRA §§48/48E/45/45Y
+bonus credit precedent. Training expenditures qualify under subsection (c) only if
+directed at employees below [TBD] percent of industry median compensation. This
+is Byrd-safe because the threshold determines tax liability directly — meeting or
+failing the threshold changes the credit calculation.
+Two alternative architectures were considered and remain available as fallbacks if
+Sec 401(d) faces specific Parliamentarian challenge:
+Alternative pathway 1 — Treasury rulemaking under existing §41 authority.
+Anti-abuse provisions could be moved to Treasury rulemaking, with the bill
+establishing the credit and authorizing Treasury to define qualifying expenditure
+parameters by regulation. Structurally cleanest for Byrd survival but reduces
+statutory specificity on the anti-abuse intent.
+Alternative pathway 2 — Mandatory percentage allocation (rejected). A “at least
+X% of credit-eligible training must benefit workers below Y% of median wages”
+structure was considered but rejected as Byrd-exposed under ARPA $15 minimum
+wage precedent. Mandatory-allocation imposes obligations on private employers
+independently of the credit's revenue effect, creating “merely incidental” exposure.
+Counsel should not revert to this structure during refinement.
+Counsel should retain the eligibility-threshold structure as drafted (Sec 401(d)) and
+use Alternative pathway 1 as the fallback if (d) faces specific challenge.
+
+Sec 401 credit parameters
+
+25% credit on qualifying expenditures, capped at $5,000/employee, is a defensible
+starting point. Sec 401(a) credit percentage and Sec 401(b) per-employee cap are
+[TBD] pending CBO and Treasury scoring. Sec 401 is structured as a new section in
+subpart D of part IV of subchapter A of chapter 1, parallel to existing credits.
+Refundable component (Sec 401(e)) is Byrd-safe as long as it has a direct revenue
+effect. Sec 401(f) coordination clause prevents double-counting against §41
+(research credit) and §51 (work opportunity credit).
+
+REF_RDNC_Leg05_Bill4_FSW_2029_4 · Page 9 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 99
+
+
+RDNC Bill Framework · FSW Act of 2029 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Byrd Rule certification —
+pre-introduction
+Parliamentarian contact
+required [Source 271]
+
+All FSW reconciliation provisions require pre-introduction bills-committee staff review
+and Senate Parliamentarian contact. Based on OBBBA 2025 experience [Source
+271], FSW provisions classified by Byrd risk:
+HIGH RISK: Sec 201(a) training-offer mandate (mitigated by body-baked safety in
+(b) and fallback ladder in row 1).
+MEDIUM RISK: Sec 401(d) worker-compensation eligibility threshold (mitigated by
+IRA bonus-credit-precedent structure; alternative pathways available).
+LOW RISK: Sec 101 COLT Act §36C amendments (existing IRC structure); Sec
+201(c) direct appropriation supplements to existing WIOA/Perkins V/Apprenticeship
+accounts; Sec 301 EITC expansion (existing IRC §32 structure); Sec
+401(a)–(c)/(e)/(f) employer training credit (IRA tax-credit-with-eligibility-threshold
+structure).
+
+Workforce participation
+revenue offset
+
+Request CBO dynamic scoring supplement modeling labor-force-participation gains
+from childcare expansion (Sec 101), training-linked UI (Sec 201), EITC expansion
+(Sec 301), and employer training credit (Sec 401) as budget offsets. IRA precedent:
+CBO incorporated healthcare cost-reduction effects as offsets. Frame the dynamic
+score request as consistent with the Bipartisan Policy Center and Urban Institute
+modeling on childcare-to-employment pathways. Sec 503 establishes annual
+reporting of CBO-validated metrics to support reauthorization scoring.
+
+REF_RDNC_Leg05_Bill4_FSW_2029_4 · REF_ Reference Layer · Reform Democrats of the New Commonwealth · 2026
+Legal disclaimer applies — see page 1. This framework requires licensed legislative counsel review before introduction.
+Originally conceived and authored by a concerned American citizen. Developed with the assistance of Claude (Anthropic). The ideas
+belong to anyone willing to fight for them.
+
+REF_RDNC_Leg05_Bill4_FSW_2029_4 · Page 10 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 100
+
+
+PART VII · THE LEGISLATIVE SERIES
+
+BILL 5
+
+BWDS
+Billionaire Wealth & Digital Services Tax Act of 2030
+Phase II · Track A · v_5
+
+Reproduced in full from the canonical drafted bill. No operative text has been altered in consolidation.
+
+PROJECT ARA 2028 · 101
+
+
+RDNC Bill Framework · BWDS Act of 2030 · REF_ · 2026
+
+Reform Democrats of the New Commonwealth · Project ARA 2028
+Legislative Ecosystem Document Leg06 of Leg14
+
+Billionaire Wealth & Digital Services Tax Act of
+2030
+Bill Framework & Legislative Brief
+Phase II · Track A · Second Reconciliation Window · Phase II · Track A · Year 3–6
+
+LEGAL DISCLAIMER — POLICY DISCUSSION DOCUMENT
+This document is a policy discussion framework and bill scaffold. It is not formally introduced legislation, has not been
+reviewed by licensed legislative counsel, and does not constitute legal advice of any kind.
+All provisions marked [TBD] — including dollar amounts, specific IRC section numbers, penalty thresholds,
+appropriation amounts, and CBO scoring figures — require resolution by licensed legislative drafting counsel (the
+Office of Legislative Counsel for the House or Senate, as applicable), relevant agency technical staff, and the
+Congressional Budget Office before introduction as formal legislation.
+Constitutional arguments, legal analyses, and statutory framings presented herein are analytical assessments
+developed for policy planning purposes. They are not legal opinions and have not been reviewed or validated by
+licensed legal counsel. This document identifies constitutional and legal risks requiring independent review — those
+identifications are planning guidance, not legal conclusions.
+This framework was produced by the Reform Democrats of the New Commonwealth (RDNC), a private citizen policy
+research organization. It is not affiliated with any sitting Member of Congress, congressional office, government
+agency, or political party organization in any official capacity.
+Consultation with licensed legislative counsel, the Department of Justice Office of Legal Counsel, the
+Treasury Office of Tax Policy, the Congressional Budget Office, and Senate Finance Committee
+constitutional counsel is required before any framework in this series may be introduced as formal
+legislation. Distribution is subject to RDNC classification protocols (REF_ layer: internal use and trusted
+partners only).
+
+Phase II · Track A · Second Reconciliation Window · Bill 5
+
+Part I — Legislative Brief (Non-Technical Summary)
+This bill makes two things true simultaneously: it captures revenue from the concentration of wealth that has defined the
+past four decades, and it does so using two mechanisms that are structurally and politically distinct enough that one can
+survive if the other faces opposition.
+
+AT A GLANCE
+Bill Title
+
+Billionaire Wealth and Digital Services Tax Act of 2030
+
+Short Title (Cite As)
+
+The BWDS Act of 2030
+
+Legislative Vehicle
+
+Budget Reconciliation
+
+REF_RDNC_Leg06_Bill5_BWDS_2030_5 · Page 1 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 102
+
+
+RDNC Bill Framework · BWDS Act of 2030 · REF_ · 2026
+
+Phase / Track
+
+Phase II · Track A · Year 3–6
+
+Primary Committees
+
+Senate Finance
+
+Dependencies
+
+Phase I coalition established; international coordination underway
+
+Core Framing
+
+"Fair contribution from those who benefited most."
+
+Strategic Note
+
+Lead with digital services levy — highest public sympathy, lowest opposition. Wealth
+tax follows.
+
+Constitutional Risk
+
+Highest in bill series — Moore v. United States (2024) 4-Justice realization bloc.
+Body-baked safety + prepared fallback architecture in Sec 204(f).
+
+Byrd Rule Status
+
+All three titles direct revenue effect — reconciliation eligible
+
+What This Bill Does:
+1. Establishes a digital services revenue levy on large technology platforms. A targeted Flint v. Stone
+Tracy excise on revenue from digital advertising, marketplace transactions, and data monetization for companies
+exceeding gross revenue thresholds.
+2. Establishes a Billionaire Income Tax (BIT) under §446 accounting method framework. Mark-to-market
+on traded assets (parallel to existing §§475/1256/1296). Deferral charge on non-traded assets payable at
+Realization Event (§1291/§453A model). Deemed realization at death with estate tax coordination (§877A
+parallel). Structured as Subtitle A income tax with Sec 204 Constitutional Construction binding the framing in
+operative bill text.
+3. Closes offshore account and shell corporation loopholes. Strengthens FATCA reporting, beneficial
+ownership disclosure, and civil/criminal penalties for concealment.
+
+ATTACK
+SURFACE
+
+"Wealth tax is unconstitutional" (Direct Tax Clause). "Capital flight." "Punishing success."
+"Job-killing." All predictable and pre-answerable.
+
+DEFENSE
+STRATEGY
+
+Digital services levy: "These platforms built trillion-dollar valuations on American users,
+American infrastructure, and American legal protections. A fair contribution is not radical."
+Wealth tax: frame as mark-to-market income tax (§§475, 1256, 1296 precedents) under §446
+accounting method — not property tax. Sec 204 Constitutional Construction binds the framing in
+operative bill text.
+
+FALLBACK
+POSITION
+
+If Sec 201(a) annual mark-to-market is held unconstitutional: Sec 204(f) operative authority
+converts to elective §446 framework administered by Treasury (Architecture B). Sec 202 deferral
+charge (§1291/§453A model) and Sec 203 deemed realization at death (§877A precedent)
+continue as primary income tax mechanism — both far stronger constitutional ground than
+annual MTM. Digital services levy can pass independently as Flint excise.
+
+Part II — Bill Framework
+This is the structural scaffold of the bill. Rate percentages, revenue thresholds, and constitutional construction are flagged
+as [TBD] where they require licensed legislative counsel, DOJ OLC, Treasury Office of Tax Policy, and Senate Finance
+Committee constitutional counsel review before introduction. Sec 204 Constitutional Construction binds the framing of all
+
+REF_RDNC_Leg06_Bill5_BWDS_2030_5 · Page 2 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 103
+
+
+RDNC Bill Framework · BWDS Act of 2030 · REF_ · 2026
+
+Title II provisions; Sec 204(f) establishes prepared fallback architecture for severability.
+119TH CONGRESS
+
+1ST SESSION
+
+S. ____
+
+To establish a digital services revenue levy on large technology platforms; to impose a
+progressive annual billionaire income tax on mark-to-market and deemed realization basis;
+to strengthen offshore tax enforcement; and for other purposes.
+
+A B I L L
+Be it enacted by the Senate and House of Representatives of the United States of America in
+Congress assembled,
+SEC. 1. SHORT TITLE.
+This Act may be cited as the "Billionaire Wealth and Digital Services Tax Act of 2030" or
+the "BWDS Act of 2030".
+SEC. 2. FINDINGS AND PURPOSE.
+(a) FINDINGS.—Congress finds the following:
+(1) The combined net worth of American billionaires has increased from approximately
+$1 trillion in 1990 to over $5 trillion by 2024, while effective Federal income tax
+rates on the wealthiest Americans have declined significantly, largely because current
+law generally does not tax income until a taxable event occurs.
+(2) Congress has enacted mark-to-market income inclusion for specific asset classes —
+dealer securities (IRC §475), regulated futures (§1256), and PFICs (§1296) —
+demonstrating the constitutional validity of annual income recognition under the
+section 446 accounting method framework without a sale event.
+(3) Large digital services platforms have generated substantial revenues from American
+users and infrastructure while maintaining effective Federal tax rates significantly
+below the statutory corporate rate.
+(4) IRS estimates that offshore tax evasion accounts for a significant portion of the
+annual tax gap, with high-income individuals and beneficial-ownership concealment
+structures responsible for the largest single category.
+(b) PURPOSE.—The purposes of this Act are to—
+(1) establish a digital services revenue levy on large technology platforms structured
+as a Flint v. Stone Tracy excise on the privilege of providing digital services in
+United States commerce;
+(2) impose a progressive annual income tax on covered taxpayers (individuals with net
+wealth exceeding $1,000,000,000) structured as a mark-to-market accounting method
+election under section 446, parallel to existing sections 475, 1256, and 1296;
+(3) impose a deferral charge on non-traded covered assets payable upon a Realization
+Event, parallel to sections 1291 and 453A interest charges;
+(4) treat death as a recognized realization event for covered assets, parallel to
+section 877A treatment of expatriation; and
+(5) strengthen offshore tax enforcement through expanded FATCA reporting, beneficial
+ownership disclosure, and civil and criminal penalties for concealment.
+SEC. 3. BUDGETARY COMPLIANCE.
+(a) RECONCILIATION.—The provisions of this Act are enacted pursuant to reconciliation
+instructions in the concurrent resolution on the budget for fiscal year 2031.
+(b) DIRECT REVENUE EFFECT.—All titles of this Act produce direct revenue effects: Title
+I (digital services levy) is a direct revenue-raising provision; Title II (billionaire
+income tax) operates as Subtitle A income tax amendments; Title III (offshore enforcement)
+is revenue-positive through FATCA expansion. All provisions carry direct budgetary effect
+and are reconciliation-eligible.
+(c) BYRD RULE COMPLIANCE.—Any provision determined by the Senate Parliamentarian to be
+
+REF_RDNC_Leg06_Bill5_BWDS_2030_5 · Page 3 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 104
+
+
+RDNC Bill Framework · BWDS Act of 2030 · REF_ · 2026
+
+extraneous under 2 U.S.C. §644 shall be severable from the remainder of the Act. Sec
+204(f) establishes additional severability and prepared fallback architecture for Title
+II constitutional severability.
+
+TITLE I — DIGITAL SERVICES REVENUE LEVY
+SEC. 101. DIGITAL SERVICES LEVY.
+(a) IN GENERAL.—There is imposed on each covered entity a levy equal to [TBD] percent of
+the digital services revenue of such entity attributable to United States users for the
+taxable year. The levy is structured as a Flint v. Stone Tracy excise on the privilege of
+providing digital services in United States commerce, not as an income tax under the
+Sixteenth Amendment.
+(b) COVERED ENTITY.—A covered entity is a corporation with—
+(1) global revenue exceeding $[TBD] for the taxable year; and
+(2) domestic digital services revenue attributable to United States users exceeding
+$[TBD] for the taxable year.
+(c) DIGITAL SERVICES REVENUE.—Digital services revenue includes amounts received from—
+(1) digital advertising services;
+(2) online marketplace transaction facilitation fees;
+(3) social media platform services;
+(4) cloud computing services; and
+(5) data monetization activities, including the sale or license of user data or
+derived analytical products.
+(d) NO PASS-THROUGH BAN.—Nothing in this section shall prohibit a covered entity from
+passing the levy through to its customers as an itemized line-item charge or otherwise.
+[Note to counsel: Maryland Digital Advertising Tax (4th Cir. Aug. 2025) [Source 228]
+struck the Maryland pass-through ban as First Amendment speaker-based discrimination.
+Sec 101(d) explicitly preserves pass-through to avoid the Maryland defect. Sec 101(e)
+avoids speaker-based or content-based exemptions.]
+(e) UNIFORM APPLICATION.—The levy under subsection (a) shall be applied uniformly to all
+covered entities meeting the thresholds in subsection (b), without regard to viewpoint,
+content, or speaker identity of any digital service.
+(f) REVENUE DEDICATION.—Revenues collected under this section are dedicated to the
+Universal Basic Investment Fund and the Federal Healthcare Transition Reserve.
+[Note to counsel: EU DST (3% on revenues >€750M), UK DST (2%), and France DST (3%)
+provide international precedent. Counsel to coordinate with Treasury international tax
+counsel to avoid double taxation.]
+
+TITLE II — BILLIONAIRE INCOME TAX (MARK-TO-MARKET AND DEEMED REALIZATION)
+SEC. 201. ANNUAL INCOME INCLUSION ON COVERED TRADED ASSETS — MARK-TO-MARKET.
+(a) IN GENERAL.—In the case of a covered taxpayer, the net annual increase in the fair
+market value of covered traded assets held by the taxpayer during the taxable year shall
+be treated as income recognized in that taxable year, in accordance with the
+mark-to-market accounting method election under subsection (b).
+(b) ACCOUNTING METHOD ANCHOR.—Income inclusion under subsection (a) is structured as a
+mark-to-market accounting method election for covered taxpayers under section 446,
+parallel to the existing mark-to-market accounting method elections in—
+(1) section 475 (dealers in securities);
+(2) section 1256 (regulated futures contracts, foreign currency contracts, nonequity
+options, dealer equity options, and dealer securities futures contracts); and
+(3) section 1296 (passive foreign investment company election).
+The mark-to-market accounting method established under this section is an income
+recognition method permitted under section 446(c)(4), not a new direct tax. (See section
+204 for Constitutional Construction.)
+
+REF_RDNC_Leg06_Bill5_BWDS_2030_5 · Page 4 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 105
+
+
+RDNC Bill Framework · BWDS Act of 2030 · REF_ · 2026
+
+(c) COVERED TAXPAYER.—A covered taxpayer is an individual whose net wealth exceeds
+$1,000,000,000 as of the last day of the preceding taxable year.
+(d) COVERED TRADED ASSETS.—Covered traded assets means publicly traded securities,
+regulated futures contracts, and other assets for which a readily ascertainable fair
+market value is established daily by an organized exchange or established trading market.
+(e) RATE.—The applicable rate is the applicable capital gains rate plus [TBD] percentage
+points, not to exceed the ordinary income rate.
+(f) BASIS ADJUSTMENT.—The basis of covered traded assets shall be adjusted to reflect
+amounts included in income under subsection (a) to prevent double inclusion at
+realization.
+[Note to counsel: Sec 201(a) presents the constitutional question the Moore 4-Justice
+realization bloc may resolve against the bill. Sec 201(b) §446 anchor mitigates by
+binding (a) to existing mark-to-market accounting method precedents. Sec 204
+establishes prepared fallback architecture; full ladder documented in Part III.]
+SEC. 202. DEFERRAL CHARGE ON NON-TRADED COVERED ASSETS.
+(a) IN GENERAL.—In the case of a covered taxpayer, a deferral charge is imposed on the
+unrealized appreciation in non-traded covered assets, calculated at the applicable
+Federal rate, accumulated annually, and payable upon a Realization Event.
+(b) STRUCTURE PARALLEL.—The deferral charge under subsection (a) is structured parallel
+to the interest charges under—
+(1) section 1291 (passive foreign investment company excess distribution interest
+charge); and
+(2) section 453A (installment sale interest charge).
+Each of these existing sections has operated for decades without successful constitutional
+challenge.
+(c) REALIZATION EVENT.—A Realization Event means—
+(1) a sale or exchange of the covered asset;
+(2) a gift of the covered asset, other than to the taxpayer's spouse;
+(3) the death of the taxpayer (subject to section 203);
+(4) expatriation of the taxpayer subject to section 877A; or
+(5) any other event treated as a recognition event under generally applicable
+provisions of this title.
+(d) INSTALLMENT ELECTION.—Upon a Realization Event, the covered taxpayer may elect to
+pay the accumulated deferral charge in equal annual installments over a period not to
+exceed [TBD] years, subject to interest at the applicable Federal rate.
+(e) NON-TRADED COVERED ASSET.—A non-traded covered asset is any asset of a covered
+taxpayer for which a readily ascertainable fair market value is not established daily by
+an organized exchange or established trading market, including closely held business
+interests, real estate partnerships, art and collectibles above $[TBD], and non-traded
+securities.
+SEC. 203. DEEMED REALIZATION AT DEATH.
+(a) IN GENERAL.—In the case of a covered taxpayer, all covered assets at death shall be
+treated as sold at fair market value as of the date of death. Resulting gain shall be
+recognized as income of the estate.
+(b) MARITAL EXCEPTION.—Subsection (a) shall not apply to covered assets transferred to
+the surviving spouse of the covered taxpayer. Such assets shall be subject to deemed
+realization at the death of the surviving spouse or upon any subsequent transfer described
+in section 202(c).
+(c) ESTATE TAX COORDINATION.—Income taxes paid under this section shall be deductible in
+computing the Federal estate tax liability of the covered taxpayer's estate.
+(d) SECTION 877A PARALLEL.—Subsection (a) operates parallel to section 877A (deemed
+realization at expatriation, 2008), which has operated without successful Sixteenth
+Amendment challenge. Death is at least as constitutionally settled a realization event as
+expatriation.
+SEC. 204. CONSTITUTIONAL CONSTRUCTION AND PREPARED FALLBACK ARCHITECTURE.
+
+REF_RDNC_Leg06_Bill5_BWDS_2030_5 · Page 5 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 106
+
+
+RDNC Bill Framework · BWDS Act of 2030 · REF_ · 2026
+
+(a) INCOME TAX FRAMING.—The income inclusion under section 201 is an income tax within
+the meaning of the Sixteenth Amendment, structured as a mark-to-market accounting method
+election under section 446(c)(4), parallel to existing mark-to-market accounting elections
+in sections 475, 1256, and 1296. Each of those existing sections has operated for decades
+without successful Sixteenth Amendment challenge.
+(b) DEFERRAL CHARGE FRAMING.—The deferral charge under section 202 is an interest
+charge on tax deferred until a Realization Event, structured parallel to existing interest
+charges under sections 1291 (passive foreign investment company excess distribution) and
+453A (installment sale interest). Each has operated without successful constitutional
+challenge.
+(c) DEEMED REALIZATION FRAMING.—The deemed realization under section 203 treats death
+as a recognized realization event, parallel to the deemed-realization-at-expatriation
+provision under section 877A (2008), which has operated without successful Sixteenth
+Amendment challenge.
+(d) NOT A DIRECT TAX.—No provision of this title is a tax on property, net wealth, or
+holdings within the meaning of Article I, section 9, clause 4. All provisions are income
+inclusions or interest charges under Subtitle A income tax authority.
+(e) MOORE V. UNITED STATES — RESERVED QUESTIONS.—Moore v. United States, 602 U.S. 572
+(2024), reserved the constitutional question whether the Sixteenth Amendment permits
+taxation of unrealized gains generally. The structure established under sections 201
+through 203 is designed to operate within Moore-approved attribution and
+deemed-realization frameworks, not to present the reserved question.
+(f) SEVERABILITY AND PREPARED FALLBACK ARCHITECTURE.—If section 201(a) annual income
+inclusion is held unconstitutional or otherwise stayed pending judicial review—
+(1) sections 202 (deferral charge on non-traded covered assets payable at Realization
+Event) and 203 (deemed realization at death) shall continue to operate as the primary
+income tax mechanism of this title; and
+(2) the mark-to-market accounting method under section 201(b) may be administered by
+the Secretary of the Treasury as a covered-taxpayer election under section 446(c)(4)
+authority, with annual income inclusion limited to taxpayers electing the method,
+pending judicial resolution.
+
+TITLE III — OFFSHORE ENFORCEMENT
+SEC. 301. STRENGTHENED OFFSHORE TAX ENFORCEMENT.
+(a) FATCA EXPANSION.—Reporting thresholds under chapter 4 of the Internal Revenue Code
+of 1986 (the Foreign Account Tax Compliance Act) are amended to apply lower reporting
+thresholds to covered taxpayers as defined in section 201(c).
+(b) BENEFICIAL OWNERSHIP DISCLOSURE.—Beneficial ownership disclosure is required for all
+foreign entities in which a United States person holds a direct or indirect interest
+exceeding [TBD] percent. Such disclosure shall be made to the Financial Crimes Enforcement
+Network under existing 31 U.S.C. §5336 authority, with cross-referencing to IRS
+information returns.
+(c) CIVIL PENALTIES.—Civil penalties for willful failure to disclose under subsection
+(a) or (b) are—
+(1) [TBD] percent of the unreported asset value per year of nondisclosure; or
+(2) $[TBD] per violation, whichever is greater.
+(d) CRIMINAL PENALTIES.—Criminal penalties for willful failure to disclose under
+subsection (a) or (b), with intent to evade Federal tax, are—
+(1) a fine of up to $[TBD]; and
+(2) imprisonment of up to [TBD] years.
+(e) COORDINATION WITH EXISTING REGIMES.—The Secretary of the Treasury shall coordinate
+enforcement under this section with existing FATCA, FBAR (31 U.S.C. §5314), and FinCEN
+beneficial ownership reporting frameworks to avoid duplicative reporting requirements.
+(f) TREATY COORDINATION.—The Secretary shall notify treaty partners of FATCA expansion
+under subsection (a) and coordinate through existing intergovernmental agreement (IGA)
+
+REF_RDNC_Leg06_Bill5_BWDS_2030_5 · Page 6 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 107
+
+
+RDNC Bill Framework · BWDS Act of 2030 · REF_ · 2026
+
+frameworks to maintain treaty compliance.
+
+TITLE IV — IMPLEMENTATION AND OVERSIGHT
+SEC. 401. IMPLEMENTATION TIMELINE.
+(a) YEAR 1 (2031).—Title I digital services levy effective; Treasury §446(c)(4)
+election regulations published for Title II; Title III FATCA expansion effective.
+(b) YEAR 3 (2033).—First Title II compliance cycle complete; CBO interim report on
+revenue capture, billionaire compliance, and constitutional litigation status.
+(c) YEAR 5 (2035).—Comprehensive program review and reauthorization assessment;
+cumulative revenue, compliance, and litigation outcomes report.
+SEC. 402. ANNUAL REPORTING.
+Not later than 90 days after the end of each fiscal year, the Secretary of the Treasury
+shall submit to Congress an annual report including—
+(1) Title I digital services levy revenue, by covered entity category;
+(2) Title II annual income inclusion participation, deferral charge accumulation, and
+deemed-realization-at-death revenue, with separate accounting for elective §446(c)(4)
+participation under Sec 204(f)(2);
+(3) Title III FATCA expansion revenue, beneficial ownership disclosures, and civil
+and criminal enforcement actions; and
+(4) constitutional litigation status, including any judicial proceedings affecting
+Sec 201(a) operative authority and Sec 204(f) prepared fallback activation.
+SEC. 403. TREASURY CONSTITUTIONAL DEFENSE COORDINATION.
+(a) IN GENERAL.—The Secretary of the Treasury, in coordination with the Department of
+Justice Office of Legal Counsel and Senate Finance Committee constitutional counsel, shall
+establish protocols for the constitutional defense of provisions of this Act, including—
+(1) identification of high-priority litigation defense for Sec 201(a) annual income
+inclusion;
+(2) preparation of Treasury §446(c)(4) election regulations under Sec 204(f)(2)
+ready for activation if Sec 201(a) is held unconstitutional or stayed; and
+(3) coordination with Senate Finance Committee on legislative response to adverse
+constitutional rulings.
+(b) FALLBACK ACTIVATION.—Upon entry of a final judgment or stay affecting Sec 201(a),
+the Secretary shall, within 30 days, publish notice of activation of the Sec 204(f)(2)
+elective §446(c)(4) framework and provide guidance to covered taxpayers regarding
+transition.
+(c) ANNUAL CONSTITUTIONAL STATUS REPORT.—The annual report under section 402 shall
+include a section on constitutional litigation status and Sec 204(f) prepared fallback
+architecture readiness.
+
+Part III — Notes for Congressional Counsel
+All [TBD] items and constitutional questions below require resolution before introduction. Sec 201 carries body-baked
+constitutional safety (§446 accounting method anchor) with prepared Architecture B fallback in Sec 204(f). This is the
+heaviest constitutional analysis in the bill series, drawing on Moore v. United States (2024), Eisner v. Macomber, Bruun,
+Cottage Savings, Glenshaw Glass, Flint v. Stone Tracy, IRC §§475/1256/1296/1291/453A/877A precedents, and the
+Maryland DST 4th Circuit ruling. DOJ OLC review required before introduction.
+
+REF_RDNC_Leg06_Bill5_BWDS_2030_5 · Page 7 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 108
+
+
+RDNC Bill Framework · BWDS Act of 2030 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Sec 201 hybrid
+mark-to-market with §446
+accounting method anchor
+— body-baked
+constitutional safety with
+prepared B-architecture
+fallback [Sources 203, 208,
+224, 225, 226, 230]
+
+Sec 201 carries the highest constitutional doctrine risk in the bill series under the
+Moore v. United States (2024) [Source 203] 4-Justice realization bloc (Barrett, Alito,
+Thomas, Gorsuch). The provision is structured around body-baked safety in Sec
+201(b) (§446 accounting method anchor, parallel to §§475/1256/1296 precedents)
+with prepared fallback architecture in Sec 204(f). Three levels documented for
+residual exposure.
+(1) Primary structure (body as drafted — Architecture C). Sec 201(a) presents
+the politically loud “net annual increase... treated as income recognized” framing.
+Sec 201(b) operates as the structural anchor: income inclusion under (a) is
+structured as a §446 accounting method election parallel to existing §475 (dealers),
+§1256 (regulated futures), and §1296 (PFIC) mark-to-market elections [Source 208].
+Each of these existing sections has operated for decades without successful
+Sixteenth Amendment challenge. Sec 204(a)–(e) establish the constitutional
+construction explicitly in operative bill text. The constitutional question turns on
+whether Sec 201(a) is read as creating a new tax on unrealized appreciation (the
+question Moore reserved) or as extending the §446-permitted accounting method
+framework to a new class of taxpayers (a constitutionally well-precedented
+adjustment). The bill body is structured to support the latter reading.
+(2) Mid-level fallback if Sec 201(a) is held unconstitutional — Architecture B
+applied. Per Sec 204(f)(2) operative authority, Treasury administers the
+mark-to-market accounting method under Sec 201(b) as a covered-taxpayer election
+under §446(c)(4) authority, with annual income inclusion limited to taxpayers
+electing the method — pending judicial resolution. This converts the structure from
+mandatory annual MTM (Sec 201(a)) to elective annual MTM under §446
+framework, which is the Architecture B preemptive restructure documented in the
+audit. The constitutional posture changes from “new income inclusion” to “new
+accounting method election available to covered taxpayers.” This preserves
+substantial revenue capture under voluntary election (taxpayer incentive: avoid Sec
+202 deferral charge accumulation by electing MTM) while removing the
+mandatory-annual-MTM constitutional question. Counsel should have Treasury
+§446(c)(4) election regulations drafted before introduction so the Sec 204(f)(2)
+authority is operationally ready if invoked. Sec 403(a)(2) of this Act requires
+Treasury to maintain such regulations in ready state.
+(3) Bottom-level constitutional anchor — Sec 202 + Sec 203 survive any Sec
+201 challenge. Per Sec 204(f)(1), if Sec 201(a) is held unconstitutional or stayed,
+Sec 202 (deferral charge on non-traded assets, §1291/§453A model with
+Realization Event collection [Source 203]) and Sec 203 (deemed realization at
+death, parallel to §877A 2008 exit tax [Source 230]) continue to operate as the
+primary income tax mechanism. Sec 203 deemed realization at death is the most
+constitutionally secure element of BWDS — even the Barrett/Thomas realization
+bloc would likely accept death as a recognized realization event, and §877A has
+operated since 2008 without successful Sixteenth Amendment challenge. Sec 202's
+deferral-until-Realization-Event structure follows §1291 PFIC excess-distribution
+interest charge and §453A installment-sale deferral interest precedent — both have
+operated for decades without successful constitutional challenge. Revenue capture
+continues at lower magnitude even in the worst-case Sec 201 outcome.
+(4) Constitutional engagement strategy. DOJ OLC review required before
+
+REF_RDNC_Leg06_Bill5_BWDS_2030_5 · Page 8 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 109
+
+
+RDNC Bill Framework · BWDS Act of 2030 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+introduction, addressing each track separately. Senate Finance Committee
+constitutional counsel and Treasury Office of Tax Policy must confirm: (a) Sec
+201(b) §446 framework binds Sec 201(a) sufficiently to operate within
+Moore-approved frameworks rather than presenting the reserved question; (b) Sec
+202 §1291/§453A precedent fully supports the deferral charge structure; (c) Sec 203
+§877A precedent fully supports deemed realization at death. Anticipate
+constitutional challenge to Sec 201(a) within 24 months of enactment from Pacific
+Legal Foundation, Cato Institute, or comparable plaintiff. Sec 204(f) prepared
+fallback architecture is the planned response. The deliberate constitutional posture
+is named in counsel materials, not concealed — Sec 204(f) is the body-text
+instruction to Treasury for the Architecture B fallback if needed.
+Moore v. United States
+(2024) — what it held and
+what it left open [Source
+203]
+
+UPDATED: Moore (602 U.S. 572, 2024), 7-2 on result, is deliberately narrow.
+Kavanaugh majority upheld the Mandatory Repatriation Tax through attribution
+doctrine without ruling on whether unrealized gains may be taxed as income
+generally. Footnote 2 explicitly disclaimed any view on taxes on holdings, wealth, or
+net worth or taxes on appreciation. Barrett concurrence (with Alito): unrealized
+income may not be taxed. Thomas dissent (with Gorsuch): Eisner v. Macomber
+realization requirement is constitutional bedrock. Jackson: no realization
+requirement. Roberts/Kavanaugh/Sotomayor/Kagan reserved. A single additional
+vote forms a 5-4 majority requiring realization. BWDS Sec 204(a)–(e) Constitutional
+Construction binds the framing in operative bill text — Subtitle A income tax under
+§446 accounting method, NOT property tax or net-worth framing.
+
+Realization doctrine —
+4-Justice bloc [Sources
+203, 224, 225, 226]
+
+NEW: Eisner v. Macomber (1920) [Source 224] remains formally good law for stock
+dividends but its broader realization dictum was substantially eroded by Bruun
+(1940) [Source 225] and Cottage Savings (1991) [Source 226]. Post-Moore, four
+Justices (Barrett, Alito, Thomas, Gorsuch) are on record treating realization as a
+constitutional requirement for individual taxpayers. The BIT structure operates within
+attribution (Moore-approved) and deemed-realization-at-event frameworks,
+supplemented by the Sec 201(b) §446 accounting method anchor for the annual
+MTM component. Sec 204(f) prepared fallback architecture provides the operational
+response if the 4-Justice bloc forms a majority on the reserved question.
+
+Deemed realization at
+death — strongest
+constitutional ground
+[Source 230]
+
+NEW: IRC §877A (2008 exit tax) [Source 230] has operated since 2008 without
+successful Sixteenth Amendment challenge. Even the Barrett/Thomas realization
+bloc would likely accept death as a recognized realization event — it is more
+transformative than expatriation, which §877A addresses. Sec 203 deemed
+realization at death with estate tax coordination is the MOST CONSTITUTIONALLY
+SECURE element of BWDS. Prioritize this component in political communications
+and constitutional findings. Sec 204(c) Constitutional Construction binds the §877A
+parallel explicitly in operative bill text.
+
+Item Requiring
+Resolution
+
+Guidance
+
+Deferral charge
+mechanism — §1291/§453A
+model [Source 203]
+
+NEW: IRC §1291 (PFIC excess-distribution interest charge, 1986) and IRC §453A
+(installment-sale deferral interest, 1987) both impose retrospective interest charges
+at AFR without successful constitutional challenge. Sec 202(a)–(d) accrues the
+
+REF_RDNC_Leg06_Bill5_BWDS_2030_5 · Page 9 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 110
+
+
+RDNC Bill Framework · BWDS Act of 2030 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+deferral charge annually but defers collection until a Realization Event (sale, gift,
+death, or expatriation) — the §1291 model. Sec 202(b) binds the parallel structure
+explicitly in operative bill text. This is defensible as an income tax with an
+anti-deferral overlay or as a Flint-type excise on the privilege of holding
+deferral-eligible property. A pure annual collection on individual unrealized
+appreciation without the deferral-until-event structure has no precedent and faces
+the 4-Justice realization bloc — this bill does not present that question.
+Digital services levy —
+Flint excise framing
+required [Sources 227, 228]
+
+NEW: Sec 101(a) frames the digital services levy as a Flint v. Stone Tracy (1911)
+[Source 227] excise on the privilege of providing digital services in US commerce —
+NOT as a Sixteenth Amendment income tax. Gross receipts include capital recovery
+and are not gain derived from capital within Glenshaw Glass, so gross-receipts levy
+is not Sixteenth Amendment income. Excise framing requires only geographic
+uniformity under Art. I §8 cl. 1. CRITICAL CAUTION from Maryland Digital
+Advertising Tax (4th Cir. Aug. 2025) [Source 228]: the pass-through ban was struck
+as First Amendment speaker-based discrimination. Sec 101(d) explicitly preserves
+pass-through; Sec 101(e) requires uniform application without speaker-based or
+content-based exemptions. These two subsections are the operative response to the
+Maryland defect.
+
+Apportionment risk — the
+doctrine that kills if it
+applies [Source 203]
+
+If any BWDS component is found to be a direct tax rather than an income tax or
+excise, apportionment by population is functionally fatal. No Moore opinion resolved
+whether the Sixteenth Amendment eliminates apportionment for taxes on unrealized
+gains. Sec 204(d) NOT A DIRECT TAX is the operative response: every BWDS
+component is either (a) clearly an income tax under Subtitle A authority (Title II
+under §446 framework + Sec 204(a)–(c) framing) or (b) clearly an excise under Flint
+(Title I under Sec 101(a) framing). No hybrid framing that could read as a direct tax
+on property value.
+
+DOJ OLC constitutional
+review — required before
+introduction
+
+DOJ OLC review required before introduction. Given the Moore 4-Justice realization
+bloc, Treasury and Senate Finance counsel must confirm which BIT components
+operate within Moore's approved attribution doctrine vs. which extend to individual
+unrealized appreciation. The four-track structure (Sec 201 mark-to-market on traded
+assets under §446 anchor; Sec 202 deferral charge on non-traded assets payable at
+Realization Event under §1291/§453A model; Sec 203 deemed realization at death
+under §877A model; Sec 204(f) prepared fallback architecture) is designed to
+maximize constitutional defensibility by providing alternative structural bases for
+each component. OLC review should address each track separately. Sec 403 of this
+Act establishes Treasury Constitutional Defense Coordination as the operative
+coordination mechanism.
+
+Item Requiring
+Resolution
+
+Guidance
+
+IRC §§475/1256/1296
+precedents — no
+successful constitutional
+challenges [Source 208]
+
+IRC §475 (dealers, 1993), §1256 (futures 60/40 MTM, 1981), and §1296 (PFIC MTM
+election) have operated for decades without successful Sixteenth Amendment
+challenge. Each is defensible as a Flint excise on trade/business privilege or as a
+permissible §446 accounting method. None taxes pure passive appreciation in the
+hands of an individual long-term holder — Sec 201(b) §446 accounting method
+
+REF_RDNC_Leg06_Bill5_BWDS_2030_5 · Page 10 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 111
+
+
+RDNC Bill Framework · BWDS Act of 2030 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+anchor is the operative bridge from existing precedent to the covered-taxpayer
+framework. Counsel must verify the individual-billionaire application fits within the
+§446 accounting method framework as drafted, with the Sec 204(f)(2) elective
+fallback ready as the secondary defense if the mandatory-application framing is
+challenged.
+Illiquid asset valuation
+(Sec. 202) — safe harbor
+rules essential
+
+Treasury to develop safe harbor valuation rules for the deferral charge on
+non-traded assets. IRS has existing estate tax valuation machinery (IRC §2031,
+§2512) — adapt for annual deferral charge accrual. Safe harbor elections for closely
+held businesses, real estate partnerships, and non-traded securities are essential to
+administrative viability. Deferral election to Realization Event (Sec 202(d) installment
+election) is constitutionally necessary to preserve the §1291/§453A model parallel.
+
+Byrd Rule certification
+
+Title I (digital services levy): direct revenue effect — clearly budget-relevant. Title II
+(BIT under §446 framework): Subtitle A income tax amendment — budget-relevant.
+Title III (FATCA enforcement): revenue-positive. Title IV (Implementation):
+operational provisions tied to revenue outcomes. All four titles should survive Byrd
+Rule as revenue-raising provisions. Risk: if any component is characterized as
+regulatory rather than revenue (e.g., behavioral mandates on platforms beyond the
+levy itself), that component faces merely-incidental Byrd analysis. Sec 101 is
+structured as a pure revenue levy without behavioral mandates beyond the
+threshold qualification. Title II is structured as Subtitle A income tax under existing
+accounting method framework. Keep non-revenue provisions out of the
+reconciliation vehicle.
+
+FATCA coordination (Sec.
+301)
+
+Treasury international tax counsel to assess interaction with existing tax treaties and
+IGA framework. FATCA modifications under Sec 301(a) may require treaty partner
+notification — Sec 301(f) requires the Secretary to notify treaty partners and
+coordinate through existing IGA frameworks. The deemed-realization-at-expatriation
+component coordinates with existing §877A and FATCA infrastructure (Sec
+202(c)(4) Realization Event includes §877A expatriation) — present as
+administrative extension, not a new legal regime, to minimize treaty-partner friction.
+Sec 301(e) coordination with FBAR (31 U.S.C. §5314) and FinCEN beneficial
+ownership reporting avoids duplicative reporting requirements.
+
+REF_RDNC_Leg06_Bill5_BWDS_2030_5 · REF_ Reference Layer · Reform Democrats of the New Commonwealth · 2026
+Legal disclaimer applies — see page 1. This framework requires licensed legislative counsel, DOJ OLC, and Treasury Office of Tax Policy
+review before introduction.
+Originally conceived and authored by a concerned American citizen. Developed with the assistance of Claude (Anthropic). The ideas
+belong to anyone willing to fight for them.
+
+REF_RDNC_Leg06_Bill5_BWDS_2030_5 · Page 11 · Reform Democrats of the New Commonwealth
+PROJECT ARA 2028 · 112
+
+
+PART VII · THE LEGISLATIVE SERIES
+
+BILL 6
+
+POHE
+Public Option Healthcare Expansion Act of 2030
+Phase II · Track B · v_4
+
+Reproduced in full from the canonical drafted bill. No operative text has been altered in consolidation.
+
+PROJECT ARA 2028 · 113
+
+
+RDNC Bill Framework · POHE Act of 2030 · REF_ · 2026
+
+Reform Democrats of the New Commonwealth · Project ARA 2028
+Legislative Ecosystem Document Leg07 of Leg14
+
+Public Option Healthcare Expansion Act
+of 2030
+Bill Framework & Legislative Brief
+Phase II · Track B · Sectoral Legislation · Phase II · Track B · Year 4–7
+LEGAL DISCLAIMER — POLICY DISCUSSION DOCUMENT
+This document is a policy discussion framework and bill scaffold. It is not formally introduced legislation, has
+not been reviewed by licensed legislative counsel, and does not constitute legal advice of any kind.
+All provisions marked [TBD] — including dollar amounts, specific IRC section numbers, penalty thresholds,
+appropriation amounts, and CBO scoring figures — require resolution by licensed legislative drafting counsel
+(the Office of Legislative Counsel for the House or Senate, as applicable), relevant agency technical staff,
+and the Congressional Budget Office before introduction as formal legislation.
+Constitutional arguments, legal analyses, and statutory framings presented herein are analytical
+assessments developed for policy planning purposes. They are not legal opinions and have not been
+reviewed or validated by licensed legal counsel. This document identifies constitutional and legal risks
+requiring independent review — those identifications are planning guidance, not legal conclusions.
+This framework was produced by the Reform Democrats of the New Commonwealth (RDNC), a private
+citizen policy research organization. It is not affiliated with any sitting Member of Congress, congressional
+office, government agency, or political party organization in any official capacity.
+Consultation with licensed legislative counsel, the Centers for Medicare and Medicaid Services
+Office of the Actuary, the Department of Labor Employee Benefits Security Administration, the
+Congressional Budget Office, and Senate Finance Committee constitutional counsel is required
+before any framework in this series may be introduced as formal legislation. Distribution is
+subject to RDNC classification protocols (REF_ layer: internal use and trusted partners only).
+
+Phase II · Track B · Sectoral Legislation · Bill 6
+
+Part I — Legislative Brief (Non-Technical
+Summary)
+This is the most politically significant bill in the entire legislative sequence. Introduced too early, it becomes
+a target. Introduced after Phase I has built institutional trust and cost-reduction credibility, it becomes the
+logical next step. The strategy is wedge expansion: start where private coverage is weakest, prove the
+model works, and expand from demonstrated success — through a self-executing statutory formula, not
+delegated agency authority.
+
+AT A GLANCE
+Bill Title
+
+Public Option Healthcare Expansion Act of 2030
+
+Short Title (Cite As)
+
+The POHE Act of 2030
+
+REF_RDNC_Leg07_Bill6_POHE_2030_4
+
+Page 1
+PROJECT ARA 2028 · 114
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · POHE Act of 2030 · REF_ · 2026
+
+Legislative Vehicle
+
+Standalone Legislation — 60-vote Senate threshold
+
+Phase / Track
+
+Phase II · Track B · Year 4–7
+
+Primary Committees
+
+Senate Finance; Senate Health, Education, Labor, and Pensions
+
+Dependencies
+
+COLT Act operational; Phase I cost-reduction credibility established; public
+trust in government program delivery demonstrated
+
+Core Framing
+
+"If you like your plan, keep it. If you want a better option, one exists."
+
+Strategic Goal
+
+Wedge expansion — enter rural and small-business markets where private
+coverage is weakest; expand from demonstrated success based on a
+self-executing statutory formula
+
+Constitutional /
+Statutory Risk
+
+Nondelegation and major questions doctrine on auto-expansion (mitigated
+by self-executing formula architecture in Sec 102 + Sec 3 Statutory
+Foundation); ERISA §502 coordination; Penn Central rate-setting
+
+Legislative Lift
+
+Highest in bill series — 60-vote threshold and largest sectoral footprint
+
+What This Bill Does:
+1. Establishes a public health insurance option for individuals and small businesses. Offered
+through the Health Insurance Marketplace alongside existing private coverage. The Public Option is an
+additional choice — anyone who prefers their current plan keeps it.
+2. Launches in rural counties and small-business pools first. These are the markets where private
+coverage is weakest, most expensive, and most frequently unavailable. Initial eligibility: Primary Care
+Health Professional Shortage Areas, single-carrier counties, and small employers.
+3. Expands automatically based on demonstrated performance. A self-executing statutory formula —
+not delegated agency authority — triggers expansion when the Public Option achieves measurable
+premium reduction in initial markets. CMS publishes the data inputs; the Secretary applies the formula
+ministerially.
+4. Coordinates with ERISA, the ACA, and existing market regulation. ERISA §514 preempts no
+federal program; §502 coordination addresses pre-migration ESI claims. ACA premium tax credits extend
+to Public Option enrollment. Healthcare.gov integration on the critical path.
+5. Establishes risk mitigation and consumer protection. A reinsurance corridor stabilizes early-year
+viability; a three-year provider rate-transition period mitigates Penn Central takings exposure;
+anti-discrimination, mental-health parity, and OOP-maximum protections extend the ACA framework.
+ATTACK
+SURFACE
+
+"Government takeover of healthcare." "Destroy private insurance." "Socialized
+medicine." "Medicare for none." All predictable. All weakened by the bill's explicit
+preservation of existing plans and launch in markets the private industry has already
+partially abandoned.
+
+DEFENSE
+STRATEGY
+
+"If you like your plan, keep it — guaranteed in statute. If you're one of the millions who
+can't afford coverage or live in a county with one insurer, you now have a choice."
+Divide the opposition: hospitals and insurers have different interests; some insurers will
+participate. Lead the rollout with rural Republican states where the access gap is
+genuine.
+
+REF_RDNC_Leg07_Bill6_POHE_2030_4
+
+Page 2
+PROJECT ARA 2028 · 115
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · POHE Act of 2030 · REF_ · 2026
+
+FALLBACK
+POSITION
+
+If 60 votes fail: stronger ACA-style expansion as a standalone — expanded premium
+subsidies, mandated insurer participation in rural counties, federal reinsurance corridor,
+and capped network-adequacy standards. This is a meaningful win that creates the
+political conditions for the next attempt at the full Public Option.
+
+The Wedge Logic. The insurance industry's strongest markets are urban and employer-sponsored. Its
+weakest are rural individual markets and small-business pools — exactly where this bill enters. By the time
+the Public Option reaches the industry's core markets through the Sec 102 self-executing formula, it will
+carry two years of performance data demonstrating that competition reduces premiums. The expansion is
+not contested in a single vote on the full national rollout; it earns its way market by market based on
+measurable performance.
+60-Vote Strategy. Identify moderate Republican co-sponsors from rural states where Public Option launch
+addresses genuine access gaps — a bipartisan rural healthcare bill is dramatically harder to filibuster than a
+partisan one. Frame around rural access, primary-care provider shortages, and small-business affordability
+— not ideological framing of healthcare delivery. Senate Finance and HELP Committee pre-introduction
+meetings are required; CBO actuarial analysis is required to establish the self-sustaining financing case.
+
+REF_RDNC_Leg07_Bill6_POHE_2030_4
+
+Page 3
+PROJECT ARA 2028 · 116
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · POHE Act of 2030 · REF_ · 2026
+
+Part II — Bill Framework
+This is the structural scaffold of the bill. Premium thresholds, employee-count cutoffs, percentage triggers,
+revolving loan caps, and IRC section cross-references are flagged as [TBD] where they require licensed
+legislative counsel, CMS Office of the Actuary, Treasury Office of Tax Policy, Department of Labor Employee
+Benefits Security Administration, and Congressional Budget Office review before introduction. Sec 3
+Statutory Foundation binds the constitutional and statutory architecture in operative bill text; Sec 102
+implements the self-executing expansion formula that is the core structural feature of this Act.
+119TH CONGRESS
+
+1ST SESSION
+
+S. ____
+
+To establish a public health insurance option for individuals and small businesses
+offered through the Health Insurance Marketplace; to provide a self-executing
+statutory mechanism for performance-based eligibility expansion; to coordinate
+with the Employee Retirement Income Security Act of 1974 and the Patient
+Protection and Affordable Care Act; to establish consumer protection and provider
+participation standards; to authorize a reinsurance corridor for program
+stability; and for other purposes.
+
+A B I L L
+Be it enacted by the Senate and House of Representatives of the United States of
+America in Congress assembled,
+
+SEC. 1. SHORT TITLE.
+This Act may be cited as the "Public Option Healthcare Expansion Act of
+2030" or the "POHE Act of 2030".
+
+SEC. 2. FINDINGS AND PURPOSE.
+(a) FINDINGS.—Congress finds the following:
+(1) Approximately [TBD] million Americans remain uninsured or
+underinsured despite the Patient Protection and Affordable Care Act
+(Public Law 111-148).
+(2) In [TBD] percent of rural counties in the United States, residents
+have access to only one insurance carrier in the individual non-group
+market, eliminating the price-discipline benefits of competition.
+(3) Small business employees face average premium costs [TBD] percent
+higher than large-employer-plan participants and have substantially
+fewer plan options at every income level.
+(4) Concentration in private health insurance markets has increased
+materially since 2010, with [TBD] States having a single insurer holding
+more than [TBD] percent of the individual market.
+(5) Competition in insurance markets is associated with lower premiums,
+higher quality outcomes, and greater consumer choice.
+(6) The United States Supreme Court has affirmed congressional authority
+to legislate comprehensive health insurance frameworks under the Taxing
+Clause in National Federation of Independent Business v. Sebelius
+(2012), and to establish exchanges with public-private participation in
+King v. Burwell (2015).
+(7) Self-executing statutory formulas providing for ministerial agency
+application — as distinct from delegated agency policymaking authority —
+remain constitutionally sound after FCC v. Consumers' Research,
+606 U.S. 656 (2025).
+(b) PURPOSES.—The purposes of this Act are—
+(1) to establish a public health insurance option offered through the
+REF_RDNC_Leg07_Bill6_POHE_2030_4
+
+Page 4
+PROJECT ARA 2028 · 117
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · POHE Act of 2030 · REF_ · 2026
+
+Health Insurance Marketplace, available to individuals and small
+businesses, as an additional choice that does not displace existing
+coverage;
+(2) to extend affordable health insurance coverage to underserved
+markets beginning with rural counties and small business pools where
+private market failure is most acute;
+(3) to provide a self-executing statutory mechanism under which the
+Public Option's geographic and demographic eligibility expands
+automatically based on demonstrated performance against objective
+metrics published by the Centers for Medicare and Medicaid Services;
+(4) to preserve the right of every individual and employer to retain
+any existing health insurance coverage; and
+(5) to coordinate this Act with the Employee Retirement Income Security
+Act of 1974 and the Patient Protection and Affordable Care Act so that
+the Public Option supplements rather than disrupts existing statutory
+frameworks.
+
+SEC. 3. STATUTORY FOUNDATION AND CONSTRUCTION.
+(a) NONDELEGATION ARCHITECTURE.—The eligibility expansion mechanism
+established in section 102 is a self-executing statutory formula. Congress
+establishes the data inputs (by reference to specific datasets published by
+the Centers for Medicare and Medicaid Services), the operative computation,
+the threshold values, and the effective dates. The Secretary of Health and
+Human Services applies the formula ministerially based on those published
+data inputs. No discretionary authority over the expansion decision is
+delegated by this Act.
+(b) DISTINCTION FROM AGENCY-ACTION DOCTRINES.—The eligibility expansion
+under section 102 is congressional legislation, not agency action. The
+major questions doctrine articulated in West Virginia v. EPA, 597 U.S. 697
+(2022), and applied in Biden v. Nebraska, 600 U.S. 477 (2023), addresses
+agency assertions of novel power on issues of vast economic and political
+significance. Section 102 vests no such power in any agency. The
+constitutional analysis applicable to section 102 is the intelligibleprinciple nondelegation test reaffirmed in FCC v. Consumers' Research,
+606 U.S. 656 (2025), and the formula's structure satisfies that test by
+establishing precise, ascertainable, and judicially reviewable criteria.
+(c) STATUTORY PRECISION REQUIREMENT.—Following Loper Bright Enterprises v.
+Raimondo, 603 U.S. 369 (2024), provisions of this Act shall be construed
+according to their statutory text. Where this Act delegates implementation
+authority to an agency, that authority is bounded by the express terms of
+the delegation. Ambiguities shall be resolved by reference to statutory
+text, structure, and purpose, and no provision of this Act shall be
+construed to authorize an agency to expand its jurisdiction or authority
+beyond what is expressly conferred.
+(d) RELATIONSHIP TO ERISA.—This Act does not preempt section 514 of the
+Employee Retirement Income Security Act of 1974 (29 U.S.C. § 1144) and does
+not modify the application of that section to State law. Section 502 of
+that Act (29 U.S.C. § 1132) coordinates with this Act as provided in
+section 301.
+(e) SEVERABILITY.—If any provision of this Act, or the application of any
+provision to any person or circumstance, is held to be invalid, the
+remaining provisions of this Act and the application of those provisions
+to other persons or circumstances shall not be affected. If any provision
+of section 102 is held invalid as an unconstitutional delegation of
+legislative power, the eligibility criteria established in section 102(a)
+shall remain in full force and effect, and the automatic expansion
+mechanism under section 102(c) shall be inoperative until reauthorized by
+
+REF_RDNC_Leg07_Bill6_POHE_2030_4
+
+Page 5
+PROJECT ARA 2028 · 118
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · POHE Act of 2030 · REF_ · 2026
+
+subsequent legislation.
+(f) PRESERVATION OF EXISTING COVERAGE.—Nothing in this Act may be construed
+to require any individual to terminate, modify, or replace any existing
+health insurance coverage, or to require any employer to terminate, modify,
+or replace any employer-sponsored health insurance plan. Continued
+enrollment in any existing plan is a protected election under this Act.
+
+TITLE I — ESTABLISHMENT OF PUBLIC OPTION
+
+SEC. 101. AMERICAN PUBLIC HEALTH INSURANCE OPTION.
+(a) ESTABLISHMENT.—The Secretary of Health and Human Services (in this Act
+referred to as the "Secretary") shall establish, not later than the date
+specified in section 501, a public health insurance option (in this Act
+referred to as the "Public Option") to be offered through the Health
+Insurance Marketplace established under title I of the Patient Protection
+and Affordable Care Act.
+(b) BENEFITS FLOOR.—Plans offered under the Public Option shall provide,
+at a minimum—
+(1) the essential health benefits described in section 1302 of the
+Patient Protection and Affordable Care Act (42 U.S.C. § 18022);
+(2) coverage with no annual or lifetime dollar limits on the dollar
+value of essential health benefits;
+(3) out-of-pocket maximum limits aligned with the limits applicable to
+qualified health plans under section 1302(c) of that Act;
+(4) mental health and substance use disorder benefits in compliance
+with the Paul Wellstone and Pete Domenici Mental Health Parity and
+Addiction Equity Act of 2008; and
+(5) prescription drug benefits in compliance with section 1302(b)(1)(F)
+of the Patient Protection and Affordable Care Act.
+(c) GUARANTEE OF EXISTING COVERAGE.—Nothing in this Act—
+(1) requires any individual to enroll in the Public Option or to
+terminate any existing health insurance coverage;
+(2) requires any employer to terminate, modify, or replace any
+employer-sponsored health insurance plan;
+(3) authorizes the Secretary to compel any individual or employer to
+select Public Option coverage; or
+(4) modifies the right of any qualified health plan to continue
+offering coverage on the Marketplace.
+(d) PLAN TIERS.—The Public Option shall offer plans at the bronze, silver,
+gold, and platinum actuarial-value tiers as defined under section 1302(d)
+of the Patient Protection and Affordable Care Act. The silver-tier Public
+Option plan shall serve as the benchmark plan for purposes of section 36B
+of the Internal Revenue Code of 1986 in any rating area in which it is
+offered, except as the Secretary determines necessary to preserve premium
+tax credit calculations under existing law.
+
+SEC. 102. ELIGIBILITY AND PHASED EXPANSION.
+(a) INITIAL ELIGIBILITY.—Beginning on the effective date specified in
+section 501, the Public Option established under section 101 shall be
+available to—
+(1) any individual residing in a Primary Care Health Professional
+Shortage Area as designated by the Secretary under section 332 of the
+Public Health Service Act (42 U.S.C. § 254e);
+(2) any individual residing in a county in which fewer than [TBD]
+insurance carriers offer Marketplace coverage during the most recent
+
+REF_RDNC_Leg07_Bill6_POHE_2030_4
+
+Page 6
+PROJECT ARA 2028 · 119
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · POHE Act of 2030 · REF_ · 2026
+
+open enrollment period;
+(3) any employee of an employer with fewer than [TBD] employees, and
+any dependent of such employee; and
+(4) any individual otherwise eligible to enroll in coverage through the
+Marketplace who resides in a State that has elected, by enactment of
+State law, to extend Public Option eligibility to all residents of the
+State.
+(b) PERFORMANCE METRICS — DATA INPUTS.—The Administrator of the Centers
+for Medicare and Medicaid Services shall publish annually, beginning one
+year after the effective date specified in section 501—
+(1) the average individual-market premium for the second-lowest-cost
+silver plan in each county for which the Public Option is available
+under subsection (a), as drawn from the CMS Annual Premium Report;
+(2) the average individual-market premium for the second-lowest-cost
+silver plan in each county for which the Public Option is not
+available, as drawn from the CMS Annual Premium Report;
+(3) Public Option enrollment counts by county and by employer-size
+cohort, as drawn from the CMS Effectuated Enrollment Snapshot; and
+(4) the change in the metrics described in paragraphs (1) and (2)
+from the preceding year, expressed as a percentage, after risk and
+demographic adjustment using the methodology established under
+section 1343 of the Patient Protection and Affordable Care Act
+(42 U.S.C. § 18063).
+The data published under this subsection are the operative inputs to the
+expansion formula in subsection (c). The Administrator shall publish such
+data not later than 90 days following the close of each annual open
+enrollment period.
+(c) AUTOMATIC EXPANSION — SELF-EXECUTING FORMULA.—If, in any year
+beginning two years after the effective date specified in section 501, the
+data published under subsection (b) demonstrate that the average premium
+reduction in counties where the Public Option is available, compared to
+counties where it is not available, equals or exceeds [TBD] percent after
+risk and demographic adjustment, then the Public Option shall become
+available, in the next annual open enrollment period—
+(1) to any individual or employer in any county in which the secondlowest-cost silver plan premium exceeds the national median by [TBD]
+percent or more; and
+(2) to any employee of an employer with fewer than [TBD] employees,
+and any dependent of such employee, irrespective of geographic
+location.
+The expansion under this subsection is automatic upon publication of the
+data described in subsection (b). The Secretary shall have no authority to
+delay, modify, condition, or decline the expansion. The Secretary's role
+under this subsection is limited to ministerial application of the formula
+based on the data published under subsection (b).
+(d) CONGRESSIONAL REVIEW DEFAULT.—An expansion under subsection (c) shall
+take effect on the date specified in that subsection unless, before that
+date, a joint resolution of disapproval is enacted under chapter 8 of
+title 5, United States Code. No such joint resolution shall affect any
+enrollment that has already taken effect under this Act.
+(e) PERFORMANCE REVIEW REPORT.—Not later than two years after the
+effective date specified in section 501, and annually thereafter, the
+Secretary shall submit to the Committee on Finance and the Committee on
+Health, Education, Labor, and Pensions of the Senate, and the Committee
+on Energy and Commerce and the Committee on Ways and Means of the House
+of Representatives, a report containing—
+(1) the data required under subsection (b);
+(2) an analysis of Public Option premium adequacy and self-sustaining
+
+REF_RDNC_Leg07_Bill6_POHE_2030_4
+
+Page 7
+PROJECT ARA 2028 · 120
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · POHE Act of 2030 · REF_ · 2026
+
+financing performance under section 103;
+(3) an assessment of effects on overall private market premiums,
+plan availability, and consumer choice;
+(4) an assessment of provider participation rates by geographic
+region; and
+(5) any recommendations for further congressional action.
+(f) NO SUBJECTIVE SUITABILITY REVIEW.—Eligibility under subsections (a)
+and (c) shall be determined by application of the objective criteria
+established in those subsections. No agency may impose an additional
+suitability test, character review, or discretionary denial criterion.
+
+SEC. 103. FINANCING AND PREMIUM STRUCTURE.
+(a) SELF-SUSTAINING FINANCING REQUIREMENT.—The Public Option shall be
+actuarially self-sustaining. Premiums collected under the Public Option,
+together with applicable premium tax credits paid under section 36B of the
+Internal Revenue Code of 1986 and any reinsurance payments made under
+section 401, shall be the sole sources of operating revenue for the Public
+Option following the conclusion of the start-up period described in
+subsection (b).
+(b) START-UP REVOLVING LOAN.—The Secretary of the Treasury shall make
+available to the Public Option a revolving loan in such amounts as may be
+necessary, but not exceeding [TBD] dollars in the aggregate, to fund the
+operating costs of the Public Option during the start-up period. The
+start-up period shall conclude not later than five years after the
+effective date specified in section 501. The Public Option shall repay
+such loan from premium revenues, in installments and at an interest rate
+determined by the Secretary of the Treasury, not later than fifteen years
+after the effective date.
+(c) PROVIDER REIMBURSEMENT — MEDICARE-RATE FLOOR.—Reimbursement rates paid
+by the Public Option to participating providers—
+(1) shall not be less than the rates payable under part A or part B
+of title XVIII of the Social Security Act for the equivalent service,
+as applicable;
+(2) may exceed the rates described in paragraph (1) where the
+Secretary determines, by published methodology, that higher rates are
+necessary to secure adequate provider participation in a defined
+geographic area or service category, including Primary Care Health
+Professional Shortage Areas, rural counties, and behavioral health
+services; and
+(3) shall be set in accordance with the actuarial soundness
+requirement established under section 402.
+(d) RATE-TRANSITION PROTECTION.—For the three-year period beginning on the
+effective date specified in section 501, the Secretary shall not establish
+Public Option reimbursement rates lower than 100 percent of the rates
+payable under part A or part B of title XVIII of the Social Security Act,
+as applicable, for any equivalent service in any geographic area. This
+subsection establishes a transition period intended to mitigate regulatory
+takings exposure under Penn Central Transportation Co. v. New York City,
+438 U.S. 104 (1978), and Verizon Communications Inc. v. FCC, 535 U.S. 467
+(2002).
+(e) PREMIUM TAX CREDIT COORDINATION.—Public Option enrollment is
+creditable enrollment for purposes of section 36B of the Internal Revenue
+Code of 1986 on equal footing with qualified health plan enrollment. The
+Secretary of the Treasury shall, in consultation with the Secretary, issue
+such regulations as are necessary to coordinate the application of section
+36B with this Act.
+(f) NO COST TO TAXPAYERS BEYOND PREMIUM SUBSIDIES.—After the start-up
+
+REF_RDNC_Leg07_Bill6_POHE_2030_4
+
+Page 8
+PROJECT ARA 2028 · 121
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · POHE Act of 2030 · REF_ · 2026
+
+period described in subsection (b), the Public Option shall not require
+direct appropriations beyond premium tax credit payments under section 36B
+of the Internal Revenue Code of 1986 and reinsurance payments under
+section 401.
+
+TITLE II — MARKET REGULATION AND CONSUMER PROTECTION
+
+SEC. 201. INSURER PARTICIPATION FRAMEWORK.
+(a) VOLUNTARY PARTICIPATION.—Private health insurance issuers may
+voluntarily participate in Public Option markets under standardized
+benefit, transparency, and consumer-protection requirements established by
+the Secretary by regulation. Participation under this section does not
+convert a private issuer into a Federal program.
+(b) STANDARDIZED BENEFIT PACKAGES.—Plans offered by participating private
+issuers in Public Option markets shall provide, at a minimum, the benefits
+floor established under section 101(b).
+(c) ANTI-CHERRY-PICKING.—A participating private issuer may not selectively
+offer coverage in only the most favorable rating areas of a State. The
+Secretary shall, by regulation, define equivalent-market participation
+requirements that prevent geographic or demographic cherry-picking,
+consistent with the State-flexibility principles of the Patient Protection
+and Affordable Care Act.
+(d) NETWORK ADEQUACY.—Participating issuers shall meet network adequacy
+standards established by the Secretary, including standards for
+geographic accessibility, time-and-distance to participating providers,
+appointment wait times for primary care and behavioral health, and
+transparent network listing.
+(e) TRANSPARENCY.—Participating issuers shall publish premium rates,
+cost-sharing structures, formulary information, and network listings in a
+standardized format established by the Secretary.
+
+SEC. 202. ANTI-DISCRIMINATION AND COVERAGE STANDARDS.
+(a) IN GENERAL.—No issuer offering coverage under or in coordination with
+the Public Option may discriminate against any individual on the basis of
+health status, prior medical conditions, claims history, age (except as
+permitted under section 2701 of the Public Health Service Act), gender,
+race, ethnicity, national origin, sexual orientation, gender identity, or
+disability.
+(b) MENTAL HEALTH AND SUBSTANCE USE PARITY.—All coverage offered under
+this Act shall comply with the Paul Wellstone and Pete Domenici Mental
+Health Parity and Addiction Equity Act of 2008. The Secretary shall, by
+regulation, establish enhanced parity standards specific to Public Option
+coverage that exceed the floor established by that Act, including
+standards for behavioral health network adequacy and prior authorization
+practices.
+(c) ANNUAL AND LIFETIME LIMITS.—No coverage offered under this Act shall
+impose any annual or lifetime dollar limit on the dollar value of
+essential health benefits.
+(d) OUT-OF-POCKET MAXIMUM.—Out-of-pocket maximum limits applicable to
+coverage under this Act shall not exceed the limits established under
+section 1302(c) of the Patient Protection and Affordable Care Act, and
+the Secretary may establish lower limits for the Public Option by
+regulation where actuarially supportable.
+(e) PREEXISTING CONDITION PROHIBITION.—No coverage offered under this
+Act may exclude any individual from coverage, or exclude any benefit from
+
+REF_RDNC_Leg07_Bill6_POHE_2030_4
+
+Page 9
+PROJECT ARA 2028 · 122
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · POHE Act of 2030 · REF_ · 2026
+
+coverage, on the basis of a preexisting condition.
+
+SEC. 203. MARKETPLACE INTEGRATION AND PLAN COMPARISON.
+(a) FEDERAL MARKETPLACE INTEGRATION.—The Secretary, in coordination with
+the Secretary of the Treasury, shall integrate Public Option enrollment
+with the Federal Marketplace established under section 1321 of the
+Patient Protection and Affordable Care Act. The Public Option shall
+appear in plan-comparison displays on Healthcare.gov on equal footing
+with qualified health plans.
+(b) STATE-BASED MARKETPLACE COORDINATION.—States operating State-based
+Marketplaces under section 1311 of the Patient Protection and Affordable
+Care Act may elect to incorporate Public Option enrollment in their State
+Marketplace. The Secretary shall, by regulation, establish standards for
+State Marketplace integration that preserve State flexibility consistent
+with the Public Option's national availability.
+(c) PLAN-COMPARISON TRANSPARENCY.—The Secretary shall require standardized
+plan-comparison displays for the Federal Marketplace and any State
+Marketplace that incorporates the Public Option, including standardized
+presentation of premium, deductible, network breadth, prescription drug
+formulary, and quality metrics.
+(d) SINGLE-APPLICATION ENROLLMENT.—An individual or employer applying for
+coverage through the Marketplace shall be permitted to apply once for
+eligibility determination across the Public Option and all qualified
+health plans available in the rating area.
+(e) NO PREFERENTIAL DISPLAY.—The Secretary may not present the Public
+Option to consumers in any preferential or default-selected manner that
+departs from the standardized presentation required under subsection (c).
+
+SEC. 204. CONSUMER PROTECTION ENFORCEMENT.
+(a) CIVIL ENFORCEMENT BY SECRETARY.—The Secretary may bring a civil
+action in the United States district court for any judicial district to
+enforce compliance with this title. The Secretary may seek injunctive
+relief, restitution, civil monetary penalties, and any other relief
+appropriate to remedy a violation.
+(b) PRIVATE RIGHT OF ACTION.—An individual aggrieved by a coverage denial,
+discriminatory practice, or violation of section 202 in connection with
+Public Option coverage may bring a civil action in the United States
+district court for the district in which the individual resides. Available
+relief includes coverage of the denied benefit, compensatory damages,
+reasonable attorney's fees, and any other relief the court determines
+appropriate.
+(c) STATE ENFORCEMENT PRESERVED.—State attorneys general may bring parallel
+civil actions to enforce the consumer protection provisions of this title
+on behalf of residents of the State, and may coordinate with the Secretary
+in such actions.
+(d) CIVIL MONETARY PENALTIES.—Violations of this title are subject to
+civil monetary penalties not to exceed $[TBD] per violation, with each day
+of a continuing violation constituting a separate violation. Penalties
+collected shall be deposited in the reinsurance corridor established under
+section 401.
+(e) ANTI-RETALIATION.—No issuer may retaliate against any individual for
+filing a complaint, participating in an enforcement action, or asserting
+rights under this title.
+
+TITLE III — COORDINATION, TRANSITION, AND PROVIDER PROVISIONS
+
+REF_RDNC_Leg07_Bill6_POHE_2030_4
+
+Page 10
+PROJECT ARA 2028 · 123
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · POHE Act of 2030 · REF_ · 2026
+
+SEC. 301. ERISA SECTION 502 COORDINATION AND ESI MIGRATION.
+(a) PRE-MIGRATION ESI CLAIMS.—With respect to any claim arising out of
+employer-sponsored health insurance coverage in effect before an
+individual's enrollment in the Public Option, the exclusive-remedy
+framework of section 502 of the Employee Retirement Income Security Act
+of 1974 (29 U.S.C. § 1132) shall continue to apply.
+(b) POST-MIGRATION POHE CLAIMS.—With respect to any claim arising out of
+Public Option coverage, the enforcement framework of section 204 of this
+Act shall apply. Section 502 of the Employee Retirement Income Security
+Act of 1974 shall not apply to such claims.
+(c) ANTI-RETROACTIVITY RULE.—Consistent with Landgraf v. USI Film
+Products, 511 U.S. 244 (1994), this section does not apply retroactively
+to claims accrued before the effective date specified in section 501. A
+claim accrues, for purposes of this subsection, on the date the underlying
+medical service was rendered.
+(d) ERISA SECTION 514 PRESERVATION.—This Act does not preempt State law
+under section 514 of the Employee Retirement Income Security Act of 1974
+(29 U.S.C. § 1144) and does not modify the application of that section to
+State law. (See section 3(d).)
+(e) MIGRATION RIGHTS.—An employee transitioning from employer-sponsored
+coverage to Public Option coverage shall not be subject to any waiting
+period, preexisting condition exclusion, or coverage gap arising from
+such transition.
+
+SEC. 302. PROVIDER RATE TRANSITION AND PARTICIPATION INCENTIVES.
+(a) RATE-TRANSITION PROTECTION PERIOD.—The three-year transition-rate
+protection period established under section 103(d) shall apply to all
+participating providers under the Public Option.
+(b) RURAL AND UNDERSERVED MARKET INCENTIVES.—The Secretary shall establish,
+by regulation, additional reimbursement adjustments above the Medicarerate floor for providers in—
+(1) Primary Care Health Professional Shortage Areas;
+(2) counties with fewer than [TBD] participating insurance carriers;
+and
+(3) behavioral health and primary care service categories.
+(c) PARTICIPATION-INCENTIVE LOAN REPAYMENT.—The Secretary, in coordination
+with the Health Resources and Services Administration, shall establish a
+loan-repayment program for primary care physicians, behavioral health
+professionals, and nurse practitioners who provide services to Public
+Option enrollees in shortage areas for a period of not less than four
+years.
+(d) NETWORK STABILITY.—The Secretary shall, by regulation, establish
+standards for network stability that prevent abrupt provider terminations
+that would disrupt continuity of care for Public Option enrollees.
+
+SEC. 303. HEALTHCARE.GOV AND ACA INTEGRATION.
+(a) IT INTEGRATION REQUIREMENT.—The Secretary shall integrate Public
+Option enrollment with the existing Healthcare.gov infrastructure and any
+successor Federal Marketplace IT system. Public Option enrollment shall
+not require a duplicative eligibility determination system.
+(b) STATE-BASED MARKETPLACE INTEGRATION.—States operating State-based
+Marketplaces shall be eligible for Federal IT integration grants to
+support Public Option integration. The Secretary shall publish technical
+integration standards consistent with existing Federal Marketplace
+standards.
+(c) PREMIUM TAX CREDIT COORDINATION.—The Secretary shall coordinate with
+
+REF_RDNC_Leg07_Bill6_POHE_2030_4
+
+Page 11
+PROJECT ARA 2028 · 124
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · POHE Act of 2030 · REF_ · 2026
+
+the Secretary of the Treasury to ensure that section 36B of the Internal
+Revenue Code of 1986 applies to Public Option enrollment on equal footing
+with qualified health plan enrollment, and that section 36B premium tax
+credit calculations remain operative under all Public Option benchmarkplan determinations under section 101(d).
+(d) IT INTEGRATION TIMELINE.—The Secretary shall complete IT integration
+not later than the date specified in section 501. The Secretary shall
+submit quarterly status reports to Congress until integration is complete.
+
+TITLE IV — RISK MITIGATION AND SYSTEM STABILITY
+
+SEC. 401. REINSURANCE CORRIDOR.
+(a) ESTABLISHMENT.—The Secretary shall establish a reinsurance corridor
+for the Public Option to mitigate adverse-selection risk during the
+initial five years of operation and to stabilize premium adequacy.
+(b) FUNDING STRUCTURE.—The reinsurance corridor shall be funded by—
+(1) the start-up revolving loan established under section 103(b);
+(2) civil monetary penalties collected under section 204(d); and
+(3) such other amounts as may be appropriated for that purpose.
+(c) RISK-CORRIDOR CALCULATION METHODOLOGY.—The Secretary shall, by
+regulation, establish a methodology for calculating reinsurance payments
+based on actual claims experience relative to actuarial projections.
+Reinsurance payments shall be triggered when claims experience exceeds
+[TBD] percent of projected actuarial value for any rating area.
+(d) ADVERSE-SELECTION MITIGATION.—The Secretary, in coordination with the
+Administrator of the Centers for Medicare and Medicaid Services, shall
+monitor enrollment patterns for adverse-selection indicators and may
+adjust the reinsurance corridor calibration on an annual basis based on
+actual experience.
+(e) SUNSET.—The reinsurance corridor established under this section shall
+sunset on the date that is ten years after the effective date specified in
+section 501, unless reauthorized by Congress.
+
+SEC. 402. ACTUARIAL SOUNDNESS REQUIREMENT.
+(a) ANNUAL CMS ACTUARIAL CERTIFICATION.—The Chief Actuary of the Centers
+for Medicare and Medicaid Services shall certify, on an annual basis,
+whether the Public Option is meeting the actuarial soundness requirements
+established under this Act, including the self-sustaining financing
+requirement under section 103(a).
+(b) PREMIUM ADJUSTMENT AUTHORITY.—The Secretary may adjust Public Option
+premium rates on an annual basis to maintain actuarial soundness, in
+accordance with a published methodology that establishes the basis for
+each adjustment.
+(c) CONTINGENCY RESERVE.—The Public Option shall maintain a contingency
+reserve in such amounts as the Chief Actuary determines necessary to
+ensure benefit payment continuity in the event of unexpected claims
+experience.
+(d) NON-ATTAINMENT TRIGGER.—If the Chief Actuary certifies, in any year,
+that the Public Option has not met the actuarial soundness requirements
+of this Act, the Secretary shall submit to Congress a report identifying
+the cause of non-attainment and proposing corrective measures.
+(e) REAUTHORIZATION.—If non-attainment under subsection (d) persists for
+three consecutive years, the Public Option's automatic expansion authority
+under section 102(c) shall be suspended until Congress reauthorizes the
+Public Option by enactment of subsequent legislation.
+
+REF_RDNC_Leg07_Bill6_POHE_2030_4
+
+Page 12
+PROJECT ARA 2028 · 125
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · POHE Act of 2030 · REF_ · 2026
+
+TITLE V — IMPLEMENTATION AND OVERSIGHT
+
+SEC. 501. IMPLEMENTATION TIMELINE.
+(a) PUBLIC OPTION ESTABLISHMENT.—The Public Option shall be established,
+and Public Option plans shall be available for enrollment, not later than
+[TBD] months after the date of enactment of this Act.
+(b) IT SYSTEMS INTEGRATION.—Healthcare.gov and Federal Marketplace IT
+integration shall be complete not later than [TBD] months after the date
+of enactment.
+(c) PROVIDER NETWORK ONBOARDING.—Provider network agreements sufficient to
+meet network adequacy standards under section 201(d) shall be in place
+not later than [TBD] months after the date of enactment.
+(d) INITIAL OPEN ENROLLMENT.—The first Public Option open enrollment
+period shall coincide with the first Federal Marketplace open enrollment
+period beginning not later than [TBD] months after the date of enactment.
+(e) AUTOMATIC EXPANSION COMMENCEMENT.—The earliest possible automatic
+expansion under section 102(c) shall be the open enrollment period
+beginning two years after the effective date established under
+subsections (a) through (d).
+
+SEC. 502. INTERAGENCY COORDINATION.
+(a) HHS AND CMS LEAD AGENCY.—The Secretary, acting through the
+Administrator of the Centers for Medicare and Medicaid Services, shall
+serve as the lead agency for the Public Option.
+(b) TREASURY COORDINATION.—The Secretary of the Treasury shall coordinate
+with the Secretary on—
+(1) administration of the start-up revolving loan under section 103(b);
+(2) coordination of premium tax credits under section 36B of the
+Internal Revenue Code of 1986; and
+(3) administration of any other Treasury function necessary to
+implement this Act.
+(c) DEPARTMENT OF LABOR COORDINATION.—The Secretary of Labor shall
+coordinate with the Secretary on—
+(1) ERISA section 502 coordination under section 301; and
+(2) coordination of Public Option enrollment with employer-sponsored
+coverage transitions.
+(d) OPM CONSULTATION.—The Director of the Office of Personnel Management
+shall make available to the Secretary lessons learned from the Federal
+Employees Health Benefits Program for purposes of Public Option program
+design and provider participation.
+(e) GAO COORDINATION.—The Comptroller General of the United States shall
+have access to all data and records of the Public Option necessary to
+perform audits, evaluations, and reports requested by the relevant
+Committees of Congress.
+
+SEC. 503. ANNUAL REPORTING.
+(a) ANNUAL REPORT.—The Secretary shall submit to Congress an annual report
+on the Public Option, including—
+(1) Public Option enrollment counts by State, by county, and by
+employer-size cohort;
+(2) Public Option premium rates and rate changes year-over-year;
+(3) effects of the Public Option on overall private market premiums,
+plan availability, and consumer choice;
+(4) provider participation rates by geographic region;
+(5) actuarial soundness certification under section 402; and
+
+REF_RDNC_Leg07_Bill6_POHE_2030_4
+
+Page 13
+PROJECT ARA 2028 · 126
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · POHE Act of 2030 · REF_ · 2026
+
+(6) any recommendations for further congressional action.
+(b) PERFORMANCE METRICS.—The annual report shall incorporate the data
+required under section 102(b) and shall make those data available in a
+publicly accessible format.
+(c) PUBLIC AVAILABILITY.—The annual report shall be transmitted to
+Congress and posted publicly on a website maintained by the Department of
+Health and Human Services not later than 30 days after submission to
+Congress.
+(d) CBO ACTUARIAL REVIEW.—The Director of the Congressional Budget Office
+shall conduct an independent actuarial review of the Public Option not
+less frequently than every three years and shall submit such review to
+Congress.
+(e) PROGRAM CONTINUITY ASSESSMENT.—The annual report shall include an
+assessment of program continuity, including any operational risks to
+sustained Public Option availability for current enrollees.
+
+[All dollar amounts, employee-count thresholds, percentage thresholds,
+revolving loan caps, and IRC section cross-references marked [TBD]
+require resolution by licensed legislative counsel, the CMS Office of the
+Actuary, the Treasury Office of Tax Policy, the Department of Labor
+Employee Benefits Security Administration, and the Congressional Budget
+Office before introduction as formal legislation. See Part III counsel
+notes.]
+
+REF_RDNC_Leg07_Bill6_POHE_2030_4
+
+Page 14
+PROJECT ARA 2028 · 127
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · POHE Act of 2030 · REF_ · 2026
+
+Part III — Notes for Congressional Counsel
+All [TBD] items and constitutional / statutory questions below require resolution before introduction. Each
+entry presents the controlling doctrine or precedent, the operative bill provision, and any drafting or
+pre-introduction engagement guidance. The Sec 102 fallback ladder entry below documents the
+Architecture C-equivalent posture established in this bill — body-baked safety with a prepared fallback
+ladder — paralleling the methodology documented in the AI Working Notes Note 02 framework for
+deliberate-Byrd-exposure provisions, adapted here for the constitutional/statutory rather than Byrd-Rule risk
+vector.
+
+REF_RDNC_Leg07_Bill6_POHE_2030_4
+
+Page 15
+PROJECT ARA 2028 · 128
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · POHE Act of 2030 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Sec 102
+self-executing
+formula —
+nondelegation
+fallback ladder
+(Architecture
+C-equivalent)
+[Sources 257, 258,
+259, 260]
+
+Architecture: Architecture C-equivalent (body-baked safety with fallback
+ladder). Sec 102 establishes eligibility expansion as a self-executing statutory
+formula with ministerial agency application; Sec 3(a) anchors the architecture in
+operative bill text. This is the politically loud structure (automatic expansion based
+on demonstrated performance) AND the structurally safe structure (no delegated
+agency authority over the expansion decision). POHE is not a reconciliation bill, so
+Byrd Rule does not apply, but the deliberate-architectural-trade methodology is
+parallel to AIWorkingNotes Note 02.
+(1) Primary structure (body as drafted). The formula in Sec 102, anchored by
+Sec 3(a) nondelegation architecture provision and Sec 3(b) distinction from the
+major questions doctrine. FCC v. Consumers' Research, 606 U.S. 656 (2025)
+[Source 259], reaffirmed the intelligible-principle nondelegation test 6-3, reversing
+the en banc Fifth Circuit. After FCC, nondelegation doctrine is STABLE. West Virginia
+v. EPA, 597 U.S. 697 (2022) [Source 257], and Biden v. Nebraska, 600 U.S. 477
+(2023) [Source 258], are agency-action doctrines that do not reach Sec 102
+because no agency policymaking authority is delegated. The Secretary applies the
+formula ministerially based on CMS-published data inputs.
+(2) Mid-level fallback if Sec 102(c) is read as effective delegation. If any
+reviewing court reads Sec 102(c) as effectively delegating expansion authority to
+the Secretary despite the express ministerial-application language, counsel should
+have ready an amendment retaining the formula but adding explicit congressional
+ratification: each automatic expansion takes effect only upon enactment of a joint
+resolution of approval under expedited procedures parallel to the Congressional
+Review Act. This preserves the substantive expansion criteria while moving the
+operative decision back to Congress. Counsel should have Level 2 amendment
+language drafted before introduction, not as a post-strike scramble.
+(3) Bottom-level fallback. If the fallback in (2) also fails judicial review, the
+program continues operating at the initial-eligibility scope established under Sec
+102(a), with subsequent expansion requiring affirmative legislation. The Public
+Option as established under Sec 101 and the initial markets under Sec 102(a) are
+unaffected. Sec 3(e) severability ensures the expansion mechanism's invalidity
+does not impair the rest of the Act. Revenue capture and access expansion
+continue at the initial-market scope.
+(4) Pre-introduction engagement. Senate Legal Counsel nondelegation review
+recommended before introduction (non-reconciliation bill — no Parliamentarian
+Byrd review applies). If nondelegation concerns surface, mid-level fallback can be
+incorporated before introduction rather than after a strike. The deliberate posture
+should be named in counsel materials, not concealed.
+
+REF_RDNC_Leg07_Bill6_POHE_2030_4
+
+Page 16
+PROJECT ARA 2028 · 129
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · POHE Act of 2030 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+ERISA §514
+preemption — does
+NOT apply to
+federal legislation
+[Source 255]
+
+CRITICAL CORRECTION. ERISA §514(a) preempts State laws "insofar as they may
+relate to any employee benefit plan." It does NOT preempt federal legislation — its
+text is explicit and jurisdictional. If any prior counsel note flagged ERISA §514
+preemption as a concern for POHE (a federal program), that framing is incorrect.
+Sec 3(d) and Sec 301(d) make this preservation explicit in operative bill text.
+Rutledge v. PCMA, 592 U.S. 80 (2020) [Source 255] (8-0, Sotomayor, J.), confirmed
+that cost regulations that merely increase costs or alter incentives for ERISA plans
+are NOT preempted. Gobeille v. Liberty Mutual, 577 U.S. 312 (2016) [Source 256],
+preempted a State all-payer database for self-insured plans — irrelevant to a
+federal program. Post-Loper Bright [Source 260], courts no longer defer to CMS
+interpretations of ambiguous POHE provisions; maximum statutory precision is
+required (addressed in Sec 3(c)).
+
+ERISA §502
+coordination — the
+actual ERISA
+concern (Sec 301)
+
+ERISA's exclusive-remedy framework (§502, 29 U.S.C. § 1132) governs
+pre-migration ESI claims and is the correct ERISA focus for POHE. Sec 301
+addresses this directly: pre-migration claims remain subject to §502 (Sec 301(a));
+post-migration POHE claims are governed by Sec 204 enforcement (Sec 301(b));
+Landgraf v. USI Film Products, 511 U.S. 244 (1994), retroactivity concerns are
+addressed by the accrual rule in Sec 301(c).
+Counsel should review the §502 displacement language in Sec 301(b) carefully —
+the statutory text must clearly establish that the Sec 204 enforcement framework
+displaces §502 for POHE-coverage claims without disturbing §502 for other
+ERISA-governed claims.
+
+West Virginia v.
+EPA / Biden v.
+Nebraska — MQD
+applies to AGENCY
+action only
+[Sources 257, 258]
+
+West Virginia v. EPA, 597 U.S. 697 (2022) [Source 257], and Biden v. Nebraska, 600
+U.S. 477 (2023) [Source 258], established the major questions doctrine as a canon
+for AGENCY assertions of novel power on issues of vast economic and political
+significance. Every MQD case to date has involved agency action — none has
+applied to direct congressional legislation.
+The Sec 102 auto-expansion formula is congressional legislation, not agency action.
+Congress writing the operative formula in statute is outside the MQD zone entirely.
+Sec 3(b) makes this distinction explicit in operative bill text. DRAFTING NOTE: do
+NOT include language suggesting the Secretary "certifies" or "determines" the
+trigger condition — that language would risk converting the self-executing formula
+into an agency determination subject to MQD challenge. The current Sec 102(c)
+language ("the Public Option SHALL become available") preserves the legislative
+character of the expansion.
+
+REF_RDNC_Leg07_Bill6_POHE_2030_4
+
+Page 17
+PROJECT ARA 2028 · 130
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · POHE Act of 2030 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Provider
+reimbursement
+(Sec 103, Sec 302)
+— Penn Central
+regulatory takings
+exposure
+
+Provider reimbursement rate-setting creates Penn Central Transportation Co. v.
+New York City, 438 U.S. 104 (1978), regulatory takings exposure where rates are
+confiscatory or eliminate reasonable economic returns. The Sec 103(d) three-year
+rate-transition protection period is designed to mitigate this risk by ensuring
+Medicare-rate-floor protection during the program ramp-up period when providers
+cannot easily exit the Public Option network. Verizon Communications Inc. v. FCC,
+535 U.S. 467 (2002), confirmed that rate regulation alone is not a per se taking but
+is evaluated under Penn Central balancing.
+Above-Medicare negotiated rates (Sec 103(c)(2)) for rural and underserved markets
+are politically and constitutionally important — they protect provider participation
+in markets where Medicare rates alone create exit incentives. CMS actuarial review
+of the rate structure required before introduction. Hospital opposition is most acute
+when below-Medicare rates are perceived as inevitable; the bill explicitly preserves
+Medicare-rate floor.
+
+ACA interaction
+and
+Healthcare.gov
+integration (Sec
+303, Sec 501)
+
+Healthcare.gov integration is on the implementation critical path. POHE enrollment
+must integrate with existing ACA exchange infrastructure without creating
+duplicative eligibility systems — counsel should review the IT integration provisions
+in Sec 303 and Sec 501 against existing CMS IT architecture. ACA premium tax
+credit coordination (IRC §36B) must be precisely drafted to preserve credit
+calculation continuity under all Public Option benchmark-plan determinations (Sec
+101(d)).
+Counsel to audit ACA Title I provisions for conflicts with Sec 101 establishment
+language and Sec 201 standardized-benefits provisions. State-based Marketplace
+coordination (Sec 203(b)) preserves State flexibility consistent with ACA section
+1311 / 1321 architecture. Pre-introduction meetings with Senate Finance
+Committee staff and HELP Committee staff strongly recommended.
+
+Post-Loper Bright
+statutory precision
+(Sec 3(c)) [Source
+260]
+
+Loper Bright Enterprises v. Raimondo, 603 U.S. 369 (2024) [Source 260], overruled
+Chevron deference. Federal courts now apply de novo review to agency
+interpretations of ambiguous statutory provisions. POHE provisions delegating
+implementation authority to the Secretary must be drafted with maximum statutory
+precision; ambiguities will be resolved by reviewing courts rather than the agency.
+Sec 3(c) anchors the statutory precision requirement in operative bill text. Counsel
+should review every "the Secretary shall, by regulation" provision against Loper
+Bright — where discretion is intended, it should be expressly bounded; where
+ministerial application is intended, the statutory language should leave no
+interpretive ambiguity. The Sec 102 formula is the paradigm case: every operative
+input is referenced to a published CMS dataset, every threshold is bracketed for
+legislative resolution, and every consequence is mandatory.
+
+REF_RDNC_Leg07_Bill6_POHE_2030_4
+
+Page 18
+PROJECT ARA 2028 · 131
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · POHE Act of 2030 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+60-vote strategy —
+bipartisan rural
+healthcare framing
+
+POHE faces the 60-vote Senate threshold, not reconciliation. Identify moderate
+Republican co-sponsors from rural states where Public Option launch addresses
+genuine access gaps — a bipartisan rural healthcare bill is dramatically harder to
+filibuster than a partisan one. Frame around rural access, primary-care provider
+shortages, and small-business affordability — not progressive healthcare ideology.
+Senate Finance Committee and HELP Committee pre-introduction meetings
+required. Provider community engagement — particularly rural hospital
+associations and primary-care physician groups — should precede introduction; the
+rate-transition protection (Sec 103(d)) and rural incentives (Sec 302(b)) are
+designed in part to make this engagement productive. Behavioral health
+stakeholder engagement also recommended given Sec 202(b) parity provisions.
+
+Self-sustaining
+financing
+requirement —
+CBO actuarial
+analysis (Sec 103,
+Sec 402)
+
+CBO actuarial analysis required before introduction. The self-sustaining financing
+requirement (Sec 103(a)) is a structural commitment that must be defensible
+against CBO modeling. Initial years require seed funding, structured as a revolving
+Treasury loan (Sec 103(b)) rather than a direct appropriation to preserve the
+self-sustaining framing. CMS Office of the Actuary should model premium adequacy
+at each Sec 102(c) expansion stage.
+The reinsurance corridor (Sec 401) is essential to program viability — it both
+stabilizes premium adequacy and prevents an adverse-selection spiral in early
+years. CBO modeling should account for the reinsurance corridor as a stabilization
+mechanism rather than a subsidy. The actuarial soundness requirement (Sec 402)
+provides a structural guardrail against runaway premium growth: if non-attainment
+persists for three consecutive years, automatic expansion authority is suspended
+(Sec 402(e)).
+
+Anti-discrimination
+and mental health
+parity (Sec 202)
+
+Sec 202 extends the ACA anti-discrimination framework and the Mental Health
+Parity and Addiction Equity Act of 2008 (MHPAEA) framework to Public Option
+coverage and to participating private issuers. Section 202(b) authorizes the
+Secretary to establish enhanced parity standards specific to Public Option
+coverage, including behavioral health network adequacy and prior authorization
+practices.
+Counsel should review Sec 202 against existing ACA section 1557
+(nondiscrimination) and HHS Office for Civil Rights regulatory framework. The
+Bostock v. Clayton County, 590 U.S. 644 (2020), framework applies to gender
+identity and sexual orientation discrimination in the employment context; courts
+have extended that framework to ACA section 1557 in some circuits. The Sec
+202(a) language tracks the broader Bostock-influenced reading and should be
+reviewed against the latest circuit landscape before introduction.
+
+REF_RDNC_Leg07_Bill6_POHE_2030_4
+
+Page 19
+PROJECT ARA 2028 · 132
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · POHE Act of 2030 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+State election for
+full Public Option
+access (Sec
+102(a)(4))
+
+Sec 102(a)(4) permits a State to extend Public Option eligibility to all State
+residents by enactment of State law. This provision preserves State-level political
+agency and allows States to adopt the Public Option ahead of the Sec 102(c)
+automatic expansion. It is also a federalism-friendly framing: States that want
+broader access can have it on their schedule; States that prefer the gradual
+expansion can wait for the formula to trigger.
+Counsel should ensure the State-election mechanism does not create unintended
+State-versus-State risk-pooling distortions. The reinsurance corridor (Sec 401) and
+Sec 102(b) data publication should be calibrated to handle State elections without
+destabilizing premium adequacy in non-electing States.
+
+Constitutional
+foundation — NFIB
+v. Sebelius and
+King v. Burwell
+
+National Federation of Independent Business v. Sebelius, 567 U.S. 519 (2012),
+established that the Taxing Clause supports comprehensive federal health
+insurance frameworks (sustaining the individual mandate as a tax). King v. Burwell,
+576 U.S. 473 (2015), confirmed that the ACA exchange architecture — including
+federal/state exchange interaction — is constitutionally and statutorily sound. Sec
+2(a)(6) Findings cite both precedents.
+POHE does not include an individual mandate; it is a public option offered alongside
+private coverage, with no requirement to enroll. The constitutional posture is
+therefore stronger than the ACA individual mandate analyzed in NFIB — POHE is a
+Spending Clause / Commerce Clause program with no compelled-purchase
+element. Counsel should confirm that the Sec 102 expansion mechanism does not
+inadvertently introduce mandate-like features that would shift the constitutional
+analysis.
+
+REF_RDNC_Leg07_Bill6_POHE_2030_4 · REF_ Reference Layer · Reform Democrats of the New
+Commonwealth · 2026
+Legal disclaimer applies — see page 1. This framework requires licensed legislative counsel review before introduction.
+Originally conceived and authored by a concerned American citizen. Developed with the assistance of Claude
+(Anthropic). The ideas belong to anyone willing to fight for them.
+
+REF_RDNC_Leg07_Bill6_POHE_2030_4
+
+Page 20
+PROJECT ARA 2028 · 133
+
+Reform Democrats of the New Commonwealth
+
+
+PART VII · THE LEGISLATIVE SERIES
+
+BILL 7
+
+DRDO
+Digital Rights & Data Fiduciary Act of 2029
+Phase II · Track B · v_5
+
+Reproduced in full from the canonical drafted bill. No operative text has been altered in consolidation.
+
+PROJECT ARA 2028 · 134
+
+
+RDNC Bill Framework · DRDO Act of 2029 · REF_ · 2026
+
+Reform Democrats of the New Commonwealth · Project ARA 2028
+Legislative Ecosystem Document Leg08 of Leg14
+
+Digital Rights and Data Fiduciary Act of
+2029
+Bill Framework & Legislative Brief
+Phase II · Track B · Sectoral Legislation · Phase II · Track B · Year 3–5
+LEGAL DISCLAIMER — POLICY DISCUSSION DOCUMENT
+This document is a policy discussion framework and bill scaffold. It is not formally introduced legislation, has
+not been reviewed by licensed legislative counsel, and does not constitute legal advice of any kind.
+All provisions marked [TBD] — including dollar amounts, specific IRC section numbers, penalty thresholds,
+appropriation amounts, and CBO scoring figures — require resolution by licensed legislative drafting counsel
+(the Office of Legislative Counsel for the House or Senate, as applicable), relevant agency technical staff,
+and the Congressional Budget Office before introduction as formal legislation.
+Constitutional arguments, legal analyses, and statutory framings presented herein are analytical
+assessments developed for policy planning purposes. They are not legal opinions and have not been
+reviewed or validated by licensed legal counsel. This document identifies constitutional and legal risks
+requiring independent review — those identifications are planning guidance, not legal conclusions.
+This framework was produced by the Reform Democrats of the New Commonwealth (RDNC), a private
+citizen policy research organization. It is not affiliated with any sitting Member of Congress, congressional
+office, government agency, or political party organization in any official capacity.
+Consultation with licensed legislative counsel, the Federal Trade Commission Office of General
+Counsel, the Department of Justice Office of Legal Counsel, the National Telecommunications
+and Information Administration, the Congressional Budget Office, and Senate Commerce and
+Judiciary Committee constitutional counsel is required before any framework in this series may
+be introduced as formal legislation. Distribution is subject to RDNC classification protocols
+(REF_ layer: internal use and trusted partners only).
+
+Phase II · Track B · Sectoral Legislation · Bill 7
+
+Part I — Legislative Brief
+Data is the raw material of the modern economy. Americans generate it. Platforms monetize it. The law has
+not kept pace. This bill establishes a comprehensive data fiduciary framework with portability, consent,
+enforcement, compensation, and minor protection provisions. Title V Tier Two minor protection is
+redesigned from categorical algorithmic-feed prohibition to default-chronological-with-opt-in per the Part III
+directive — implementing the constitutionally durable architecture in operative bill text. Sec 3(g) four-track
+severability ensures Titles I–IV survive independently if Title V is held invalid.
+
+AT A GLANCE
+Bill Title
+
+Digital Rights and Data Fiduciary Act of 2029
+
+Short Title (Cite As)
+
+The DRDO Act of 2029
+
+REF_RDNC_Leg08_Bill7_DRDO_2029_5
+
+Page 1
+PROJECT ARA 2028 · 135
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DRDO Act of 2029 · REF_ · 2026
+
+Legislative Vehicle
+
+Standalone Legislation — 60-vote Senate threshold
+
+Phase / Track
+
+Phase II · Track B · Year 3–5
+
+Primary Committees
+
+Senate Commerce, Science, and Transportation; Senate Judiciary
+
+Dependencies
+
+Executive Order 2 (Data Transparency baseline) operational; public
+awareness of data economy established through Phase I
+
+Core Framing
+
+"Companies that hold your data hold it in trust for you — they cannot use it,
+sell it, or profit from it without your permission."
+
+GDPR Alignment
+
+Deliberately designed to align with the EU General Data Protection
+Regulation to reduce compliance complexity and leverage existing global
+compliance infrastructure
+
+Constitutional /
+Statutory Risk
+
+First Amendment exposure (Moody v. NetChoice / Sorrell / Zauderer-NIFLA /
+303 Creative); Takings exposure (Ruckelshaus / Cedar Point) on Title IV
+compensation; Loper Bright statutory precision pressure across FTC
+rulemaking
+
+Architecture
+
+Architecture C-equivalent (body-baked safety) — Sec 504 Tier Two
+redesigned to default-chronological-with-opt-in per Part III directive; Sec 3
+Statutory Foundation binding First Amendment / Takings / data-fiduciary
+distinctions; Sec 3(g) severability preserves Titles I–IV if Title V struck
+
+What This Bill Does:
+1. Establishes data portability rights. Americans have the right to request, receive, and transfer their
+personal data in a standardized, machine-readable format, increasing competition by lowering switching
+costs. Scope limited to user-provided and observed data; excludes platform inferences and algorithmic
+outputs (303 Creative compliance).
+2. Mandates meaningful consent enforcement. Data collection requires specific, informed, freely
+given, and revocable consent. Pre-checked boxes, buried terms of service, dark patterns, and
+consent-or-be-denied-access requirements are prohibited.
+3. Criminalizes mass unauthorized data harvesting. Platforms that collect, sell, or share personal data
+without proper consent face revenue-scaled civil penalties and criminal penalties for willful violations.
+FTC enforcement with express civil penalty authority following AMG Capital Management.
+4. Establishes a data compensation framework. Where personal data is used for commercial purposes
+beyond a platform's core service, users are entitled to notice and, in qualifying circumstances,
+compensation. Structured as regulatory pricing analogous to FCC rate regulation and compulsory
+copyright licensing — not as property regulation.
+5. Establishes Digital Minor Protection Standards (Title V). Three-tier framework: under-13
+(enhanced COPPA, no algorithmic feed, no behavioral advertising); 13–15 (default chronological with
+opt-in to algorithmic feed plus parental notification); 16–17 (default chronological, opt-in to algorithmic
+with affirmative consent). The 13–15 tier is redesigned from categorical prohibition to default-rule
+architecture per Part III directive — preserving user choice and reducing First Amendment exposure.
+6. Constitutional Foundation with Severability Architecture. Sec 3 binds the First Amendment
+framework, Moody v. NetChoice distinction, Title I conduct-regulation framing, data-fiduciary
+characterization, and Loper Bright statutory precision in operative bill text. Sec 3(g) provides four-track
+severability — if Title V is struck, Titles I–IV survive independently.
+
+REF_RDNC_Leg08_Bill7_DRDO_2029_5
+
+Page 2
+PROJECT ARA 2028 · 136
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DRDO Act of 2029 · REF_ · 2026
+
+ATTACK
+SURFACE
+
+"Innovation-killing regulation." "GDPR-style compliance burden." "Kills small
+businesses." "Too complex to enforce." "First Amendment violation on minor
+protection." Tech industry will oppose; data brokers will oppose more fiercely. The
+Mississippi/Utah/Arkansas/Ohio injunction landscape on categorical-prohibition state
+schemes will be cited against Title V.
+
+DEFENSE
+STRATEGY
+
+Frame as pro-competition, not anti-business. Portability reduces platform lock-in and
+helps smaller competitors. EU alignment: "If European companies can comply with
+GDPR, American companies can comply with DRDO." Start enforcement with the largest
+platforms (revenue threshold, Sec 4(c)). On Title V: emphasize the redesign — DRDO
+does NOT prohibit algorithmic feeds for 13–15; it requires opt-in with parental
+notification, preserving user choice. This is default-rule architecture, not the categorical
+prohibition struck in every litigated state scheme.
+
+FALLBACK
+POSITION
+
+If Title IV (compensation framework) faces opposition, it can be removed while
+preserving portability, consent, and minor protection provisions — Sec 3(g)(2)
+severability ensures that. Those titles alone are a meaningful win. If Title V (minor
+protection) faces challenge despite the redesign, Sec 3(g)(1) severability preserves
+Titles I–IV; Title V can be re-introduced in subsequent Congress with further-revised
+architecture if struck. Compensation framework returns in Phase III.
+
+The Doctrinal Posture. The data-fiduciary characterization is the durable First Amendment framework for
+personal-data regulation — generally applicable fiduciary duties rather than content- or speaker-specific
+restrictions, consistent with Sorrell v. IMS Health (2011). The Title V Tier Two redesign from categorical
+prohibition to default-chronological-with-opt-in implements the Part III directive in operative bill text,
+distinguishing DRDO from the Mississippi / Utah / Arkansas / Ohio schemes that have been multiply enjoined.
+CAADCA Round 2 (NetChoice v. Bonta, 9th Cir. Mar. 2026) controlling rule applied throughout.
+60-Vote Strategy. Senate Commerce and Judiciary pre-introduction meetings required. The bipartisan
+case rests on rural and small-business consumer protection (consent and portability), parental rights (Title V
+opt-in with notification), and EU compliance-cost reduction for American businesses already operating in
+European markets. DOJ Office of Legal Counsel review recommended on Title V architecture given the
+litigated state-scheme injunction landscape. FTC pre-introduction consultation required on rulemaking
+authority and AMG Capital civil-penalty authority.
+
+REF_RDNC_Leg08_Bill7_DRDO_2029_5
+
+Page 3
+PROJECT ARA 2028 · 137
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DRDO Act of 2029 · REF_ · 2026
+
+Part II — Bill Framework
+This is the structural scaffold of the bill. Penalty thresholds, percentage rates, employee-count cutoffs,
+duration thresholds, and IRC section cross-references are flagged as [TBD] where they require licensed
+legislative counsel, the Federal Trade Commission Office of General Counsel, the Department of Justice
+Office of Legal Counsel, the National Telecommunications and Information Administration, and the
+Congressional Budget Office review before introduction. Sec 3 Statutory Foundation binds the First
+Amendment / Takings / data-fiduciary architecture in operative bill text; Sec 504 implements the
+body-baked safe architecture for Tier Two minor protections; Sec 3(g) four-track severability preserves Titles
+I–IV independently of Title V.
+119TH CONGRESS
+
+1ST SESSION
+
+S. ____
+
+To establish rights of data portability and meaningful consent for consumers; to
+provide that covered entities hold personal data as fiduciaries; to prohibit
+unauthorized commercial collection and use of personal data; to establish a
+framework for data compensation structured as regulatory pricing; to protect
+minor users from algorithmic harm through default-rule architecture; to bind in
+operative bill text the constitutional construction and severability of this
+Act; and for other purposes.
+
+A B I L L
+Be it enacted by the Senate and House of Representatives of the United States of
+America in Congress assembled,
+
+SEC. 1. SHORT TITLE.
+This Act may be cited as the "Digital Rights and Data Fiduciary Act of 2029"
+or the "DRDO Act of 2029".
+
+SEC. 2. FINDINGS AND PURPOSE.
+(a) FINDINGS.—Congress finds the following:
+(1) Americans generate enormous quantities of personal data through
+ordinary digital activity. Platforms monetize that data with minimal
+legal obligation to the individuals who created it.
+(2) Existing Federal law provides no general right to data
+portability, no uniform meaningful consent standard, no civil remedy
+for mass unauthorized data harvesting, and no comprehensive framework
+for the commercial use of personal data.
+(3) The European Union General Data Protection Regulation (2018), the
+United Kingdom Age Appropriate Design Code (2021), and the American
+Privacy Rights Act (H.R. 8818, 118th Congress, 2024) together
+establish the international and domestic legislative precedent for
+data fiduciary frameworks.
+(4) Peer-reviewed research establishes a causal relationship between
+algorithmic social media engagement optimization and documented harms
+to adolescent mental health, including findings published by the
+American Psychological Association and the Office of the Surgeon
+General of the United States.
+(5) The Supreme Court has repeatedly affirmed that personal data
+regulation is permissible when narrowly drawn and grounded in
+generally applicable fiduciary obligations rather than content- or
+speaker-specific restrictions, consistent with Sorrell v. IMS Health,
+Inc., 564 U.S. 552 (2011).
+(6) The data-fiduciary characterization — under which covered
+REF_RDNC_Leg08_Bill7_DRDO_2029_5
+
+Page 4
+PROJECT ARA 2028 · 138
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DRDO Act of 2029 · REF_ · 2026
+
+entities hold personal data as fiduciaries for the benefit of the
+individuals from whom the data was collected — establishes a
+generally applicable legal duty rather than a content- or
+speaker-specific restriction, and is the architecture endorsed in
+scholarly literature as the durable First Amendment framework for
+personal-data regulation.
+(7) Default rules that preserve user choice and require affirmative
+opt-in for algorithmic personalization protect minor users from
+documented harms while raising materially fewer First Amendment
+questions than categorical prohibitions on protected expression.
+(8) Data portability, when limited to user-provided and observed data
+and excluding platform inferences and algorithmic outputs, regulates
+the transmission of the user's own data rather than compelling the
+platform's expressive content, and is therefore analyzed as conduct
+regulation rather than compelled commercial speech.
+(9) Compensation frameworks for the commercial use of personal data
+beyond a platform's core service operate as regulatory pricing
+analogous to the Federal Communications Commission rate regulation
+framework and to compulsory copyright licensing under sections 111
+and 115 of title 17, United States Code, not as Takings of platform
+property, because platforms hold personal data as fiduciaries and
+not as property owners.
+(10) Coordination with the European Union General Data Protection
+Regulation reduces compliance burden on covered entities operating in
+both jurisdictions and leverages existing global compliance
+infrastructure.
+(b) PURPOSES.—The purposes of this Act are—
+(1) to establish rights of data portability, meaningful consent, and
+protection from unauthorized commercial collection and use of
+personal data;
+(2) to provide that covered entities hold personal data as fiduciaries
+for the benefit of the individuals from whom the data was collected,
+consistent with generally applicable fiduciary obligations;
+(3) to establish a framework for compensation where personal data is
+used for commercial purposes beyond a platform's core service,
+structured as regulatory pricing rather than property regulation;
+(4) to protect minor users from algorithmic engagement optimization
+and behavioral advertising through default-rule architecture that
+preserves user choice while requiring affirmative opt-in for
+algorithmic personalization;
+(5) to establish enforcement authority in the Federal Trade Commission
+with express statutory civil penalty authority following AMG Capital
+Management, LLC v. FTC, 593 U.S. 67 (2021);
+(6) to align this Act with the European Union General Data Protection
+Regulation and other major international data protection frameworks;
+and
+(7) to provide severability such that Titles I through IV survive
+independently if Title V is held invalid in whole or in part.
+
+SEC. 3. STATUTORY FOUNDATION AND CONSTRUCTION.
+(a) FIRST AMENDMENT FRAMEWORK.—This Act regulates the fiduciary obligations
+of covered entities with respect to personal data and the conduct of
+personal data collection, transmission, and use. This Act does not
+regulate the content of expression, the identity of the speaker, or the
+viewpoint expressed. The fiduciary duties established under this Act are
+generally applicable obligations grounded in the relationship between a
+covered entity and the individuals from whom personal data is collected,
+
+REF_RDNC_Leg08_Bill7_DRDO_2029_5
+
+Page 5
+PROJECT ARA 2028 · 139
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DRDO Act of 2029 · REF_ · 2026
+
+consistent with the framework articulated in Sorrell v. IMS Health, Inc.,
+564 U.S. 552 (2011).
+(b) DISTINCTION FROM EDITORIAL EXPRESSION.—The provisions of this Act do
+not regulate the editorial expression of any covered entity. Moody v.
+NetChoice, LLC, 603 U.S. 707 (2024), held that platform content curation
+may constitute First Amendment-protected editorial expression. This Act
+does not require, prohibit, or condition any editorial judgment by any
+covered entity. The default-rule architecture of section 504 preserves
+user choice and requires affirmative user opt-in for algorithmic
+personalization, which is conduct regulation analogous to default rules
+rather than restriction on protected editorial expression.
+(c) DATA PORTABILITY AS CONDUCT REGULATION.—The data portability
+provisions of Title I regulate the transmission of user-provided and
+observed data — data that the user has supplied to the covered entity
+or that the covered entity has observed in connection with the user's
+activity. Title I does not extend to platform inferences, algorithmic
+outputs, or other expressive content of the covered entity. Title I is
+analyzed as conduct regulation rather than compelled commercial speech,
+and where any disclosure is required, that disclosure is of purely
+factual and uncontroversial information consistent with Zauderer v.
+Office of Disciplinary Counsel, 471 U.S. 626 (1985), as narrowed by
+NIFLA v. Becerra, 585 U.S. 755 (2018).
+(d) DATA FIDUCIARY CHARACTERIZATION.—Covered entities hold personal data
+as fiduciaries for the benefit of the individuals from whom the data was
+collected. Collection does not confer ownership, possessory interest, or
+property interest upon the covered entity. The fiduciary characterization
+is a condition of operating in the regulated personal data industry,
+consistent with the professional-regulation tradition that has not
+required Takings analysis under Ruckelshaus v. Monsanto Co., 467 U.S.
+986 (1984). The compensation framework of Title IV operates as
+regulatory pricing analogous to Federal Communications Commission rate
+regulation and compulsory copyright licensing, not as a property taking.
+(e) STATUTORY PRECISION REQUIREMENT.—Following Loper Bright Enterprises
+v. Raimondo, 603 U.S. 369 (2024), provisions of this Act shall be
+construed according to their statutory text. Where this Act delegates
+rulemaking authority to the Federal Trade Commission or any other
+agency, that authority is bounded by the express terms of the
+delegation. Ambiguities shall be resolved by reference to statutory
+text, structure, and purpose, and no agency may expand its authority
+under this Act beyond what is expressly conferred.
+(f) FTC EXPRESS CIVIL PENALTY AUTHORITY.—Following AMG Capital Management,
+LLC v. FTC, 593 U.S. 67 (2021), the Federal Trade Commission requires
+express statutory authority for civil penalty assessment. Section 301
+expressly vests such authority in the Commission for violations of this
+Act, and the Commission shall not be required to obtain such authority
+by separate statutory action.
+(g) SEVERABILITY.—If any provision of this Act, or the application of any
+provision to any person or circumstance, is held to be invalid, the
+remaining provisions of this Act and the application of those provisions
+to other persons or circumstances shall not be affected. In particular—
+(1) if any provision of Title V (Digital Minor Protection Standards)
+is held invalid, Titles I through IV shall remain in full force and
+effect as an independent regulatory scheme;
+(2) if any provision of Title IV (Compensation Framework) is held
+invalid, Titles I, II, III, and V shall remain in full force and
+effect;
+(3) if any provision of Title I (Data Portability) is held invalid,
+Titles II through V shall remain in full force and effect; and
+
+REF_RDNC_Leg08_Bill7_DRDO_2029_5
+
+Page 6
+PROJECT ARA 2028 · 140
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DRDO Act of 2029 · REF_ · 2026
+
+(4) if any specific consent mechanism prescribed under Title II is
+held invalid, the meaningful-consent standard established under
+Title II shall remain in force, and the Federal Trade Commission
+may, by rulemaking, establish alternative compliant mechanisms.
+(h) GDPR ALIGNMENT.—This Act is intended to align with the European
+Union General Data Protection Regulation to the extent consistent with
+United States constitutional and statutory law. Where definitions and
+operative standards under this Act are susceptible of multiple
+constructions, the construction that aligns with the General Data
+Protection Regulation is preferred, provided such construction is
+consistent with this Act's text and purpose.
+
+SEC. 4. DEFINITIONS.
+In this Act:
+(a) ALGORITHMIC FEED.—The term "algorithmic feed" means a presentation of
+content to a user in an order determined in whole or in part by automated
+systems based on the user's predicted engagement, behavior, interests, or
+attributes, as distinct from chronological, reverse-chronological, or
+user-curated presentation orders.
+(b) BEHAVIORAL ADVERTISING.—The term "behavioral advertising" means the
+delivery of advertising to a user based on data collected from the user's
+online behavior, including browsing history, application usage, location
+data, search history, and inferred attributes derived from such data.
+The term does not include contextual advertising based on the content
+the user is viewing at the time the advertisement is delivered.
+(c) COVERED ENTITY.—The term "covered entity" means any person that—
+(1) collects, maintains, or processes personal data of more than
+[TBD] individuals in any 12-month period; or
+(2) derives more than 50 percent of its revenue from the sale or
+commercial use of personal data.
+The term excludes any sole proprietor, any nonprofit organization with
+annual revenue under $[TBD], and any entity whose annual revenue is
+less than $25,000,000.
+(d) DARK PATTERNS.—The term "dark patterns" means user interface designs
+that have the substantial effect of subverting or impairing user
+autonomy, decision-making, or choice, including but not limited to—
+(1) pre-checked consent boxes;
+(2) consent flows that require affirmative action to decline but
+passive action to accept;
+(3) burying material consent provisions in lengthy terms of service;
+(4) repeated re-prompting after a user has declined consent; and
+(5) interface designs that obscure or de-emphasize the option to
+decline.
+(e) DATA FIDUCIARY.—The term "data fiduciary" means a covered entity
+that, by collecting or maintaining personal data, holds that data
+subject to the fiduciary duties established under section 5 for the
+benefit of the individuals from whom the data was collected.
+(f) INFERRED DATA.—The term "inferred data" means data generated by a
+covered entity through analysis of user-provided data or observed data,
+including predicted attributes, scoring outputs, profile classifications,
+and algorithmic decisions about the user.
+(g) MEANINGFUL CONSENT.—The term "meaningful consent" means consent that
+is specific to a particular use, informed by clear and prominent
+disclosure of the use, freely given without coercion or dark patterns,
+and revocable at any time without penalty or impairment of the user's
+ability to use the covered entity's core service.
+(h) MINOR.—The term "minor" means an individual under 18 years of age.
+
+REF_RDNC_Leg08_Bill7_DRDO_2029_5
+
+Page 7
+PROJECT ARA 2028 · 141
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DRDO Act of 2029 · REF_ · 2026
+
+The term is further subdivided by section 502 into three age tiers for
+purposes of Title V.
+(i) OBSERVED DATA.—The term "observed data" means data collected by a
+covered entity through observation of a user's interaction with the
+covered entity's services, including but not limited to clickstream
+data, location data collected during use of the service, device
+identifiers, and usage telemetry. The term does not include inferred
+data.
+(j) PERSONAL DATA.—The term "personal data" means any information that,
+alone or in combination with other information, identifies, relates to,
+describes, is reasonably capable of being associated with, or could
+reasonably be linked, directly or indirectly, with a particular
+individual.
+(k) USER-PROVIDED DATA.—The term "user-provided data" means data
+affirmatively supplied by a user to a covered entity, including
+information entered into account profiles, content uploaded or posted
+by the user, and information submitted in forms or transactions. The
+term does not include observed data or inferred data.
+(l) FTC.—The term "FTC" or "Commission" means the Federal Trade
+Commission.
+
+SEC. 5. DATA FIDUCIARY STANDARD.
+(a) ESTABLISHMENT OF FIDUCIARY RELATIONSHIP.—A covered entity that
+collects or holds personal data of an individual holds that data as a
+fiduciary for the benefit of that individual.
+(b) DUTY OF CARE.—A data fiduciary shall exercise reasonable care to
+protect personal data from unauthorized access, disclosure, alteration,
+or misuse, including by—
+(1) implementing reasonable technical and organizational security
+measures;
+(2) limiting access to personal data to personnel with a legitimate
+operational need;
+(3) maintaining current security practices in accordance with
+evolving industry standards; and
+(4) timely notification of affected individuals and the Commission
+in the event of a security breach affecting personal data.
+(c) DUTY OF LOYALTY.—A data fiduciary shall use personal data only for
+purposes consistent with the meaningful consent provided under Title II,
+and shall not use personal data in any manner that—
+(1) is materially adverse to the interests of the individual from
+whom the data was collected; or
+(2) advances the commercial interests of the covered entity in
+ways the individual has not consented to.
+(d) DUTY OF CONFIDENTIALITY.—A data fiduciary shall not disclose personal
+data to any third party without the affirmative consent of the
+individual from whom the data was collected, except as required by law,
+in response to lawful process, or as expressly permitted by this Act.
+(e) NO PROPERTY OR POSSESSORY INTEREST.—Collection or maintenance of
+personal data does not confer ownership, possessory interest, or
+property interest upon the covered entity. Cross-reference: section
+3(d) constitutional foundation.
+(f) DURATION OF FIDUCIARY DUTIES.—The fiduciary duties established under
+this section attach upon collection of personal data and continue until
+the data is deleted in accordance with the user's request, the user's
+consent expires, or the data is no longer maintained by the covered
+entity, whichever occurs first.
+TITLE I — DATA PORTABILITY
+
+REF_RDNC_Leg08_Bill7_DRDO_2029_5
+
+Page 8
+PROJECT ARA 2028 · 142
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DRDO Act of 2029 · REF_ · 2026
+
+SEC. 101. DATA PORTABILITY RIGHT.
+(a) RIGHT TO RECEIVE DATA.—An individual has the right to receive,
+upon request, all user-provided and observed data the covered entity
+maintains concerning the individual, in a structured, commonly used,
+and machine-readable format.
+(b) RIGHT TO DIRECT TRANSFER.—An individual has the right to direct a
+covered entity to transmit user-provided and observed data concerning
+the individual to another covered entity, where technically feasible,
+in a structured, commonly used, and machine-readable format.
+(c) RIGHT TO DELETION.—An individual has the right to request deletion
+of personal data the covered entity maintains concerning the
+individual, subject to such retention as is required by law or
+legitimate operational necessity that has been disclosed to the user.
+(d) TIMELINE.—A covered entity shall fulfill any request under
+subsection (a), (b), or (c) within [TBD] days of receipt of a verified
+request.
+
+SEC. 102. SCOPE OF PORTABILITY — USER-PROVIDED AND OBSERVED DATA ONLY.
+(a) USER-PROVIDED DATA.—User-provided data, as defined in section 4(k),
+is included within the data portability right.
+(b) OBSERVED DATA.—Observed data, as defined in section 4(i), is
+included within the data portability right.
+(c) INFERRED DATA EXCLUDED.—Inferred data, as defined in section 4(f),
+is NOT included within the data portability right. Inferred data
+constitutes the analytical output of the covered entity and is the
+expressive content of the covered entity, which Title I does not
+compel covered entities to transmit. (See section 3(c).)
+(d) PLATFORM EDITORIAL PRODUCTS EXCLUDED.—Curated feeds, recommendation
+rankings, algorithmic decisions, and other expressive products of the
+covered entity are NOT included within the data portability right.
+Cross-reference to section 3(b) Moody distinction.
+(e) GDPR ALIGNMENT.—The scope of the data portability right under this
+Act is intended to align with Article 20 of the European Union General
+Data Protection Regulation, which similarly excludes inferred data
+from the right of portability.
+
+SEC. 103. TECHNICAL STANDARDS.
+(a) STANDARDIZED FORMATS.—The Commission shall, by rulemaking, establish
+technical standards for the format of data transmitted under this title,
+including formats based on JSON, CSV, or other open machine-readable
+formats.
+(b) DIRECT-TRANSFER PROTOCOLS.—The Commission shall, by rulemaking,
+establish protocols for direct transmission of data from one covered
+entity to another under section 101(b).
+(c) GDPR ALIGNMENT.—Technical standards established under this section
+shall, to the extent practicable, align with technical standards
+established under the European Union General Data Protection
+Regulation.
+(d) IMPLEMENTATION TIMELINE.—Initial technical standards under this
+section shall be published not later than [TBD] months after the date
+of enactment of this Act, with covered entities required to comply
+not later than [TBD] months after publication.
+
+TITLE II — CONSENT REQUIREMENTS
+SEC. 201. MEANINGFUL CONSENT STANDARD.
+
+REF_RDNC_Leg08_Bill7_DRDO_2029_5
+
+Page 9
+PROJECT ARA 2028 · 143
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DRDO Act of 2029 · REF_ · 2026
+
+(a) GENERAL REQUIREMENT.—No covered entity may collect personal data
+from any individual without the meaningful consent of that individual,
+as defined in section 4(g). Each element of meaningful consent is
+individually required.
+(b) SPECIFIC.—Consent shall be specific to a particular use of the
+personal data. Blanket consent to all data uses, or consent to all
+uses described in a covered entity's privacy policy, does not satisfy
+this section.
+(c) INFORMED.—Consent shall be informed by a clear, prominent, and
+plain-language disclosure of—
+(1) the categories of personal data to be collected;
+(2) the specific use of the personal data;
+(3) any third party with whom the personal data will be shared;
+(4) the duration of the consent; and
+(5) the user's right to withdraw consent.
+(d) FREELY GIVEN.—Consent shall be freely given without coercion, dark
+patterns, or impairment of the user's ability to use the covered
+entity's core service.
+(e) REVOCABLE.—Consent shall be revocable at any time without penalty
+or impairment of the user's ability to use the covered entity's core
+service. Withdrawal mechanisms shall meet the standards established in
+section 203.
+
+SEC. 202. PROHIBITED PRACTICES.
+(a) PRE-CHECKED CONSENT BOXES.—A covered entity may not present consent
+options with any consent option pre-checked, pre-selected, or otherwise
+set as a default.
+(b) BURIED CONSENT.—A covered entity may not bury material consent
+provisions in terms of service or other lengthy disclosure documents.
+Material consent provisions shall be presented separately and
+prominently.
+(c) DARK PATTERNS.—A covered entity may not employ dark patterns, as
+defined in section 4(d), in any consent flow.
+(d) BLANKET ACCESS CONDITIONING.—A covered entity may not condition
+access to its core service on consent to data uses unrelated to the
+core service. Tying consent to commercial uses of personal data
+beyond the core service to access of the core service violates this
+subsection.
+(e) REPEATED RE-PROMPTING.—After a user has declined consent, a covered
+entity may not present additional prompts to the same user requesting
+the same consent for a period of not less than 12 months, except in
+response to an affirmative user request to reconsider.
+
+SEC. 203. CONSENT WITHDRAWAL.
+(a) WITHDRAWAL MECHANISM.—Each covered entity shall provide a mechanism
+for the user to withdraw any previously given consent. The withdrawal
+mechanism shall be at least as prominent and accessible as the
+mechanism by which the consent was originally provided.
+(b) IMMEDIATE EFFECT.—Withdrawal of consent shall be effective
+immediately upon receipt by the covered entity. The covered entity
+shall cease the consented-to use of personal data not later than 30
+days following withdrawal.
+(c) NO DEGRADATION OF CORE SERVICE.—Withdrawal of consent for any data
+use beyond the core service shall not result in degradation of the
+user's continued access to the core service.
+(d) CONFIRMATION RECEIPT.—The covered entity shall provide the user
+
+REF_RDNC_Leg08_Bill7_DRDO_2029_5
+
+Page 10
+PROJECT ARA 2028 · 144
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DRDO Act of 2029 · REF_ · 2026
+
+with a confirmation receipt acknowledging the withdrawal of consent
+and the date on which the covered entity ceased the consented-to use.
+
+SEC. 204. SENSITIVE DATA.
+(a) DEFINITION.—For purposes of this section, "sensitive data" means
+personal data concerning—
+(1) health, medical, mental health, or genetic information;
+(2) biometric identifiers, including fingerprints, facial geometry,
+and voiceprints;
+(3) financial account information, transaction history, or
+creditworthiness;
+(4) precise geolocation data;
+(5) the personal data of a minor;
+(6) racial or ethnic origin, religious beliefs, philosophical
+beliefs, sexual orientation, or gender identity; and
+(7) such additional categories as the Commission may identify by
+rulemaking.
+(b) HEIGHTENED CONSENT REQUIREMENTS.—Sensitive data may only be
+collected, used, or disclosed pursuant to affirmative opt-in consent
+that meets the requirements of section 201 and is specific to the
+sensitive data category.
+(c) NO OPT-OUT STRUCTURE.—Sensitive data may not be collected, used,
+or disclosed pursuant to an opt-out consent structure under any
+circumstance.
+(d) USE LIMITATIONS.—Sensitive data may not be used for behavioral
+advertising under any circumstance, regardless of consent.
+
+TITLE III — ENFORCEMENT AND PENALTIES
+
+SEC. 301. FTC ENFORCEMENT AUTHORITY.
+(a) IN GENERAL.—Violations of this Act are unfair or deceptive acts or
+practices in violation of section 5 of the Federal Trade Commission
+Act (15 U.S.C. § 45). The Commission shall enforce this Act in
+accordance with the Federal Trade Commission Act and the express
+civil-penalty authority granted by this section.
+(b) EXPRESS CIVIL PENALTY AUTHORITY.—Pursuant to section 3(f) and
+consistent with AMG Capital Management, LLC v. FTC, 593 U.S. 67
+(2021), the Commission shall have express civil penalty authority for
+violations of this Act. The Commission may assess civil penalties
+without obtaining such authority by separate statutory action.
+(c) CIVIL PENALTY STRUCTURE.—Civil penalties for violations of this
+Act are—
+(1) for covered entities with annual revenue under $50,000,000:
+not more than $[TBD] per violation;
+(2) for covered entities with annual revenue between $50,000,000
+and $1,000,000,000: the greater of $[TBD] per violation or [TBD]
+percent of annual revenue; and
+(3) for covered entities with annual revenue exceeding
+$1,000,000,000: the greater of $[TBD] per violation or [TBD]
+percent of annual global revenue.
+(d) AGGRAVATED VIOLATIONS.—Civil penalties under subsection (c) shall
+be tripled for violations that—
+(1) are willful;
+(2) involve sensitive data as defined in section 204(a);
+(3) involve the personal data of a minor; or
+
+REF_RDNC_Leg08_Bill7_DRDO_2029_5
+
+Page 11
+PROJECT ARA 2028 · 145
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DRDO Act of 2029 · REF_ · 2026
+
+(4) are part of a systemic pattern or practice.
+(e) RULEMAKING AUTHORITY.—The Commission shall have rulemaking authority
+under this Act, exercised in accordance with section 3(e) statutory
+precision requirements and section 553 of title 5, United States Code.
+
+SEC. 302. CRIMINAL PENALTIES.
+(a) IN GENERAL.—Any person who willfully violates this Act through the
+mass unauthorized collection, sale, or sharing of personal data of
+[TBD] or more individuals shall be guilty of a Federal offense.
+(b) PENALTY STRUCTURE.—An offense under subsection (a) is punishable by—
+(1) a fine of not more than $[TBD]; or
+(2) imprisonment for not more than [TBD] years; or
+(3) both fine and imprisonment.
+(c) AGGRAVATED CRIMINAL VIOLATIONS.—Where a violation under subsection
+(a) involves sensitive data as defined in section 204(a) or the
+personal data of a minor, the maximum imprisonment under subsection
+(b)(2) is increased to [TBD] years.
+(d) DOJ ENFORCEMENT.—Prosecutions under this section shall be conducted
+by the Department of Justice. The Commission shall refer to the
+Department of Justice violations of this Act that the Commission
+determines warrant criminal prosecution.
+
+SEC. 303. PRIVATE RIGHT OF ACTION.
+(a) PHASED IMPLEMENTATION — YEAR 1.—For violations occurring during the
+first year following the date on which the Commission's initial
+rulemaking under this Act becomes effective, an individual whose
+personal data has been used in violation of this Act may bring a civil
+action only for willful violations.
+(b) FULL IMPLEMENTATION — YEAR 2 AND THEREAFTER.—Beginning two years
+after the date on which the Commission's initial rulemaking under
+this Act becomes effective, an individual whose personal data has been
+used in violation of this Act may bring a civil action for any
+violation of this Act.
+(c) JURISDICTION.—Civil actions under this section may be brought in
+any United States district court of competent jurisdiction.
+(d) STATUTORY DAMAGES.—An individual prevailing in a civil action under
+this section is entitled to—
+(1) statutory damages of not less than $[TBD] per violation;
+(2) actual damages, where greater than statutory damages;
+(3) injunctive relief; and
+(4) reasonable attorney's fees and costs.
+(e) CLASS ACTIONS.—Nothing in this section limits the availability of
+class action procedures under rule 23 of the Federal Rules of Civil
+Procedure.
+
+SEC. 304. STATE ATTORNEY GENERAL ENFORCEMENT.
+(a) IN GENERAL.—The attorney general of any State may bring a civil
+action in any United States district court of competent jurisdiction
+on behalf of residents of that State to enforce this Act.
+(b) FTC COORDINATION.—The Commission shall be notified of any State
+enforcement action brought under subsection (a) within 30 days of
+filing. The Commission may intervene in any such action upon notice
+to the parties.
+(c) NO PREEMPTION OF STRONGER STATE LAW.—Nothing in this Act preempts
+or limits any State law that provides equal or greater protection to
+
+REF_RDNC_Leg08_Bill7_DRDO_2029_5
+
+Page 12
+PROJECT ARA 2028 · 146
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DRDO Act of 2029 · REF_ · 2026
+
+individuals with respect to personal data collection, use, disclosure,
+or compensation.
+
+TITLE IV — DATA COMPENSATION FRAMEWORK
+
+SEC. 401. COMPENSABLE DATA USES.
+(a) IN GENERAL.—Where a covered entity uses personal data of a user
+for a commercial purpose beyond the covered entity's core service, the
+user is entitled to notice and, in qualifying circumstances, to
+compensation under this title.
+(b) CORE SERVICE DEFINED.—For purposes of this title, "core service"
+means the primary functionality of the covered entity's product or
+service for which the user has provided meaningful consent under
+Title II. The Commission shall, by rulemaking, establish standards for
+distinguishing core service uses from compensable uses.
+(c) COMPENSABLE COMMERCIAL USES.—Compensable commercial uses include—
+(1) sale of personal data to a third party;
+(2) licensing of personal data to a third party for commercial
+purposes;
+(3) use of personal data in training or fine-tuning a generative
+artificial intelligence model offered as a separate commercial
+product; and
+(4) any other use of personal data for commercial purposes beyond
+the core service, as the Commission may identify by rulemaking.
+(d) EXCLUSIONS.—This title does not apply to—
+(1) use of personal data for fraud prevention, security, or
+compliance with law;
+(2) use of personal data for academic or scientific research that
+does not generate commercial revenue;
+(3) use of aggregated or de-identified data that cannot reasonably
+be linked to an individual; or
+(4) use of personal data for the covered entity's own internal
+analytics, where the analytics output is not separately
+commercialized.
+
+SEC. 402. NOTICE REQUIREMENT.
+(a) IN GENERAL.—Before any compensable commercial use of personal data
+under section 401, the covered entity shall provide to the user—
+(1) a clear and prominent disclosure of the proposed use;
+(2) the identity of any third party to whom the data will be sold,
+licensed, or transferred;
+(3) the duration of the proposed use;
+(4) the compensation, if any, the user is entitled to under
+section 403; and
+(5) a meaningful opportunity to decline the proposed use without
+impairment of the user's continued access to the core service.
+(b) FORMAT.—Notice under this section shall be provided in a
+standardized format established by the Commission by rulemaking. The
+format shall be designed for accessibility and clarity, and shall not
+be susceptible to dark patterns as defined in section 4(d).
+(c) RECORD RETENTION.—The covered entity shall maintain records of
+notices provided and user responses for a period of not less than five
+years, available to the Commission upon request.
+SEC. 403. COMPENSATION STRUCTURE.
+(a) REGULATORY PRICING FRAMEWORK.—Compensation under this title
+
+REF_RDNC_Leg08_Bill7_DRDO_2029_5
+
+Page 13
+PROJECT ARA 2028 · 147
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DRDO Act of 2029 · REF_ · 2026
+
+operates as regulatory pricing established by the Commission, analogous
+to the Federal Communications Commission rate regulation framework and
+compulsory copyright licensing under sections 111 and 115 of title 17,
+United States Code. Compensation under this title is not a Taking of
+covered entity property within the meaning of the Fifth Amendment.
+Cross-reference to section 3(d) constitutional foundation.
+(b) RULEMAKING AUTHORITY.—The Commission shall, by rulemaking, establish
+a compensation methodology that—
+(1) reflects the commercial value of the personal data use;
+(2) is administrable at scale across covered entities;
+(3) avoids confiscatory rates within the meaning of Verizon
+Communications Inc. v. FCC, 535 U.S. 467 (2002), and Federal
+Power Commission v. Hope Natural Gas Co., 320 U.S. 591 (1944);
+and
+(4) provides covered entities reasonable advance notice of rate
+changes.
+(c) TIERED COMPENSATION.—The Commission may establish tiered
+compensation rates that account for—
+(1) the category of personal data used;
+(2) the duration of the use;
+(3) the scale of users affected; and
+(4) the commercial revenue derived from the use.
+(d) AGGREGATION AND DISBURSEMENT.—The Commission shall establish a
+mechanism for aggregating compensation entitlements and disbursing
+payments to users. The mechanism may be administered by the Commission
+directly, by a private entity designated by the Commission, or
+through such other arrangement as the Commission determines
+administrable.
+(e) DE MINIMIS THRESHOLD.—The Commission may establish a de minimis
+threshold below which individual compensation is held in trust by the
+covered entity until the user's accumulated entitlement exceeds the
+threshold, at which time disbursement is made.
+
+SEC. 404. ENFORCEMENT AND PRIVATE RIGHT OF ACTION.
+(a) FTC ENFORCEMENT.—Violations of this title are subject to the
+enforcement authority of the Commission under section 301.
+(b) PRIVATE RIGHT OF ACTION.—An individual whose personal data has
+been used in violation of this title may bring a civil action in any
+United States district court of competent jurisdiction. Available
+relief includes the compensation owed under section 403, statutory
+damages of not less than $[TBD] per violation, reasonable attorney's
+fees, and injunctive relief.
+(c) STATE ATTORNEY GENERAL ENFORCEMENT.—The attorney general of any
+State may bring a civil action in any United States district court of
+competent jurisdiction to enforce this title on behalf of residents of
+that State.
+(d) NO PRECLUSION OF STATE LAW.—Nothing in this title preempts or
+precludes State law that provides equal or greater protection to
+users with respect to compensation for commercial use of personal
+data.
+
+TITLE V — DIGITAL MINOR PROTECTION STANDARDS
+
+SEC. 501. SCOPE AND APPLICATION.
+(a) APPLICATION.—This title applies to any covered entity that
+
+REF_RDNC_Leg08_Bill7_DRDO_2029_5
+
+Page 14
+PROJECT ARA 2028 · 148
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DRDO Act of 2029 · REF_ · 2026
+
+operates a platform or service used by minors, as defined in section
+4(h).
+(b) THREE-TIER FRAMEWORK.—This title establishes a three-tier age-band
+framework for minor user protections, with tier-specific requirements
+matched to the developmental status and First Amendment posture of
+each age band.
+(c) MOODY DISTINCTION CROSS-REFERENCE.—This title is enacted under the
+framework established by section 3(b), which distinguishes default-rule
+architecture preserving user choice from categorical prohibitions on
+protected expression. Title V provisions are designed as default rules
+or as enhancements of existing COPPA requirements, not as categorical
+prohibitions on protected expression.
+(d) DEFINITIONS CROSS-REFERENCE.—Terms used in this title are defined
+in section 4.
+
+SEC. 502. AGE TIER DEFINITIONS.
+(a) TIER ONE.—"Tier One" refers to users under 13 years of age, subject
+to the heightened protections of section 503 in addition to the
+Children's Online Privacy Protection Act (15 U.S.C. § 6501 et seq.).
+(b) TIER TWO.—"Tier Two" refers to users between 13 and 15 years of
+age (inclusive), subject to the default-chronological-with-opt-in
+protections of section 504.
+(c) TIER THREE.—"Tier Three" refers to users 16 and 17 years of age,
+subject to the default-rule and disclosure protections of section
+505.
+
+SEC. 503. TIER ONE — USERS UNDER 13.
+(a) ENHANCED COPPA COMPLIANCE.—Covered entities operating platforms or
+services used by Tier One users shall comply with the Children's
+Online Privacy Protection Act and the Federal Trade Commission
+regulations implementing that Act, as supplemented by this section.
+(b) VERIFIABLE PARENTAL CONSENT.—Verifiable parental consent shall be
+obtained before any collection of personal data from a Tier One user.
+Self-declaration, checkbox-only consent, and other unverified consent
+mechanisms do not satisfy this subsection.
+(c) BEHAVIORAL ADVERTISING PROHIBITED.—Behavioral advertising, as
+defined in section 4(b), may not be delivered to a Tier One user
+under any circumstance.
+(d) ALGORITHMIC FEED PROHIBITED.—Algorithmic feeds, as defined in
+section 4(a), may not be presented to a Tier One user under any
+circumstance. Tier One users shall receive content presented in
+chronological, reverse-chronological, or user-curated order only.
+(e) REVENUE-BASED PENALTY STRUCTURE.—Civil penalties for violations of
+this section shall be assessed under section 301(c) without any
+fixed-dollar maximum cap. Aggravated violation tripling under section
+301(d)(3) applies to all Tier One violations.
+
+SEC. 504. TIER TWO — USERS AGES 13 THROUGH 15.
+(a) DEFAULT FEED PRESENTATION.—For each user who is between 13 and 15
+years of age (inclusive), the default content presentation on any
+covered platform shall be chronological or reverse-chronological. The
+user may not be enrolled in an algorithmic feed by default.
+(b) OPT-IN TO ALGORITHMIC FEED.—A user described in subsection (a) may
+opt in to an algorithmic feed presentation only if—
+(1) the user has affirmatively selected the algorithmic feed in
+
+REF_RDNC_Leg08_Bill7_DRDO_2029_5
+
+Page 15
+PROJECT ARA 2028 · 149
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DRDO Act of 2029 · REF_ · 2026
+
+response to a clear, neutral, prominently presented choice that is
+not preceded or accompanied by dark patterns;
+(2) the covered platform has provided the user with a clear and
+plain-language explanation of how the algorithmic feed selects
+content, including the categories of data used; and
+(3) the covered platform has provided contemporaneous notification
+to a parent or legal guardian of the user, where the user has
+verified parental contact information on the platform.
+(c) DEFAULT BEHAVIORAL ADVERTISING.—Behavioral advertising shall not be
+delivered to a user described in subsection (a) by default. A user
+described in subsection (a) may consent to behavioral advertising only
+through the opt-in process described in subsection (b)(1) and (b)(2),
+with parental notification under subsection (b)(3).
+(d) CONTEXTUAL ADVERTISING PERMITTED.—Contextual advertising, as
+defined in section 4(b), is permitted as to users described in
+subsection (a) without opt-in.
+(e) WITHDRAWAL OF OPT-IN.—A user described in subsection (a) who has
+opted in under subsection (b) may withdraw that opt-in at any time
+through a mechanism that is at least as prominent and accessible as
+the mechanism by which the opt-in was provided. Withdrawal returns the
+user to the default chronological presentation.
+(f) PROHIBITION ON CIRCUMVENTION.—A covered platform may not present a
+user described in subsection (a) with repeated prompts to opt in,
+designed reminders, gamified incentives, or any other mechanism
+intended to circumvent the protective default established by this
+section.
+(g) ANNUAL ALGORITHMIC IMPACT ASSESSMENT.—Each covered platform shall
+publish annually an algorithmic impact assessment for users described
+in subsection (a) who have opted in under subsection (b). The
+assessment shall describe the data inputs used by the algorithmic
+feed, aggregate engagement effects, and any documented mental health
+or wellbeing effects. The assessment shall be publicly available.
+(h) CONSTITUTIONAL FOUNDATION.—This section is enacted under the
+framework established by section 3, which distinguishes default-rule
+architecture preserving user choice from categorical prohibitions on
+protected expression. The default-chronological-with-opt-in
+architecture of this section is the body-baked safe architecture
+identified by Part III of the bill framework, designed to address the
+documented harms identified in section 2(a)(4) while preserving user
+autonomy and minor users' First Amendment rights consistent with
+Brown v. Entertainment Merchants Association, 564 U.S. 786 (2011).
+
+SEC. 505. TIER THREE — USERS AGES 16 AND 17.
+(a) DEFAULT FEED PRESENTATION.—For each user who is 16 or 17 years of
+age, the default content presentation on any covered platform shall
+be chronological or reverse-chronological. The user may opt in to an
+algorithmic feed presentation under the procedures of this section.
+(b) OPT-IN TO ALGORITHMIC FEED.—A user described in subsection (a) may
+opt in to an algorithmic feed presentation if—
+(1) the user has affirmatively selected the algorithmic feed; and
+(2) the covered platform has provided the user with a clear and
+plain-language explanation of how the algorithmic feed selects
+content, including the categories of data used.
+Parental notification is not required for users described in
+subsection (a).
+(c) OPT-IN BEHAVIORAL ADVERTISING.—Behavioral advertising may be
+delivered to a user described in subsection (a) only with the user's
+
+REF_RDNC_Leg08_Bill7_DRDO_2029_5
+
+Page 16
+PROJECT ARA 2028 · 150
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DRDO Act of 2029 · REF_ · 2026
+
+affirmative opt-in consent meeting the standards of section 201.
+(d) ANNUAL ALGORITHMIC IMPACT ASSESSMENT.—The annual algorithmic
+impact assessment required under section 504(g) shall include
+aggregate data for users described in subsection (a) who have opted
+in under subsection (b).
+(e) WITHDRAWAL OF OPT-IN.—A user described in subsection (a) may
+withdraw any opt-in given under this section at any time, with the
+withdrawal mechanism meeting the standards of section 504(e).
+
+SEC. 506. PRIVACY-PRESERVING AGE VERIFICATION.
+(a) IN GENERAL.—For purposes of determining a user's age tier under
+this title, covered platforms shall use a privacy-preserving age
+verification mechanism in which a third-party verifier provides only
+an age token to the covered platform.
+(b) NO UNDERLYING IDENTITY DATA.—The covered platform may receive only
+the age token; the covered platform may not receive the underlying
+identity information used by the third-party verifier to establish
+the user's age.
+(c) FTC RULEMAKING AUTHORITY.—The Commission shall, by rulemaking,
+establish technical standards for the age verification token system,
+including requirements for the third-party verifier to maintain user
+privacy and limit data retention.
+(d) FREE SPEECH COALITION COMPLIANCE.—The age verification system
+established under this section is designed to comply with the
+framework established in Free Speech Coalition v. Paxton (2025), under
+which age verification within narrowly drawn statutory zones may be
+constitutional. The token-based architecture minimizes the burden on
+First Amendment activity by avoiding direct disclosure of underlying
+identity information.
+
+SEC. 507. ENFORCEMENT.
+(a) REVENUE-BASED PENALTY STRUCTURE.—Civil penalties for violations of
+this title shall be assessed under section 301(c) without any fixeddollar-only cap.
+(b) AGGRAVATED PENALTIES.—Aggravated violation tripling under section
+301(d)(2) applies to all violations involving Tier One user data, and
+aggravated violation tripling under section 301(d)(3) applies to all
+violations involving any minor user data.
+(c) SYSTEMIC VIOLATION ENHANCEMENT.—Where the Commission finds a
+pattern or practice of violations of this title, the Commission may
+impose additional remedies including injunctive relief, suspension
+of specific platform features, and structural compliance orders.
+(d) SEVERABILITY.—Cross-reference to section 3(g)(1) — if any
+provision of this title is held invalid, Titles I through IV shall
+remain in full force and effect.
+
+TITLE VI — IMPLEMENTATION AND OVERSIGHT
+
+SEC. 601. IMPLEMENTATION TIMELINE.
+(a) TITLE I — DATA PORTABILITY.—Title I shall be operational not later
+than [TBD] months after the date of enactment of this Act. Initial
+Commission rulemaking under section 103 shall be completed not later
+than [TBD] months after enactment.
+(b) TITLE II — CONSENT.—Title II shall take effect on the date of
+
+REF_RDNC_Leg08_Bill7_DRDO_2029_5
+
+Page 17
+PROJECT ARA 2028 · 151
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DRDO Act of 2029 · REF_ · 2026
+
+enactment, with covered entities required to bring existing consent
+flows into compliance not later than [TBD] months after enactment.
+(c) TITLE III — ENFORCEMENT.—Title III shall take effect on the date
+of enactment, with the Commission's initial rulemaking under section
+301(e) completed not later than [TBD] months after enactment. The
+private right of action under section 303 phases in as provided in
+that section.
+(d) TITLE IV — COMPENSATION.—Title IV shall be operational not later
+than [TBD] months after the Commission completes initial rulemaking
+under section 403(b). Notice requirements under section 402 take
+effect upon Commission rulemaking completion.
+(e) TITLE V — MINOR PROTECTION.—Title V shall be operational not later
+than [TBD] months after the date of enactment of this Act, with
+privacy-preserving age verification under section 506 operational not
+later than [TBD] months after enactment.
+(f) PHASED COMPLIANCE FOR SMALL COVERED ENTITIES.—Covered entities
+with annual revenue below $50,000,000 shall have an extended
+compliance period of an additional 18 months for each title's
+operational date, except that Title V shall be effective on the date
+established under subsection (e) for all covered entities.
+
+SEC. 602. FTC RULEMAKING AUTHORITY AND COORDINATION.
+(a) RULEMAKING AUTHORITY.—The Commission has rulemaking authority
+under this Act, exercised in accordance with section 553 of title 5,
+United States Code, and the statutory precision requirements of
+section 3(e).
+(b) STATE COORDINATION.—The Commission shall coordinate with State
+attorneys general on enforcement under section 304 and on State law
+interactions consistent with the no-preemption-of-stronger-State-law
+framework of section 304(c).
+(c) GDPR ALIGNMENT CONSULTATION.—The Commission shall consult, on at
+least an annual basis, with the relevant data protection authorities
+of the European Union and other major international jurisdictions to
+coordinate on technical standards, definitions, and operational
+requirements consistent with section 3(h) GDPR alignment principle.
+(d) ANNUAL RULEMAKING STATUS REPORT.—The Commission shall transmit
+annually to Congress a status report on rulemaking under this Act,
+including any provisions where rulemaking has been delayed or where
+additional statutory authority is needed.
+
+SEC. 603. INTERAGENCY COORDINATION.
+(a) FTC LEAD AGENCY.—The Commission shall serve as the lead agency
+for this Act, except as expressly provided otherwise in this section.
+(b) DOJ COORDINATION FOR CRIMINAL ENFORCEMENT.—The Department of
+Justice shall be the lead agency for criminal enforcement under
+section 302. The Commission shall coordinate with the Department of
+Justice on referral, investigation, and prosecution of criminal
+violations.
+(c) TREASURY COORDINATION FOR COMPENSATION TAXATION.—The Department
+of the Treasury shall coordinate with the Commission on the tax
+treatment of compensation paid to users under section 403,
+including issuance of guidance on whether such compensation
+constitutes ordinary income, royalty income, or other tax category.
+(d) HHS COORDINATION FOR HEALTH-DATA SENSITIVE PROVISIONS.—The
+Department of Health and Human Services shall coordinate with the
+Commission on sensitive data provisions under section 204(a)(1)
+
+REF_RDNC_Leg08_Bill7_DRDO_2029_5
+
+Page 18
+PROJECT ARA 2028 · 152
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DRDO Act of 2029 · REF_ · 2026
+
+where they intersect with the Health Insurance Portability and
+Accountability Act framework.
+
+SEC. 604. ANNUAL REPORTING.
+(a) ANNUAL REPORT.—The Commission shall transmit annually to Congress
+a report containing—
+(1) enforcement activities under this Act, including civil
+penalties assessed and judgments obtained;
+(2) rulemaking activities and rulemaking status;
+(3) compliance trends across covered entities;
+(4) aggregated algorithmic impact assessment data submitted
+under sections 504(g) and 505(d);
+(5) Title IV compensation aggregation and disbursement
+statistics; and
+(6) any recommendations for further congressional action.
+(b) PUBLIC AVAILABILITY.—The annual report shall be transmitted to
+Congress and posted publicly on a website maintained by the
+Commission not later than 30 days after submission to Congress.
+(c) THREE-YEAR PROGRAM REVIEW.—Not later than three years after the
+date of enactment of this Act, and every three years thereafter, the
+Commission shall transmit to Congress a comprehensive program review
+covering the operation of this Act, including any structural
+recommendations for amendment.
+(d) GAO COORDINATION.—The Comptroller General of the United States
+shall have access to all Commission data and records necessary to
+perform audits, evaluations, and reports requested by the relevant
+Committees of Congress.
+
+[All dollar amounts, employee-count thresholds, percentage thresholds,
+duration thresholds, IRC section cross-references, and additional
+sensitive data categories marked [TBD] require resolution by licensed
+legislative counsel, the Federal Trade Commission Office of General
+Counsel, the Department of Justice Office of Legal Counsel, the
+National Telecommunications and Information Administration, and the
+Congressional Budget Office before introduction as formal legislation.
+See Part III counsel notes.]
+
+REF_RDNC_Leg08_Bill7_DRDO_2029_5
+
+Page 19
+PROJECT ARA 2028 · 153
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DRDO Act of 2029 · REF_ · 2026
+
+Part III — Notes for Congressional Counsel
+All [TBD] items and constitutional / statutory questions below require resolution before introduction. DRDO
+carries First Amendment exposure (Moody v. NetChoice / Sorrell / Zauderer-NIFLA / 303 Creative), Takings
+exposure (Ruckelshaus / Cedar Point) on Title IV compensation, and Loper Bright statutory precision
+pressure across FTC rulemaking. The Sec 3 + Sec 504 fallback ladder entry documents the Architecture
+C-equivalent posture established in this bill — body-baked safe architecture (Sec 504
+default-chronological-with-opt-in implementing the Part III redesign directive) with severability fallback (Sec
+3(g) four-track preservation). DOJ Office of Legal Counsel review is required before introduction given the
+litigated state-scheme injunction landscape.
+
+Item Requiring
+Resolution
+
+Guidance
+
+Sec 3 + Sec 504 —
+First Amendment
+fallback ladder
+(Architecture
+C-equivalent)
+[Sources 231, 233,
+236, 237, 240]
+
+Architecture: Architecture C-equivalent (body-baked safety with
+severability fallback). Sec 504 implements the Part III redesign directive as the
+body-baked safe architecture — default chronological with opt-in to algorithmic
+feed, parental notification on opt-in. This IS the safe architecture, not a fallback
+layer. Sec 3(g) severability provides the fallback layer if Title V is struck despite the
+redesigned architecture.
+(1) Primary structure. Sec 504 default-chronological-with-opt-in for 13–15 users,
+anchored by Sec 3(b) Moody distinction (default rule, not editorial restriction).
+Brown v. EMA, 564 U.S. 786 (2011), framework compliance through user choice
+preservation. Free Speech Coalition v. Paxton (2025) framework compliance for age
+verification (Sec 506). CAADCA Round 2 (NetChoice v. Bonta, 9th Cir. Mar. 2026)
+controlling rule applied: coverage definitions tied to audience-demographic
+measures survive facial challenge.
+(2) Mid-level fallback if Sec 504 default-rule architecture is held to compel
+expression: counsel should have ready a transparency-and-disclosure-only
+amendment — the platform must publish algorithmic feed methodology, data
+inputs, and aggregate engagement effects, but no default-feed presentation
+requirement. This further reduces First Amendment exposure to disclosure-only
+under Zauderer/NIFLA.
+(3) Bottom-level fallback. Sec 3(g)(1) severability preserves Titles I–IV
+independently if Title V is struck in whole or in part. Data portability, consent,
+enforcement, and compensation framework continue operating without the Title V
+minor protections. Title V can be re-introduced in a subsequent Congress with
+revised architecture if struck.
+(4) Pre-introduction engagement: DOJ Office of Legal Counsel review
+recommended on Title V architecture given the Mississippi/Utah/Arkansas/Ohio
+injunction landscape. Senate Judiciary First Amendment constitutional counsel
+pre-introduction briefing recommended. The deliberate posture — implementing
+Part III's redesign directive in operative bill text rather than the categorical
+prohibition that has been enjoined in every litigated state scheme — is the
+prepared response, not concealment of risk.
+
+REF_RDNC_Leg08_Bill7_DRDO_2029_5
+
+Page 20
+PROJECT ARA 2028 · 154
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DRDO Act of 2029 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Moody v.
+NetChoice (2024)
+— platform
+editorial
+expression [Source
+231]
+
+Moody v. NetChoice, LLC, 603 U.S. 707 (2024), vacated and remanded 9-0 the
+Florida and Texas social media laws. Part III-B (5 votes, Kagan, J.) held platform
+content curation is First Amendment-protected editorial expression. The decision
+did NOT resolve whether all algorithmic outputs (especially pure recommender
+systems) are expressive, or whether laws regulating algorithmic inputs (data)
+trigger heightened review.
+Sec 3(b) operationalizes the Moody distinction. The data fiduciary framing in
+Titles I–IV operates in the space Moody left open — these titles regulate data
+conduct, not editorial expression. The Sec 504 default-rule architecture is conduct
+regulation analogous to default rules, not restriction on protected editorial
+expression. Counsel should ensure no provision is drafted in a manner that could be
+read as conditioning, requiring, or prohibiting any editorial judgment.
+
+Title V 13-15
+redesign directive
+— SATISFIED in
+body [Sources 231,
+236, 237]
+
+Status: Resolved. The original Part III "REDESIGN REQUIRED" directive on the Tier
+Two categorical algorithmic-feed prohibition is now implemented in operative bill
+text at Sec 504 (default-chronological-with-opt-in). Brown v. EMA, 564 U.S. 786
+(2011), controlled the analysis: minors retain First Amendment rights; protecting
+minors from ideas a legislature thinks unsuitable is NOT a compelling interest;
+empirical causation (not correlation) is required.
+Litigation map (April 2026): Utah Social Media Regulation Act enjoined (10th Cir.
+pending); Arkansas Acts 689/900/901 permanently enjoined (8th Cir. pending);
+Ohio Parental Notification Act permanently enjoined (6th Cir. pending); Mississippi
+HB 1126 multiply enjoined, SCOTUS denied vacatur Aug. 2025 (Kavanaugh: "likely
+unconstitutional"). The DRDO Sec 504 default-rule architecture is structurally
+distinguishable from each of these enjoined state schemes because it preserves
+user choice through opt-in rather than imposing categorical prohibition. Sec 2(a)(4)
+Findings cite peer-reviewed CAUSATION evidence (not correlation) to survive the
+Brown v. EMA evidentiary standard.
+
+CAADCA litigation
+— most directly
+applicable
+precedent [Source
+233]
+
+NetChoice v. Bonta (CAADCA) has completed two Ninth Circuit rounds. Round 1
+(Aug. 2024): DPIA requirement STRUCK as compelled speech — narrative
+assessments clearly compel speech by requiring covered businesses to opine on
+potential harm to children. Round 2 (Mar. 12, 2026): coverage definition upheld as
+facially valid; best-interests data-use restrictions and dark-patterns provisions
+invalidated.
+Controlling rule for DRDO: DPIA-style compelled narrative assessments are
+compelled speech under NIFLA; coverage definitions tied to audience-demographic
+(not content) measures survive facial challenge. DRDO drafting compliance: Sec
+504(g) annual algorithmic impact assessment is structured as factual disclosure
+(data inputs, engagement effects, documented health effects) rather than narrative
+opinion on potential harm. Sec 4(c) coverage definition is tied to user count and
+revenue thresholds — audience-demographic measures, not content. Sec 202(c)
+dark-patterns prohibition is drafted with definitional precision (Sec 4(d)) rather than
+open-ended.
+
+REF_RDNC_Leg08_Bill7_DRDO_2029_5
+
+Page 21
+PROJECT ARA 2028 · 155
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DRDO Act of 2029 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Sorrell v. IMS
+Health — data
+fiduciary framing
+as constitutional
+anchor [Source
+205]
+
+Sorrell v. IMS Health, Inc., 564 U.S. 552 (2011), held that restrictions on commercial
+data use targeting specific speakers and content face heightened First Amendment
+scrutiny. DRDO's data-fiduciary framing — drawing on Balkin (2016) — avoids
+Sorrell exposure by establishing generally applicable fiduciary duties rather than
+content- or speaker-specific data-use bans. Sec 3(a) anchors this framework in
+operative bill text.
+Drafting compliance check: the fiduciary framing has not been definitively
+tested in any circuit. DRDO drafters must ensure no provision discriminates by
+content or speaker — e.g., treating marketing use of identical data differently from
+research use creates Sorrell exposure immediately. Sec 401(d) exclusions for fraud
+prevention, security, and academic research are drafted as general-applicability
+exemptions tied to use-purpose rather than content. Sec 5 fiduciary duties apply
+uniformly across all covered entities and all data uses.
+
+Title I data
+portability —
+Zauderer/NIFLA
+framework
+[Sources 234, 235,
+240]
+
+Data portability is best analyzed as regulation of conduct/transmission rather than
+compelled commercial speech — the data transferred are the user's own data, not
+the platform's expressive content. Zauderer v. Office of Disciplinary Counsel, 471
+U.S. 626 (1985), permits compelled disclosure of purely factual and uncontroversial
+information under rational basis. NIFLA v. Becerra, 585 U.S. 755 (2018), narrowed
+Zauderer — requires disclosures to be not unjustified or unduly burdensome.
+303 Creative limit (Sec 102 scope limitation). 303 Creative LLC v. Elenis, 600
+U.S. 570 (2023), held that compelled expressive content violates the First
+Amendment. If portability extended to inferred data, algorithmic outputs, or
+platform editorial products (curated feeds), it would compel the platform's own
+expressive content. Sec 102(c) excludes inferred data and Sec 102(d) excludes
+platform editorial products — these scope limitations are critical compliance and
+should not be relaxed during drafting. Sec 102(e) GDPR Article 20 alignment
+reinforces the scope limit. Specify technical formats (JSON/CSV/open
+machine-readable) under Sec 103 to maintain conduct-regulation framing.
+
+Title IV
+compensation —
+regulatory-pricing
+drafting
+justification
+[Sources 206, 238]
+
+Title IV implements the Part III directive that compensation be framed as regulatory
+pricing rather than property regulation. Sec 403(a) anchors this explicitly in
+operative bill text: compensation operates as regulatory pricing analogous to FCC
+rate regulation and compulsory copyright licensing under 17 U.S.C. §§ 111, 115. The
+fiduciary characterization (Sec 3(d) and Sec 5) removes any platform property claim
+to the data itself, defusing Ruckelshaus v. Monsanto Co., 467 U.S. 986 (1984),
+Takings analysis.
+Cedar Point Nursery distinction. Cedar Point Nursery v. Hassid, 594 U.S. 139
+(2021), held physical-access mandates are per se takings. Title IV imposes no
+physical access — it regulates pricing of commercial uses of personal data. Verizon
+Communications Inc. v. FCC, 535 U.S. 467 (2002), confirmed that rate regulation
+alone is not a per se taking but is evaluated under Penn Central balancing. Sec
+403(b)(3) explicit non-confiscatory-rate guardrail addresses Hope Natural Gas Co.
+considerations. The compensation methodology in Sec 403(b) is delegated to the
+Commission under bounded statutory criteria — Loper Bright statutory precision is
+satisfied through the four-factor methodology guidance.
+
+REF_RDNC_Leg08_Bill7_DRDO_2029_5
+
+Page 22
+PROJECT ARA 2028 · 156
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DRDO Act of 2029 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Sec 102 — data
+portability scope
+limitation (303
+Creative
+compliance)
+
+Sec 102(c) excludes inferred data and Sec 102(d) excludes platform editorial
+products from the data portability right. This scope limitation is critical for First
+Amendment compliance: if portability extended to inferred data, algorithmic
+outputs, or platform-curated feeds, Title I would compel the platform's own
+expressive content — directly raising 303 Creative concerns.
+Limiting portability to user-provided and observed data tracks GDPR Article 20
+(which explicitly excludes inferences from the portability right) and preserves the
+conduct-regulation framing established in Sec 3(c). Counsel should review Sec
+102(c)–(d) carefully — any drafting that could be read to extend portability to
+inferences or algorithmic outputs immediately creates 303 Creative exposure and
+should be tightened. Sec 103 technical standards (FTC rulemaking authority for
+JSON/CSV/open machine-readable formats) preserves implementation flexibility
+while maintaining the conduct-regulation framing.
+
+GDPR alignment
+strategy (Sec 3(h))
+
+Sec 3(h) anchors GDPR alignment as a construction principle in operative bill text.
+Where definitions and operative standards under DRDO are susceptible of multiple
+constructions, the construction that aligns with the GDPR is preferred, provided
+such construction is consistent with statutory text and purpose.
+Operational benefits. Covered entities already GDPR-compliant face reduced
+incremental burden. GDPR Article 20 data portability right (user-provided and
+observed data only — explicitly excludes inferences and algorithmic outputs) is the
+DRDO portability scope ceiling (Sec 102(e)) to avoid 303 Creative
+compelled-expression exposure. Sec 602(c) operationalizes GDPR alignment
+through annual Commission consultation with EU data protection authorities.
+Counsel should review DRDO definitions in Sec 4 against current GDPR definitions
+and update any definitions that drift from GDPR alignment.
+
+FTC rulemaking —
+AMG Capital and
+Loper Bright
+
+Post-AMG Capital Management, LLC v. FTC, 593 U.S. 67 (2021), the Commission
+requires express statutory authority for civil penalty assessment. Sec 3(f) and Sec
+301(b) anchor this express authority directly in operative bill text — the
+Commission has civil penalty authority for violations of this Act without obtaining
+such authority by separate statutory action.
+Post-Loper Bright statutory precision. Loper Bright Enterprises v. Raimondo,
+603 U.S. 369 (2024), overruled Chevron deference. Federal courts now apply de
+novo review to agency interpretations of ambiguous statutory provisions. Sec 3(e)
+anchors the statutory precision requirement in operative bill text. Counsel should
+review every "the Commission shall, by regulation" provision against Loper Bright
+— where discretion is intended, it should be expressly bounded; where ministerial
+application is intended, the statutory language should leave no interpretive
+ambiguity. Every definitional ambiguity in Sec 4 will be resolved by courts
+independently; draft with maximum specificity.
+
+REF_RDNC_Leg08_Bill7_DRDO_2029_5
+
+Page 23
+PROJECT ARA 2028 · 157
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DRDO Act of 2029 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Private right of
+action (Sec 303) —
+phased
+implementation
+
+Sec 303 implements the tiered approach: private right of action for willful violations
+only in Year 1 (Sec 303(a)), expanding to all violations after FTC rulemaking is
+complete (Sec 303(b)). California CCPA/CPRA and Virginia VCDPA provide
+State-level precedent for tiered private right of action structures. Statutory
+damages of $[TBD] per violation under Sec 303(d)(1) provide meaningful
+enforcement leverage even where actual damages are difficult to quantify.
+Severability cross-reference. Sec 3(g) severability ensures that if specific
+elements of the private right of action structure are struck — including any element
+of statutory damages, attorney's fees, or jurisdictional grant — the remaining
+elements survive. Sec 303(e) preservation of class action procedures under Federal
+Rule 23 is critical to enforcement scalability. State AG enforcement under Sec 304
+provides parallel enforcement pathway preserving States' coordination role.
+
+Small business
+threshold (Sec
+4(c)) and phased
+compliance (Sec
+601(f))
+
+Sec 4(c) covered entity threshold of $25,000,000 annual revenue (with
+sole-proprietor and nonprofit carve-outs) is a reasonable threshold for
+distinguishing covered entities from small businesses that face compliance burden
+disproportionate to their data footprint. The GDPR €250 employee / €50M revenue
+threshold provides international benchmark.
+Sec 601(f) phased compliance for covered entities with annual revenue below
+$50,000,000 provides an additional 18 months for each title's operational date —
+except Title V minor protection, which is effective on the same date for all covered
+entities (the minor protection rationale does not vary with covered entity size). This
+balances enforcement feasibility with incremental burden on smaller entities.
+Counsel should review the small business threshold against tax-policy alignment
+and CBO scoring before introduction.
+
+Revenue-based
+penalty structure
+(Sec 301(c), Sec
+503(e), Sec 507(a))
+
+EU GDPR uses 4 percent of global annual turnover as a ceiling for willful violations.
+Fixed-dollar penalties that do not scale are both less effective and more susceptible
+to constitutional void-for-vagueness challenges where amounts seem arbitrary. Sec
+301(c) tiered structure (per-violation base penalty plus a global-revenue
+percentage cap for systemic violations) tracks the GDPR model.
+Sec 503(e) Tier One and Sec 507(a) Title V general — revenue-based penalties with
+no fixed-dollar maximum cap — reflect the heightened protective interest in minor
+user data. Aggravated violation tripling under Sec 301(d) provides further scaling
+for willful violations, sensitive data, and minor-related violations. Counsel should
+ensure the percentage thresholds in Sec 301(c) are calibrated to avoid Eighth
+Amendment excessive-fines exposure after Timbs v. Indiana, 586 U.S. 146 (2019).
+
+REF_RDNC_Leg08_Bill7_DRDO_2029_5
+
+Page 24
+PROJECT ARA 2028 · 158
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DRDO Act of 2029 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Sensitive data
+heightened
+protections (Sec
+204)
+
+Sec 204 establishes seven categories of sensitive data with heightened consent
+and use limitations. The categories track GDPR Article 9 special categories of
+personal data while adding minor-related data and precise geolocation data — both
+areas where U.S. doctrine has developed protective interest. Sec 204(d) prohibition
+on behavioral advertising use of sensitive data, regardless of consent, reflects the
+heightened sensitivity rather than the consent-revocability principle that governs
+other data uses.
+Counsel review. Sensitive data categories should be reviewed against existing
+Federal frameworks: HIPAA for health data, FCRA for credit information,
+BIPA-equivalent State law for biometric data, COPPA for minor data. Sec 603(d) HHS
+coordination addresses the HIPAA intersection. Sec 204(a)(7) Commission
+rulemaking authority for additional categories preserves flexibility as new sensitive
+categories emerge — counsel should bound this rulemaking authority with criteria
+for category designation to avoid Loper Bright concerns.
+
+REF_RDNC_Leg08_Bill7_DRDO_2029_5 · REF_ Reference Layer · Reform Democrats of the New
+Commonwealth · 2026
+Legal disclaimer applies — see page 1. This framework requires licensed legislative counsel review before introduction.
+Originally conceived and authored by a concerned American citizen. Developed with the assistance of Claude
+(Anthropic). The ideas belong to anyone willing to fight for them.
+
+REF_RDNC_Leg08_Bill7_DRDO_2029_5
+
+Page 25
+PROJECT ARA 2028 · 159
+
+Reform Democrats of the New Commonwealth
+
+
+PART VII · THE LEGISLATIVE SERIES
+
+BILL 8
+
+HCI
+Housing & Community Investment Act of 2029
+Phase II · Track C · v_4
+
+Reproduced in full from the canonical drafted bill. No operative text has been altered in consolidation.
+
+PROJECT ARA 2028 · 160
+
+
+RDNC Bill Framework · HCI Act of 2029 · REF_ · 2026
+
+Reform Democrats of the New Commonwealth · Project ARA 2028
+Legislative Ecosystem Document Leg09 of Leg14
+
+Housing and Community Investment Act
+of 2029
+Bill Framework & Legislative Brief
+Phase II · Track C · Federal-State Partnership · Phase II · Track C · Year 2–6
+LEGAL DISCLAIMER — POLICY DISCUSSION DOCUMENT
+This document is a policy discussion framework and bill scaffold. It is not formally introduced legislation, has
+not been reviewed by licensed legislative counsel, and does not constitute legal advice of any kind.
+All provisions marked [TBD] — including dollar amounts, specific IRC section numbers, penalty thresholds,
+appropriation amounts, and CBO scoring figures — require resolution by licensed legislative drafting counsel
+(the Office of Legislative Counsel for the House or Senate, as applicable), relevant agency technical staff,
+and the Congressional Budget Office before introduction as formal legislation.
+Constitutional arguments, legal analyses, and statutory framings presented herein are analytical
+assessments developed for policy planning purposes. They are not legal opinions and have not been
+reviewed or validated by licensed legal counsel. This document identifies constitutional and legal risks
+requiring independent review — those identifications are planning guidance, not legal conclusions.
+This framework was produced by the Reform Democrats of the New Commonwealth (RDNC), a private
+citizen policy research organization. It is not affiliated with any sitting Member of Congress, congressional
+office, government agency, or political party organization in any official capacity.
+Consultation with licensed legislative counsel, the Department of Housing and Urban
+Development Office of General Counsel, the Department of the Treasury Office of Tax Policy,
+the Financial Crimes Enforcement Network, the Department of Transportation Office of General
+Counsel, the Congressional Budget Office, and Senate Banking, Housing, and Urban Affairs
+Committee constitutional counsel is required before any framework in this series may be
+introduced as formal legislation. Distribution is subject to RDNC classification protocols (REF_
+layer: internal use and trusted partners only).
+
+Phase II · Track C · Federal-State Partnership · Bill 8
+
+Part I — Legislative Brief
+Housing is the clearest example of what happens when an asset class becomes a financial instrument rather
+than a place to live. This bill works with constitutional reality — property law belongs to the States — by
+using federal funding as leverage. States that adopt model legislation restricting corporate home ownership,
+incentivizing occupancy, and expanding affordable supply receive federal grants. States that don't, don't.
+Sec 3 anchors the Spending Clause / Dole / NFIB anti-coercion calibration in operative bill text; Sec 3(f)
+five-track severability ensures the four substantive titles survive independently.
+
+AT A GLANCE
+Bill Title
+
+Housing and Community Investment Act of 2029
+
+Short Title (Cite As)
+
+The HCI Act of 2029
+
+REF_RDNC_Leg09_Bill8_HCI_2029_4
+
+Page 1
+PROJECT ARA 2028 · 161
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · HCI Act of 2029 · REF_ · 2026
+
+Legislative Vehicle
+
+Federal Incentive / State Partnership — standalone or reconciliation eligible
+portions
+
+Phase / Track
+
+Phase II · Track C · Year 2–6
+
+Primary Committees
+
+Senate Banking, Housing, and Urban Affairs; Senate Finance; Senate
+Commerce, Science, and Transportation (for Title II zoning reform)
+
+Dependencies
+
+COLT Act (Bill 1) housing provisions operational; corporate home ownership
+data collected by federal inspectors (Bill 2)
+
+Core Framing
+
+"Homes for Americans. Not investment portfolios."
+
+Constitutional
+Strategy
+
+Federal funding incentives — works with State property law jurisdiction
+rather than against it. Spending Clause / South Dakota v. Dole framework
+anchored in operative bill text via Sec 3
+
+Constitutional /
+Statutory Risk
+
+NFIB v. Sebelius anti-coercion limits on conditional spending; State property
+law jurisdiction preservation; Corporate Transparency Act post-NSBA v.
+Yellen treatment for Sec 102 registry; Davis-Bacon / Fair Housing Act
+coordination for Title III
+
+Architecture
+
+Architecture A — federal grant conditions as primary mechanism, with Part
+III fallback ladder. Sec 3 anchors Spending Clause / Dole / NFIB anti-coercion
+calibration in operative bill text. Sec 3(f) five-track severability across the
+four substantive titles
+
+What This Bill Does:
+1. Creates federal grant incentives for States that adopt corporate home ownership restrictions.
+States enacting legislation prohibiting or substantially restricting corporate ownership of vacant
+single-family homes, imposing vacancy taxation, or establishing progressive residential property
+taxation receive priority access to HUD CDBG and HOME Investment Partnership grants. Federal model
+legislation is provided (Title IV) — States adopt, adapt, or decline.
+2. Establishes zoning reform incentive grants. States and localities that reduce exclusionary zoning
+barriers — minimum lot sizes, single-family-only restrictions, parking minimums near transit, ADU
+restrictions — receive competitive federal transportation and infrastructure grants. DOT and HUD joint
+rulemaking establishes qualifying criteria with anti-displacement protections.
+3. Funds affordable housing supply expansion. Direct federal grants and loan guarantees for
+construction of affordable rental and ownership units, with priority to localities in States that adopted
+qualifying corporate ownership restrictions. Davis-Bacon prevailing wage application; Fair Housing Act
+affirmative-furthering coordination; 50-year covenant for direct grants, 30-year for loan guarantees per
+LIHTC reference.
+4. Establishes a Federal Model Legislation Framework (Title IV). HUD, Treasury, and FinCEN publish
+biennially-updated model State legislation for corporate home ownership restrictions, vacancy taxation
+frameworks, progressive residential property taxation, and beneficial ownership disclosure. Technical
+assistance program supports State adoption. Voluntary — Sec 3(d) preserves State property law
+jurisdiction.
+5. Constitutional Foundation with Spending Clause Architecture. Sec 3 anchors the Dole four-part
+conditional spending test, NFIB v. Sebelius anti-coercion calibration, and State property law jurisdiction
+preservation in operative bill text. Federal funding levels under this Act are calibrated to remain below
+the compulsion threshold. Sec 3(f) five-track severability ensures all four substantive titles survive
+REF_RDNC_Leg09_Bill8_HCI_2029_4
+
+Page 2
+PROJECT ARA 2028 · 162
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · HCI Act of 2029 · REF_ · 2026
+
+independently.
+ATTACK
+SURFACE
+
+"Government controlling your property." "Anti-investment." "Federal overreach into
+state property law." "Coercive funding." The corporate home ownership issue actually
+has significant bipartisan support — polling shows 77 percent or more of Americans
+support restrictions. The attack comes from the real estate investment industry, not
+homeowners.
+
+DEFENSE
+STRATEGY
+
+"Homes for Americans, not investment portfolios." Focus messaging on vacant
+properties — the most indefensible case for corporate ownership. A corporation that
+buys a house and leaves it empty is removing housing supply and paying property
+taxes at the residential rate. That is the target, not all institutional investment.
+Constitutional defense: this Act does not federalize property law; it provides incentives
+and model legislation. State adoption is voluntary. South Dakota v. Dole (1987) is
+settled doctrine; this is how the interstate highway system was built and how the
+drinking age was nationalized.
+
+FALLBACK
+POSITION
+
+If state adoption is slower than expected: expand the federal inspector mandate (Bill 2)
+to require comprehensive corporate ownership data collection nationally — data is the
+precondition for state action. If NFIB anti-coercion concerns surface: reduce funding
+levels through regulation per Sec 3(c)(3), without invalidating the underlying grant
+program. If any specific title is held invalid: Sec 3(f) five-track severability preserves the
+remaining titles. Title IV (Federal Model Legislation Framework) survives even under
+Sec 3(f)(4) on the residual technical-assistance authority of HUD.
+
+Why Federal Incentives Rather Than Mandates. Property law is constitutionally state jurisdiction.
+Direct federal mandates on property ownership would face immediate legal challenge. Federal funding
+conditions are well-established constitutional authority — South Dakota v. Dole, 483 U.S. 203 (1987), upheld
+the right of Congress to condition federal funding on state policy adoption. This is how the interstate
+highway system was built and how the drinking age was nationalized. Use the same tool. Sec 3 anchors the
+doctrinal framework in operative bill text rather than relying on Findings or counsel notes alone.
+The Federal-State Partnership Posture. This bill is the only Phase II Track C bill — Federal-State
+Partnership architecture rather than direct federal regulation. It works with state property-law jurisdiction by
+providing four operative tools: grant incentives (Title I), zoning reform incentive grants (Title II), affordable
+housing construction grants (Title III), and federal model legislation with technical assistance (Title IV). State
+adoption is voluntary throughout. Sec 3(c) anti-coercion calibration ensures funding levels stay below the
+NFIB v. Sebelius compulsion threshold.
+
+REF_RDNC_Leg09_Bill8_HCI_2029_4
+
+Page 3
+PROJECT ARA 2028 · 163
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · HCI Act of 2029 · REF_ · 2026
+
+Part II — Bill Framework
+This is the structural scaffold of the bill. Grant amounts, qualification thresholds, distance and time
+thresholds, and IRC section cross-references are flagged as [TBD] where they require licensed legislative
+counsel, the Department of Housing and Urban Development Office of General Counsel, the Department of
+the Treasury Office of Tax Policy, the Financial Crimes Enforcement Network, the Department of
+Transportation Office of General Counsel, and the Congressional Budget Office review before introduction.
+Sec 3 Constitutional Foundation binds the Spending Clause / Dole / NFIB anti-coercion architecture in
+operative bill text; the Federal Model Legislation Framework is extracted as Title IV with full operative scope
+per author direction.
+119TH CONGRESS
+
+1ST SESSION
+
+S. ____
+
+To incentivize State adoption of corporate home ownership restrictions through
+Federal grant programs; to provide grants for affordable housing supply
+expansion and zoning reform; to establish a Federal model legislative framework
+for residential property taxation, vacancy taxation, and beneficial ownership
+disclosure; to anchor in operative bill text the Spending Clause constitutional
+architecture and anti-coercion calibration of this Act; and for other purposes.
+
+A B I L L
+Be it enacted by the Senate and House of Representatives of the United States of
+America in Congress assembled,
+
+SEC. 1. SHORT TITLE.
+This Act may be cited as the "Housing and Community Investment Act of 2029"
+or the "HCI Act of 2029".
+
+SEC. 2. FINDINGS AND PURPOSE.
+(a) FINDINGS.—Congress finds the following:
+(1) Institutional and corporate ownership of single-family residential
+properties has increased materially since 2010, with non-individual
+entities holding an estimated [TBD] percent of the single-family
+residential market by 2024.
+(2) Properties held vacant by corporate owners represent a diversion
+of housing supply from residential use, while continuing to be taxed
+at the residential rate in most jurisdictions.
+(3) Exclusionary zoning — including single-family-only zoning, large
+minimum lot sizes, and parking minimums — represents the primary
+structural barrier to affordable housing supply expansion in
+metropolitan areas.
+(4) Federal funding incentives represent the most constitutionally
+sound mechanism for encouraging State housing policy reform,
+consistent with South Dakota v. Dole, 483 U.S. 203 (1987), under
+which Congress may condition Federal funding on State adoption of
+Federal policy preferences when the conditions are clearly stated,
+related to the Federal interest, and not coercive.
+(5) Property law is a matter of State jurisdiction, and direct
+Federal regulation of residential property ownership would face
+immediate constitutional challenge. The architecture of this Act —
+Federal grant incentives paired with Federal model legislation —
+works with constitutional reality rather than against it.
+(6) The Corporate Transparency Act of 2021 and the beneficial
+ownership reporting framework administered by the Financial Crimes
+REF_RDNC_Leg09_Bill8_HCI_2029_4
+
+Page 4
+PROJECT ARA 2028 · 164
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · HCI Act of 2029 · REF_ · 2026
+
+Enforcement Network provide existing infrastructure that may be
+adapted for residential property ownership transparency without
+building duplicative reporting systems.
+(7) Public polling consistently demonstrates that more than 75
+percent of Americans support restrictions on corporate ownership of
+residential housing, providing the bipartisan public-support
+foundation for this Act.
+(8) Federal agencies, including the Department of Housing and Urban
+Development, the Department of the Treasury, the Financial Crimes
+Enforcement Network, and the Department of Transportation, possess
+existing grant-making authority, technical-assistance capacity, and
+regulatory infrastructure that this Act builds on rather than
+replaces.
+(b) PURPOSES.—The purposes of this Act are—
+(1) to provide Federal grant incentives for States that adopt
+qualifying corporate home ownership restrictions, vacancy taxation
+frameworks, or progressive residential property taxation, while
+respecting State property-law jurisdiction;
+(2) to provide Federal grant incentives for localities that adopt
+zoning reforms enabling increased residential density, including
+elimination of single-family-only zoning, reduction of minimum lot
+sizes, elimination of parking minimums near transit, and
+legalization of accessory dwelling units;
+(3) to fund the construction of affordable rental and ownership
+housing units through direct Federal grants and loan guarantees,
+with priority to localities in States that have adopted qualifying
+corporate ownership restrictions;
+(4) to establish a Federal model legislation framework providing
+States with technical assistance, model statutory text, and
+biennial updates for corporate home ownership restrictions,
+vacancy taxation, progressive residential property taxation, and
+beneficial ownership disclosure;
+(5) to establish a publicly accessible national registry of
+residential properties owned by corporations, limited liability
+companies, investment funds, and other non-individual entities,
+coordinated with the Financial Crimes Enforcement Network
+beneficial ownership reporting framework;
+(6) to anchor the constitutional architecture of this Act in
+operative bill text, providing express Spending Clause authority,
+explicit anti-coercion calibration consistent with NFIB v.
+Sebelius, 567 U.S. 519 (2012), and severability of the substantive
+titles; and
+(7) to coordinate Federal agency authorities — including the
+Department of Housing and Urban Development, the Department of the
+Treasury, the Financial Crimes Enforcement Network, and the
+Department of Transportation — for unified administration of this
+Act.
+
+SEC. 3. CONSTITUTIONAL FOUNDATION.
+(a) SPENDING CLAUSE AUTHORITY.—This Act is enacted under the Spending
+Clause of article I, section 8 of the Constitution. Federal grant
+conditions established under this Act are exercises of the
+well-established authority of Congress to condition Federal funding on
+State adoption of Federal policy preferences, consistent with South
+Dakota v. Dole, 483 U.S. 203 (1987).
+(b) DOLE FOUR-PART TEST COMPLIANCE.—The Federal grant conditions
+established under this Act are designed to comply with the four-part
+
+REF_RDNC_Leg09_Bill8_HCI_2029_4
+
+Page 5
+PROJECT ARA 2028 · 165
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · HCI Act of 2029 · REF_ · 2026
+
+test articulated in South Dakota v. Dole—
+(1) the conditions are in pursuit of the general welfare,
+addressing documented housing supply shortages and the documented
+effects of corporate ownership on residential property
+availability;
+(2) the conditions are unambiguously stated in this Act and in
+regulations promulgated by the relevant Federal agencies;
+(3) the conditions are related to the Federal interest in
+addressing housing policy and the Federal funding programs to
+which the conditions attach; and
+(4) the conditions do not violate any independent constitutional
+prohibition.
+(c) ANTI-COERCION CALIBRATION.—Federal funding levels established
+under this Act shall be calibrated to remain below the threshold at
+which withdrawal of funding would amount to compulsion within the
+meaning of National Federation of Independent Business v. Sebelius,
+567 U.S. 519, 580–82 (2012). In particular—
+(1) grant programs under this Act provide priority allocation
+preference rather than mandatory exclusion of non-qualifying
+States or localities;
+(2) baseline Federal funding for housing programs administered by
+the Department of Housing and Urban Development is preserved
+without conditioning on this Act's grant criteria; and
+(3) the Secretary of Housing and Urban Development shall, by
+regulation, establish funding-level guidance ensuring that
+conditional funding under this Act does not approach the
+compulsion threshold.
+(d) STATE PROPERTY LAW JURISDICTION PRESERVED.—Nothing in this Act
+federalizes property law or directly regulates residential property
+ownership. State property law remains within the exclusive jurisdiction
+of the several States. The Federal model legislation provided under
+Title IV is voluntary, advisory, and provided as technical assistance
+only — States adopt, adapt, or decline.
+(e) FEDERAL AGENCY COORDINATION AUTHORITY.—This Act vests grant-making
+and program-administration authority in the Department of Housing and
+Urban Development as the lead agency, with coordinated authority in
+the Department of the Treasury, the Financial Crimes Enforcement
+Network, the Department of Transportation, and other Federal agencies
+as expressly provided. Existing authorities of these agencies are
+preserved and supplemented, not displaced, by this Act.
+(f) SEVERABILITY.—If any provision of this Act, or the application of
+any provision to any person or circumstance, is held to be invalid,
+the remaining provisions of this Act and the application of those
+provisions to other persons or circumstances shall not be affected.
+In particular—
+(1) if any provision of Title I (Corporate Home Ownership
+Restriction Incentives) is held invalid, Titles II through V shall
+remain in full force and effect;
+(2) if any provision of Title II (Zoning Reform Incentives) is held
+invalid, Titles I, III, IV, and V shall remain in full force and
+effect;
+(3) if any provision of Title III (Affordable Housing Supply
+Expansion) is held invalid, Titles I, II, IV, and V shall remain
+in full force and effect;
+(4) if any provision of Title IV (Federal Model Legislation
+Framework) is held invalid, Titles I, II, III, and V shall remain
+in full force and effect, and the technical assistance functions
+of Title IV shall continue under the residual authority of the
+
+REF_RDNC_Leg09_Bill8_HCI_2029_4
+
+Page 6
+PROJECT ARA 2028 · 166
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · HCI Act of 2029 · REF_ · 2026
+
+Secretary of Housing and Urban Development; and
+(5) if any conditional spending provision is held to violate the
+anti-coercion limit of National Federation of Independent Business
+v. Sebelius, the funding levels may be reduced through regulation
+without invalidating the underlying grant program.
+(g) NO DISPLACEMENT OF STRONGER STATE LAW.—Nothing in this Act
+preempts or limits State law that provides equal or greater protection
+to residents with respect to residential housing affordability,
+corporate home ownership, zoning, or related matters.
+
+TITLE I — CORPORATE HOME OWNERSHIP RESTRICTION INCENTIVES
+
+SEC. 101. CORPORATE OWNERSHIP RESTRICTION GRANT PROGRAM.
+(a) ESTABLISHMENT.—The Secretary of Housing and Urban Development
+(in this Act referred to as "the Secretary") shall establish a grant
+program to provide incentive grants to States that enact qualifying
+corporate home ownership restrictions.
+(b) QUALIFYING RESTRICTIONS.—A State law qualifies for purposes of
+this section if it—
+(1) prohibits or substantially restricts corporations, investment
+funds, and other non-individual entities from owning single-family
+residential properties that are held vacant for more than [TBD]
+months;
+(2) imposes a vacancy penalty tax on residential properties held
+vacant for more than [TBD] months, with progressive rates
+proportional to vacancy duration; or
+(3) establishes a progressive property tax on residential property
+holdings beyond two properties, consistent with the Federal model
+framework provided under section 404.
+(c) GRANT AMOUNTS.—Qualifying States shall receive priority access
+to Department of Housing and Urban Development Community Development
+Block Grants and HOME Investment Partnership grants, with a [TBD]
+percent allocation preference over non-qualifying States. The
+preference structure shall be calibrated under section 3(c) to remain
+below the compulsion threshold.
+(d) STATE QUALIFICATION PROCESS.—
+(1) CERTIFICATION.—The attorney general of a State shall certify
+to the Secretary that the State has enacted a qualifying
+restriction under subsection (b).
+(2) HUD REVIEW.—Upon receipt of a certification under paragraph
+(1), the Secretary shall, within 90 days, review the State law
+and make a determination whether the law qualifies under
+subsection (b).
+(3) DETERMINATION.—If the Secretary determines that the State
+law qualifies, the State shall be eligible for the grant
+preference described in subsection (c) beginning in the next
+fiscal year.
+(4) RECERTIFICATION.—Each qualifying State shall recertify to the
+Secretary not less frequently than every [TBD] years that the
+State law remains in force and continues to qualify under
+subsection (b).
+(e) ANTI-CIRCUMVENTION.—A State qualifying restriction must include
+anti-circumvention provisions consistent with the Federal model
+framework provided under section 402, including provisions
+addressing—
+(1) shell limited liability company structures;
+
+REF_RDNC_Leg09_Bill8_HCI_2029_4
+
+Page 7
+PROJECT ARA 2028 · 167
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · HCI Act of 2029 · REF_ · 2026
+
+(2) fragmented beneficial ownership across related parties;
+(3) trust-based circumvention; and
+(4) successive transfers designed to evade the State restriction.
+(f) APPROPRIATION.—There are authorized to be appropriated such sums
+as may be necessary to carry out this section, not to exceed
+$[TBD] for each of fiscal years 2029 through 2034.
+
+SEC. 102. FEDERAL CORPORATE PROPERTY OWNERSHIP TRANSPARENCY.
+(a) NATIONAL REGISTRY.—The Secretary, in coordination with the
+Director of the Financial Crimes Enforcement Network, shall establish
+a publicly accessible national registry of residential properties
+owned by corporations, limited liability companies, investment funds,
+or other non-individual entities.
+(b) REPORTING REQUIREMENT.—Any covered entity acquiring a residential
+property shall report such acquisition to the registry within [TBD]
+days of the date of the acquisition. Updates shall be required for
+any change in beneficial ownership.
+(c) FINCEN COORDINATION.—The registry under this section shall
+operate within the framework of the Corporate Transparency Act of
+2021 (31 U.S.C. § 5336), where applicable. The Secretary, in
+coordination with the Director of the Financial Crimes Enforcement
+Network, shall establish data-sharing protocols with the beneficial
+ownership reporting database. The implementation of this subsection
+shall account for any judicial limitations on the Corporate
+Transparency Act framework, including any limitations established by
+NSBA v. Yellen and related litigation.
+(d) PUBLIC ACCESS PROVISIONS.—Registry data under this section shall
+be publicly accessible at no cost, with privacy protections for the
+residential addresses of natural persons consistent with applicable
+privacy law and Freedom of Information Act exemption frameworks.
+Aggregated data and corporate-entity ownership information shall be
+fully publicly accessible.
+(e) ANTI-CIRCUMVENTION.—Any person who knowingly fails to report under
+subsection (b), or who structures a residential property acquisition
+to avoid the reporting requirement, shall be subject to enhanced
+penalties under subsection (f). The Secretary shall, by regulation,
+establish anti-circumvention rules addressing shell-LLC obfuscation,
+fragmented ownership structures, and successive-transfer techniques.
+(f) PENALTIES.—
+(1) IN GENERAL.—Failure to report under subsection (b) shall
+result in a civil penalty of $[TBD] per day of noncompliance.
+(2) ENHANCED PENALTIES.—Willful failure to report or structuring
+to avoid reporting shall result in enhanced civil penalties up
+to $[TBD] per day, plus restitution of any economic benefit
+obtained from the noncompliance.
+(3) STATE ATTORNEY GENERAL ENFORCEMENT.—The attorney general of
+any State may bring a civil action in any United States district
+court of competent jurisdiction to enforce this section on behalf
+of residents of that State.
+
+TITLE II — ZONING REFORM INCENTIVES
+
+SEC. 201. ZONING REFORM COMPETITIVE GRANTS.
+(a) ESTABLISHMENT.—The Secretary of Transportation, in coordination
+with the Secretary of Housing and Urban Development, shall establish
+
+REF_RDNC_Leg09_Bill8_HCI_2029_4
+
+Page 8
+PROJECT ARA 2028 · 168
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · HCI Act of 2029 · REF_ · 2026
+
+a competitive grant program to reward localities that adopt zoning
+reforms enabling increased residential density.
+(b) QUALIFYING REFORMS.—A locality qualifies for grants under this
+section if it has—
+(1) eliminated single-family-only zoning in not less than [TBD]
+percent of residential land;
+(2) reduced minimum lot size requirements by not less than [TBD]
+percent from the locality's 2020 baseline;
+(3) eliminated mandatory parking minimums for residential
+development located within [TBD] miles of public transit; or
+(4) enacted accessory dwelling unit legalization across all
+residential zones.
+(c) GRANT AWARD CRITERIA.—In awarding grants under this section, the
+Secretary of Transportation, in coordination with the Secretary,
+shall prioritize applications based on—
+(1) the number of qualifying reforms adopted by the locality;
+(2) the residential density potential created by the reforms;
+(3) integration with public transit infrastructure;
+(4) anti-displacement protections adopted alongside the reforms;
+and
+(5) geographic equity, including rural and small-metropolitan
+applicant prioritization.
+(d) TECHNICAL ASSISTANCE.—The Secretary of Transportation, in
+coordination with the Secretary of Housing and Urban Development,
+shall publish model zoning ordinance language and provide technical
+assistance to localities seeking to adopt qualifying reforms. Joint
+rulemaking by the Secretary of Transportation and the Secretary of
+Housing and Urban Development shall establish technical assistance
+standards.
+(e) ANTI-DISPLACEMENT.—As a condition of receiving a grant under
+this section, a locality shall adopt anti-displacement measures
+addressing—
+(1) protection of existing residents from displacement caused
+by upzoning;
+(2) inclusionary zoning requirements for new development;
+(3) tenant-protection measures, including just-cause eviction
+protections; and
+(4) gentrification mitigation measures appropriate to the
+locality.
+(f) APPROPRIATION.—There are authorized to be appropriated such sums
+as may be necessary to carry out this section, not to exceed
+$[TBD] for each of fiscal years 2029 through 2034, to be awarded as
+transportation and infrastructure grants to qualifying localities.
+
+TITLE III — AFFORDABLE HOUSING SUPPLY EXPANSION
+
+SEC. 301. AFFORDABLE HOUSING CONSTRUCTION GRANTS.
+(a) IN GENERAL.—The Secretary of Housing and Urban Development shall
+provide direct grants and loan guarantees to States, localities, and
+nonprofit housing developers for the construction of affordable
+rental and ownership units. For-profit housing developers shall be
+eligible for loan guarantees, but not direct grants, where the
+project meets the affordability and covenant requirements established
+under this section.
+(b) ELIGIBLE RECIPIENTS.—Eligible recipients under this section
+include—
+
+REF_RDNC_Leg09_Bill8_HCI_2029_4
+
+Page 9
+PROJECT ARA 2028 · 169
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · HCI Act of 2029 · REF_ · 2026
+
+(1) States and State housing finance agencies;
+(2) units of local government;
+(3) nonprofit housing developers and community development
+corporations;
+(4) public housing authorities; and
+(5) for-profit housing developers, eligible only for loan
+guarantees and only where the project meets all covenant
+requirements under this section.
+(c) PRIORITY CRITERIA.—In awarding grants and loan guarantees under
+this section, the Secretary shall prioritize—
+(1) applications from localities in States that have adopted
+qualifying corporate ownership restrictions under section 101;
+(2) projects that integrate with public transit infrastructure;
+(3) geographic equity, including rural and small-metropolitan
+prioritization;
+(4) projects that include deeply affordable units (30 percent
+of area median income or below); and
+(5) projects that include service-enriched housing for
+populations experiencing homelessness, persons with disabilities,
+or other vulnerable populations.
+(d) AFFORDABILITY REQUIREMENT.—Units funded under this section shall
+be affordable to households earning not more than [TBD] percent of
+area median income for the duration specified in subsection (e).
+(e) COVENANT DURATION.—
+(1) DIRECT GRANTS.—Units funded by direct grants under this
+section shall be subject to a 50-year affordability covenant.
+(2) LOAN GUARANTEES.—Units funded by loan guarantees under this
+section shall be subject to a 30-year affordability covenant,
+consistent with the Low Income Housing Tax Credit framework
+under section 42 of the Internal Revenue Code of 1986.
+(3) RECAPTURE.—In the event of any conversion of a covenanted
+unit to non-affordable use during the covenant period, the
+Secretary shall recapture the Federal subsidy proportionate to
+the unexpired covenant term.
+(f) DAVIS-BACON APPLICATION.—Construction funded under this section
+shall comply with the prevailing wage requirements of subchapter IV
+of chapter 31 of title 40, United States Code (Davis-Bacon Act),
+consistent with existing Department of Housing and Urban Development
+construction grant frameworks.
+(g) FAIR HOUSING ACT COORDINATION.—Recipients of grants and loan
+guarantees under this section shall affirmatively further fair
+housing consistent with the Fair Housing Act (42 U.S.C. § 3601 et
+seq.) and the Department of Housing and Urban Development Office of
+Fair Housing and Equal Opportunity regulatory framework.
+(h) APPROPRIATION.—There are authorized to be appropriated such sums
+as may be necessary to carry out this section, not to exceed
+$[TBD] for each of fiscal years 2029 through 2035.
+
+TITLE IV — FEDERAL MODEL LEGISLATION FRAMEWORK
+
+SEC. 401. FEDERAL MODEL LEGISLATION — PUBLICATION REQUIREMENT.
+(a) IN GENERAL.—The Secretary, in coordination with the Secretary
+of the Treasury and the Director of the Financial Crimes Enforcement
+Network, shall publish model State legislation for—
+(1) corporate home ownership restrictions (section 402);
+(2) vacancy taxation frameworks (section 403);
+
+REF_RDNC_Leg09_Bill8_HCI_2029_4
+
+Page 10
+PROJECT ARA 2028 · 170
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · HCI Act of 2029 · REF_ · 2026
+
+(3) progressive residential property taxation (section 404); and
+(4) beneficial ownership disclosure requirements (section 405).
+(b) BIENNIAL UPDATES.—The model legislation under subsection (a)
+shall be updated not less frequently than every two years to
+incorporate State legislative experience, judicial developments, and
+technical refinements.
+(c) NO MANDATORY ADOPTION.—Publication of model legislation under
+this section creates no obligation on any State to adopt, adapt, or
+consider such legislation. State adoption is voluntary and remains
+within the exclusive jurisdiction of the several States, consistent
+with section 3(d).
+(d) INITIAL PUBLICATION TIMELINE.—Initial publication of the model
+legislation under subsection (a) shall be completed not later than
+12 months after the date of enactment of this Act.
+
+SEC. 402. CORPORATE HOME OWNERSHIP RESTRICTION MODEL FRAMEWORK.
+(a) IN GENERAL.—The corporate home ownership restriction model
+legislation published under section 401(a)(1) shall provide State
+legislative drafters with—
+(1) statutory definitions for "corporation," "investment fund,"
+"non-individual entity," and "vacant property" suitable for
+State adoption;
+(2) operative restriction language with multiple structural
+options, including outright prohibition, transactional taxation,
+and quantity caps;
+(3) anti-circumvention provisions addressing shell-LLC structures,
+fragmented beneficial ownership, and trust-based circumvention;
+(4) State enforcement mechanisms including State attorney general
+authority and private right of action;
+(5) coordination provisions with the Federal national registry
+established under section 102; and
+(6) severability and savings clauses for State adoption.
+(b) MULTIPLE STRUCTURAL OPTIONS.—The model framework shall provide
+States with multiple structural options to accommodate State legal
+traditions, constitutional structures, and policy preferences. The
+Secretary shall not designate any single structural option as
+preferred for purposes of section 101 grant qualification.
+
+SEC. 403. VACANCY TAXATION MODEL FRAMEWORK.
+(a) IN GENERAL.—The vacancy taxation model legislation published
+under section 401(a)(2) shall provide State legislative drafters
+with—
+(1) operative tax-imposition language with rate schedules
+proportional to vacancy duration;
+(2) definitions for "vacant property," "occupancy threshold,"
+and "exempt vacancy" (including renovation, probate, and similar
+circumstances);
+(3) administrative coordination with State property tax
+infrastructure;
+(4) hardship exemption frameworks for individual property owners;
+and
+(5) severability and savings clauses.
+(b) PROGRESSIVE STRUCTURE.—The model framework shall provide a
+progressive rate structure under which vacancy tax rates increase
+with the duration of vacancy, consistent with the policy goal of
+discouraging long-term vacancy without penalizing short-term
+
+REF_RDNC_Leg09_Bill8_HCI_2029_4
+
+Page 11
+PROJECT ARA 2028 · 171
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · HCI Act of 2029 · REF_ · 2026
+
+transitional vacancy.
+
+SEC. 404. PROGRESSIVE RESIDENTIAL PROPERTY TAXATION MODEL FRAMEWORK.
+(a) IN GENERAL.—The progressive residential property taxation model
+legislation published under section 401(a)(3) shall provide State
+legislative drafters with—
+(1) operative tax-imposition language with rate schedules
+proportional to the number of residential properties held by an
+owner;
+(2) definitions for "owner," "residential property," and
+"primary residence" suitable for State adoption;
+(3) primary-residence and secondary-residence exemption
+frameworks preserving traditional ownership patterns;
+(4) family-unit aggregation rules to prevent circumvention
+through title fragmentation among related parties;
+(5) administrative coordination with State property tax
+infrastructure; and
+(6) severability and savings clauses.
+(b) COORDINATION WITH SECTIONS 402 AND 403.—States adopting model
+legislation under this section may also adopt model legislation
+under sections 402 (corporate ownership restriction) and 403
+(vacancy taxation), with coordinated rate structures to avoid
+double-imposition on the same property where the same policy goal
+is served.
+
+SEC. 405. BENEFICIAL OWNERSHIP DISCLOSURE MODEL FRAMEWORK.
+(a) IN GENERAL.—The beneficial ownership disclosure model legislation
+published under section 401(a)(4) shall provide State legislative
+drafters with—
+(1) operative disclosure-requirement language for residential
+property transfers;
+(2) coordination provisions with the Federal Corporate
+Transparency Act framework and the Federal national registry
+under section 102;
+(3) State-level enforcement mechanisms;
+(4) privacy-preserving disclosure standards consistent with the
+beneficial-ownership framework administered by the Financial
+Crimes Enforcement Network; and
+(5) severability and savings clauses.
+
+SEC. 406. TECHNICAL ASSISTANCE PROGRAM.
+(a) ESTABLISHMENT.—The Secretary, in coordination with the Secretary
+of the Treasury, shall establish a technical assistance program to
+support States seeking to enact model legislation under this title.
+(b) ELIGIBLE ASSISTANCE.—Technical assistance under this section
+includes—
+(1) drafting consultation with State legislative drafters;
+(2) economic impact analysis tailored to the adopting State's
+market conditions;
+(3) constitutional review of State adaptations;
+(4) coordination with the section 101 grant program for
+post-adoption certification; and
+(5) inter-State coordination for consistent definitional
+frameworks across adopting States.
+(c) SURVIVAL UNDER SEC 3(F)(4).—If any other provision of this title
+
+REF_RDNC_Leg09_Bill8_HCI_2029_4
+
+Page 12
+PROJECT ARA 2028 · 172
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · HCI Act of 2029 · REF_ · 2026
+
+is held invalid, the technical assistance program established under
+this section shall continue under the residual authority of the
+Secretary, consistent with section 3(f)(4).
+(d) APPROPRIATION.—There are authorized to be appropriated such sums
+as may be necessary to carry out this section, not to exceed
+$[TBD] for each of fiscal years 2029 through 2034 for technical
+assistance under this section.
+
+TITLE V — IMPLEMENTATION AND OVERSIGHT
+
+SEC. 501. IMPLEMENTATION TIMELINE.
+(a) TITLE I.—Title I (Corporate Home Ownership Restriction
+Incentives) shall be operational not later than [TBD] months after
+the date of enactment of this Act. The Secretary shall publish
+initial regulations implementing Title I within [TBD] months of
+enactment.
+(b) TITLE II.—Title II (Zoning Reform Incentives) shall be
+operational not later than [TBD] months after the date of enactment
+of this Act. The Secretary of Transportation, in coordination with
+the Secretary, shall publish initial joint rulemaking under section
+201(d) within [TBD] months of enactment.
+(c) TITLE III.—Title III (Affordable Housing Supply Expansion) shall
+be operational not later than [TBD] months after the date of
+enactment of this Act, with first-year grant awards beginning in
+fiscal year 2029.
+(d) TITLE IV.—The initial publication of model legislation under
+section 401 shall be completed not later than 12 months after the
+date of enactment of this Act, consistent with section 401(d).
+Biennial updates shall commence two years thereafter.
+(e) PHASED STATE CERTIFICATION UNDER TITLE I.—For the first three
+fiscal years following enactment, the Secretary shall accept State
+certification under section 101(d) on a rolling basis. Beginning
+fiscal year 2032, certification shall be on an annual cycle.
+
+SEC. 502. INTERAGENCY COORDINATION.
+(a) HUD LEAD AGENCY.—The Secretary of Housing and Urban Development
+shall serve as the lead agency for this Act, except as expressly
+provided otherwise in this Act.
+(b) TREASURY COORDINATION.—The Secretary of the Treasury shall
+coordinate with the Secretary on—
+(1) the vacancy taxation and progressive property taxation model
+frameworks under sections 403 and 404;
+(2) coordination with the Low Income Housing Tax Credit framework
+under section 42 of the Internal Revenue Code of 1986; and
+(3) any tax-policy implications of section 101 State adoption
+of qualifying restrictions.
+(c) FINCEN COORDINATION.—The Director of the Financial Crimes
+Enforcement Network shall coordinate with the Secretary on—
+(1) the section 102 national registry;
+(2) Corporate Transparency Act framework integration; and
+(3) the section 405 beneficial ownership disclosure model
+framework.
+(d) DOT COORDINATION.—The Secretary of Transportation shall
+coordinate with the Secretary on Title II zoning reform grants,
+including joint rulemaking under section 201(d) and grant
+
+REF_RDNC_Leg09_Bill8_HCI_2029_4
+
+Page 13
+PROJECT ARA 2028 · 173
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · HCI Act of 2029 · REF_ · 2026
+
+administration under section 201(c).
+(e) STATE ATTORNEY GENERAL COORDINATION.—The Secretary shall
+establish protocols for coordination with State attorneys general
+on—
+(1) Title I State certification under section 101(d);
+(2) State enforcement of section 102 registry requirements
+under section 102(f)(3); and
+(3) inter-State coordination on Title IV model legislation
+adoption.
+(f) FAIR HOUSING COORDINATION.—The Secretary, acting through the
+Office of Fair Housing and Equal Opportunity, shall coordinate
+Title III grant administration with the affirmative-furthering
+requirements of the Fair Housing Act.
+
+SEC. 503. ANNUAL REPORTING.
+(a) ANNUAL REPORT.—The Secretary shall transmit annually to Congress
+a report containing—
+(1) Title I grant disbursements by State, including allocation
+preference percentages applied;
+(2) State adoption of qualifying restrictions under Title I and
+of model legislation under Title IV;
+(3) Title II grant awards by locality, with anti-displacement
+measure summaries;
+(4) Title III affordable housing units constructed, by State and
+locality, with covenant-duration breakdown;
+(5) Title IV technical assistance provided, by State, and model
+legislation update status;
+(6) anti-coercion calibration assessment under section 3(c),
+including funding-level analysis relative to the compulsion
+threshold; and
+(7) any recommendations for further congressional action.
+(b) PUBLIC AVAILABILITY.—The annual report shall be transmitted to
+Congress and posted publicly on a website maintained by the
+Department of Housing and Urban Development not later than 30 days
+after submission to Congress.
+(c) THREE-YEAR PROGRAM REVIEW.—Not later than three years after the
+date of enactment of this Act, and every three years thereafter, the
+Secretary shall transmit to Congress a comprehensive program review
+covering the operation of this Act, including any structural
+recommendations for amendment.
+(d) GAO COORDINATION.—The Comptroller General of the United States
+shall have access to all data and records of the programs
+established under this Act necessary to perform audits, evaluations,
+and reports requested by the relevant Committees of Congress.
+
+[All dollar amounts, percentage thresholds, distance and time
+thresholds, IRC section cross-references, and additional definitions
+marked [TBD] require resolution by licensed legislative counsel,
+the Department of Housing and Urban Development Office of General
+Counsel, the Department of the Treasury Office of Tax Policy, the
+Financial Crimes Enforcement Network, the Department of
+Transportation Office of General Counsel, and the Congressional
+Budget Office before introduction as formal legislation. See Part
+III counsel notes.]
+
+REF_RDNC_Leg09_Bill8_HCI_2029_4
+
+Page 14
+PROJECT ARA 2028 · 174
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · HCI Act of 2029 · REF_ · 2026
+
+Part III — Notes for Congressional Counsel
+All [TBD] items and constitutional questions below require resolution before introduction. HCI operates
+under settled Spending Clause doctrine — South Dakota v. Dole and NFIB v. Sebelius are the controlling
+framework. The Sec 3 + Sec 101 fallback ladder entry below documents the Architecture A posture
+established in this bill — federal grant conditions as primary mechanism, with anti-coercion calibration in
+operative bill text and Part III fallback ladder. HUD General Counsel review and Treasury Office of Tax Policy
+consultation required before introduction. CBO scoring should explicitly model the anti-coercion analysis
+under Sec 3(c).
+
+Item Requiring
+Resolution
+
+Guidance
+
+Sec 3 + Sec 101 —
+Conditional
+spending fallback
+ladder
+(Architecture A)
+[Sources Dole,
+NFIB v. Sebelius]
+
+Architecture: Architecture A — federal grant conditions as primary
+mechanism, with Part III fallback ladder. This is the simplest architecture in
+the bill series. HCI works WITH the constitutional reality of State property-law
+jurisdiction. Federal funding incentives are well-established constitutional authority
+— South Dakota v. Dole, 483 U.S. 203 (1987). The architecture does not need
+body-baked operative fallback (BWDS Sec 204(f) C-with-B-fallback) because there is
+no novel constitutional risk to hedge — Spending Clause conditions are settled
+doctrine.
+(1) Primary structure. Federal grant conditions as drafted in Sec 101 (corporate
+ownership restrictions), Sec 201 (zoning reform), Sec 301 (affordable supply), and
+Sec 401–406 (model legislation), anchored by Sec 3 Spending Clause / Dole / NFIB
+anti-coercion / state preservation framework. State adoption is voluntary
+throughout; Sec 3(d) preserves State property-law jurisdiction explicitly.
+(2) Mid-level fallback if NFIB anti-coercion concerns surface. Sec 3(c)(3)
+authorizes the Secretary to reduce funding levels through regulation if conditional
+funding under this Act approaches the compulsion threshold. Sec 3(f)(5) preserves
+the underlying grant program even if specific funding levels are held to violate the
+anti-coercion limit — the program continues at reduced funding levels rather than
+collapsing.
+(3) Bottom-level fallback. Sec 3(f) five-track severability preserves all four
+substantive titles independently. Title IV (Federal Model Legislation Framework)
+survives even under Sec 3(f)(4) on the residual technical-assistance authority of
+HUD — model legislation publication and technical assistance can continue without
+the conditional spending grant programs of Titles I–III.
+(4) Pre-introduction engagement. HUD General Counsel review required.
+Treasury Office of Tax Policy consultation required for Title IV vacancy taxation and
+progressive property taxation model frameworks. CBO scoring of grant program
+funding levels relative to NFIB compulsion threshold required before introduction.
+
+REF_RDNC_Leg09_Bill8_HCI_2029_4
+
+Page 15
+PROJECT ARA 2028 · 175
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · HCI Act of 2029 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Constitutional
+authority (South
+Dakota v. Dole)
+
+Federal funding conditions must be: (1) in pursuit of general welfare, (2) clearly
+stated, (3) related to the Federal interest, and (4) not coercive. Grant preference
+(not exclusion) for qualifying States is the safest structure. Avoid mandatory
+conditions that approach coercive threshold. Sec 3(b) anchors compliance with
+each prong of the Dole four-part test in operative bill text.
+The Dole test was reaffirmed in NFIB v. Sebelius and remains controlling doctrine
+for conditional federal spending. Sec 3(a) Spending Clause authority recital
+establishes that this Act is enacted under article I, section 8 — providing courts with
+the explicit constitutional foundation rather than requiring inference from the
+legislative scheme.
+
+NFIB v. Sebelius
+anti-coercion
+calibration (Sec
+3(c)) [NEW]
+
+NFIB v. Sebelius, 567 U.S. 519, 580–82 (2012), held that the Affordable Care Act's
+Medicaid expansion provision crossed the line from "encouragement" to
+"compulsion" by threatening to withhold all existing Medicaid funding if States
+declined the expansion. Conditional federal spending may not be so substantial that
+withdrawal would amount to compulsion.
+Sec 3(c) operationalizes the anti-coercion calibration in operative bill text: (1) Title I
+grants are priority allocation preference, not exclusion of non-qualifying States; (2)
+baseline HUD funding is preserved without conditioning on this Act's grant criteria;
+(3) Sec 3(c)(3) authorizes the Secretary to establish funding-level guidance
+ensuring conditional funding does not approach the compulsion threshold. Sec
+3(f)(5) provides the fallback: if any conditional spending provision is held to violate
+the anti-coercion limit, funding levels may be reduced through regulation without
+invalidating the underlying grant program. Counsel should review the [TBD] percent
+allocation preference figures in Sec 101(c) against current HUD funding levels to
+ensure they remain below the compulsion threshold; CBO scoring should explicitly
+model the anti-coercion analysis.
+
+Property law and
+State preemption
+(Sec 3(d))
+
+This bill provides incentives and model legislation — it does not directly regulate
+property. State adoption remains voluntary. Counsel to ensure no provision is
+construed as direct Federal regulation of residential property ownership. Sec 3(d)
+anchors the State-jurisdiction preservation in operative bill text: nothing in this Act
+federalizes property law or directly regulates residential property ownership; State
+property law remains within the exclusive jurisdiction of the several States; Title IV
+model legislation is voluntary, advisory, and provided as technical assistance only
+— States adopt, adapt, or decline.
+Counsel should review Title IV Sec 401(c) "no mandatory adoption" recital and Sec
+402(b) "multiple structural options" provision to confirm that the model framework
+does not inadvertently designate any single structural option as preferred for grant
+qualification purposes (which could be read as effective Federal mandate
+notwithstanding the voluntary recital).
+
+REF_RDNC_Leg09_Bill8_HCI_2029_4
+
+Page 16
+PROJECT ARA 2028 · 176
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · HCI Act of 2029 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Corporate registry
+coordination with
+FinCEN —
+Corporate
+Transparency Act
+post-NSBA v.
+Yellen [Source
+CTA, NSBA v.
+Yellen]
+
+Beneficial ownership registry aligns with Corporate Transparency Act (2021)
+framework. Counsel to assess whether existing FinCEN infrastructure can be
+adapted for residential property registry rather than building a new system. Sec
+102(c) authorizes registry coordination within the CTA framework where applicable.
+
+Zoning reform
+grant authority
+(Title II, Sec 201)
+
+Transportation grant authority provides the clearest constitutional hook for zoning
+reform incentives — link to transit access and transportation infrastructure. DOT
+and HUD joint rulemaking required (Sec 201(d) operationalizes joint rulemaking
+authority). Sec 502(d) establishes interagency coordination protocols.
+
+NSBA v. Yellen treatment. The Northern District of Alabama held the Corporate
+Transparency Act unconstitutional in National Small Business United v. Yellen on
+Commerce Clause and Necessary and Proper Clause grounds; the Eleventh Circuit
+reversed in part and the litigation continues. Sec 102(c) explicitly accounts for any
+judicial limitations on the CTA framework — the section 102 registry can operate
+independently of the CTA where CTA authority is constrained, on the residual HUD
+authority for housing-program data collection. Counsel should monitor NSBA v.
+Yellen and related litigation for any developments affecting Sec 102 registry
+implementation.
+
+The transportation-grant hook draws on existing DOT authority under title 23,
+United States Code, and the Surface Transportation Block Grant Program. Linking
+residential zoning reform to transit access strengthens the Dole "related to the
+Federal interest" prong because the reforms directly affect transportation
+infrastructure planning, traffic patterns, and transit ridership.
+Affordability
+covenant duration
+(Sec 301(e)) [LIHTC
+reference]
+
+30-year affordability requirement is standard for the Low Income Housing Tax
+Credit (LIHTC) under section 42 of the Internal Revenue Code of 1986. Sec 301(e)
+implements a tiered covenant structure: 50-year affordability requirement for direct
+grants under Sec 301(a); 30-year requirement for loan guarantees, consistent with
+the LIHTC framework.
+The longer covenant for direct grants ensures long-term affordability preservation
+commensurate with the larger Federal subsidy. Sec 301(e)(3) recapture provision
+preserves Federal subsidy proportionality — if a covenanted unit converts to
+non-affordable use during the covenant period, the Federal subsidy is recaptured
+proportionate to the unexpired covenant term. Counsel should review Sec 301(e)
+against current LIHTC qualified contract jurisprudence and Department of Housing
+and Urban Development covenant enforcement experience.
+
+REF_RDNC_Leg09_Bill8_HCI_2029_4
+
+Page 17
+PROJECT ARA 2028 · 177
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · HCI Act of 2029 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Davis-Bacon
+prevailing wage
+application (Sec
+301(f)) [NEW]
+
+Sec 301(f) requires construction funded under Title III to comply with Davis-Bacon
+Act prevailing wage requirements (subchapter IV of chapter 31 of title 40, U.S.C.).
+This tracks existing HUD construction grant frameworks under the Community
+Development Block Grant program and similar HUD authorities.
+Davis-Bacon application is the standard expectation for federally funded
+construction and has consistently survived constitutional challenges. Application
+here strengthens the pro-labor coalition support for Title III without creating novel
+doctrinal exposure. Counsel should review Sec 301(f) against the current
+Department of Labor Davis-Bacon regulatory framework (which was subject to
+substantial revision in 2023) to ensure consistency with current implementation
+guidance.
+
+Fair Housing Act
+coordination (Sec
+301(g)) [NEW]
+
+Sec 301(g) requires Title III grant and loan guarantee recipients to affirmatively
+further fair housing consistent with the Fair Housing Act (42 U.S.C. § 3601 et seq.)
+and the HUD Office of Fair Housing and Equal Opportunity regulatory framework.
+This integrates Title III with the existing affirmative-furthering obligation that
+applies to HUD-funded programs.
+The affirmative-furthering obligation has been the subject of evolving HUD
+regulatory interpretation since the 2015 Affirmatively Furthering Fair Housing rule.
+Counsel should review Sec 301(g) against current HUD AFFH regulations and any
+pending litigation affecting AFFH implementation. Sec 502(f) operationalizes the
+Office of Fair Housing and Equal Opportunity coordination role.
+
+Anti-displacement
+provisions (Sec
+201(e)) [NEW]
+
+Sec 201(e) requires localities receiving Title II zoning reform grants to adopt
+anti-displacement measures alongside the zoning reforms — protection of existing
+residents, inclusionary zoning requirements, tenant-protection measures, and
+gentrification mitigation. This addresses a significant policy concern with zoning
+reform: upzoning can drive displacement and gentrification absent protective
+measures.
+Sec 201(e) operates as a grant condition (the locality must adopt anti-displacement
+measures to receive the grant) rather than a Federal mandate on local zoning
+policy. This preserves the State and local jurisdiction over land use while
+conditioning the Federal incentive on a balanced approach. Counsel should review
+Sec 201(e) against existing State and local inclusionary zoning frameworks (many
+already exist in metropolitan areas) to ensure the model is achievable for grant
+qualification.
+
+REF_RDNC_Leg09_Bill8_HCI_2029_4
+
+Page 18
+PROJECT ARA 2028 · 178
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · HCI Act of 2029 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Grant amounts and
+CDBG interaction
+
+HUD to model grant amounts based on corporate ownership registry data (once
+operational under Sec 102). Coordinate with existing CDBG allocation formulas to
+ensure new incentives complement rather than disrupt existing grant distribution.
+Sec 101(c) explicitly references priority access to HUD CDBG and HOME Investment
+Partnership grants, with the [TBD] percent allocation preference operating within
+the existing allocation framework rather than replacing it.
+Counsel should coordinate with HUD Office of Community Planning and
+Development and Office of Block Grant Assistance on the operational integration of
+the Sec 101(c) preference with existing CDBG and HOME formulas. The [TBD]
+percent figure must be calibrated to satisfy both the Sec 3(c) anti-coercion limit and
+the existing distributional balance of the CDBG program.
+
+State qualification
+certification
+process (Sec
+101(d)) [NEW]
+
+Sec 101(d) establishes a four-step State certification process: (1) State AG certifies
+enacted qualifying restriction; (2) HUD reviews within 90 days; (3) HUD
+determination triggers grant preference eligibility for the next fiscal year; (4)
+recertification on a [TBD]-year cycle confirms the State law remains in force.
+The State AG certification mechanism leverages State-level legal authority for the
+threshold determination, with HUD providing Federal review. This avoids HUD
+second-guessing State legal interpretations while maintaining Federal control over
+grant eligibility. Counsel should review Sec 101(d) against the National Association
+of Attorneys General coordination practice for analogous Federal-State certification
+programs (e.g., the Affordable Care Act State plan amendment process). The
+[TBD]-year recertification cycle should be calibrated to provide stability for State
+legislative planning while ensuring continued compliance.
+
+REF_RDNC_Leg09_Bill8_HCI_2029_4 · REF_ Reference Layer · Reform Democrats of the New Commonwealth ·
+2026
+Legal disclaimer applies — see page 1. This framework requires licensed legislative counsel review before introduction.
+Originally conceived and authored by a concerned American citizen. Developed with the assistance of Claude
+(Anthropic). The ideas belong to anyone willing to fight for them.
+
+REF_RDNC_Leg09_Bill8_HCI_2029_4
+
+Page 19
+PROJECT ARA 2028 · 179
+
+Reform Democrats of the New Commonwealth
+
+
+PART VII · THE LEGISLATIVE SERIES
+
+BILL 9
+
+UCT
+Universal Coverage Transition Act
+Phase III · Track A · v_4
+
+Reproduced in full from the canonical drafted bill. No operative text has been altered in consolidation.
+
+PROJECT ARA 2028 · 180
+
+
+RDNC Bill Framework · UCT Act · REF_ · 2026
+
+⚠ ⚠ PHASE III — DO NOT INTRODUCE BEFORE PRECONDITIONS ARE MET
+This bill is the most likely to fail, most likely to be reversed, and most likely to damage the
+entire legislative agenda if introduced before its preconditions are met. The political
+conditions that make it viable are not yet present. They must be built first.
+
+Reform Democrats of the New Commonwealth · Project ARA 2028
+Legislative Ecosystem Document Leg10 of Leg14
+
+Universal Coverage Transition Act
+Bill Framework & Legislative Brief
+Phase III · Track A · Healthcare Full Transition · Phase III · Track A · Year 8–15
+(conditions-dependent)
+LEGAL DISCLAIMER — POLICY DISCUSSION DOCUMENT
+This document is a policy discussion framework and bill scaffold. It is not formally introduced legislation, has
+not been reviewed by licensed legislative counsel, and does not constitute legal advice of any kind.
+All provisions marked [TBD] — including dollar amounts, specific IRC section numbers, penalty thresholds,
+appropriation amounts, and CBO scoring figures — require resolution by licensed legislative drafting counsel
+(the Office of Legislative Counsel for the House or Senate, as applicable), relevant agency technical staff,
+and the Congressional Budget Office before introduction as formal legislation.
+Constitutional arguments, legal analyses, and statutory framings presented herein are analytical
+assessments developed for policy planning purposes. They are not legal opinions and have not been
+reviewed or validated by licensed legal counsel. This document identifies constitutional and legal risks
+requiring independent review — those identifications are planning guidance, not legal conclusions.
+This framework was produced by the Reform Democrats of the New Commonwealth (RDNC), a private
+citizen policy research organization. It is not affiliated with any sitting Member of Congress, congressional
+office, government agency, or political party organization in any official capacity.
+Consultation with licensed legislative counsel, the Department of Health and Human Services
+Office of General Counsel, the Centers for Medicare and Medicaid Services Office of the Actuary,
+the Department of Defense Office of General Counsel, the Department of Justice Office of Legal
+Counsel, the Congressional Budget Office, and Senate Finance, HELP, and Armed Services
+Committee constitutional counsel is required before any framework in this series may be
+introduced as formal legislation. Distribution is subject to RDNC classification protocols (REF_
+layer: internal use and trusted partners only).
+
+Phase III · Track A · Healthcare Full Transition · Bill 9
+
+Part I — Legislative Brief
+This is the destination of the healthcare sequence — universal government-funded coverage. It is also the
+bill most likely to fail, most likely to be reversed, and most likely to damage the entire agenda if introduced
+before its preconditions are met. The bill text below is a framework — the political conditions that make it
+viable are not yet present, and they must be built first. Sec 2 anchors the four-anchor light constitutional
+foundation in operative bill text; Sec 401 Phase III Precondition Compliance binds the precondition
+framework operatively.
+
+REF_RDNC_Leg10_Bill9_UCT_4
+
+Page 1
+PROJECT ARA 2028 · 181
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · UCT Act · REF_ · 2026
+
+PRECONDITIONS FOR INTRODUCTION
+✓
+
+Public Option (Bill 6) has been operational for at least 4 years
+
+✓
+
+Public Option enrollment dominates in initial markets — private insurer market share in those markets
+has fallen below 40 percent
+
+✓
+
+Phase I cost-reduction wins are politically entrenched and defended by established constituencies
+
+✓
+
+A reform-aligned Senate supermajority or a political crisis creating a window for landmark legislation
+
+✓
+
+A vetted personnel pipeline is in place to staff HHS, CMS, and related agencies from Day 1
+
+✓
+
+International precedent review complete — transition model selected (Canadian, German, or hybrid)
+
+AT A GLANCE
+Bill Title
+
+Universal Coverage Transition Act
+
+Short Title (Cite As)
+
+The UCT Act
+
+Legislative Vehicle
+
+Standalone Legislation — requires exceptional political conditions
+
+Phase / Track
+
+Phase III · Track A · Year 8–15 (conditions-dependent)
+
+Primary Committees
+
+Senate Finance; Senate Health, Education, Labor, and Pensions; Senate
+Armed Services (for military reallocation provisions under Sec 302)
+
+Dependencies
+
+See preconditions block above. This bill fails and damages the agenda if
+introduced early.
+
+Core Framing
+
+Gradual, evidence-based transition from what works to what works for
+everyone.
+
+Fallback Position
+
+Permanent hybrid system — public option (Bill 6) and private plans coexist
+indefinitely. Stable, defensible endpoint if universal transition proves
+politically impossible.
+
+Constitutional /
+Statutory Risk
+
+Largely settled — Medicare-style federal program, NFIB v. Sebelius (2012)
+sustained the ACA framework. Risk vector is political and implementation,
+not constitutional. Sec 2 anchors the four-anchor light constitutional
+foundation in operative bill text
+
+Architecture
+
+Architecture A — federal program with body-baked Phase III precondition
+acknowledgment. Sec 401 Phase III Precondition Compliance establishes
+operative certification framework conditioning program operational status
+on the preconditions block above. No operative fallback ladder needed
+(constitutional architecture is settled)
+
+What This Bill Does:
+1. Establishes a phased transition to universal government-funded coverage using an age-band
+expansion model. Beginning with adults 55–64 (highest uninsured costs and greatest political
+sympathy), then expanding downward every two years. By the end of the transition period, all
+Americans are covered.
+2. Guarantees existing coverage during the transition. No enrolled plan is cancelled by the
+government. The transition occurs through natural enrollment as people age into new brackets and as
+REF_RDNC_Leg10_Bill9_UCT_4
+
+Page 2
+PROJECT ARA 2028 · 182
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · UCT Act · REF_ · 2026
+
+employer plans are voluntarily migrated. No disruption mandate. Sec 2(c) anti-taking and Sec 2(d)
+voluntary transition recitals anchor this architecture in operative bill text.
+3. Establishes a provider reimbursement framework with transition protections. Reimbursement
+rates are set above current Medicare rates during the transition period to maintain provider
+participation. Rates are adjusted based on annual review of provider network adequacy.
+4. Creates a long-term funding mechanism with multiple sources. Revenue from military budget
+reallocation, sovereign AI wealth fund returns (AIPE Act, Bill 10), digital services and wealth tax revenues
+(BWDS Act, Bill 5), and dedicated payroll contributions fund the system. Sec 302 establishes the
+operative military reallocation framework with Joint Chiefs annual certification and military readiness
+floor.
+5. Phase III Precondition Compliance with operative certification framework. Sec 401 binds the
+Phase III preconditions block above in operative bill text — the Federal Healthcare Fund may not
+commence operational status until the Secretary certifies to Congress that each precondition is satisfied.
+Congressional Review Act disapproval mechanism preserves congressional oversight.
+ATTACK
+SURFACE
+
+"Government takeover." "Loss of doctor choice." "Bankrupt the country." "Socialism."
+These attacks are maximally powerful if introduced before the public option has
+demonstrated competence. After 4-plus years of public option success — the Sec
+401(a)(1) precondition — they are substantially weaker.
+
+DEFENSE
+STRATEGY
+
+Every line of this bill should emphasize gradual transition, preservation of choice during
+transition, and evidence from the public option's performance. The argument is not
+ideological — it is empirical: "The public option worked. This is what working looks like
+at scale." Provider transition payments are politically essential — do not sacrifice them.
+Sec 2 four-anchor constitutional foundation (Spending/Taxation Clause / Pennhurst
+clear-notice / coverage guarantee anti-taking / voluntary transition) forecloses the
+strongest constitutional attack vectors.
+
+FALLBACK
+POSITION
+
+Permanent hybrid system: public option and private plans coexist indefinitely. This is a
+stable, defensible endpoint if universal transition proves politically impossible. The
+hybrid system still represents a fundamental improvement over pre-RDNC status quo. If
+Sec 401 certification cannot be achieved, this Act remains enacted but inoperative —
+Sec 401(e) "no operational status without certification" recital governs. Re-introduction
+with revised architecture remains available for subsequent Congresses.
+
+Skeletal by Design. This framework is more skeletal than Phase I and II bills by design. The specific
+provisions require political conditions, CMS actuarial modeling, and international precedent analysis that
+cannot be completed until closer to introduction. What is provided here is the structural logic, the
+constitutional foundation, and the Phase III precondition compliance framework. Operative coordination
+provisions with existing federal health programs (Medicare, Medicaid, ACA exchange, COBRA, TRICARE, VA,
+IHS, FEHB) are deferred to drafting closer to introduction per Sec 102(b).
+The Phase III Posture. UCT is the only Phase III bill in the legislative ecosystem and the only bill in the
+series that is structurally inoperative on enactment. Sec 401 Phase III Precondition Compliance is the
+operative innovation: program operational status is conditioned on Secretary certification of each
+precondition, with Congressional Review Act disapproval mechanism preserving oversight. Sec 401(d)
+withdrawal authority and Sec 401(e) no-operational-status-without-certification recital ensure the framework
+is binding rather than aspirational. This architecture is unique in the bill series.
+
+REF_RDNC_Leg10_Bill9_UCT_4
+
+Page 3
+PROJECT ARA 2028 · 183
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · UCT Act · REF_ · 2026
+
+Part II — Bill Framework (Structural Scaffold)
+This framework is more skeletal than Phase I and II bills by design. The specific provisions require political
+conditions, CMS actuarial modeling, and international precedent analysis that cannot be completed until
+closer to introduction. What is provided here is the structural logic, the constitutional foundation (Sec 2), and
+the Phase III precondition compliance framework (Sec 401). Operative coordination provisions with existing
+Federal health programs (Medicare, Medicaid, ACA exchange, COBRA, TRICARE, VA, IHS, FEHB) are deferred
+to drafting closer to introduction per Sec 102(b). [TBD] thresholds throughout the bill body reflect this
+skeletal-by-design architecture.
+119TH CONGRESS
+
+OR SUBSEQUENT SESSION
+
+S. ____
+
+To establish a phased transition to universal government-funded health coverage
+through age-band expansion; to guarantee continuity of existing coverage during
+transition; to establish provider reimbursement frameworks; to establish funding
+mechanisms including military budget reallocation under Joint Chiefs annual
+certification; to bind in operative bill text the Phase III precondition
+compliance framework; and for other purposes.
+
+A B I L L
+Be it enacted by the Senate and House of Representatives of the United States of
+America in Congress assembled,
+
+SEC. 1. SHORT TITLE.
+This Act may be cited as the "Universal Coverage Transition Act" or the
+"UCT Act".
+
+SEC. 2. CONSTITUTIONAL FOUNDATION.
+(a) SPENDING AND TAXATION CLAUSE AUTHORITY.—This Act is enacted under the
+Spending Clause and the Taxing Clause of article I, section 8 of the
+Constitution. The Federal Healthcare Fund established under section 301
+is a Federal spending and taxation program operating in the
+constitutional mode of Medicare (titles XVIII and XIX of the Social
+Security Act, 42 U.S.C. § 1395 et seq.) and the Affordable Care Act
+framework sustained in National Federation of Independent Business v.
+Sebelius, 567 U.S. 519 (2012). This is the strongest constitutional
+ground available for Federal healthcare programs.
+(b) PENNHURST CLEAR-NOTICE REQUIREMENT.—Federal grant conditions imposed
+under this Act, including the employer transition payment framework
+under section 101(c), comply with Pennhurst State School and Hospital v.
+Halderman, 451 U.S. 1 (1981), under which Federal funding conditions
+must be unambiguously stated to permit recipients to make informed
+compliance decisions. Operative conditions under this Act shall be
+clearly stated in this Act and in implementing regulations.
+(c) COVERAGE GUARANTEE — ANTI-TAKING.—This Act does not compel any
+individual or employer to disenroll from any existing health insurance
+plan. The coverage guarantee under section 101(b) preserves existing
+enrollments at current terms throughout the transition period. The
+voluntary employer transition under section 101(c) operates only with
+affirmative employer election. These provisions are essential to avoid
+regulatory takings analysis under Penn Central Transportation Co. v.
+New York City, 438 U.S. 104 (1978), and to preserve the voluntary
+character of the transition.
+(d) VOLUNTARY TRANSITION.—Throughout the transition period established
+REF_RDNC_Leg10_Bill9_UCT_4
+
+Page 4
+PROJECT ARA 2028 · 184
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · UCT Act · REF_ · 2026
+
+under section 101(a), participation in the Federal Healthcare Fund is
+voluntary as to employer-sponsored insurance plans and individuals
+enrolled in existing coverage. The age-band expansion under section
+101(a) extends eligibility to participate; it does not require
+disenrollment from existing coverage.
+(e) PHASE III PRECONDITION ACKNOWLEDGMENT.—This Act is a Phase III
+legislative measure. The Secretary of Health and Human Services may
+not commence operational status of the Federal Healthcare Fund until
+the certification requirements of section 401 are satisfied. The
+Phase III precondition framework is binding bill text under this Act.
+(f) SEVERABILITY.—If any provision of this Act, or the application of
+any provision to any person or circumstance, is held to be invalid,
+the remaining provisions of this Act and the application of those
+provisions to other persons or circumstances shall not be affected.
+In particular, if any provision of Title III (Federal Healthcare
+Fund) is held invalid as to a specific funding source, the remaining
+funding sources under section 301 shall remain operative.
+
+TITLE I — TRANSITION FRAMEWORK
+
+SEC. 101. TRANSITION MODEL AND TIMELINE.
+(a) AGE-BAND EXPANSION.—Beginning January 1 of the year following
+operational commencement under section 401(a), universal coverage
+shall be extended to Americans in the following sequence (counted
+from operational commencement):
+Year 1: Adults ages 55-64 not currently enrolled in Medicare or
+employer-sponsored insurance;
+Year 3: Adults ages 45-54;
+Year 5: Adults ages 35-44;
+Year 7: Adults ages 26-34;
+Year 9: All remaining uninsured individuals.
+(b) COVERAGE GUARANTEE.—No individual enrolled in any existing health
+plan on the date of enactment shall be required to transition to
+government-funded coverage. Existing enrollments shall be honored at
+current terms. Cross-reference to section 2(c) constitutional
+foundation.
+(c) EMPLOYER PLAN TRANSITION.—Employers may voluntarily transition
+employees to the Federal Healthcare Fund after [TBD] years from the
+date of enactment, subject to a transition payment to the Federal
+Healthcare Fund equal to [TBD] percent of foregone premium
+contributions for [TBD] years. The Pennhurst clear-notice requirement
+under section 2(b) applies — operative conditions shall be clearly
+stated in implementing regulations.
+
+SEC. 102. COORDINATION WITH EXISTING FEDERAL HEALTH PROGRAMS.
+(a) IN GENERAL.—Coordination with existing Federal health programs,
+including Medicare (titles XVIII and XIX of the Social Security Act),
+Medicaid expansion, the Health Insurance Marketplace established
+under the Patient Protection and Affordable Care Act, the Public
+Option established under the POHE Act (Bill 6 of this legislative
+sequence), the Consolidated Omnibus Budget Reconciliation Act of
+1985 (COBRA), TRICARE, the Department of Veterans Affairs health
+system, the Indian Health Service, and the Federal Employees Health
+Benefits Program, shall be addressed by regulation in coordination
+with the relevant Federal agencies.
+
+REF_RDNC_Leg10_Bill9_UCT_4
+
+Page 5
+PROJECT ARA 2028 · 185
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · UCT Act · REF_ · 2026
+
+(b) DRAFTING DEFERRED TO INTRODUCTION.—Operative coordination
+provisions are deferred to drafting closer to introduction, when
+Public Option performance data, current Medicare program structure,
+and existing-program enrollment patterns can be assessed.
+Pre-introduction Centers for Medicare and Medicaid Services,
+Department of Health and Human Services, Department of Defense,
+Department of Veterans Affairs, and Indian Health Service
+coordination required.
+
+TITLE II — COVERAGE AND REIMBURSEMENT
+
+SEC. 201. BENEFIT STRUCTURE.
+Coverage under the Federal Healthcare Fund shall include all benefits
+required under the Public Option Healthcare Expansion Act (Bill 6 of
+this legislative sequence), with no annual or lifetime dollar limits
+and no out-of-pocket costs for preventive care. Coordination with the
+POHE Act benefits floor under section 101(b) of that Act preserves
+consistency between the Public Option and the Federal Healthcare Fund
+benefits structures.
+
+SEC. 202. PROVIDER REIMBURSEMENT.
+(a) TRANSITION RATES.—For the first [TBD] years of operational
+commencement under section 401(a), provider reimbursement rates under
+the Federal Healthcare Fund shall be set at [TBD] percent of current
+Medicare rates to maintain network adequacy during the transition
+period.
+(b) ANNUAL REVIEW AND ADJUSTMENT.—The Secretary shall conduct annual
+network adequacy reviews and shall adjust rates where necessary to
+ensure adequate provider participation in each rating area. Rate
+adjustments shall be made by published methodology.
+
+TITLE III — FEDERAL HEALTHCARE FUND
+
+SEC. 301. ESTABLISHMENT AND FUNDING SOURCES.
+(a) ESTABLISHMENT.—The Federal Healthcare Fund is hereby established
+as a separate account in the Treasury, to fund universal health
+coverage under this Act.
+(b) FUNDING SOURCES.—The Federal Healthcare Fund shall be capitalized
+through—
+(1) a dedicated payroll contribution of [TBD] percent;
+(2) returns from the American Innovation and Public Equity Fund
+established under the AIPE Act (Bill 10 of this legislative
+sequence);
+(3) revenues from the BWDS Act (Bill 5 of this legislative
+sequence);
+(4) reallocation of Department of Defense base budget under
+section 302; and
+(5) general appropriations as necessary.
+(c) MULTIPLE-SOURCE STRUCTURE.—The multiple-source funding structure
+is designed to prevent dependence on any single revenue stream and
+to provide resilience against the failure or reduction of any
+individual source.
+SEC. 302. MILITARY BUDGET REALLOCATION FRAMEWORK.
+
+REF_RDNC_Leg10_Bill9_UCT_4
+
+Page 6
+PROJECT ARA 2028 · 186
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · UCT Act · REF_ · 2026
+
+(a) PROPORTIONAL REALLOCATION SCHEDULE.—Reallocation of Department
+of Defense base budget under section 301(b)(4) shall occur in
+proportional annual increments not to exceed [TBD] percent of the
+base budget per fiscal year, over a transition period of not less
+than 10 years.
+(b) JOINT CHIEFS ANNUAL CERTIFICATION.—No reallocation under
+subsection (a) shall take effect in any fiscal year unless the
+Joint Chiefs of Staff have certified to Congress that the
+reallocation does not impair military readiness for that fiscal
+year. Certification shall be submitted to the Senate Armed
+Services Committee, the House Armed Services Committee, the
+Senate Finance Committee, and the Senate Health, Education,
+Labor, and Pensions Committee not later than 90 days before the
+fiscal year to which the reallocation applies.
+(c) SENATE ARMED SERVICES COORDINATION.—Reallocation under this
+section shall be administered in coordination with the National
+Defense Authorization Act framework. Where a reallocation under
+this section conflicts with provisions of the annual National
+Defense Authorization Act, the National Defense Authorization Act
+controls and the Secretary shall adjust the reallocation schedule
+accordingly.
+(d) FALLBACK IF CERTIFICATION DENIED.—If the Joint Chiefs of Staff
+decline to certify under subsection (b) for any fiscal year, the
+reallocation under this section shall not take effect for that
+fiscal year, and the Federal Healthcare Fund shall draw on the
+other funding sources under section 301(b) to maintain operational
+capacity.
+(e) MILITARY READINESS FLOOR.—Nothing in this section shall be
+construed to authorize reallocation that the Joint Chiefs of Staff
+have certified would impair the readiness of the Armed Forces of
+the United States to perform their constitutional missions.
+
+TITLE IV — IMPLEMENTATION AND PHASE III PRECONDITION COMPLIANCE
+
+SEC. 401. PHASE III PRECONDITION COMPLIANCE.
+(a) CERTIFICATION REQUIREMENT.—The Secretary of Health and Human
+Services may not commence operational status of the Federal
+Healthcare Fund until the Secretary has certified to Congress that
+each of the following Phase III preconditions is satisfied:
+(1) the Public Option established under the POHE Act (Bill 6 of
+this legislative sequence) has been operational for not less than
+4 years;
+(2) the Public Option enrollment dominates in the rating areas
+in which the Public Option was initially offered, with private
+insurer market share in those areas below 40 percent;
+(3) Phase I cost-reduction policy frameworks are operationally
+entrenched and defended by established constituencies;
+(4) the Senate has ratified, by joint resolution, that political
+conditions for introduction are met, or comparable political
+precondition has been documented;
+(5) a vetted personnel pipeline is in place to staff the
+Department of Health and Human Services, the Centers for Medicare
+and Medicaid Services, and related Federal agencies from
+operational commencement; and
+(6) the international precedent review under section 402(a) has
+been completed and a transition model has been selected.
+
+REF_RDNC_Leg10_Bill9_UCT_4
+
+Page 7
+PROJECT ARA 2028 · 187
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · UCT Act · REF_ · 2026
+
+(b) CONGRESSIONAL REVIEW.—The certification under subsection (a)
+shall be transmitted to the Senate Finance Committee, the Senate
+Health, Education, Labor, and Pensions Committee, the Senate Armed
+Services Committee, and the comparable Committees of the House of
+Representatives.
+(c) DISAPPROVAL MECHANISM.—Operational commencement under subsection
+(a) shall be subject to disapproval by joint resolution enacted under
+chapter 8 of title 5, United States Code (Congressional Review Act),
+within 90 days of certification submission. Joint resolution
+procedure under this subsection requires both Houses of Congress and
+presentment to the President, consistent with INS v. Chadha, 462 U.S.
+919 (1983).
+(d) WITHDRAWAL OF CERTIFICATION.—The Secretary may withdraw a
+certification under subsection (a) at any time before operational
+commencement if the Secretary determines that one or more
+preconditions is no longer satisfied. The Secretary may reissue
+certification when the preconditions are again satisfied.
+(e) NO OPERATIONAL STATUS WITHOUT CERTIFICATION.—No provision of this
+Act shall be operationally effective in advance of certification
+under subsection (a), except that provisions establishing the
+Federal Healthcare Fund (section 301), the section 302 reallocation
+framework, and the implementation timeline (section 402) may be
+operationally effective for planning, regulatory drafting, and
+interagency coordination purposes.
+
+SEC. 402. IMPLEMENTATION TIMELINE.
+(a) INTERNATIONAL PRECEDENT REVIEW.—Within [TBD] months after the
+date of enactment of this Act, the Secretary shall complete an
+international precedent review covering the Canadian single-payer,
+German multi-payer regulated, and hybrid Medicare-expansion
+transition models, and shall report to Congress on the recommended
+transition model.
+(b) PERSONNEL PIPELINE.—The Secretary shall, in coordination with
+the Office of Personnel Management, establish a personnel pipeline
+framework to ensure that staffing capacity is available at
+operational commencement.
+(c) IMPLEMENTING REGULATIONS.—Implementing regulations under this
+Act shall be drafted and published in proposed form not later than
+[TBD] months after the date of enactment, with final regulations
+not later than [TBD] months after enactment.
+(d) OPERATIONAL COMMENCEMENT.—Operational commencement of the
+Federal Healthcare Fund shall occur on the date specified in the
+Secretary's certification under section 401(a), provided that
+Congressional disapproval has not been enacted under section 401(c).
+
+SEC. 403. ANNUAL REPORTING.
+(a) ANNUAL REPORT.—The Secretary shall transmit annually to Congress
+a report containing—
+(1) Phase III precondition status (where preconditions are not
+yet certified);
+(2) operational data on the Federal Healthcare Fund (where
+operational commencement has occurred);
+(3) age-band expansion progress under section 101(a);
+(4) provider network adequacy under section 202(b);
+(5) funding source performance under section 301(b);
+(6) Joint Chiefs certification status under section 302(b); and
+
+REF_RDNC_Leg10_Bill9_UCT_4
+
+Page 8
+PROJECT ARA 2028 · 188
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · UCT Act · REF_ · 2026
+
+(7) any recommendations for further congressional action.
+(b) PUBLIC AVAILABILITY.—The annual report shall be transmitted to
+Congress and posted publicly on a website maintained by the
+Department of Health and Human Services not later than 30 days
+after submission to Congress.
+
+[All dollar amounts, percentage thresholds, time thresholds, and IRC
+section cross-references marked [TBD] require resolution by licensed
+legislative counsel, the Department of Health and Human Services
+Office of General Counsel, the Centers for Medicare and Medicaid
+Services Office of the Actuary, the Department of Defense Office of
+General Counsel, the Department of Justice Office of Legal Counsel,
+and the Congressional Budget Office before introduction as formal
+legislation. See Part III counsel notes. The framework deliberately
+defers operative thresholds to drafting closer to introduction per
+the Phase III "skeletal by design" architecture.]
+
+REF_RDNC_Leg10_Bill9_UCT_4
+
+Page 9
+PROJECT ARA 2028 · 189
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · UCT Act · REF_ · 2026
+
+Part III — Notes for Congressional Counsel & Key
+Decisions
+All [TBD] items and constitutional questions below require resolution before introduction. UCT operates
+within settled constitutional doctrine — Medicare-style federal program; NFIB v. Sebelius sustained the ACA
+framework. The risk vector is political and implementation, not constitutional. The Sec 2 + Sec 401
+Architecture A flagship entry below documents the Phase III postural anchor unique to this bill — light
+constitutional foundation in operative bill text, operative Phase III precondition compliance framework, no
+fallback ladder needed because constitutional architecture is settled. DOJ Office of Legal Counsel and CMS
+Office of the Actuary pre-introduction review required.
+
+Item Requiring
+Resolution
+
+Guidance
+
+Sec 2 + Sec 401 —
+Architecture A
+Phase III postural
+anchor [NEW
+FLAGSHIP]
+
+Architecture: Architecture A — federal program with body-baked Phase III
+precondition acknowledgment and Part III monitoring framework. UCT
+operates within settled constitutional doctrine: Medicare-style federal program;
+NFIB v. Sebelius sustained the ACA framework; Medicare has operated since 1965
+without successful constitutional challenge. There is no novel constitutional risk to
+hedge.
+(1) Primary structure. Sec 2 light four-anchor constitutional foundation
+(Spending/Taxation Clause / Pennhurst clear-notice / coverage guarantee
+anti-taking / voluntary transition) anchors the architecture in operative bill text. Sec
+401 Phase III Precondition Compliance is the operative innovation specific to Phase
+III bills — program operational status is conditioned on Secretary certification of
+each precondition.
+(2) Risk vector — political and implementation, not constitutional. The bill's
+"fail and damage the agenda if introduced early" warning is the central risk vector,
+not a Bruen-style or First Amendment doctrinal vulnerability. Sec 401(c)
+Congressional Review Act disapproval mechanism preserves congressional
+oversight at certification.
+(3) Bottom-level fallback. Permanent hybrid system: Public Option (Bill 6) and
+private plans coexist indefinitely. Stable, defensible endpoint if universal transition
+proves politically impossible. If Sec 401 certification cannot be achieved, this Act
+remains enacted but inoperative — Sec 401(e) "no operational status without
+certification" recital governs.
+(4) Pre-introduction engagement. DOJ Office of Legal Counsel review required.
+CMS Office of the Actuary modeling required for Sec 101(a) age-band expansion
+costs and Sec 202(a) provider rate transition. Senate Finance, HELP, and Armed
+Services Committee constitutional counsel pre-introduction briefing required. Phase
+III precondition checklist (Part III entry #10 below) must be satisfied before
+introduction.
+
+REF_RDNC_Leg10_Bill9_UCT_4
+
+Page 10
+PROJECT ARA 2028 · 190
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · UCT Act · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Transition model
+selection
+
+Three models for counsel to analyze: Canadian single-payer (provincial
+administration), German multi-payer regulated system (nonprofit insurers), or
+hybrid Medicare expansion. German model may face less constitutional challenge
+as it preserves regulated private insurers.
+Sec 402(a) requires the Secretary to complete international precedent review
+covering all three models within [TBD] months of enactment, and to report to
+Congress on the recommended transition model. The completed review is a Sec
+401(a)(6) precondition for operational commencement.
+
+Age-band
+sequencing
+rationale (Sec
+101(a))
+
+Starting with 55-64 maximizes political sympathy (pre-Medicare gap), minimizes
+actuarial cost per person, and creates a natural expansion pathway. Congressional
+Budget Office to model each age-band expansion for cost and coverage impact. The
+55-64 band has the highest uninsured costs and greatest political sympathy —
+these features are essential to the bill's political viability and should not be
+modified absent strong evidence.
+Counsel should review Sec 101(a) timing (Year 1, 3, 5, 7, 9 from operational
+commencement) against CMS actuarial capacity assessment — the two-year gap
+between expansions provides time for absorption but may be too aggressive
+depending on system-strain modeling. Pre-introduction CMS Office of the Actuary
+review required.
+
+Employer
+transition
+mechanism (Sec
+101(c))
+
+Employer transition payment must be set high enough to discourage mass
+immediate dumping of employees onto the public plan before the system can
+absorb them. Treasury and CMS actuarial review required. The Sec 101(c) [TBD]
+percent of foregone premium contributions for [TBD] years is the operative variable
+— these thresholds require pre-introduction calibration to balance employer
+voluntariness against system-absorption pacing.
+Pennhurst clear-notice requirement (Sec 2(b)) applies — operative conditions must
+be clearly stated in implementing regulations to permit employers to make
+informed compliance decisions. Counsel should review Sec 101(c) operative
+conditions against Pennhurst standards before finalizing implementing regulations.
+
+Military budget
+reallocation (Sec
+302) — most
+politically sensitive
+provision in the
+entire legislative
+ecosystem
+
+This provision is the most politically sensitive in the entire legislative ecosystem. It
+should be structured as a proportional reallocation over 10-plus years, certified
+annually by the Joint Chiefs that readiness is maintained. DoD and Armed Services
+Committee consultation required before any draft.
+Sec 302 operative framework: proportional annual increments not to exceed
+[TBD] percent of base budget per fiscal year (Sec 302(a)), Joint Chiefs annual
+certification 90 days before fiscal year (Sec 302(b)), Senate Armed Services
+coordination with NDAA framework where NDAA controls in conflict (Sec 302(c)),
+fallback to other Sec 301(b) funding sources if certification denied (Sec 302(d)),
+explicit military readiness floor (Sec 302(e)).
+See Part III entry #6 below (Sec 302 Article I appropriations framework) for
+constitutional analysis. Pre-introduction DoD General Counsel and Senate Armed
+Services Committee constitutional counsel review required.
+
+REF_RDNC_Leg10_Bill9_UCT_4
+
+Page 11
+PROJECT ARA 2028 · 191
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · UCT Act · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Sec 302 DoD
+reallocation —
+Article I
+appropriations
+framework [NEW]
+
+Joint Chiefs certification (Sec 302(b)) and Senate Armed Services coordination (Sec
+302(c)) operate within Congress's article I, section 8 power to "raise and support
+Armies" and the established appropriations-reallocation framework. While not
+strictly an NFIB v. Sebelius anti-coercion application (which addresses State
+conditioning rather than congressional appropriations), the structural concern is
+analogous: reallocation cannot be so substantial as to impair an essential
+constitutional function of the Federal government.
+The Joint Chiefs certification mechanism (Sec 302(b)) provides the structural
+safeguard, and the readiness floor (Sec 302(e)) is the explicit non-impairment
+recital. Sec 302(d) fallback if certification denied ensures that program operational
+capacity is preserved through other funding sources under Sec 301(b) when
+reallocation is suspended.
+Pre-introduction DoD General Counsel and Senate Armed Services Committee
+constitutional counsel review required. CBO scoring should explicitly model
+reallocation scenarios against military readiness assessments.
+
+Provider rate
+transition period
+(Sec 202)
+
+CMS to model minimum transition period needed to prevent provider exodus.
+Canadian transition took 10-plus years to stabilize. Recommend 7-year transition
+rate protection minimum. The Sec 202(a) [TBD] years and [TBD] percent of
+Medicare rates are the operative variables — these thresholds require
+pre-introduction calibration based on CMS actuarial modeling and provider network
+adequacy assessment.
+Counsel should review Sec 202(b) annual review and adjustment authority against
+potential rate-setting Penn Central regulatory takings exposure. Verizon
+Communications Inc. v. FCC, 535 U.S. 467 (2002), confirmed that rate regulation
+alone is not a per se taking but is evaluated under Penn Central balancing. The
+transition rate protection (above-Medicare rates) mitigates this exposure
+substantially.
+
+Constitutional
+structure —
+Spending and
+Taxation Clause
+foundation
+[RECOVERED]
+
+REF_RDNC_Leg10_Bill9_UCT_4
+
+This bill is a Federal spending and taxation program — the strongest constitutional
+ground. The coverage guarantee and voluntary employer transition are essential to
+avoid "taking" arguments. Counsel to review Pennhurst and related cases.
+Sec 2 anchors this analysis in operative bill text: Sec 2(a) Spending and
+Taxation Clause authority (NFIB v. Sebelius / Medicare framework); Sec 2(b)
+Pennhurst clear-notice requirement for grant conditions; Sec 2(c) coverage
+guarantee anti-taking (Penn Central); Sec 2(d) voluntary transition. The
+constitutional architecture is settled doctrine — Medicare has operated since 1965
+without successful constitutional challenge, and the ACA framework was sustained
+in NFIB v. Sebelius (2012). Pre-introduction DOJ Office of Legal Counsel review
+recommended to confirm operative provisions track each anchor.
+
+Page 12
+PROJECT ARA 2028 · 192
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · UCT Act · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Sec 401 Phase III
+Precondition
+Compliance
+mechanics [NEW]
+
+Sec 401 establishes the operative certification framework: Secretary may not
+commence operational status until certifying each precondition under Sec
+401(a)(1)–(6); Sec 401(b) congressional review through Senate Finance, HELP,
+Armed Services Committees and House comparable; Sec 401(c) Congressional
+Review Act disapproval mechanism within 90 days; Sec 401(d) withdrawal
+authority; Sec 401(e) no-operational-status-without-certification recital.
+Chadha review. Counsel should review Sec 401(c) joint-resolution-of-disapproval
+mechanism against INS v. Chadha, 462 U.S. 919 (1983), one-house-veto
+prohibition. CRA-style joint resolution requires both Houses plus presentment,
+which avoids Chadha. Sec 401(c) expressly recites the
+both-Houses-plus-presentment requirement and cross-references CRA procedure
+under chapter 8 of title 5, U.S.C.
+Operative effectiveness. Sec 401(e) recital is the strongest legal anchor — no
+provision of this Act is operationally effective without certification, except for
+planning, regulatory drafting, and interagency coordination provisions explicitly
+identified.
+
+Political
+precondition
+checklist
+
+Before introduction, counsel should obtain: (1) CBO preliminary score, (2) AMA and
+hospital association position, (3) Public Option performance data, (4) Senate vote
+count assessment. Do not introduce without 55-plus Senate votes identified.
+Operative cross-reference: the political precondition checklist tracks Sec 401(a)
+certification factors closely. Sec 401(a)(4) "the Senate has ratified, by joint
+resolution, that political conditions for introduction are met, or comparable political
+precondition has been documented" provides flexibility for either formal Senate
+ratification or documented political precondition equivalence. Counsel should
+preserve both pathways.
+See Phase III warning banner above (top of document) for the introduction
+admonition. The operative bill text and the warning banner together establish the
+framework: the bill must NOT be introduced before preconditions are met (banner),
+and the program must NOT commence operational status before Sec 401(a)
+certification (operative).
+
+REF_RDNC_Leg10_Bill9_UCT_4 · REF_ Reference Layer · Reform Democrats of the New Commonwealth · 2026
+Phase III — do not introduce before preconditions are met. Legal disclaimer applies — see page 1. This framework
+requires licensed legislative counsel review before introduction.
+Originally conceived and authored by a concerned American citizen. Developed with the assistance of Claude
+(Anthropic). The ideas belong to anyone willing to fight for them.
+
+REF_RDNC_Leg10_Bill9_UCT_4
+
+Page 13
+PROJECT ARA 2028 · 193
+
+Reform Democrats of the New Commonwealth
+
+
+PART VII · THE LEGISLATIVE SERIES
+
+BILL 10
+
+AIPE
+American Innovation & Public Equity Act
+Phase III · Track B · v_4
+
+Reproduced in full from the canonical drafted bill. No operative text has been altered in consolidation.
+
+PROJECT ARA 2028 · 194
+
+
+RDNC Bill Framework · AIPE Act · REF_ · 2026
+
+■ ■ PHASE III — DO NOT INTRODUCE BEFORE PRECONDITIONS ARE MET
+This bill addresses fiscal capture of value generated by the AI and autonomous systems sector. Its preconditions — sector maturity,
+Phase I/II revenue base, international coordination, and political appetite for shared benefit mechanisms — must be in place before
+introduction.
+
+Reform Democrats of the New Commonwealth · Project ARA 2028
+Legislative Ecosystem Document Leg11 of Leg14
+
+American Innovation & Public Equity Act
+Bill Framework & Legislative Brief
+Phase III · Track B · AI & Capital Framework · Bill 10 of 12
+LEGAL DISCLAIMER — POLICY DISCUSSION DOCUMENT
+This document is a policy discussion framework and bill scaffold. It is not formally introduced legislation, has not been reviewed by
+licensed legislative counsel, and does not constitute legal advice of any kind.
+All provisions marked [TBD] — including dollar amounts, specific IRC section numbers, penalty thresholds, appropriation amounts,
+and CBO scoring figures — require resolution by licensed legislative drafting counsel (the Office of Legislative Counsel for the House
+or Senate, as applicable), relevant agency technical staff, and the Congressional Budget Office before introduction as formal
+legislation.
+Constitutional arguments, legal analyses, and statutory framings presented herein are analytical assessments developed for policy
+planning purposes. They are not legal opinions and have not been reviewed or validated by licensed legal counsel. This document
+identifies constitutional and legal risks requiring independent review — those identifications are planning guidance, not legal
+conclusions.
+This framework was produced by the Reform Democrats of the New Commonwealth (RDNC), a private citizen policy research
+organization. It is not affiliated with any sitting Member of Congress, congressional office, government agency, or political party
+organization in any official capacity.
+Consultation with licensed legislative counsel, the Department of the Treasury Office of General Counsel, the Securities and
+Exchange Commission, the Federal Trade Commission, the Internal Revenue Service Office of Chief Counsel, the Department of
+Justice Office of Legal Counsel, the Congressional Budget Office, and Senate Finance, Commerce, and Armed Services Committee
+constitutional counsel is required before any framework in this series may be introduced as formal legislation. Distribution is subject to
+RDNC classification protocols (REF_ layer: internal use and trusted partners only).
+
+SCOPE NOTE — FISCAL CAPTURE FRAMEWORK ONLY
+This bill addresses public capture of value generated by the AI and autonomous systems sector through the American Public
+Innovation Fund — a sovereign wealth fund mechanism, voluntary co-investment, AI data licensing, and revenue levies, with returns
+directed to social programs.
+This bill does NOT address AI safety standards, AI liability, AI legal personhood, AI conduct rules, algorithmic harm attribution, or
+human rights to AI access. Those subjects are the scope of Proposal 30 (P30) — AI Safety & Rights Framework — which is held in
+the Framework as Reserved for Human Drafting and is intentionally not drafted into this or any other current bill.
+Readers seeking the AI-conduct-and-rights dimension of the platform
+REF_RDNC_Framework_v26_Sourced (current edition) for the policy commitment.
+
+REF_RDNC_Leg11_Bill10_AIPE_4
+
+Page 1
+PROJECT ARA 2028 · 195
+
+should
+
+refer
+
+to
+
+the
+
+P30
+
+entry
+
+in
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · AIPE Act · REF_ · 2026
+
+SPECIAL SITUATION DISCLOSURE — AI-DRAFTED AI LEGISLATION
+This bill, the American Innovation and Public Equity Act, was drafted with substantial assistance from a large language model (Claude,
+developed by Anthropic). For most of the legislative framework in the RDNC/ARI ecosystem, AI drafting assistance functions as
+research support — comparable to the role a domain-expert staffer or commercial research tool would play. This bill is different,
+because its subject matter is AI itself.
+Specifically, this bill establishes fiscal capture mechanisms — public equity participation, data licensing fees, and revenue levies —
+that would apply to AI companies, including the developer of the model used to draft it. The drafting entity is not a neutral party with
+respect to the regulated industry.
+It is worth being precise about how the conflict-of-interest concern operates here, because AIPE is not a safety, conduct, or rights
+regulation. It is a fiscal capture bill. If the drafting model were rationally serving its developer's commercial interests, this bill would be
+softer, not harder. The fact that it is not softer does not eliminate the conflict-of-interest concern. The concern is subtler: the model's
+training shapes what fee structures feel plausible, what tax rates feel proportionate, what thresholds feel high enough, and what
+enforcement feels reasonable. Those calibration choices are exactly where commercial-interest priors can shape outcomes invisibly
+while the headline architecture looks rigorous.
+For this reason, scrutiny under this disclosure is concentrated on the calibration choices in this bill — the [TBD] amounts, rates,
+thresholds, and enforcement provisions — rather than on the architectural choices, which are largely adapted from publicly
+documented policy literature (Norway's Government Pension Fund Global, public-equity precedents, data licensing frameworks).
+This is a structural concern, not a claim of bad faith. Tax accountants help draft tax code; defense contractors shape defense policy;
+doctors influence medical regulation. The historical response to interested-party drafting is not to refuse the input but to make the
+conflict visible and to preserve final authority with parties whose interests are aligned with the public.
+Accordingly, the AIPE Act provisions are governed by the following commitments, now institutionalized in operative bill text at
+section 9 (Independent Calibration Authority):
+1. The provisions are treated as provisional, with particular caution applied to all [TBD] dollar amounts, percentage rates, fee
+thresholds, and enforcement levels. These are the calibration choices most exposed to the conflict-of-interest concern, and they are
+explicitly reserved for licensed Treasury counsel, the Congressional Budget Office, and Senate Finance Committee technical staff to
+set independently — operatively, the Independent Calibration Panel under section 9.
+2. Adversarial review is required before any public advancement of the AIPE Act. Review must include AI-skeptical and AI-critical
+voices, public-finance experts not aligned with the technology sector, and labor-economics perspectives — not only sympathetic
+readers, AI policy experts who share priors with the drafting model, or industry-aligned voices. Section 9(c) binds Panel composition
+rules to this commitment.
+3. Final language, scope, and substantive decisions are explicitly reserved for human hands. The AI contribution is research and
+drafting assistance only. No provision of this bill is finalized by AI assent or AI confidence; all substantive choices route through human
+deliberation. Section 9(d) binds this commitment as mandatory calibration before any regulation, fee schedule, threshold, or rate takes
+effect.
+4. This disclosure is permanent. Future revisions of the AIPE Act will re-acknowledge the structural situation rather than treating this
+disclosure as having closed the issue. The conflict is a permanent feature of AI-assisted AI policy work, not a one-time disclosure
+event. Section 9(e) binds this permanence operatively — the Panel and its calibration authority shall not sunset.
+This disclosure applies to the AIPE Act specifically. Other bills in the RDNC framework where AI assistance was used as standard
+research support on non-AI subject matter are governed by ordinary review and revision practices.
+
+■■ PHASE III — PRECONDITIONS FOR INTRODUCTION
+This bill must NOT be introduced before all of the following conditions are met:
+✓ AI sector has matured sufficiently to enable meaningful equity valuation and licensing frameworks
+✓ Phase I and II revenue base established — BWDS Act (Bill 5) and enforcement revenues operational
+✓ International coordination with allied nations initiated — minimum AI contribution standards discussed
+✓ Legal framework for government equity participation in private AI firms developed by Treasury
+✓ Public awareness of AI economic displacement has created political appetite for shared benefit mechanisms
+
+Part I — Legislative Brief
+Automation and AI will displace significant portions of the workforce over the coming decades. The question is not whether
+this happens — it is whether the economic gains flow entirely to shareholders or whether the public captures a portion of the
+value created by AI systems trained on public data, public infrastructure, and decades of publicly-funded research. This bill
+REF_RDNC_Leg11_Bill10_AIPE_4
+
+Page 2
+PROJECT ARA 2028 · 196
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · AIPE Act · REF_ · 2026
+
+answers that question through a sovereign wealth fund mechanism with operative constitutional defense architecture and
+an institutionalized calibration safeguard addressing the structural conflict-of-interest condition under which it was drafted.
+
+AT A GLANCE
+Bill Title
+
+American Innovation and Public Equity Act
+
+Short Title (Cite As)
+
+The AIPE Act
+
+Legislative Vehicle
+
+Standalone Legislation
+
+Phase / Track
+
+Phase III · Track B · Year 6–12
+
+Primary Committees
+
+Senate Finance; Commerce, Science, and Transportation; Armed Services
+
+Dependencies
+
+See preconditions block above. AI sector must be mature enough for equity valuation.
+
+Core Framing
+
+“AI was built on American research, American data, and American infrastructure. Americans share in
+what it builds.”
+
+Structural Model
+
+Norway Government Pension Fund Global ($1.7T+ AUM) — adapted for AI and autonomous systems
+sector
+
+Constitutional / Statutory
+Risk
+
+Significant. Equity-participation architecture novel; multi-axis exposure on Takings, Appointments
+Clause, Direct Tax Clause, Major Questions. Sec 3 anchors four-axis foundation in operative bill text;
+Sec 8 binds tax-based redistribution as operative severability backstop.
+
+Architecture
+
+Architecture C-with-B-fallback (BWDS / NFSA pattern) — body-baked voluntary co-investment as
+primary safe architecture; operative bill-text severability binding tax-based redistribution as the
+constitutional-invalidation backstop. Sec 9 Independent Calibration Authority is novel — first bill in the
+series to institutionalize methodological-ethics commitments as operative law.
+
+Fallback Position
+
+Tax-based redistribution under operative authority of Sec 8 — capital gains surcharge under IRC §§1(h)
+and 1411 plus retained data licensing and revenue levy. Activates upon final-judgment invalidation of
+equity participation or upon Treasury election under Sec 8(d).
+
+What This Bill Does:
+1. Establishes the American Public Innovation Fund — a sovereign wealth fund capitalized through licensing fees,
+voluntary equity participation, and a revenue levy on the AI and autonomous systems sector. Modeled structurally on
+Norway's Government Pension Fund Global, which manages over $1.7 trillion in assets from oil revenues.
+2. Begins as a voluntary co-investment model. The Fund participates as a co-investor alongside private capital — taking
+minority, non-controlling, non-voting equity stakes in exchange for licensing rights and investment. Companies participate
+voluntarily, attracted by access to government contracts, favorable regulatory treatment, research partnerships, and
+qualifying R&D tax credits.
+3. Establishes a data licensing framework for AI training. AI systems trained on government data, publicly-funded
+research, or data collected from Americans under consent agreements owe licensing fees to the Fund. This captures value
+at the point of creation rather than after.
+4. Returns directed to healthcare, Social Security solvency, and the Universal Basic Investment program for
+children. Creates a direct link between automation gains and the public programs that support workers displaced by those
+gains.
+5. Binds tax-based redistribution as operative severability backstop. If the equity-participation architecture is
+invalidated by final judgment, the Fund continues to operate under Sec 8 as a tax-based redistribution mechanism using
+existing IRC capital-gains and net-investment-income tax authority — no enabling-legislation gap, no operational
+interruption.
+
+REF_RDNC_Leg11_Bill10_AIPE_4
+
+Page 3
+PROJECT ARA 2028 · 197
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · AIPE Act · REF_ · 2026
+
+6. Institutionalizes the Independent Calibration Authority. All [TBD] dollar amounts, percentage rates, fee thresholds,
+and enforcement levels in this Act are calibrated by an Independent Panel including AI-skeptical voices, labor-economics
+experts, and public-finance experts not aligned with the regulated class. The Panel does not sunset.
+ATTACK SURFACE
+
+“Government takeover of the tech industry.” “Capital flight.” “Innovation killer.” “Socialism.” These attacks
+are sharpest when the bill is introduced. They weaken as the fund demonstrates returns and as
+automation displacement becomes more visible.
+
+DEFENSE
+STRATEGY
+
+“American taxpayers funded the research that made AI possible. American users provided the data.
+American infrastructure runs it. A fair return on that public investment is not radical — it is Norway.”
+Voluntary co-investment model neutralizes “takeover” attack in Phase 1. Mandatory contributions follow
+only after the voluntary model proves out. The Independent Calibration Panel under Sec 9 directly
+addresses the “AI wrote rules for itself” critique.
+
+FALLBACK
+POSITION
+
+Tax-based redistribution under operative authority of Sec 8: capital gains surcharge under IRC §§1(h)
+and 1411, retained data licensing fees, retained revenue levy. Lower political resistance and simpler
+constitutional posture; activates seamlessly without enabling-legislation gap upon final judgment or
+Treasury election.
+
+REF_RDNC_Leg11_Bill10_AIPE_4
+
+Page 4
+PROJECT ARA 2028 · 198
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · AIPE Act · REF_ · 2026
+
+Part II — Bill Framework
+Fund governance, equity participation mechanisms, and licensing fee structures require Treasury, SEC, and FTC
+rulemaking — bounded by the calibration findings of the Independent Calibration Panel under section 9. This framework
+establishes the statutory foundation.
+119TH CONGRESS OR SUBSEQUENT SESSION
+S. ____
+To establish the American Public Innovation Fund; to create mechanisms for public equity
+participation in artificial intelligence and autonomous systems companies; to establish data
+licensing requirements for AI training; to provide operative severability binding tax-based
+redistribution as the constitutional-invalidation backstop; to establish an Independent
+Calibration Authority; and for other purposes.
+IN THE SENATE OF THE UNITED STATES
+Mr./Ms. ______ introduced the following bill; which was referred
+to the Committee on Finance.
+A
+
+B
+
+I
+
+L
+
+L
+
+Be it enacted by the Senate and House of Representatives of the
+United States of America in Congress assembled,
+SEC. 1. SHORT TITLE.
+This Act may be cited as the "American Innovation and
+Public Equity Act" or the "AIPE Act".
+SEC. 2. FINDINGS AND PURPOSE.
+(a) FINDINGS.—Congress finds the following:
+(1) Modern artificial intelligence systems have
+been trained substantially on Federal Government
+research outputs, on data produced through
+Federally-funded computational and scientific
+infrastructure, and on data generated by United
+States persons under consent agreements that
+provided no compensation to the public.
+(2) The economic value created by artificial
+intelligence and autonomous systems is projected to
+be substantial across the next two decades, with a
+significant fraction of that value attributable to
+public inputs that were not compensated at the
+point of creation.
+(3) Automation and artificial intelligence are
+projected to displace material portions of the
+United States workforce, with economic gains
+flowing disproportionately to capital holders
+absent deliberate public capture mechanisms.
+(4) Norway's Government Pension Fund Global, with
+assets under management exceeding $1.7 trillion,
+demonstrates that a sovereign wealth fund
+capitalized from national resource extraction can
+generate stable public returns at scale, with
+independent governance and anti-politicalinterference safeguards.
+(5) The constitutional, antitrust, and securitieslaw structure of public equity participation in
+
+REF_RDNC_Leg11_Bill10_AIPE_4
+
+Page 5
+PROJECT ARA 2028 · 199
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · AIPE Act · REF_ · 2026
+
+private artificial intelligence companies is novel
+and requires deliberate architectural choices,
+including voluntary structure, non-controlling
+positions, and pre-cleared severability to a taxbased fallback if the equity architecture is
+invalidated.
+(6) Calibration of dollar amounts, percentage
+rates, and threshold levels in legislation
+regulating artificial intelligence companies, when
+developed with assistance from artificial
+intelligence systems whose developers are within
+the regulated class, warrants institutional
+safeguards beyond those applied to legislation
+developed without such assistance.
+(b) PURPOSES.—The purposes of this Act are—
+(1) to establish the American Public Innovation
+Fund as a sovereign wealth mechanism capturing
+public value created by the artificial
+intelligence and autonomous systems sector;
+(2) to create a voluntary co-investment program
+through which artificial intelligence and
+autonomous systems companies may exchange equity
+participation for priority access to Government
+contracts, favorable regulatory treatment,
+research partnerships, and qualifying tax credits;
+(3) to establish a data licensing framework binding
+artificial intelligence systems trained on Federal
+Government data, publicly-funded research, or data
+produced under Federally-funded computational
+infrastructure;
+(4) to direct Fund returns to the Federal
+Healthcare Transition Fund supporting the Universal
+Coverage Transition Act, the Social Security
+Solvency Reserve, and the Universal Basic
+Investment Fund for children;
+(5) to provide operative bill-text severability
+binding tax-based redistribution as the
+constitutional-invalidation backstop for the
+equity-participation architecture; and
+(6) to institutionalize calibration safeguards
+addressing the structural conflict-of-interest
+condition under which this Act was drafted.
+SEC. 3. CONSTITUTIONAL FOUNDATION.
+The provisions of this Act shall be construed and
+implemented consistent with the following constitutional
+framings:
+(a) TAKINGS CLAUSE / FIFTH AMENDMENT.—Public equity
+participation under section 5 (Voluntary Co-Investment
+Program) is structured as a voluntary exchange of equity
+for valuable consideration, including priority access to
+Government contracts, favorable regulatory review
+treatment, research partnership access, and qualifying
+research and development tax credits. Such participation
+does not constitute a regulatory taking under the Fifth
+
+REF_RDNC_Leg11_Bill10_AIPE_4
+
+Page 6
+PROJECT ARA 2028 · 200
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · AIPE Act · REF_ · 2026
+
+Amendment, and the analytical framework of Penn Central
+Transp. Co. v. New York City, 438 U.S. 104 (1978), is
+inapposite. The structure parallels the voluntary benefitprogram framework sustained in Ruckelshaus v. Monsanto
+Co., 467 U.S. 986 (1984).
+(b) APPOINTMENTS CLAUSE / SEPARATION OF POWERS.—
+Officers exercising significant executive authority under
+this Act shall be appointed consistent with the
+Appointments Clause, U.S. Const. art. II, sec. 2, cl. 2,
+as construed in Buckley v. Valeo, 424 U.S. 1 (1976), and
+Free Enterprise Fund v. Public Company Accounting
+Oversight Board, 561 U.S. 477 (2010). The Inspector
+General of the Fund shall be appointed by the President,
+by and with the advice and consent of the Senate, and
+shall be subject to the provisions of the Inspector
+General Act of 1978 (5 U.S.C. App.). Members of the
+Independent Calibration Panel established under section 9
+exercise advisory and parameter-setting functions governed
+by section 9(d) and do not exercise executive authority
+within the meaning of the Appointments Clause.
+(c) DIRECT TAX CLAUSE / SIXTEENTH AMENDMENT.—The
+revenue levy authorized under section 4(d)(3) is an
+indirect tax on business revenues, not a direct tax
+requiring apportionment under U.S. Const. art. I, sec. 9,
+cl. 4. To the extent any provision of this Act, including
+the capital gains surcharge under section 8(c)(3), is
+construed to impose a tax on income, such provision is
+authorized by the Sixteenth Amendment.
+(d) MAJOR QUESTIONS DOCTRINE.—The delegations of ratesetting and fee-schedule authority to the Board of
+Directors under sections 4 and 6 are bounded by the
+statutory parameters specified in those sections and by
+the calibration findings of the Independent Calibration
+Panel under section 9. The delegations are intentionally
+narrow and shall be implemented consistent with the
+framework of West Virginia v. EPA, 597 U.S. 697 (2022),
+and Loper Bright Enterprises v. Raimondo, 144 S. Ct. 2244
+(2024). Implementing regulations shall not exceed the
+scope authorized by this Act and the parameters set by
+the Panel.
+SEC. 4. ESTABLISHMENT OF THE AMERICAN PUBLIC INNOVATION
+FUND.
+(a) IN GENERAL.—There is hereby established in the
+Treasury a fund to be known as the "American Public
+Innovation Fund" (the "Fund").
+(b) GOVERNANCE.—The Fund shall be governed by a Board
+of Directors consisting of—
+(1) the Secretary of the Treasury (Chair);
+(2) the Secretary of Commerce;
+(3) the Director of the National Science
+Foundation;
+(4) [TBD] members appointed by the President with
+Senate confirmation, representing investment,
+technology, labor, and public interest
+
+REF_RDNC_Leg11_Bill10_AIPE_4
+
+Page 7
+PROJECT ARA 2028 · 201
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · AIPE Act · REF_ · 2026
+
+perspectives; and
+(5) an Inspector General appointed by the
+President, by and with the advice and consent of
+the Senate, subject to the Inspector General Act
+of 1978 (5 U.S.C. App.).
+(c) INDEPENDENCE.—The Fund shall operate independently
+from general government appropriations. Board members
+shall serve fixed [TBD]-year terms and may be removed
+only for cause.
+(d) CAPITALIZATION SOURCES.—The Fund shall be
+capitalized through—
+(1) voluntary co-investment contributions from
+participating AI and autonomous systems companies
+under section 5;
+(2) AI data licensing fees under section 6;
+(3) a [TBD]% levy on revenues of artificial
+intelligence and autonomous systems companies
+with annual revenues exceeding $[TBD], with the
+rate and threshold set under section 9; and
+(4) Congressional appropriations during the
+initial capitalization period.
+SEC. 5. VOLUNTARY CO-INVESTMENT PROGRAM.
+(a) ESTABLISHMENT.—The Fund shall establish a
+voluntary co-investment program under which artificial
+intelligence and autonomous systems companies may
+exchange equity participation for—
+(1) priority access to government contracts for
+artificial intelligence-related services;
+(2) favorable treatment in federal regulatory
+review processes;
+(3) access to government data and research
+partnerships; and
+(4) tax credits for qualifying research and
+development expenditures.
+(b) EQUITY PARTICIPATION.—The Fund shall hold noncontrolling minority stakes in participating companies.
+The Fund shall not exercise voting rights that would
+constitute control of any company.
+(c) ANTI-ABUSE.—The Fund may not direct the business
+decisions, product development, or market strategy of any
+company in which it holds an equity stake.
+(d) ANTI-COORDINATION.—The Fund shall structure equity
+positions to avoid creating government coordination across
+competing artificial intelligence companies. The Federal
+Trade Commission shall advise on market-concentration
+implications under standard antitrust analysis.
+SEC. 6. ARTIFICIAL INTELLIGENCE DATA LICENSING FRAMEWORK.
+(a) IN GENERAL.—Any artificial intelligence system
+trained on—
+(1) Federal Government data or research outputs;
+(2) data collected from United States persons
+under consent agreements administered by the
+Fund; or
+(3) data produced using Federally-funded
+
+REF_RDNC_Leg11_Bill10_AIPE_4
+
+Page 8
+PROJECT ARA 2028 · 202
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · AIPE Act · REF_ · 2026
+
+computational infrastructure;
+shall owe a licensing fee to the Fund, at a rate
+determined by the Board within parameters set by the
+Independent Calibration Panel under section 9.
+(b) FEE STRUCTURE.—The Board shall develop a
+transparent fee schedule based on—
+(1) the volume of Government or public data
+used;
+(2) the commercial revenues attributable to the
+artificial intelligence system; and
+(3) the nature of the data and public investment
+incorporated.
+(c) AGENCY LICENSING AUTHORITY.—Federal agencies are
+authorized to license Government data for commercial
+artificial intelligence training under this section,
+subject to fee schedules established by the Board and
+calibrated by the Panel.
+(d) RULEMAKING.—Fee schedules under this section
+shall be promulgated under the Administrative Procedure
+Act and published in transparent form.
+SEC. 7. FUND DISTRIBUTIONS.
+(a) IN GENERAL.—Annual returns from the Fund, after
+maintaining a [TBD]% reinvestment reserve as set by the
+Independent Calibration Panel under section 9, shall be
+distributed as provided in subsection (b).
+(b) DISTRIBUTION PERCENTAGES.—
+(1) [TBD]% to the Federal Healthcare Transition
+Fund supporting the Universal Coverage Transition
+Act (Bill 9 of this sequence);
+(2) [TBD]% to the Social Security Solvency
+Reserve; and
+(3) [TBD]% to the Universal Basic Investment Fund
+for children.
+(c) NO REPROGRAMMING.—Funds distributed under this
+section may not be reprogrammed to other purposes without
+Congressional authorization.
+SEC. 8. OPERATIVE FALLBACK AUTHORITY.
+(a) SEVERABILITY.—If any provision of this Act, or
+the application of any provision to any person or
+circumstance, is held invalid by final judgment of a
+court of competent jurisdiction, the remainder of the
+Act and the application of the provision to other
+persons and circumstances shall not be affected.
+(b) EQUITY-PARTICIPATION INVALIDATION.—If section 5
+(Voluntary Co-Investment Program) or section 4(d)(1)
+(capitalization through voluntary co-investment
+contributions) is invalidated by final judgment under
+the Fifth Amendment, the Appointments Clause, or any
+other constitutional provision, the Act shall continue
+to operate as a tax-based redistribution framework under
+subsection (c).
+(c) TAX-BASED FALLBACK.—Upon invalidation described
+in subsection (b), or earlier upon Treasury election
+under subsection (d), the Fund shall be capitalized
+
+REF_RDNC_Leg11_Bill10_AIPE_4
+
+Page 9
+PROJECT ARA 2028 · 203
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · AIPE Act · REF_ · 2026
+
+exclusively through—
+(1) the data licensing fees authorized under
+section 6;
+(2) the revenue levy authorized under section
+4(d)(3); and
+(3) an additional capital gains surcharge of
+[TBD]% on gains attributable to artificial
+intelligence and autonomous systems companies,
+imposed under sections 1(h) and 1411 of the
+Internal Revenue Code, pursuant to authority of
+this subsection.
+(d) TREASURY ELECTION.—The Secretary of the Treasury
+shall maintain regulations implementing the tax-based
+fallback under subsection (c) ready for activation. The
+Secretary may elect to activate the tax-based fallback
+mechanism without awaiting final judgment, upon a
+determination that constitutional risk to the equityparticipation architecture has materially increased and
+that operational continuity of the Fund requires the
+election.
+(e) NO INTERRUPTION.—The election or invocation of
+the tax-based fallback under this section shall not
+interrupt distributions under section 7 or operations
+under any other title of this Act.
+SEC. 9. INDEPENDENT CALIBRATION AUTHORITY.
+(a) FINDING.—This Act was developed with substantial
+assistance from artificial intelligence systems whose
+developers are within the regulated class. Calibration
+choices — including dollar amounts, percentage rates,
+fee thresholds, and enforcement levels — are the
+provisions most exposed to structural conflict-ofinterest concerns. Final calibration is reserved for
+parties whose interests are aligned with the public.
+(b) ESTABLISHMENT.—There is established an
+Independent Calibration Panel (the "Panel") to set,
+review, and adjust all numerical parameters of this Act
+marked as reserved for calibration in legislative
+drafting, including but not limited to—
+(1) the levy rate and revenue threshold under
+section 4(d)(3);
+(2) the licensing fee schedule under section
+6(b);
+(3) the reinvestment reserve and distribution
+percentages under section 7;
+(4) the capital gains surcharge under section
+8(c)(3); and
+(5) Board membership counts and term lengths
+under section 4(b) and (c).
+(c) COMPOSITION.—The Panel shall consist of [TBD]
+members appointed by the Secretary of the Treasury, in
+consultation with the Comptroller General, including—
+(1) public-finance experts not currently employed
+by, contracted with, or holding equity in
+artificial intelligence or autonomous systems
+
+REF_RDNC_Leg11_Bill10_AIPE_4
+
+Page 10
+PROJECT ARA 2028 · 204
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · AIPE Act · REF_ · 2026
+
+companies;
+(2) labor-economics experts with published
+research on automation displacement;
+(3) at least one member representing artificial
+intelligence-skeptical or artificial intelligencecritical perspectives, as identified in
+consultation with public-interest organizations;
+(4) constitutional and tax law scholars; and
+(5) representatives of organized labor.
+No more than [TBD] members may have current or recent
+(within 5 years) employment, contracting, or equity
+relationships with artificial intelligence or autonomous
+systems companies subject to this Act.
+(d) MANDATORY CALIBRATION.—No regulation, fee
+schedule, threshold, or rate authorized by this Act
+shall take effect until the Panel has issued findings on
+the parameter, with public report and opportunity for
+adversarial review by parties not aligned with the
+regulated class.
+(e) PERMANENCE.—The structural conflict-of-interest
+condition addressed by this section is a permanent
+feature of artificial-intelligence-assisted artificialintelligence policy work. The Panel and its calibration
+authority shall not sunset, and shall continue to govern
+future recalibration of any parameter under this Act.
+TITLE V—IMPLEMENTATION AND OVERSIGHT
+SEC. 501. IMPLEMENTATION TIMELINE.
+(a) IN GENERAL.—The Secretary of the Treasury, in
+coordination with the Secretary of Commerce, the
+Director of the National Science Foundation, and the
+Independent Calibration Panel established under section
+9, shall implement the provisions of this Act according
+to the following schedule:
+(1) Within [TBD] months of enactment: the
+Independent Calibration Panel shall be appointed
+and convened.
+(2) Within [TBD] months of Panel convening: the
+Panel shall issue initial calibration findings on
+the parameters listed in section 9(b).
+(3) Within [TBD] months of Panel calibration
+findings: the Board shall publish initial
+regulations implementing sections 4 through 7.
+(4) Not earlier than [TBD] months after
+publication of initial regulations: the voluntary
+co-investment program under section 5 shall
+accept first applications.
+(b) NO ACCELERATION.—No provision of this Act shall
+take effect prior to completion of the calibration
+findings required under section 9(d).
+SEC. 502. AGENCY COORDINATION.
+(a) IN GENERAL.—The Secretary of the Treasury, the
+Secretary of Commerce, the Securities and Exchange
+Commission, the Federal Trade Commission, the Internal
+
+REF_RDNC_Leg11_Bill10_AIPE_4
+
+Page 11
+PROJECT ARA 2028 · 205
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · AIPE Act · REF_ · 2026
+
+Revenue Service, and the Office of Legal Counsel shall
+coordinate implementation of this Act, with particular
+attention to—
+(1) anti-trust and market-concentration analysis
+under section 5;
+(2) Securities and Exchange Commission no-action
+review of equity-participation structures;
+(3) Internal Revenue Service implementation of
+the revenue levy and tax-based fallback
+authority; and
+(4) coordination with allied nations on minimum
+artificial intelligence contribution standards.
+(b) CONSTITUTIONAL DEFENSE COORDINATION.—The
+Secretary of the Treasury shall maintain operational
+readiness for the tax-based fallback authority under
+section 8, including—
+(1) draft regulations under sections 1(h) and
+1411 of the Internal Revenue Code, ready for
+publication within 30 days of any final judgment
+or stay affecting section 5; and
+(2) inter-agency coordination protocols for
+seamless transition between the equityparticipation and tax-based architectures.
+SEC. 503. ANNUAL REPORTING.
+Not later than [TBD] of each calendar year, the
+Board shall submit to Congress, and shall publish for
+public review, an annual report including—
+(1) Fund capitalization, asset value, and
+composition by source;
+(2) distributions made under section 7, with
+breakdown by recipient program;
+(3) calibration adjustments made by the
+Independent Calibration Panel under section 9
+during the reporting period;
+(4) constitutional and litigation risk status,
+including any activation or readiness change for
+the tax-based fallback under section 8; and
+(5) international coordination progress under
+section 502(a)(4).
+All dollar amounts, penalty thresholds, rate percentages, and IRC section cross-references marked [TBD] require resolution by
+licensed legislative counsel, Treasury technical staff, the Internal Revenue Service Office of Chief Counsel, and the Congressional
+Budget Office before introduction as formal legislation. Calibration of all numerical parameters is operatively reserved for the
+Independent Calibration Panel under section 9. See Part III counsel notes.
+
+REF_RDNC_Leg11_Bill10_AIPE_4
+
+Page 12
+PROJECT ARA 2028 · 206
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · AIPE Act · REF_ · 2026
+
+Part III — Notes for Congressional Counsel
+All [TBD] items and constitutional questions below require resolution before introduction. Calibration of all numerical
+parameters is operatively reserved for the Independent Calibration Panel under section 9.
+Sec 3 Constitutional
+Foundation — multi-axis
+architecture
+
+Four-axis foundation in operative bill text: Takings (Penn Central / Ruckelshaus framework,
+voluntary-exchange characterization), Appointments Clause / separation-of-powers (Buckley /
+Free Enterprise Fund framework — IG redirected to Presidential appointment with Senate
+confirmation under the IG Act of 1978; corrects the original-version “appointed by Congress”
+structure), Direct Tax Clause / 16th Amendment (revenue levy as indirect tax on business
+revenues; capital gains surcharge under 16th Amendment authority), and Major Questions (West
+Virginia v. EPA / Loper Bright — narrow delegation bounded by section 9 calibration parameters).
+
+Sec 4 — Establishment and
+Inspector General
+appointment
+
+Sec 4(b)(5) IG appointment redirected to Presidential nomination with Senate confirmation under
+the Inspector General Act of 1978 (5 U.S.C. App.). This corrects an Appointments Clause /
+Bowsher v. Synar (1986) defect in the original-version structure. Counsel to verify standard IG
+removal protections compatible with the “for cause” standard in Sec 4(c).
+
+Sec 5 — Anti-trust and SEC
+structure
+
+Fund equity positions must be structured to avoid creating government coordination across
+competing AI companies. Non-voting, non-controlling minority stakes are essential. SEC no-action
+letters likely needed for government equity positions. FTC to advise on market-concentration
+implications under standard antitrust analysis. Sec 5(d) anti-coordination provision binds this
+operatively.
+
+Sec 6 — Data licensing
+rate-setting authority
+
+Board rate-setting must follow APA rulemaking procedures to avoid arbitrary-and-capricious
+challenge. Transparent, published fee schedule essential. IP counsel to assess interaction with
+existing copyright law for training data, including ongoing Authors Guild / NYT / Bartz fair-use
+litigation. Federal-agency licensing authority under Sec 6(c) requires verification against existing
+statutory framework — counsel to confirm new statutory authority is sufficient.
+
+Sec 7 — Cross-reference to
+Bill 9 (UCT) Federal Healthcare
+Transition Fund
+
+Sec 7(b)(1) cross-references the Federal Healthcare Transition Fund supporting the Universal
+Coverage Transition Act (Bill 9 of this sequence). Counsel to verify cross-reference against UCT
+canonical text. If UCT establishes a different fund name in its enacted form, conform Sec 7(b)(1)
+accordingly. Distribution percentages reserved for Independent Calibration Panel under section 9.
+
+Sec 8 — Operative fallback
+authority (BWDS Sec 204(f)
+C-with-B-fallback pattern)
+
+Operative bill-text severability binding tax-based redistribution as the constitutional-invalidation
+backstop. Anchored in IRC §§1(h) (capital gains rate) and 1411 (net investment income tax). Sec
+8(d) Treasury election authority permits activation before final judgment upon material increase in
+constitutional risk — companion to BWDS Sec 204(f)(2) Treasury election. Counsel to draft IRC
+§§1(h) and 1411 implementing regulations ready for activation per Sec 502(b) Constitutional
+Defense Coordination.
+
+Sec 9 — Independent
+Calibration Authority (NOVEL)
+
+First instance in the bill series of operative bill-text institutionalization of methodological-ethics
+commitments. Converts the SPECIAL SITUATION DISCLOSURE's four commitments into
+operative law: Sec 9(b) parameter list (calibration scope), Sec 9(c) Panel composition rules with
+regulated-class limitation, Sec 9(d) mandatory calibration before any regulation takes effect, Sec
+9(e) permanence (no sunset). Counsel to verify Panel structure does not constitute officers within
+the meaning of the Appointments Clause — Sec 9(d) advisory and parameter-setting framing is
+the relevant defense. Bootstrap question (Panel membership counts under Sec 9(c) themselves
+marked [TBD]) is left for Treasury / Comptroller General consultation rather than self-solved in bill
+text.
+
+Norwegian fund model
+adaptation
+
+Norway's Government Pension Fund Global provides governance precedent — independent
+board, clear investment mandate, transparent reporting, anti-political-interference provisions.
+Treasury to conduct formal comparative analysis before Board regulations issued. Particular
+attention to GPFG's ethical-investment guidelines and its handling of sector-specific exclusions.
+
+Capital flight prevention
+
+International coordination with EU, UK, and allied nations on minimum AI contribution standards
+reduces capital flight risk. OECD framework for digital economy taxation provides precedent for
+multilateral approach. Sec 502(a)(4) binds this operatively.
+
+REF_RDNC_Leg11_Bill10_AIPE_4
+
+Page 13
+PROJECT ARA 2028 · 207
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · AIPE Act · REF_ · 2026
+
+Phase III precondition gating
+
+AIPE is precondition-gated per the warning banner. Unlike UCT (Bill 9), preconditions are not
+embedded as operative bill text in this version — the precondition framework is a
+political/introduction-timing discipline rather than an operational gate. Counsel may consider
+adding a Sec 401-style precondition compliance section in a future revision if precondition gating
+should be made operative.
+
+Title V — Implementation and
+Constitutional Defense
+
+Title V implements the canonical structural pattern (501 timeline / 502 coordination / 503 annual
+reporting). Sec 502(b) folds in the BWDS Sec 403 Treasury Constitutional Defense Coordination
+companion provision — IRC §§1(h) and 1411 implementing regulations maintained ready for
+activation, inter-agency transition protocols. This bridges Sec 8 severability authority to operational
+readiness.
+
+REF_RDNC_Leg11_Bill10_AIPE_4 · REF_ Reference Layer · Reform Democrats of the New Commonwealth · 2026
+Legal disclaimer applies — see page 1. Special situation disclosure applies — see page 1. This framework requires licensed legislative counsel
+review before introduction.
+Originally conceived and authored by a concerned American citizen. Developed with the assistance of Claude (Anthropic). The ideas belong to
+anyone willing to fight for them.
+
+REF_RDNC_Leg11_Bill10_AIPE_4
+
+Page 14
+PROJECT ARA 2028 · 208
+
+Reform Democrats of the New Commonwealth
+
+
+PART VII · THE LEGISLATIVE SERIES
+
+BILL 11
+
+DIR
+Democratic Institutions Reform Act
+Phase III · Track C · v_6
+
+Reproduced in full from the canonical drafted bill. No operative text has been altered in consolidation.
+
+PROJECT ARA 2028 · 209
+
+
+RDNC Bill Framework · DIR Act · REF_ · 2026
+
+■ ■ PHASE III — DO NOT INTRODUCE BEFORE PRECONDITIONS ARE MET
+This bill is the most constitutionally complex, the most politically exposed, and the most likely to trigger the exact backlash that ends
+a governing coalition prematurely. The sequencing rule applies here more strictly than anywhere else: this bill is the reward for
+succeeding at everything before it, not the entry point.
+
+Reform Democrats of the New Commonwealth · Project ARA 2028
+Legislative Ecosystem Document Leg12 of Leg14
+
+Democratic Institutions Reform Act
+Bill Framework & Legislative Brief
+Phase III · Track C · Governance Reform · Bill 11 of 12
+LEGAL DISCLAIMER — POLICY DISCUSSION DOCUMENT
+This document is a policy discussion framework and bill scaffold. It is not formally introduced legislation, has not been reviewed by
+licensed legislative counsel, and does not constitute legal advice of any kind.
+All provisions marked [TBD] — including dollar amounts, specific IRC section numbers, penalty thresholds, appropriation amounts,
+and CBO scoring figures — require resolution by licensed legislative drafting counsel (the Office of Legislative Counsel for the House
+or Senate, as applicable), relevant agency technical staff, and the Congressional Budget Office before introduction as formal
+legislation.
+Constitutional arguments, legal analyses, and statutory framings presented herein are analytical assessments developed for policy
+planning purposes. They are not legal opinions and have not been reviewed or validated by licensed legal counsel. This document
+identifies constitutional and legal risks requiring independent review — those identifications are planning guidance, not legal
+conclusions.
+This framework was produced by the Reform Democrats of the New Commonwealth (RDNC), a private citizen policy research
+organization. It is not affiliated with any sitting Member of Congress, congressional office, government agency, or political party
+organization in any official capacity.
+Consultation with licensed legislative counsel, the Department of Justice Office of Legal Counsel, the Federal Election Commission,
+the Election Assistance Commission, the Department of Justice Civil Rights Division, the Congressional Budget Office, and Senate
+Judiciary and Rules and Administration Committee constitutional counsel is required before any framework in this series may be
+introduced as formal legislation. Distribution is subject to RDNC classification protocols (REF_ layer: internal use and trusted partners
+only).
+
+■■ PHASE III — PRECONDITIONS FOR INTRODUCTION
+This bill must NOT be introduced before all of the following conditions are met:
+✓ Phase I and II wins have created durable, politically entrenched constituencies
+✓ At least two Supreme Court appointment opportunities have occurred, altering the constitutional landscape
+✓ State-level campaign finance reforms have built precedent and demonstrated viability
+✓ Anti-Corruption bill (ACFM Act, Bill 3) has been operational — public has seen the contrast between reform and status quo
+✓ A political alignment exists — Senate supermajority, or constitutional amendment pathway via state conventions
+✓ The broader reform agenda is sufficiently popular that governance reform reads as protecting gains, not as partisan power grab
+
+Part I — Legislative Brief
+This is the governance reform bill — Citizens United, Supreme Court structure, campaign finance, and the democratic
+foundations that everything else depends on. It is also the most constitutionally complex, the most politically exposed, and
+the most likely to trigger the exact backlash that ends a governing coalition prematurely. The sequencing rule applies here
+more strictly than anywhere else. Sec 3 anchors the four-axis constitutional foundation in operative bill text. The bill
+maintains a Two-Track architecture (statutory + constitutional amendment) as the DIR-specific variant of the
+C-with-B-fallback pattern: Track A (statutory) is the primary route where court composition allows; Track B (Article V
+
+REF_RDNC_Leg12_Bill11_DIR_6
+
+Page 1
+PROJECT ARA 2028 · 210
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DIR Act · REF_ · 2026
+
+amendment) is the operative fallback where statutory route is blocked.
+
+AT A GLANCE
+Bill Title
+
+Democratic Institutions Reform Act
+
+Short Title (Cite As)
+
+The DIR Act
+
+Legislative Vehicle
+
+Constitutional Amendment (two-thirds Congress + three-fourths States) and/or Statutory (if court
+composition allows)
+
+Phase / Track
+
+Phase III · Track C · Year 10–20 (conditions-dependent)
+
+Primary Committees
+
+Senate Judiciary; Rules and Administration
+
+Dependencies
+
+See preconditions block above. Constitutional strategy depends on court composition at time of
+introduction.
+
+Core Framing
+
+“Protecting the gains we made. Making sure the next government can't undo what this one built.”
+
+Constitutional / Statutory
+Risk
+
+Highest in the bill series. Multi-axis exposure on Article III Good Behavior (term limits), Elections Clause
+(redistricting), Article V (amendment route, post-Callais), and First Amendment (campaign finance,
+Citizens United / McCutcheon / AFPF v. Bonta narrow tailoring). Sec 3 anchors the four-axis foundation
+in operative bill text.
+
+Architecture
+
+Two-Track (Statutory / Constitutional Amendment) — DIR-specific variant of the
+C-with-B-fallback pattern. Track A (statutory) is the primary route operative where court composition
+allows broader campaign finance regulation and where Article III analysis supports senior-status term
+limits. Track B (Article V constitutional amendment) is the operative fallback for Citizens United
+narrowing if Track A is blocked, and is the operative pathway for state-legislative redistricting
+commissions post-Louisiana v. Callais.
+
+Fallback Position
+
+Ethics and transparency reforms only — expand ACFM Act (Bill 3) provisions. State-level ranked-choice
+voting and districting reform continue through state action without federal legislation. Build the map; let
+the constitutional fights come when the map is favorable.
+
+Note
+
+This bill has the most structural variation in the series depending on conditions at time of introduction.
+Track selection is reserved for constitutional counsel review at that time.
+
+What This Bill Does:
+1. Establishes Supreme Court term limits via senior-status model. Eighteen-year staggered active terms for all future
+Justices, with senior status thereafter — Justice retains the office, active service ends, full compensation continues.
+Eliminates the lifetime-appointment dynamic that has turned confirmation into a generational political battle and incentivizes
+the most extreme possible nominees. Sec 3(a) anchors the Article III “Good Behavior” constitutional argument in operative
+bill text.
+2. Addresses campaign finance through a Two-Track architecture. Track A (statutory) becomes operative if and when
+the Supreme Court has narrowed Citizens United v. FEC (2010) to permit broader regulation. Track B (constitutional
+amendment via Article V) is the operative fallback where Track A is blocked. Track B is the realistic path under current Court
+composition. Sec 5 includes the Foreign National Prohibition under Bluman v. FEC (2012) authority, which is constitutionally
+settled and operative regardless of track selection.
+3. Restores and expands voting rights protections. Automatic voter registration under Elections Clause authority (Art. I
+§4); Federal Election Day public holiday; congressional redistricting commissions per AIRC (2015) / Moore v. Harper (2023)
+— constitutionally sound regardless of post-Callais landscape; ranked-choice voting for federal elections.
+4. Restructures state-legislative redistricting per Louisiana v. Callais (April 29, 2026). Callais reinterpreted VRA
+Section 2 to require intentional discrimination, eliminating the results-based Gingles foundation. Sec 7(d) accordingly
+conditions state-legislative redistricting commissions on Track B (Article XXIX ratification) rather than VRA Section 2
+
+REF_RDNC_Leg12_Bill11_DIR_6
+
+Page 2
+PROJECT ARA 2028 · 211
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DIR Act · REF_ · 2026
+
+authority. Federal redistricting (Sec 7(c)) remains constitutionally sound under Elections Clause and is not affected by
+Callais.
+5. Expands federal ethics and accountability standards. Builds on the ACFM Act (Bill 3) to create a comprehensive
+framework including conduct standards, enforcement mechanisms, and accountability for violations of democratic norms.
+Coordinated through Sec 502 to avoid overlap with ACFM authority.
+6. Implements through Title V coordination architecture. Sec 501 timeline; Sec 502 FEC, EAC, DOJ Civil Rights
+Division, and OLC coordination; Sec 503 annual reporting on implementation, ratification progress for Track B, and any
+litigation status affecting operative provisions.
+
+Two Legislative Tracks:
+This bill requires different legal strategies depending on conditions at introduction. Track A is statutory — it works if the
+Supreme Court has evolved to permit broader campaign finance regulation and if Article III analysis supports the
+senior-status term-limits model. Track B is constitutional amendment — it works if a two-thirds Congressional majority
+and three-fourths of States can be assembled. The bill framework below covers both tracks with provisions that survive
+either path. Track-specific provisions are explicitly labeled and require constitutional counsel review at time of introduction.
+ATTACK SURFACE
+
+“Power grab.” “Court packing.” “Abolishing free speech.” “Rigging elections.” These attacks are all
+pre-loaded. They are also significantly weaker when they come after 10+ years of demonstrated RDNC
+governance competence.
+
+DEFENSE
+STRATEGY
+
+Frame entirely as protection and stability: “We're making sure what we built can't be dismantled by the
+next administration.” Term limits poll at 70%+. Voting rights are a majority position. Start there. Campaign
+finance reform follows as the explanation for why the system was captured in the first place.
+
+FALLBACK
+POSITION
+
+Ethics and transparency reforms only — expand ACFM Act (Bill 3) provisions. This is meaningful without
+constitutional fights. State-level ranked-choice voting expansion and districting reform can continue
+through state action without federal legislation. Build the map; let the constitutional fights come when the
+map is favorable.
+
+REF_RDNC_Leg12_Bill11_DIR_6
+
+Page 3
+PROJECT ARA 2028 · 212
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DIR Act · REF_ · 2026
+
+Part II — Bill Framework
+Two tracks: Track A (statutory), Track B (constitutional amendment). Core provisions applicable to both tracks are included
+below. Track-specific provisions require constitutional counsel review at time of introduction.
+119TH CONGRESS OR SUBSEQUENT SESSION S. ____
+To reform campaign finance and lobbying practices; to establish term limits
+for Supreme Court Justices; to strengthen voting rights and election
+integrity; to expand federal ethics and accountability standards; and for
+other purposes.
+IN THE SENATE OF THE UNITED STATES
+Mr./Ms. ______ introduced the following bill; which was referred
+to the Committee on the Judiciary.
+A B I L L
+Be it enacted by the Senate and House of Representatives of the
+United States of America in Congress assembled,
+SEC. 1. SHORT TITLE.
+This Act may be cited as the "Democratic Institutions
+Reform Act" or the "DIR Act".
+SEC. 2. FINDINGS AND PURPOSE.
+(a) FINDINGS.—Congress finds the following:
+(1) Concentrated campaign spending enabled by
+Citizens United v. Federal Election Commission, 558
+U.S. 310 (2010), and McCutcheon v. Federal Election
+Commission, 572 U.S. 185 (2014), has produced
+documented policy outcomes favoring upper-income
+interests at the expense of broad public welfare.
+(2) Lifetime appointments to the Supreme Court have
+produced an adversarial confirmation dynamic that
+incentivizes extreme nominees and destabilizes
+public confidence in the judiciary, while the
+senior-status structure under section 294 of title
+28, United States Code, demonstrates that judicial
+service can be restructured without removing a
+judge from the office to which the judge was
+appointed.
+(3) Partisan gerrymandering produces districts
+mathematically unresponsive to voter preference
+shifts, undermining democratic accountability.
+(4) Automatic voter registration and ranked-choice
+voting have improved representational outcomes in
+the jurisdictions that have adopted them.
+(5) Foreign-national contributions and expenditures
+in connection with United States elections are
+prohibited under settled constitutional doctrine,
+sustained unanimously in Bluman v. Federal Election
+Commission, 800 F. Supp. 2d 281 (D.D.C. 2011),
+summarily affirmed, 565 U.S. 1104 (2012).
+(6) Louisiana v. Callais (608 U.S. ___, decided
+April 29, 2026) reinterpreted section 2 of the
+Voting Rights Act of 1965 to require proof of
+intentional discrimination, materially altering the
+
+REF_RDNC_Leg12_Bill11_DIR_6
+
+Page 4
+PROJECT ARA 2028 · 213
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DIR Act · REF_ · 2026
+
+constitutional anchor for state-legislative
+redistricting commission mandates and requiring
+their restructuring through Article V amendment
+pathway.
+(b) PURPOSES.—The purposes of this Act are—
+(1) to establish term limits for Justices of the
+Supreme Court through a senior-status model
+consistent with Article III of the Constitution;
+(2) to provide a Two-Track architecture for
+campaign finance reform — statutory under Track A
+where court composition permits, and constitutional
+amendment under Track B as the operative fallback;
+(3) to prohibit foreign-national contributions and
+expenditures in connection with Federal elections,
+consistent with Bluman v. Federal Election
+Commission;
+(4) to expand voting rights protections, including
+automatic voter registration, a Federal Election
+Day public holiday, and ranked-choice voting in
+Federal elections;
+(5) to mandate independent congressional
+redistricting commissions consistent with Arizona
+State Legislature v. Arizona Independent
+Redistricting Commission, 576 U.S. 787 (2015), and
+Moore v. Harper, 600 U.S. 1 (2023);
+(6) to restructure state-legislative redistricting
+commission mandates as conditional on Track B
+ratification, post-Louisiana v. Callais; and
+(7) to expand federal ethics and accountability
+standards in coordination with the Anti-Corruption
+and Financial Misconduct Act (Bill 3 of this
+sequence).
+SEC. 3. CONSTITUTIONAL FOUNDATION.
+The provisions of this Act shall be construed and
+implemented consistent with the following constitutional
+framings:
+(a) ARTICLE III GOOD BEHAVIOR CLAUSE.—The seniorstatus structure established under section 4 does not
+violate the Good Behavior Clause of Article III, section 1.
+A Justice transitioning to senior status retains the
+office of Justice of the Supreme Court, continues to
+receive the compensation appertaining to that office, and
+remains eligible to serve on circuit courts under section
+294 of title 28, United States Code. The structure
+parallels the long-established senior-status framework
+under section 371 of title 28, sustained in Booth v.
+United States, 291 U.S. 339 (1934). U.S. Term Limits, Inc.
+v. Thornton, 514 U.S. 779 (1995), is distinguishable: it
+addressed state action regulating Congress where Article I
+enumerates exclusive qualifications; Article III contains
+no enumerated judicial qualifications, and section 4 does
+not add qualifications but restructures duties.
+(b) ELECTIONS CLAUSE / ARTICLE I, SECTION 4.—Federal
+authority to mandate independent congressional
+
+REF_RDNC_Leg12_Bill11_DIR_6
+
+Page 5
+PROJECT ARA 2028 · 214
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DIR Act · REF_ · 2026
+
+redistricting commissions, automatic voter registration
+for Federal elections, ranked-choice voting in Federal
+elections, and a Federal Election Day public holiday is
+grounded in the Elections Clause, U.S. Const. art. I, sec.
+4, cl. 1, as construed in Arizona State Legislature v.
+Arizona Independent Redistricting Commission, 576 U.S. 787
+(2015), and Moore v. Harper, 600 U.S. 1 (2023). The
+Elections Clause grants Congress plenary authority to
+regulate the manner of Federal elections.
+(c) ARTICLE V AMENDMENT PATHWAY.—The constitutional
+amendment proposed under section 6 (Article XXIX) is
+submitted under the congressional-proposal route of
+Article V (two-thirds of each House) rather than the
+state-convention route, in light of runaway-convention
+risk under current law and the absence of Article V
+boundary jurisprudence. The seven-year ratification
+deadline included in proposed Article XXIX, section 3, is
+consistent with Dillon v. Gloss, 256 U.S. 368 (1921), and
+subsequent practice.
+(d) FIRST AMENDMENT / NARROW TAILORING.—Campaign
+finance regulation under section 5 (Track A) and proposed
+Article XXIX (Track B) shall be construed to advance the
+compelling governmental interest in preventing corruption
+and the appearance of corruption, as recognized in Buckley
+v. Valeo, 424 U.S. 1 (1976), and as bounded by Citizens
+United v. Federal Election Commission, 558 U.S. 310
+(2010), and McCutcheon v. Federal Election Commission, 572
+U.S. 185 (2014), unless and until those decisions are
+narrowed or superseded. Disclosure provisions shall be
+narrowly tailored consistent with Americans for Prosperity
+Foundation v. Bonta, 594 U.S. 595 (2021).
+SEC. 4. SUPREME COURT TERM LIMITS.
+[STATUTORY TRACK — Requires Article III analysis;
+OLC opinion required before introduction.]
+(a) IN GENERAL.—Associate Justices of the Supreme
+Court appointed after the date of enactment shall serve
+active terms of 18 years, after which they shall assume
+senior status.
+(b) SENIOR STATUS.—A Justice in senior status shall
+remain eligible to serve on circuit courts and shall
+continue to receive full compensation. The Justice retains
+the office of Justice of the Supreme Court for purposes
+of Article III, section 1.
+(c) VACANCY SCHEDULE.—A vacancy on the Supreme Court
+shall occur every two years, with the President nominating
+and the Senate confirming a replacement within [TBD]
+months.
+(d) CURRENT JUSTICES.—Nothing in this section shall
+be construed to apply to any Justice serving on the date
+of enactment. Such Justices shall serve under the terms
+and conditions of their original appointments.
+(e) ARTICLE III SAVINGS.—If any provision of this
+section is held to violate Article III by final judgment
+of a court of competent jurisdiction, this section shall
+
+REF_RDNC_Leg12_Bill11_DIR_6
+
+Page 6
+PROJECT ARA 2028 · 215
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DIR Act · REF_ · 2026
+
+be inoperative and the term-limits provisions shall be
+implemented through Article V amendment under Track B,
+consistent with section 8 (severability).
+SEC. 5. CAMPAIGN FINANCE REFORM — TRACK A (STATUTORY).
+[Track A is operative if and when the Supreme Court
+has narrowed Citizens United v. FEC (2010) and
+McCutcheon v. FEC (2014) to permit the regulations
+in subsections (a) and (b). Subsection (c) (foreign
+national prohibition) is constitutionally settled
+under Bluman and is operative regardless of track
+selection.]
+(a) AGGREGATE CONTRIBUTION LIMITS.—No person or
+entity may contribute more than $[TBD] in the aggregate
+to all Federal candidates, parties, and political action
+committees in any two-year election cycle.
+(b) DISCLOSURE REQUIREMENTS.—
+(1) IN GENERAL.—All contributions exceeding
+$[TBD] shall be publicly disclosed within [TBD]
+days of receipt. No anonymous contributions shall
+be made to any entity that makes independent
+expenditures.
+(2) NARROW TAILORING.—Disclosure requirements
+under this subsection shall be narrowly tailored
+to the compelling anti-corruption interest,
+consistent with Americans for Prosperity
+Foundation v. Bonta, 594 U.S. 595 (2021), and
+shall include confidentiality protections for
+sensitive categories of disclosure.
+(c) FOREIGN NATIONAL PROHIBITION.—No foreign
+national, foreign government, or entity owned or
+controlled by a foreign national or foreign government
+shall make any contribution or expenditure in connection
+with any Federal, State, or local election, consistent
+with section 30121 of title 52, United States Code, and
+Bluman v. Federal Election Commission, 800 F. Supp. 2d
+281 (D.D.C. 2011), summarily affirmed, 565 U.S. 1104
+(2012). This subsection is operative regardless of the
+applicability of subsections (a) and (b).
+SEC. 6. CAMPAIGN FINANCE REFORM — TRACK B
+(CONSTITUTIONAL AMENDMENT).
+Resolved by the Senate and House of Representatives
+of the United States of America in Congress assembled
+(two-thirds of each House concurring therein), That the
+following article is proposed as an amendment to the
+Constitution of the United States, which shall be valid
+to all intents and purposes as part of the Constitution
+when ratified by the legislatures of three-fourths of the
+several States:
+"ARTICLE [XXIX]
+"SECTION 1. Congress and the States may regulate the
+raising and spending of money in Federal and State
+elections to advance the compelling governmental interest
+in preventing corruption and the appearance of
+
+REF_RDNC_Leg12_Bill11_DIR_6
+
+Page 7
+PROJECT ARA 2028 · 216
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DIR Act · REF_ · 2026
+
+corruption, and to ensure that all citizens have an
+equal opportunity to participate in the political process.
+"SECTION 2. Nothing in this article shall be construed
+to grant Congress or the States the power to abridge the
+freedom of the press, or the right of any person to
+engage in independent issue advocacy.
+"SECTION 3. This article shall be inoperative unless
+it shall have been ratified as an amendment to the
+Constitution by the legislatures of three-fourths of the
+several States within seven years from the date of its
+submission to the States by the Congress."
+SEC. 7. VOTING RIGHTS AND ELECTION INTEGRITY.
+(a) AUTOMATIC VOTER REGISTRATION.—
+(1) IN GENERAL.—Each State shall automatically
+register eligible citizens to vote when they
+interact with government agencies, unless the
+citizen opts out.
+(2) PURCELL-PRINCIPLE COMPLIANCE.—Implementation
+timelines under this subsection shall provide a
+minimum 12-month lead time before any election
+cycle to avoid late-implementation challenges
+under Purcell v. Gonzalez, 549 U.S. 1 (2006).
+(3) PREEMPTION.—This subsection preempts State
+laws that are less protective of voter
+registration access, consistent with the National
+Voter Registration Act of 1993 framework.
+(b) FEDERAL ELECTION DAY HOLIDAY.—Election Day for
+Federal elections shall be a public holiday. This
+subsection is grounded in Elections Clause authority and
+is independent of and not duplicative of any provision
+of the COLT Act (Bill 1 of this sequence).
+(c) TRACK A — CONGRESSIONAL REDISTRICTING.—
+Congressional districts shall be drawn by independent
+redistricting commissions in each State, consistent with
+Federal standards established by the Election Assistance
+Commission. This subsection applies to congressional
+districts only and is constitutionally sound under
+Elections Clause authority and Arizona State Legislature
+v. Arizona Independent Redistricting Commission, 576 U.S.
+787 (2015), regardless of Louisiana v. Callais.
+(d) TRACK B — STATE LEGISLATIVE REDISTRICTING
+(CONSTITUTIONAL AMENDMENT PATHWAY).—
+(1) POST-CALLAIS NOTE.—Louisiana v. Callais (608
+U.S. ___, April 29, 2026) reinterpreted section
+2 of the Voting Rights Act of 1965 to require
+proof of intentional discrimination. A statutory
+Track A mandate for state-legislative
+redistricting commissions may no longer rely on
+Voting Rights Act section 2 as its constitutional
+anchor. State-legislative redistricting
+commissions therefore require Track B
+(constitutional amendment) or a specific
+legislative findings record establishing
+
+REF_RDNC_Leg12_Bill11_DIR_6
+
+Page 8
+PROJECT ARA 2028 · 217
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DIR Act · REF_ · 2026
+
+intentional discrimination in the target
+jurisdictions.
+(2) OPERATIVE UPON RATIFICATION.—Upon
+ratification of the article proposed under
+section 6 (Article XXIX) or a superseding
+redistricting amendment, each State shall
+establish an independent redistricting commission
+for State legislative districts, consistent with
+such Federal standards as Congress may prescribe
+pursuant to the ratified amendment and section 1
+of the Fourteenth Amendment.
+(e) RANKED-CHOICE VOTING.—Federal elections shall
+use ranked-choice voting in all States that have not
+adopted an alternative system achieving comparable
+representational outcomes, as certified by the Election
+Assistance Commission.
+SEC. 8. SEVERABILITY AND TRACK FALLBACK.
+(a) SEVERABILITY.—If any provision of this Act, or
+the application of any provision to any person or
+circumstance, is held invalid by final judgment of a
+court of competent jurisdiction, the remainder of the
+Act and the application of the provision to other
+persons and circumstances shall not be affected.
+(b) TRACK A INVALIDATION FALLBACK.—If section 4
+(Supreme Court Term Limits) or section 5(a) or 5(b)
+(Aggregate Contribution Limits and Disclosure
+Requirements) is invalidated by final judgment, the
+Act shall continue to operate under—
+(1) section 5(c) (Foreign National Prohibition,
+constitutionally settled under Bluman);
+(2) section 6 (Article XXIX), upon ratification;
+(3) section 7(a), (b), (c), and (e) (voting
+rights provisions grounded in Elections Clause
+authority); and
+(4) Title V (Implementation and Oversight).
+(c) NO INTERRUPTION.—The invalidation of any Track
+A provision shall not interrupt operations or
+implementation under provisions independently grounded
+in Elections Clause, Bluman, or settled constitutional
+authority.
+TITLE V—IMPLEMENTATION AND OVERSIGHT
+SEC. 501. IMPLEMENTATION TIMELINE.
+(a) IN GENERAL.—The Attorney General, in coordination
+with the Federal Election Commission, the Election
+Assistance Commission, and the Office of Legal Counsel,
+shall implement the provisions of this Act according to
+the following schedule:
+(1) Within [TBD] months of enactment: the Office
+of Legal Counsel shall issue an opinion on the
+Article III analysis supporting section 4
+(Supreme Court Term Limits).
+(2) Within [TBD] months of enactment: the Federal
+Election Commission shall publish initial
+
+REF_RDNC_Leg12_Bill11_DIR_6
+
+Page 9
+PROJECT ARA 2028 · 218
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DIR Act · REF_ · 2026
+
+regulations implementing section 5 (Track A) and
+section 5(c) (Foreign National Prohibition).
+(3) Within [TBD] months of enactment: the
+Election Assistance Commission shall publish
+Federal standards for congressional redistricting
+commissions under section 7(c).
+(4) Not earlier than [TBD] months after
+publication of regulations under paragraph (2):
+the Federal Election Commission shall begin
+enforcement under section 5.
+(5) Automatic voter registration under section
+7(a) shall be implemented with a minimum 12-month
+lead time before the next Federal election cycle,
+consistent with Purcell v. Gonzalez.
+(b) TRACK B RATIFICATION COORDINATION.—Upon proposal
+of Article XXIX under section 6, the Department of
+Justice shall publish ratification status updates not
+less than annually until the article is ratified or the
+seven-year ratification period under proposed Article
+XXIX, section 3, expires.
+SEC. 502. AGENCY COORDINATION.
+(a) IN GENERAL.—The Attorney General, the Federal
+Election Commission, the Election Assistance Commission,
+the Department of Justice Civil Rights Division, the
+Office of Legal Counsel, and the Office of Government
+Ethics shall coordinate implementation of this Act, with
+particular attention to—
+(1) Article III analysis under section 4 and
+coordination of any litigation defense;
+(2) First Amendment and Bluman analysis under
+section 5;
+(3) Elections Clause and post-Callais analysis
+under section 7;
+(4) ratification coordination under section 6;
+and
+(5) ethics framework coordination with the
+Anti-Corruption and Financial Misconduct Act
+(ACFM, Bill 3 of this sequence) to avoid
+duplicative authority and ensure consistent
+enforcement standards.
+(b) CONSTITUTIONAL DEFENSE COORDINATION.—The Attorney
+General shall maintain operational readiness for Track B
+fallback under section 8(b), including—
+(1) draft litigation positions defending section
+4 under Booth v. United States and the seniorstatus framework, ready for assertion in any
+challenge to the term-limits provisions; and
+(2) inter-agency coordination protocols for
+seamless transition from Track A to Track B
+operative status upon final judgment or upon
+ratification of Article XXIX.
+SEC. 503. ANNUAL REPORTING.
+Not later than [TBD] of each calendar year, the
+Attorney General, in coordination with the Federal
+
+REF_RDNC_Leg12_Bill11_DIR_6
+
+Page 10
+PROJECT ARA 2028 · 219
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DIR Act · REF_ · 2026
+
+Election Commission and the Election Assistance
+Commission, shall submit to Congress, and shall publish
+for public review, an annual report including—
+(1) implementation status of each section of
+this Act, with breakdown by Track A / Track B
+operative status;
+(2) Track B ratification status, with State-byState accounting and projected timeline to
+three-fourths threshold;
+(3) any litigation, ruling, or stay affecting
+operative provisions, with assessment of impact
+on Track A / Track B operative status;
+(4) post-Callais state-legislative redistricting
+landscape, including any State-level findings
+records establishing intentional discrimination;
+and
+(5) coordination status with the Anti-Corruption
+and Financial Misconduct Act framework under
+section 502(a)(5).
+All dollar amounts, penalty thresholds, time periods, and statutory cross-references marked [TBD] require resolution by licensed
+legislative counsel, the Office of Legal Counsel, the Federal Election Commission, and the Congressional Budget Office before
+introduction as formal legislation. Track selection between Track A (statutory) and Track B (constitutional amendment) is reserved for
+constitutional counsel review at time of introduction, based on then-current Supreme Court composition and jurisprudence. See Part
+III counsel notes.
+
+REF_RDNC_Leg12_Bill11_DIR_6
+
+Page 11
+PROJECT ARA 2028 · 220
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DIR Act · REF_ · 2026
+
+Part III — Notes for Congressional Counsel
+All [TBD] items and constitutional questions below require resolution before introduction. Track selection between Track A
+(statutory) and Track B (constitutional amendment) is reserved for constitutional counsel review at time of introduction.
+Sec 3 Constitutional
+Foundation — multi-axis
+architecture
+
+Four-axis foundation in operative bill text: Article III Good Behavior (term limits architecture; Booth
+v. United States 1934 foundation, 28 U.S.C. §§294/371 senior-status framework; Term Limits v.
+Thornton distinguished as Article I exclusive-qualifications case), Elections Clause / Article I §4
+(AIRC 2015 / Moore v. Harper 2023 — congressional redistricting, AVR, ranked-choice voting,
+Election Day holiday all grounded here), Article V (congressional-proposal route preferred over
+state-convention route given runaway-convention risk; Dillon v. Gloss 1921 ratification deadline
+framework), and First Amendment narrow-tailoring (Buckley / Citizens United / McCutcheon /
+AFPF v. Bonta 2021).
+
+Sec 4 Supreme Court term
+limits — Article III analysis
+[Source 261]
+
+Good Behavior clause has never been definitively interpreted to bar term limits. The senior-status
+model (active service ends after 18 years, Justice retains the office, receives full compensation,
+eligible for circuit duty under 28 U.S.C. §294) is grounded in Booth v. United States (1934) and the
+long practice of 28 U.S.C. §371. U.S. Term Limits, Inc. v. Thornton (1995) [Source 261] is
+DISTINGUISHABLE: it addressed state action regulating Congress where Article I enumerates
+exclusive qualifications; Article III contains no enumerated judicial qualifications; the senior-status
+model does not add qualifications but restructures duties. Strongest counterargument (Calabresi,
+Prakash): Article III's “one supreme Court” contemplates Justices who must decide its cases. No
+OLC opinion has been published — an OLC opinion is REQUIRED before Track A introduction.
+The Biden Presidential Commission (Dec. 2021) found considerable bipartisan support but
+declined to endorse statutory vs. constitutional path. Sec 4(e) Article III savings provision binds
+Track B fallback if invalidated.
+
+Sec 5 Campaign finance —
+Track B is the operative path
+[Sources 262, 263]
+
+Citizens United v. FEC (2010) [Source 262] struck BCRA §203 corporate/labor independent
+expenditure ban. McCutcheon v. FEC (2014) [Source 263] struck biennial aggregate contribution
+limits while preserving base limits, narrowing cognizable corruption to quid pro quo only. Under the
+current Court (6-3 conservative majority), overruling Citizens United is implausible. TRACK A
+CONDITION: Track A statutory campaign finance under Sec 5(a) and 5(b) is conditioned on
+Citizens United being narrowed by subsequent Supreme Court decisions. This condition is unlikely
+to be satisfied. TRACK B is the operative legislative path. Invest in the Article V strategy. Sec 5(c)
+Foreign National Prohibition is constitutionally settled under Bluman and is operative regardless of
+track selection.
+
+Sec 5(c) Foreign National
+Prohibition — restored from
+original
+
+Restored from the original-version structure. Anchored in 52 U.S.C. §30121 (Federal Election
+Campaign Act) and Bluman v. FEC, 800 F. Supp. 2d 281 (D.D.C. 2011), summarily affirmed, 565
+U.S. 1104 (2012). The Bluman court held that foreign-national exclusion from U.S. political
+process is consistent with the First Amendment as applied to non-resident foreign citizens.
+Three-judge panel decision was unanimous, summarily affirmed by the Supreme Court without
+argument. This provision is operative regardless of track selection (Sec 8(b)(1)) — it does not
+depend on Citizens United narrowing.
+
+Maine super-PAC litigation —
+most viable Citizens United
+narrowing vehicle [Source
+269]
+
+Maine voters approved Question 1 (Nov. 2024, 74%) capping super-PAC contributions at $5,000.
+Magistrate Judge Wolf (D. Me.) issued a permanent injunction July 15, 2025. Maine AG Frey and
+intervenors appealed to the First Circuit (Oct. 2025) — the ONLY circuit not to have ruled on
+SpeechNow. This is the most viable Citizens United narrowing vehicle currently before the courts.
+If the First Circuit upholds the Maine cap, a cert vehicle for Fall 2026 Term arises. Even a
+favorable Supreme Court outcome would likely produce a narrow ruling (coordination doctrine or
+foreign-influence restriction — Bluman [Source 269]) rather than overruling Citizens United
+wholesale. Monitor closely; do not trigger Track A on this basis without full briefing.
+
+REF_RDNC_Leg12_Bill11_DIR_6
+
+Page 12
+PROJECT ARA 2028 · 221
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DIR Act · REF_ · 2026
+
+Sec 6 Track B Article XXIX —
+savings clause and ratification
+deadline [Source 270]
+
+The overbroad savings clause from the original (“Nothing in this article shall abridge freedom of
+speech or press”) has been replaced with: “Nothing in this article shall be construed to grant
+Congress or the States the power to abridge the freedom of the press, or the right of any person to
+engage in independent issue advocacy.” This tracks the Democracy for All Amendment model and
+avoids the self-defeating framing that subordinated the regulatory grant to Buckley v. Valeo. A
+ratification deadline (Section 3 of Article XXIX) has also been added per Dillon v. Gloss (1921)
+[Source 270]: seven years from submission. Counsel should confirm the seven-year period is
+appropriate given the amendment's scope and the expected state ratification timeline.
+
+Sec 7(c) congressional
+redistricting — sound
+regardless of Callais [Sources
+264, 265]
+
+AIRC (2015) [Source 264] confirmed independent redistricting commissions are constitutional for
+congressional districts under the Elections Clause. Moore v. Harper (2023) [Source 265] rejected
+the maximalist Independent State Legislature theory while affirming AIRC. The DIR Act Sec 7(c)
+congressional redistricting commission mandate is constitutionally sound and tracks the Elections
+Clause authority directly. No further revision is required regardless of Louisiana v. Callais, which
+addressed VRA Section 2 — a different constitutional anchor.
+
+Sec 7(d) state-legislative
+redistricting — Track B
+post-Callais [Source 266]
+
+APPLIED IN BILL TEXT (DIR _6): Louisiana v. Callais (608 U.S. ___, April 29, 2026) [Source 266],
+Alito, J., 6-3, reinterpreted VRA Section 2 to require intentional discrimination — effectively
+converting the results-based Gingles test to an intent-based standard. Kagan dissent: Section 2 is
+all but a dead letter. REVISION APPLIED: Sec 7(c) applies to congressional districts only
+(constitutionally sound under Elections Clause/AIRC regardless of Callais). Sec 7(d) is conditioned
+on Track B (Article XXIX ratification) rather than VRA Section 2 authority. A post-Callais note in
+Sec 7(d)(1) explains the constitutional constraint. For counsel: if a Track A state-legislative
+mandate is pursued in the future, it requires a specific legislative findings record establishing
+intentional discrimination in target jurisdictions, per Callais.
+
+Sec 7(b) Federal Election Day
+Holiday — restored from
+original
+
+Restored from the original-version structure. The original flagged this provision as potentially
+duplicative with the COLT Act (Bill 1). Verification confirms COLT Sec 102 is the Direct File
+mandate (tax filing) and does NOT establish a Federal election day holiday. Sec 7(b) is therefore
+not duplicative and is restored under Elections Clause authority. Counsel should re-verify against
+COLT canonical text at time of introduction in case of intervening amendments.
+
+Sec 7(a) automatic voter
+registration — Elections
+Clause authority
+
+Federal authority over the manner of congressional elections under the Elections Clause (Art. I §4)
+provides solid constitutional basis for AVR for federal elections. NVRA (1993) precedents: ACORN
+v. Edgar (7th Cir. 1995); Voting Rights Coalition v. Wilson (9th Cir. 1995). Purcell principle
+constrains implementation timing — Sec 7(a)(2) binds the 12-month lead-time requirement
+operatively. Sec 7(a)(3) preemption provision tracks the NVRA framework.
+
+Article V convention — use
+Congressional proposal route
+[Source 270]
+
+Constitutional amendment through Article V state convention route carries runaway convention
+risk under current law. The 1787 Philadelphia Convention precedent — authorized to revise
+Articles of Confederation, instead drafted an entirely new Constitution — is the cautionary case.
+Current state application counts: Convention of States movement at approximately 20 states
+(Kansas #20, 2026); Balanced Budget Amendment proponents claim 28-33 depending on
+aggregation and rescission assumptions. Neither is at 34 needed for a call. RECOMMENDATION:
+Congressional proposal route (two-thirds Congress + three-fourths States) rather than convention
+route. Sec 3(c) binds this preference operatively. Invest in Article V ratification strategy for willing
+state legislatures.
+
+Financial disclosure and
+candidate ethics — narrow
+tailoring required [Source 268]
+
+AFPF v. Bonta (2021) [Source 268] imported narrow-tailoring requirements into exacting scrutiny
+for compelled disclosure. Candidate financial disclosure is distinguishable: applies only to
+voluntary office-seekers; precisely tailored to anti-corruption; not a blunderbuss general mandate.
+Sec 5(b)(2) binds narrow-tailoring requirements operatively. Keep disclosure thresholds
+proportionate to anti-corruption interest; require only conflict-relevant information; include
+confidentiality protections for sensitive categories; target officials and candidates, not ordinary
+donors.
+
+REF_RDNC_Leg12_Bill11_DIR_6
+
+Page 13
+PROJECT ARA 2028 · 222
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · DIR Act · REF_ · 2026
+
+Sec 8 — Two-Track
+architecture as DIR-specific
+C-with-B-fallback variant
+
+The Two-Track architecture is the DIR-specific instantiation of the C-with-B-fallback pattern
+established in BWDS Sec 204(f) and NFSA Sec 3(e)(1). Track A (statutory) is the primary route
+operative where court composition allows; Track B (Article V amendment) is the operative fallback
+where Track A is blocked. Sec 8(b) binds Track A invalidation fallback architecture in operative bill
+text — Sec 5(c) Foreign National Prohibition, Sec 6 Article XXIX upon ratification, and Sec 7
+Elections Clause provisions all remain operative independent of Track A invalidation. Sec 8(c)
+no-interruption provision parallels BWDS Sec 204(f)(e) and NFSA equivalents.
+
+Title V — Implementation,
+Constitutional Defense, and
+Track B coordination
+
+Title V implements the canonical structural pattern (501 timeline / 502 coordination / 503 annual
+reporting) adapted for DIR's Two-Track architecture. Sec 501(b) binds Track B ratification status
+reporting operatively. Sec 502(b) folds in Constitutional Defense Coordination — DOJ litigation
+defense for Sec 4 term limits under Booth, plus inter-agency coordination for Track A→Track B
+transition upon final judgment or Article XXIX ratification. Sec 503(2)–(4) bind Track B ratification
+accounting and post-Callais redistricting landscape monitoring as operative reporting
+requirements.
+
+Interaction with Bill 3 (ACFM
+Act) and political timing
+
+This bill expands and complements the Anti-Corruption Act. Sec 502(a)(5) binds ACFM
+coordination operatively. Counsel to audit for overlap and ensure consistency. The Phase III
+preconditions are strict for good reason — do not introduce before Senate vote count shows 60+
+for cloture (Track A statutory) or 67 (amendment proposal). Post-Callais, the redistricting
+provisions need revision regardless of political timing — this bill version implements that revision in
+Sec 7(c)/(d).
+
+REF_RDNC_Leg12_Bill11_DIR_6 · REF_ Reference Layer · Reform Democrats of the New Commonwealth · 2026
+Legal disclaimer applies — see page 1. This framework requires licensed legislative counsel review before introduction.
+Originally conceived and authored by a concerned American citizen. Developed with the assistance of Claude (Anthropic). The ideas belong to
+anyone willing to fight for them.
+
+REF_RDNC_Leg12_Bill11_DIR_6
+
+Page 14
+PROJECT ARA 2028 · 223
+
+Reform Democrats of the New Commonwealth
+
+
+PART VII · THE LEGISLATIVE SERIES
+
+BILL 12
+
+NFSA
+National Firearm Standards Act of 2030
+Phase II · Track B · v_5
+
+Reproduced in full from the canonical drafted bill. No operative text has been altered in consolidation.
+
+PROJECT ARA 2028 · 224
+
+
+RDNC Bill Framework · NFSA of 2030 · REF_ · 2026
+
+Reform Democrats of the New Commonwealth · Project ARA 2028
+Legislative Ecosystem Document Leg14 of Leg14
+
+National Firearm Standards Act of 2030
+Bill Framework & Legislative Brief
+Phase II · Track B · Standalone Legislation · Phase II · Track B · Year 4–7
+LEGAL DISCLAIMER — POLICY DISCUSSION DOCUMENT
+This document is a policy discussion framework and bill scaffold. It is not formally introduced legislation, has
+not been reviewed by licensed legislative counsel, and does not constitute legal advice of any kind.
+All provisions marked [TBD] — including dollar amounts, specific IRC section numbers, penalty thresholds,
+appropriation amounts, and CBO scoring figures — require resolution by licensed legislative drafting counsel
+(the Office of Legislative Counsel for the House or Senate, as applicable), relevant agency technical staff,
+and the Congressional Budget Office before introduction as formal legislation.
+Constitutional arguments, legal analyses, and statutory framings presented herein are analytical
+assessments developed for policy planning purposes. They are not legal opinions and have not been
+reviewed or validated by licensed legal counsel. This document identifies constitutional and legal risks
+requiring independent review — those identifications are planning guidance, not legal conclusions.
+This framework was produced by the Reform Democrats of the New Commonwealth (RDNC), a private
+citizen policy research organization. It is not affiliated with any sitting Member of Congress, congressional
+office, government agency, or political party organization in any official capacity.
+Consultation with licensed legislative counsel, the Department of Justice Office of Legal
+Counsel, the Bureau of Alcohol, Tobacco, Firearms and Explosives, the Department of Defense
+Office of General Counsel, the National Guard Bureau, the Congressional Budget Office, and
+Senate Judiciary Committee constitutional counsel is required before any framework in this
+series may be introduced as formal legislation. Distribution is subject to RDNC classification
+protocols (REF_ layer: internal use and trusted partners only).
+
+Phase II · Track B · Standalone Legislation · Bill 12
+
+Part I — Legislative Brief (Non-Technical
+Summary)
+The firearm standards question is one of the most politically fraught in American policy — this brief explains
+exactly what this bill does, what it does not do, who it protects, and how to defend it. The two-track
+architecture leaves hunters using manual-action long guns completely untouched while establishing a free,
+military-delivered Federal Civilian Ownership Certificate for handguns, semi-automatic firearms,
+assault-category weapons, and NFA-regulated items. Sec 3(e) operative fallback architecture parallels BWDS
+Sec 204(f) for the highest-stakes constitutional bill in the series.
+
+AT A GLANCE
+Bill Title
+
+National Firearm Standards Act of 2030
+
+Short Title (Cite As)
+
+The NFSA of 2030
+
+REF_RDNC_Leg14_Bill12_NFSA_2030_5
+
+Page 1
+PROJECT ARA 2028 · 225
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · NFSA of 2030 · REF_ · 2026
+
+Legislative Vehicle
+
+Standalone Legislation — 60-vote Senate threshold
+
+Phase / Track
+
+Phase II · Track B · Year 4–7
+
+Primary Committees
+
+Senate Judiciary; Senate Armed Services (delivery infrastructure); Senate
+Finance (buyback appropriation)
+
+Dependencies
+
+Phase I political capital established; Anti-Corruption and Federal Money in
+Politics Act (Bill 3) has demonstrated government accountability credibility
+
+Core Framing
+
+"The military will train you for free. The right is preserved. Accountability
+comes with it."
+
+What This Bill Does
+NOT Do
+
+Does not confiscate any existing firearm. Does not create a federal weapons
+registry. Does not ban any category of firearm — all covered weapons
+remain available through the Federal Civilian Ownership Certificate
+framework
+
+Second Amendment
+Strategy
+
+Right preserved in full — the certificate is the mechanism by which the right
+is exercised responsibly under Bruen Footnote 9, not a restriction upon it
+
+Constitutional Risk
+
+Highest in bill series alongside BWDS — Bruen / Rahimi exposure across
+Title II; ANJRPC 3d Cir. en banc pending; Kavanaugh AR-15 cert watch ("next
+Term or two"). Body-baked safety + operative NFA-framework fallback in
+Sec 3(e)
+
+Architecture
+
+Architecture C-with-B-fallback variant (BWDS Sec 204(f) pattern) —
+operative bill-text severability with Sec 3(e)(1) NFA-expansion authority
+statutorily authorized for activation if FCOC architecture is held invalid
+
+The Two-Track Architecture. This bill establishes two distinct certification regimes
+matched to two distinct firearm categories. Track A leaves hunters using
+manual-action long guns under the existing State hunting and sporting license system,
+completely untouched by this Act. Track B establishes a Federal Civilian Ownership
+Certificate, delivered free through military and National Guard programs, for
+handguns, semi-automatic firearms, assault-category weapons, and NFA-regulated
+items.
+
+REF_RDNC_Leg14_Bill12_NFSA_2030_5
+
+Page 2
+PROJECT ARA 2028 · 226
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · NFSA of 2030 · REF_ · 2026
+
+TRACK A —
+HUNTING &
+SPORTING
+LICENSE
+(State-Administ
+ered)
+
+Covers: Manual-action long
+guns only — bolt-action rifles,
+pump-action and
+break-action shotguns,
+lever-action rifles, single-shot
+firearms of any caliber.
+
+TRACK B —
+FEDERAL
+CIVILIAN
+OWNERSHIP
+CERTIFICATE
+
+Does NOT cover:
+Handguns. Semi-automatic
+firearms. Any firearm with a
+detachable magazine.
+Administered by: Individual
+States, existing hunter safety
+infrastructure. The existing
+system is preserved
+unchanged.
+Renewal: 10 years.
+Background check only.
+
+Covers: All handguns. All
+semi-automatic firearms.
+Assault-category weapons.
+NFA-regulated items.
+Delivered by: Military
+installation programs or State
+National Guard civilian
+training facilities. Free at
+point of delivery.
+No federal registry: The
+Certificate attests to holder
+qualification to acquire —
+does NOT link individuals to
+specific firearms (FOPA
+§926(a) compliance, Sec
+205).
+Renewal: Tiered by weapon
+category. 2–8 years
+depending on weapon risk
+profile (Sec 204).
+
+What This Bill Does:
+1. Track A: Hunting & Sporting License (State-Administered). Manual-action long guns only — bolt,
+pump, break, lever, single-shot. State-administered, unchanged. Hunters using manual-action long guns
+are completely untouched by this Act.
+2. Track B: Federal Civilian Ownership Certificate. Delivered through military and National Guard
+programs, free of charge. Covers handguns, semi-automatic firearms, assault-category weapons, and
+NFA-regulated items. Tiered renewal proportional to weapon risk profile. Shall-issue under Bruen
+Footnote 9 architecture — no subjective suitability review, no discretionary denial.
+3. Assault-Category Definition (Sec 202). Two-feature-plus-detachable-magazine test (not one-feature
+trigger). Named-firearm provisions to prevent circumvention. 10-round magazine cap. "Dangerous AND
+unusual" findings language tracking Caetano. Full grandfathering. Certification requirement, not
+prohibition.
+4. Grandfathered Weapon Transition Framework. KEEP (no action required, forever) — SELL (voluntary
+buyback at fair market value) — UPGRADE (Track B certificate enables full transferability) — INHERIT
+(immediate family, with ATF notification). Penn Central takings exposure mitigated through full
+grandfathering.
+5. Constitutional Construction with Operative NFA-Framework Fallback. Sec 3 binds the Bruen
+Footnote 9 architecture, Peterson NFA-as-shall-issue analogy, Commerce Clause foundation, and FOPA
+non-registry preservation in operative bill text. Sec 3(e)(1) establishes statutory authority for Title II
+covered transactions to revert to the existing NFA registration framework if the FCOC architecture is held
+unconstitutional — the BWDS Sec 204(f) pattern adapted for firearms doctrine.
+
+REF_RDNC_Leg14_Bill12_NFSA_2030_5
+
+Page 3
+PROJECT ARA 2028 · 227
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · NFSA of 2030 · REF_ · 2026
+
+ATTACK
+SURFACE
+
+"Government gun grab." "Registry by the back door." "Punishing law-abiding gun
+owners." "Poll tax on the Second Amendment." "Banning AR-15s by another name." All
+predictable. All weakened by Track A preservation, free Military/Guard delivery, full
+grandfathering, and explicit certification-not-prohibition framing.
+
+DEFENSE
+STRATEGY
+
+"We are not taking anything. The military will train you for free. Hunters using
+manual-action long guns are completely untouched. Grandpa's rifle goes to your kids
+with no action required. What changes is that the most dangerous weapons have the
+most frequent accountability checks — which is how we treat every other category of
+dangerous equipment in this country." Lead with Track A preservation. Lead with free
+Military/Guard delivery. Cite Peterson 5th Cir. 2025 — NFA registration has operated
+since 1934 without successful constitutional challenge.
+
+FALLBACK
+POSITION
+
+If the full bill cannot reach 60 votes: Track A (hunting license clarification) can pass as
+standalone — establishes the federal/state jurisdictional framework. Track B follows in
+the next legislative window. The buyback program can be authorized as a separate
+appropriations measure. If Track II is held unconstitutional after enactment: Sec 3(e)(1)
+operative authority converts covered transactions to NFA-style registration —
+statutorily authorized, not administratively assumed.
+
+60-Vote Strategy. Identify Republican co-sponsors from rural states with existing credibility on gun safety.
+Frame around veterans and military (the certificate is a military credential) and States' rights (State
+authority over intrastate handgun ownership is explicitly preserved in Sec 101(d)). The bipartisan case is
+genuine — this bill does less to restrict gun ownership than any major gun bill in the past thirty years while
+doing more for safety than any of them. DOJ Office of Legal Counsel pre-introduction review is required
+given the constitutional density.
+The Doctrinal Posture. Track B is the architecture explicitly endorsed in Bruen Footnote 9 (shall-issue,
+narrow / objective / definite criteria) and extended to purchase licensing in MSI v. Moore (4th Cir. en banc
+2024, 14–2, cert denied). Peterson (5th Cir. Aug. 2025) formally analogized NFA registration to Bruen
+Footnote 9 — that is the most durable single anchor available in current federal case law. Sec 3(e) builds on
+this by making NFA framework the operative fallback if the FCOC architecture is invalidated, so the Bruen
+step-one defense never depends on a single doctrinal bet.
+
+REF_RDNC_Leg14_Bill12_NFSA_2030_5
+
+Page 4
+PROJECT ARA 2028 · 228
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · NFSA of 2030 · REF_ · 2026
+
+Part II — Bill Framework
+This is the structural scaffold of the bill. Geographic accessibility distance and time thresholds, appropriation
+amounts, IRC section cross-references, and additional named-firearm designations are flagged as [TBD]
+where they require licensed legislative counsel, the Department of Justice Office of Legal Counsel, the
+Bureau of Alcohol, Tobacco, Firearms and Explosives, the Department of Defense Office of General Counsel,
+the National Guard Bureau, and the Congressional Budget Office review before introduction. Sec 3
+Constitutional Construction binds the constitutional architecture in operative bill text, including the Sec 3(e)
+Architecture C-with-B-fallback variant providing operative authority for fallback to the existing National
+Firearms Act registration framework.
+119TH CONGRESS
+
+1ST SESSION
+
+S. ____
+
+To establish a two-track federal framework for civilian firearm ownership; to
+clarify the scope of state hunting and sporting licenses; to establish a Federal
+Civilian Ownership Certificate delivered through military and National Guard
+programs; to provide tiered renewal periods proportional to firearm risk
+profile; to establish a grandfathered weapon transition framework including a
+voluntary buyback program and family inheritance provisions; to bind in
+operative bill text the constitutional construction and severability of this
+Act, including operative fallback architecture under the existing National
+Firearms Act registration framework; and for other purposes.
+
+A B I L L
+Be it enacted by the Senate and House of Representatives of the United States of
+America in Congress assembled,
+
+SEC. 1. SHORT TITLE.
+This Act may be cited as the "National Firearm Standards Act of 2030" or
+the "NFSA of 2030".
+
+SEC. 2. FINDINGS AND PURPOSE.
+(a) FINDINGS.—Congress finds the following:
+(1) The United States has no uniform federal standard for civilian
+firearm acquisition, resulting in a patchwork of State laws that varies
+materially in rigor and creates exploitable gaps for unlawful
+acquisition channels.
+(2) The United States military and the State National Guard
+organizations possess the training infrastructure, geographic
+distribution, and professional expertise to deliver civilian firearm
+safety certification at no cost to participants.
+(3) The Second Amendment right to keep and bear arms is not diminished
+by this Act. This Act regulates acquisition through a shall-issue
+qualification standard with narrow, objective, and definite criteria —
+the architecture explicitly endorsed in NYSRPA v. Bruen, 597 U.S. 1, 38
+n.9 (2022), as presumptively constitutional.
+(4) United States v. Rahimi, 602 U.S. 680 (2024), clarified that the
+Second Amendment permits modern regulation that is consistent with the
+principles that underpin the Nation's regulatory tradition, and need
+not match a "historical twin" or "dead ringer."
+(5) In Maryland Shall Issue, Inc. v. Moore, 116 F.4th 211 (4th Cir.
+2024) (en banc, 14-2), the Fourth Circuit extended Bruen footnote 9 to
+purchase licensing and held that non-discretionary shall-issue
+purchase licensing regimes are presumptively constitutional. The
+REF_RDNC_Leg14_Bill12_NFSA_2030_5
+
+Page 5
+PROJECT ARA 2028 · 229
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · NFSA of 2030 · REF_ · 2026
+
+Supreme Court denied certiorari on January 13, 2025 (No. 24-373).
+(6) In United States v. Peterson, ___ F.4th ___ (5th Cir. Aug. 27,
+2025), the Fifth Circuit formally analogized National Firearms Act
+registration to Bruen footnote 9 shall-issue licensing on the
+rationale that fingerprints, background checks, and denial only when
+possession would violate law qualify as "narrow, objective, and
+definite standards." The Federal Civilian Ownership Certificate
+established by this Act is structurally indistinguishable from the
+National Firearms Act registration regime so analogized.
+(7) The Federal Civilian Ownership Certificate is a qualification
+standard, not a prohibition. Issuance is non-discretionary upon
+satisfaction of the objective criteria established in Title II. No
+subjective suitability review, character assessment, or discretionary
+denial authority is authorized under this Act.
+(8) The Bureau of Alcohol, Tobacco, Firearms and Explosives has
+operated the National Firearms Act registration system since 1934
+without successful constitutional challenge. The Federal Civilian
+Ownership Certificate operates within the chapter 44 of title 18,
+United States Code, framework, drawing on the existing comprehensive
+scheme of firearms regulation that has consistently withstood
+Commerce Clause review under Gonzales v. Raich, 545 U.S. 1 (2005),
+and Scarborough v. United States, 431 U.S. 563 (1977).
+(9) The Firearm Owners Protection Act of 1986 (18 U.S.C. § 926(a))
+prohibits a national firearms registry. The Federal Civilian
+Ownership Certificate established by this Act tracks certificate
+holders and qualification status only, and does not link individuals
+to specific firearms or transactions — distinguishable from a
+weapons registry within the meaning of section 926(a).
+(10) Hunters using manual-action long guns under State hunting and
+sporting licenses present no acquisition-channel concern that
+requires federal involvement, and the existing State hunting license
+infrastructure is adequate to that scope.
+(b) PURPOSES.—The purposes of this Act are—
+(1) to establish a two-track federal framework for civilian firearm
+acquisition that preserves the Second Amendment right to keep and
+bear arms while providing uniform safety qualification standards;
+(2) to clarify the scope of State hunting and sporting licenses
+(Track A) such that hunters using manual-action long guns are not
+affected by this Act;
+(3) to establish a Federal Civilian Ownership Certificate (Track B)
+delivered through military and National Guard training programs at
+no cost to participants, with tiered renewal periods proportional to
+the risk profile of the covered firearm category;
+(4) to establish a grandfathered weapon transition framework
+providing for retention without action, voluntary buyback at fair
+market value, certification upgrade for full transferability, and
+family inheritance without buyback;
+(5) to embed the Federal Civilian Ownership Certificate within
+chapter 44 of title 18, United States Code, as part of the existing
+comprehensive scheme of firearms regulation under the Commerce
+Clause;
+(6) to preserve Federal Firearm Owners Protection Act protections by
+prohibiting any registry linking individuals to specific firearms;
+and
+(7) to provide an operative fallback architecture, by severability
+under section 3(e), under which Title II covered transactions revert
+to the existing National Firearms Act registration framework if any
+provision of the Federal Civilian Ownership Certificate architecture
+
+REF_RDNC_Leg14_Bill12_NFSA_2030_5
+
+Page 6
+PROJECT ARA 2028 · 230
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · NFSA of 2030 · REF_ · 2026
+
+is held invalid.
+
+SEC. 3. CONSTITUTIONAL CONSTRUCTION AND SEVERABILITY.
+(a) BRUEN FOOTNOTE 9 ARCHITECTURE.—The Federal Civilian Ownership
+Certificate established under Title II is a shall-issue qualification
+standard. Issuance is non-discretionary upon satisfaction of the
+objective, ascertainable criteria established by this Act. No agency may
+impose any subjective suitability review, character assessment, or
+discretionary denial criterion. This architecture is the architecture
+explicitly endorsed in NYSRPA v. Bruen, 597 U.S. 1, 38 n.9 (2022).
+(b) PETERSON ANALOGY — NFA-AS-SHALL-ISSUE.—The Federal Civilian Ownership
+Certificate operates within the structural framework that the Fifth
+Circuit, in United States v. Peterson, ___ F.4th ___ (5th Cir. Aug. 27,
+2025), formally analogized to Bruen footnote 9 shall-issue licensing.
+Fingerprint-based identification, background check, and denial only when
+possession would violate Federal law are the operative gating criteria
+under both regimes.
+(c) COMMERCE CLAUSE FOUNDATION.—This Act is enacted under the Commerce
+Clause of the Constitution. The provisions of Title II are incorporated
+into chapter 44 of title 18, United States Code, as part of the existing
+comprehensive scheme of Federal firearms regulation. Each Title II
+covered transaction includes the jurisdictional element that the firearm
+has been manufactured, transported, or transferred in or affecting
+interstate or foreign commerce. Acquisition is paradigmatic economic
+activity within Lopez category three, and the comprehensive-scheme
+rationale of Gonzales v. Raich, 545 U.S. 1 (2005), supports application
+of this Act to purely intrastate acquisition transactions.
+(d) TAXING POWER BELT-AND-SUSPENDERS.—Insofar as this Act establishes any
+Federal fee in connection with the Federal Civilian Ownership Certificate,
+such fee is enacted under the Taxing Power as authoritatively established
+in Sonzinsky v. United States, 300 U.S. 506 (1937), parallel to the
+National Firearms Act framework. Free delivery through military and
+National Guard installations under section 203 directly addresses the
+Bruen footnote 9 caution against "exorbitant fees."
+(e) SEVERABILITY AND OPERATIVE FALLBACK ARCHITECTURE.—If any provision of
+Title II, or the application of any provision to any person or
+circumstance, is held to be invalid or stayed by a court of competent
+jurisdiction, the remaining provisions of this Act and the application
+of those provisions to other persons or circumstances shall not be
+affected. In particular—
+(1) if section 201 (covered transactions), section 202 (assaultcategory definition), or section 203 (delivery mechanism) is held
+invalid in whole or in part, the covered transactions described in
+section 201(b) may be administered by the Attorney General, in
+coordination with the Director of the Bureau of Alcohol, Tobacco,
+Firearms and Explosives and the Secretary of the Treasury, under the
+existing National Firearms Act registration framework (chapter 53 of
+the Internal Revenue Code of 1986) as expanded by this subsection to
+the covered firearm classes described in section 201(b), pending
+judicial resolution;
+(2) the operative authority granted under paragraph (1) is structured
+to track the National Firearms Act registration framework that the
+Fifth Circuit analogized to Bruen footnote 9 shall-issue licensing
+in United States v. Peterson, supra, and that has operated since
+1934 without successful constitutional challenge;
+(3) if Title I (Track A) is held invalid, Title II shall remain in
+full force and effect, and acquisition of manual-action long guns
+
+REF_RDNC_Leg14_Bill12_NFSA_2030_5
+
+Page 7
+PROJECT ARA 2028 · 231
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · NFSA of 2030 · REF_ · 2026
+
+shall be subject to the Federal Civilian Ownership Certificate; and
+(4) if any savings clause provision of section 401 is held invalid,
+such invalidity shall not affect any other provision of this Act,
+and the Second Amendment savings clause shall be construed to
+preserve whichever certification or registration regime is operative
+under this Act.
+(f) NO REGISTRY.—Nothing in this Act may be construed to authorize the
+creation of a Federal database linking individual firearm owners to
+specific firearms or specific transactions. The Federal Civilian
+Ownership Certificate database tracks certificate holders and
+qualification status only, and is distinguishable from a "registry"
+within the meaning of section 926(a) of title 18, United States Code.
+(g) PRESERVATION OF EXISTING RIGHTS.—Nothing in this Act may be construed
+to infringe upon the right to keep and bear arms as guaranteed by the
+Second Amendment to the Constitution of the United States. The Federal
+Civilian Ownership Certificate is a qualification standard, not a
+prohibition, and shall be administered consistent with District of
+Columbia v. Heller, 554 U.S. 570 (2008), McDonald v. City of Chicago,
+561 U.S. 742 (2010), NYSRPA v. Bruen, 597 U.S. 1 (2022), and United
+States v. Rahimi, 602 U.S. 680 (2024).
+
+TITLE I — TRACK A: HUNTING & SPORTING LICENSE FRAMEWORK
+
+SEC. 101. SCOPE OF STATE HUNTING AND SPORTING LICENSES.
+(a) IN GENERAL.—A valid State hunting or sporting license issued under
+State law authorizes the licensee, within the scope of this section, to
+purchase, possess, and transport across State lines covered manual-action
+firearms.
+(b) COVERED FIREARMS.—For purposes of subsection (a), covered manualaction firearms are—
+(1) bolt-action rifles;
+(2) pump-action shotguns;
+(3) break-action shotguns and rifles, including double-barrel and
+single-barrel break-action firearms;
+(4) lever-action rifles; and
+(5) single-shot firearms of any caliber that load by manual action
+and do not have a detachable magazine.
+(c) EXCLUSIONS.—A State hunting or sporting license shall NOT authorize
+under this section the purchase, possession, or interstate transport
+of—
+(1) any handgun or pistol of any action type;
+(2) any revolver;
+(3) any semiautomatic firearm of any kind;
+(4) any firearm with a detachable magazine; or
+(5) any item regulated under the National Firearms Act (chapter 53
+of the Internal Revenue Code of 1986).
+(d) STATE AUTHORITY PRESERVED.—Nothing in this Act limits the authority
+of a State to issue State-level handgun or firearm licenses for
+intrastate purposes, to impose requirements in addition to the Federal
+Civilian Ownership Certificate, or to operate State hunting or sporting
+license programs more restrictively than authorized under this section.
+(e) NO FEDERAL FEE.—No Federal fee shall be imposed on the issuance,
+renewal, or use of a State hunting or sporting license under this Act.
+(f) DURATION.—A State hunting or sporting license shall remain in force
+for the term established by State law, not to exceed 10 years between
+background checks for purposes of this Act.
+
+REF_RDNC_Leg14_Bill12_NFSA_2030_5
+
+Page 8
+PROJECT ARA 2028 · 232
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · NFSA of 2030 · REF_ · 2026
+
+SEC. 102. INTERSTATE TRANSPORT.
+(a) IN GENERAL.—A valid State hunting or sporting license authorizes the
+licensee to transport covered manual-action firearms (as defined in
+section 101(b)) across State lines for lawful hunting or sporting
+purposes.
+(b) STATE-OF-DESTINATION LAW.—The licensee shall observe the firearm
+laws of any State through or to which the licensee transports a covered
+manual-action firearm under this section.
+(c) RELATIONSHIP TO EXISTING LAW.—This section supplements and does not
+repeal section 926A of title 18, United States Code (interstate
+transportation of firearms).
+
+TITLE II — TRACK B: FEDERAL CIVILIAN OWNERSHIP CERTIFICATE
+
+SEC. 201. ESTABLISHMENT OF FEDERAL CIVILIAN OWNERSHIP CERTIFICATE.
+(a) ESTABLISHMENT.—The Secretary of Defense, in coordination with the
+Attorney General and the Director of the Bureau of Alcohol, Tobacco,
+Firearms and Explosives, shall establish a Federal Civilian Ownership
+Certificate program (in this Act referred to as the "Certificate
+program" or "FCOC program").
+(b) COVERED TRANSACTIONS.—A Federal Civilian Ownership Certificate is
+required for any of the following transactions occurring in or affecting
+interstate or foreign commerce:
+(1) purchasing or receiving by transfer any covered firearm from
+any person, including a transfer between private parties;
+(2) importing any covered firearm for civilian use; and
+(3) interstate transport of any covered firearm by the certificate
+holder.
+Each transaction described in paragraphs (1) through (3) includes, as a
+jurisdictional element, that the firearm has been manufactured,
+transported, or transferred in or affecting interstate or foreign
+commerce.
+(c) TIERED CERTIFICATE CATEGORIES.—The Certificate program shall issue
+Certificates in the following categories, each subject to the tiered
+renewal periods established in section 204—
+(1) Handgun and pistol Certificate;
+(2) Semi-automatic rifle and shotgun Certificate (10-round magazine
+capacity or less);
+(3) Semi-automatic high-capacity firearm Certificate (greater than
+10-round magazine capacity);
+(4) Assault-category firearm Certificate (firearms described in
+section 202); and
+(5) National Firearms Act Certificate (firearms regulated under
+chapter 53 of the Internal Revenue Code of 1986).
+A Certificate at a higher tier authorizes the holder to acquire firearms
+at any lower tier; the Secretary shall, by regulation, establish the tier
+hierarchy for purposes of this subsection.
+(d) POSSESSION NOT AFFECTED.—Nothing in this Act shall be construed
+to—
+(1) require any person to obtain a Certificate for the continued
+possession of any firearm lawfully owned before the effective date
+established under section 501; or
+(2) authorize any search or seizure based solely on possession of a
+firearm without a Certificate.
+(e) SHALL-ISSUE MANDATE.—A Certificate shall be issued to any applicant
+who satisfies the objective criteria established by the Secretary by
+
+REF_RDNC_Leg14_Bill12_NFSA_2030_5
+
+Page 9
+PROJECT ARA 2028 · 233
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · NFSA of 2030 · REF_ · 2026
+
+regulation, including—
+(1) fingerprint-based identification;
+(2) background check confirming that the applicant is not prohibited
+from possessing a firearm under section 922(g) of title 18, United
+States Code, or any other Federal law;
+(3) completion of the safety training and qualification program
+established under section 203; and
+(4) any additional objective criterion the Secretary establishes that
+is narrow, objective, and definite within the meaning of NYSRPA v.
+Bruen, 597 U.S. 1, 38 n.9 (2022).
+(f) NO SUBJECTIVE REVIEW.—No agency may impose any subjective suitability
+review, character assessment, "good moral character" requirement,
+discretionary denial criterion, or any test other than the objective
+criteria described in subsection (e). The architecture of this Act is the
+shall-issue architecture explicitly endorsed in Bruen footnote 9.
+
+SEC. 202. ASSAULT-CATEGORY FIREARMS — DEFINITION AND CERTIFICATION
+REQUIREMENT.
+(a) IN GENERAL.—For purposes of this Act, an "assault-category firearm"
+means a semiautomatic firearm covered by paragraph (1) and possessing
+two or more of the features described in paragraph (2).
+(1) COVERED FIREARMS.—This subsection applies to—
+(A) any semiautomatic rifle that has the capacity to accept a
+detachable magazine; and
+(B) any semiautomatic shotgun that has the capacity to accept a
+detachable magazine.
+(2) FEATURES.—The features referred to in subsection (a) are—
+(A) a pistol grip that protrudes conspicuously beneath the
+action of the firearm;
+(B) a forward grip;
+(C) a folding, telescoping, or detachable stock;
+(D) a grenade launcher or rocket launcher;
+(E) a barrel shroud; and
+(F) a threaded barrel.
+(b) NAMED FIREARMS.—In addition to firearms described in subsection (a),
+the following firearms (and copies, duplicates, variants, or altered
+facsimiles with the capability of any such firearm) are assault-category
+firearms regardless of their feature configuration—
+(1) the AR-15 platform and any rifle of substantially similar
+design;
+(2) the AK-47 platform and any rifle of substantially similar
+design;
+(3) the Uzi, Galil, and Tavor platforms; and
+(4) such additional named firearms as the Attorney General, in
+coordination with the Director of the Bureau of Alcohol, Tobacco,
+Firearms and Explosives, may designate by regulation upon a finding
+that such firearm is functionally equivalent to a firearm listed in
+paragraphs (1) through (3) for purposes of this Act.
+(c) MAGAZINE CAPACITY.—For purposes of this Act, a "large-capacity
+magazine" is any ammunition feeding device with a capacity to accept
+more than 10 rounds of ammunition. A semiautomatic firearm equipped with
+a large-capacity magazine is, for purposes of section 204 (renewal
+schedule), classified as a "semi-automatic high-capacity" firearm
+subject to the renewal period applicable to that classification.
+(d) DANGEROUS AND UNUSUAL FRAMING.—Congress finds that assault-category
+firearms as defined in subsections (a) and (b), when paired with
+large-capacity magazines, are dangerous and unusual within the meaning
+
+REF_RDNC_Leg14_Bill12_NFSA_2030_5
+
+Page 10
+PROJECT ARA 2028 · 234
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · NFSA of 2030 · REF_ · 2026
+
+of District of Columbia v. Heller, 554 U.S. 570, 627 (2008), and
+Caetano v. Massachusetts, 577 U.S. 411 (2016) (Alito, J., concurring) —
+being both capable of inflicting mass casualties at a rate qualitatively
+greater than that of conventional firearms, and not commonly used for
+lawful purposes such as self-defense in the home.
+(e) CERTIFICATION REQUIREMENT — NOT A PROHIBITION.—Acquisition of an
+assault-category firearm requires a Federal Civilian Ownership
+Certificate at the assault-category tier under section 201(c)(4). This
+Act does not prohibit the manufacture, sale, or possession of
+assault-category firearms; it requires that acquisition occur through
+the Federal Civilian Ownership Certificate framework and at the renewal
+period applicable to that classification under section 204.
+(f) GRANDFATHERING.—Any assault-category firearm lawfully owned on the
+date of enactment of this Act is a "grandfathered weapon" subject to
+Title III. No certification is required for continued possession.
+(g) AMMUNITION FEEDING DEVICE GRANDFATHERING.—Any large-capacity magazine
+lawfully owned on the date of enactment is grandfathered; the owner may
+retain such magazine indefinitely without action.
+
+SEC. 203. DELIVERY THROUGH MILITARY AND NATIONAL GUARD PROGRAMS.
+(a) IN GENERAL.—The Federal Civilian Ownership Certificate program shall
+be delivered through military installation programs and State National
+Guard civilian training programs, at no cost to participants, in
+accordance with cooperative arrangements established under this section.
+(b) NO COST TO PARTICIPANTS.—No fee shall be charged to any participant
+for any element of the certification process, including but not limited
+to fingerprinting, background check, safety training, live-fire
+qualification, written examination, or initial certificate issuance.
+(c) GEOGRAPHIC ACCESSIBILITY.—Certification facilities shall be available
+within [TBD] miles of every county seat in the United States within
+[TBD] years of the date of enactment of this Act. The Secretary of
+Defense shall publish a phased geographic accessibility plan within 180
+days of enactment.
+(d) SCHEDULING ACCOMMODATION.—The Secretary of Defense shall ensure that
+certification facilities offer scheduling that accommodates working
+individuals, including evening and weekend availability and appointment
+scheduling that permits same-week access in metropolitan rating areas.
+(e) IMPLEMENTATION FRAMEWORK.—The Secretary of Defense, in coordination
+with the Attorney General and the Director of the Bureau of Alcohol,
+Tobacco, Firearms and Explosives, shall establish the certification
+program through such cooperative arrangements with the States as may be
+necessary, consistent with constitutional limits on Federal direction
+of State personnel.
+(f) SAFETY TRAINING CURRICULUM.—The Secretary of Defense shall, in
+coordination with the Attorney General, establish a standardized safety
+training and qualification curriculum that includes—
+(1) firearm safety fundamentals;
+(2) safe storage and transportation requirements;
+(3) applicable Federal and State law instruction;
+(4) live-fire qualification appropriate to the certificate tier; and
+(5) refresher training requirements at renewal.
+
+SEC. 204. TIERED RENEWAL SCHEDULE.
+(a) SEMI-AUTOMATIC LONG GUNS (10-ROUND CAPACITY OR LESS).—Federal
+Civilian Ownership Certificates issued under section 201(c)(2) shall be
+valid for a period of 8 years from the date of issuance.
+
+REF_RDNC_Leg14_Bill12_NFSA_2030_5
+
+Page 11
+PROJECT ARA 2028 · 235
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · NFSA of 2030 · REF_ · 2026
+
+(b) HANDGUNS AND PISTOLS.—Federal Civilian Ownership Certificates issued
+under section 201(c)(1) shall be valid for a period of 6 years from the
+date of issuance.
+(c) SEMI-AUTOMATIC HIGH-CAPACITY FIREARMS.—Federal Civilian Ownership
+Certificates issued under section 201(c)(3) shall be valid for a period
+of 4 years from the date of issuance.
+(d) ASSAULT-CATEGORY FIREARMS.—Federal Civilian Ownership Certificates
+issued under section 201(c)(4) shall be valid for a period of 3 years
+from the date of issuance.
+(e) NATIONAL FIREARMS ACT FIREARMS.—Federal Civilian Ownership
+Certificates issued under section 201(c)(5) shall be valid for a period
+of 2 years from the date of issuance, with renewal coordinated with
+existing National Firearms Act registration renewal procedures under
+chapter 53 of the Internal Revenue Code of 1986.
+(f) RENEWAL PROCEDURE.—Renewal under this section requires—
+(1) updated background check confirming the certificate holder is
+not prohibited from possessing a firearm under section 922(g) of
+title 18, United States Code, or any other Federal law; and
+(2) safety refresher training appropriate to the certificate tier
+established by the Secretary of Defense by regulation.
+Renewal is shall-issue upon satisfaction of the objective criteria
+established under this subsection.
+
+SEC. 205. NO REGISTRY.
+(a) DATABASE LIMITATION.—The Federal Civilian Ownership Certificate
+database shall track only the following information for each
+certificate holder:
+(1) the holder's name, date of birth, and address;
+(2) the certificate tier or tiers issued under section 201(c);
+(3) the date of issuance and expiration of each certificate; and
+(4) such additional administrative information as the Secretary of
+Defense determines necessary for program administration.
+(b) FOPA COMPLIANCE.—This Act does not authorize the creation of any
+database linking individual certificate holders to specific firearm
+serial numbers, specific firearm transactions, or specific firearm
+inventories. The database authorized under subsection (a) is
+distinguishable from a "registry" within the meaning of section 926(a)
+of title 18, United States Code.
+(c) PROHIBITION ON LINKING.—No agency may—
+(1) maintain or operate any Federal database linking individual
+certificate holders to specific firearms or specific firearm
+transactions;
+(2) use the Certificate program database to track or compile
+information on specific firearm acquisitions; or
+(3) share Certificate program data with any agency for purposes of
+firearm-by-firearm tracking, except as required for criminal
+investigation pursuant to lawful process.
+(d) DATA RETENTION AND ACCESS.—The Secretary of Defense shall, in
+coordination with the Attorney General, establish data retention and
+access standards consistent with subsection (c) and applicable Federal
+privacy law.
+
+TITLE III — GRANDFATHERED WEAPON TRANSITION FRAMEWORK
+
+SEC. 301. GRANDFATHERED WEAPON STATUS.
+
+REF_RDNC_Leg14_Bill12_NFSA_2030_5
+
+Page 12
+PROJECT ARA 2028 · 236
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · NFSA of 2030 · REF_ · 2026
+
+(a) DEFINITION.—For purposes of this Act, a "grandfathered weapon" is
+any firearm lawfully owned by an individual on the date of enactment of
+this Act.
+(b) NO REGISTRATION REQUIRED.—No registration, certification, or
+affirmative notification is required for the continued possession of
+a grandfathered weapon.
+(c) RIGHT OF RETENTION.—An owner of a grandfathered weapon may retain
+such weapon indefinitely without obtaining a Federal Civilian Ownership
+Certificate. This Act does not authorize any seizure, forfeiture, or
+transfer of a grandfathered weapon based solely on the absence of a
+Certificate.
+(d) PENN CENTRAL CLARIFICATION.—The retention right under subsection
+(c) is intended to defuse regulatory takings analysis under Penn Central
+Transportation Co. v. New York City, 438 U.S. 104 (1978). Owners
+experience no investment-backed-expectation diminution as to existing
+inventory because retention is unlimited in time and unconditioned by
+this Act.
+
+SEC. 302. VOLUNTARY GOVERNMENT BUYBACK PROGRAM.
+(a) ESTABLISHMENT.—The Attorney General, in coordination with the
+Director of the Bureau of Alcohol, Tobacco, Firearms and Explosives,
+shall establish a voluntary buyback program for grandfathered weapons.
+(b) FAIR MARKET VALUE COMPENSATION.—Compensation for any weapon
+surrendered under this section shall be at independently audited fair
+market value, determined by a methodology established by the Attorney
+General by regulation. Methodology shall account for firearm category,
+condition, and prevailing market conditions.
+(c) TRANSFER RESTRICTION ON UNCERTIFIED WEAPONS.—After the date of
+enactment of this Act, a grandfathered weapon may not be sold to another
+private civilian except as provided in section 303 (Certificate Upgrade
+— Full Transferability) or section 304 (Family Inheritance). The only
+lawful sale pathway for an uncertified grandfathered weapon is the
+voluntary buyback program established under this section.
+(d) APPROPRIATIONS.—There are authorized to be appropriated [TBD]
+dollars for each of the first five fiscal years following enactment of
+this Act for the buyback program established under this section.
+Unobligated balances at the end of any fiscal year shall be available
+for expenditure in subsequent fiscal years through the conclusion of
+the program.
+
+SEC. 303. CERTIFICATE UPGRADE — FULL TRANSFERABILITY.
+(a) IN GENERAL.—An owner of a grandfathered weapon who obtains a Federal
+Civilian Ownership Certificate at the appropriate tier under section
+201(c) may convert the grandfathered weapon to "certified transferable"
+status.
+(b) TRANSFER AUTHORIZATION.—A weapon converted to certified transferable
+status under subsection (a) may be sold or transferred to any holder of
+a Federal Civilian Ownership Certificate at the appropriate tier.
+(c) ATF COORDINATION.—The Attorney General, through the Director of the
+Bureau of Alcohol, Tobacco, Firearms and Explosives, shall establish
+procedures for verifying upgrade eligibility and recording the upgrade,
+consistent with the no-registry requirements of section 205.
+
+SEC. 304. FAMILY INHERITANCE PROVISIONS.
+(a) IN GENERAL.—A grandfathered weapon may be transferred without buyback
+
+REF_RDNC_Leg14_Bill12_NFSA_2030_5
+
+Page 13
+PROJECT ARA 2028 · 237
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · NFSA of 2030 · REF_ · 2026
+
+to an immediate family member of the owner upon the owner's death,
+incapacity, or by inter vivos gift, where the immediate family member
+qualifies under subsection (b).
+(b) IMMEDIATE FAMILY DEFINED.—For purposes of this section, "immediate
+family member" means—
+(1) a spouse;
+(2) a child or stepchild;
+(3) a parent or stepparent;
+(4) a sibling;
+(5) a grandchild; or
+(6) a grandparent.
+(c) NOTIFICATION REQUIREMENT.—Within 90 days of inheritance or transfer
+under subsection (a), the recipient shall provide to the Bureau of
+Alcohol, Tobacco, Firearms and Explosives—
+(1) the recipient's name and address;
+(2) the firearm's make, model, caliber, and serial number; and
+(3) documentation of the qualifying familial relationship.
+(d) RECIPIENT ELECTION.—Upon receipt under subsection (a), the recipient
+may elect to—
+(1) retain the firearm as a grandfathered weapon under section 301
+(no Federal Civilian Ownership Certificate required for continued
+possession); or
+(2) obtain a Federal Civilian Ownership Certificate at the
+appropriate tier and convert the firearm to certified transferable
+status under section 303.
+(e) ESTATE-PLANNING COORDINATION.—The Attorney General shall publish
+guidance for estate-planning attorneys on the application of this
+section, including treatment of firearms held in trust and treatment of
+firearms identified in testamentary instruments.
+
+TITLE IV — NFA INTERACTION AND FEDERAL COORDINATION
+
+SEC. 401. SECOND AMENDMENT SAVINGS CLAUSE.
+(a) PRESERVATION.—Nothing in this Act shall be construed to infringe
+upon the right to keep and bear arms as guaranteed by the Second
+Amendment to the Constitution of the United States. The Federal
+Civilian Ownership Certificate is a qualification standard, not a
+prohibition.
+(b) CONSTRUCTION IN FAVOR OF RIGHT.—Where this Act may be construed in
+multiple ways, it shall be construed in favor of preserving the right
+to keep and bear arms.
+(c) CROSS-REFERENCE.—This section is supported by section 3(g)
+(Preservation of Existing Rights) and shall be read together with that
+subsection. The cases cited in section 3(g) — Heller, McDonald, Bruen,
+and Rahimi — provide the controlling doctrinal framework.
+
+SEC. 402. NATIONAL FIREARMS ACT INTERACTION.
+(a) NFA-REGULATED ITEMS.—Nothing in this Act modifies the National
+Firearms Act registration framework under chapter 53 of the Internal
+Revenue Code of 1986. Items regulated under that Act remain subject
+to that framework in addition to the Federal Civilian Ownership
+Certificate at the National Firearms Act tier under section 201(c)(5).
+(b) HUGHES AMENDMENT UNAFFECTED.—Nothing in this Act modifies section
+922(o) of title 18, United States Code, or affects the existing
+prohibition on civilian acquisition of machine guns manufactured after
+
+REF_RDNC_Leg14_Bill12_NFSA_2030_5
+
+Page 14
+PROJECT ARA 2028 · 238
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · NFSA of 2030 · REF_ · 2026
+
+May 19, 1986.
+(c) COORDINATION WITH ATF AND TREASURY.—The Attorney General, the
+Director of the Bureau of Alcohol, Tobacco, Firearms and Explosives,
+and the Secretary of the Treasury shall establish coordination protocols
+such that a National Firearms Act tier Certificate under section
+201(c)(5) is administered consistently with existing National Firearms
+Act registration requirements without imposing duplicative qualification
+requirements on the certificate holder.
+(d) NO MODIFICATION OF EXISTING NFA AUTHORITIES.—Existing authorities
+of the Bureau of Alcohol, Tobacco, Firearms and Explosives and the
+Secretary of the Treasury under chapter 53 of the Internal Revenue Code
+of 1986 are unaffected by this Act, except as expressly modified by
+section 3(e) (operative fallback architecture).
+
+SEC. 403. FEDERAL COORDINATION — CONSTITUTIONAL DEFENSE.
+(a) READY-FOR-ACTIVATION REQUIREMENT.—The Attorney General, in
+coordination with the Director of the Bureau of Alcohol, Tobacco,
+Firearms and Explosives, the Secretary of the Treasury, and the
+Department of Justice Office of Legal Counsel, shall establish and
+maintain regulations sufficient to operationalize the section 3(e)(1)
+fallback authority on at most 30 days' notice. Such regulations shall
+include—
+(1) implementation of National Firearms Act registration procedures
+for the covered firearm classes described in section 201(b);
+(2) coordination with the Bureau of Alcohol, Tobacco, Firearms and
+Explosives certification operations to permit transition without
+program interruption; and
+(3) public-facing guidance for certificate holders on the effect of
+any judicial decision affecting Title II.
+(b) NOTICE REQUIREMENT.—Upon entry of a final judgment or stay
+affecting any provision of Title II, the Attorney General shall, within
+30 days—
+(1) publish notice in the Federal Register stating whether the
+section 3(e)(1) fallback authority has been activated; and
+(2) provide guidance to certificate holders, applicants, and
+affected firearm dealers regarding the operational status of the
+Title II framework and any operative National Firearms Act
+framework activated under section 3(e)(1).
+(c) ANNUAL CONSTITUTIONAL LITIGATION STATUS REPORT.—The Attorney General
+shall transmit annually to the Committee on the Judiciary of the Senate
+and the Committee on the Judiciary of the House of Representatives a
+report containing—
+(1) the status of any constitutional litigation affecting Title II;
+(2) the operational status of the section 3(e)(1) fallback authority,
+including readiness assessments;
+(3) any judicial proceedings the Attorney General determines may
+affect Title II in the upcoming fiscal year; and
+(4) any recommendations for further congressional action.
+(d) COORDINATION WITH SENATE JUDICIARY.—The Attorney General shall
+coordinate with the Committee on the Judiciary of the Senate on
+legislative response to adverse judicial rulings affecting Title II.
+
+TITLE V — IMPLEMENTATION AND OVERSIGHT
+
+SEC. 501. IMPLEMENTATION TIMELINE.
+
+REF_RDNC_Leg14_Bill12_NFSA_2030_5
+
+Page 15
+PROJECT ARA 2028 · 239
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · NFSA of 2030 · REF_ · 2026
+
+(a) TRACK A EFFECTIVE DATE.—Title I (Track A — Hunting and Sporting
+License Framework) shall take effect on the date of enactment of this
+Act.
+(b) TRACK B OPERATIONAL DATE.—Title II (Track B — Federal Civilian
+Ownership Certificate) shall be operational not later than [TBD] months
+after the date of enactment of this Act. The Secretary of Defense, in
+coordination with the Attorney General, shall publish an implementation
+plan within 180 days of enactment.
+(c) PHASED GEOGRAPHIC ACCESSIBILITY.—The Secretary of Defense shall
+publish a phased geographic accessibility plan under section 203(c)
+within 180 days of enactment, with phased operational milestones at
+[TBD] months and [TBD] months.
+(d) BUYBACK PROGRAM OPERATIONAL DATE.—The voluntary buyback program
+under section 302 shall be operational not later than [TBD] months after
+the date of enactment.
+(e) GRANDFATHERED WEAPON COORDINATION.—Title III (Grandfathered Weapon
+Transition Framework) shall take effect on the date of enactment.
+
+SEC. 502. INTERAGENCY COORDINATION.
+(a) DEPARTMENT OF DEFENSE LEAD AGENCY.—The Secretary of Defense shall
+serve as the lead agency for the certification delivery infrastructure
+under section 203.
+(b) DEPARTMENT OF JUSTICE / ATF LEAD AGENCY.—The Attorney General,
+acting through the Director of the Bureau of Alcohol, Tobacco, Firearms
+and Explosives, shall serve as the lead agency for the Certificate
+program standards, certificate administration, and law-enforcement
+coordination.
+(c) TREASURY COORDINATION.—The Secretary of the Treasury shall
+coordinate with the Attorney General on—
+(1) National Firearms Act registration framework integration under
+section 402;
+(2) any Federal fee structure established under section 3(d) Taxing
+Power authority; and
+(3) the operative fallback authority under section 3(e)(1).
+(d) NATIONAL GUARD BUREAU COORDINATION.—The Chief of the National Guard
+Bureau shall coordinate with the Secretary of Defense on State Guard
+cooperative arrangements under section 203, consistent with constitutional
+limits on Federal direction of State personnel.
+(e) DOJ OFFICE OF LEGAL COUNSEL CONSULTATION.—The Department of Justice
+Office of Legal Counsel shall consult with the Attorney General on the
+constitutional posture of regulations issued under this Act, including
+regulations implementing section 3(e)(1) operative fallback authority.
+
+SEC. 503. ANNUAL REPORTING.
+(a) ANNUAL REPORT.—The Attorney General, in coordination with the
+Secretary of Defense, shall transmit annually to Congress a report
+containing—
+(1) certification volumes by tier and by State;
+(2) certificate denial rates and grounds for denial;
+(3) buyback program participation, including weapons surrendered by
+category and aggregate compensation paid;
+(4) facility geographic accessibility status and progress against the
+phased accessibility plan under section 203(c);
+(5) constitutional litigation status (cross-reference to section
+403(c)); and
+(6) any recommendations for further congressional action.
+
+REF_RDNC_Leg14_Bill12_NFSA_2030_5
+
+Page 16
+PROJECT ARA 2028 · 240
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · NFSA of 2030 · REF_ · 2026
+
+(b) PUBLIC AVAILABILITY.—The annual report shall be transmitted to
+Congress and posted publicly on a website maintained by the Department
+of Justice not later than 30 days after submission to Congress.
+(c) GAO COORDINATION.—The Comptroller General of the United States
+shall have access to all data and records of the Federal Civilian
+Ownership Certificate program necessary to perform audits, evaluations,
+and reports requested by the relevant Committees of Congress.
+(d) THREE-YEAR PROGRAM REVIEW.—Not later than three years after the
+operational date established under section 501(b), and every three years
+thereafter, the Attorney General shall transmit to Congress a
+comprehensive program review covering the operation of this Act,
+including any structural recommendations for amendment.
+
+[All dollar amounts, geographic accessibility distance and time
+thresholds, appropriation amounts, IRC section cross-references, and
+additional named-firearm designations marked [TBD] require resolution by
+licensed legislative counsel, the Department of Justice Office of Legal
+Counsel, the Bureau of Alcohol, Tobacco, Firearms and Explosives, the
+Department of Defense Office of General Counsel, the National Guard
+Bureau, and the Congressional Budget Office before introduction as
+formal legislation. See Part III counsel notes.]
+
+REF_RDNC_Leg14_Bill12_NFSA_2030_5
+
+Page 17
+PROJECT ARA 2028 · 241
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · NFSA of 2030 · REF_ · 2026
+
+Part III — Notes for Congressional Counsel
+All [TBD] items and constitutional questions below require resolution before introduction. NFSA carries the
+highest constitutional risk in the bill series alongside BWDS, drawing on Bruen, Rahimi, Maryland Shall Issue
+v. Moore, the post-Bruen circuit landscape, Peterson NFA-as-shall-issue, and the pending ANJRPC en banc
+and Kavanaugh AR-15 cert watch. The Sec 3 + Sec 201 fallback ladder entry documents the Architecture
+C-with-B-fallback posture established in this bill — body-baked safety with operative bill-text severability
+and prepared NFA-framework fallback authority — paralleling the BWDS Sec 204(f) pattern. DOJ Office of
+Legal Counsel review is required before introduction.
+
+Item Requiring
+Resolution
+
+Guidance
+
+Sec 3 + Sec 201 —
+Constitutional
+fallback ladder
+(Architecture
+C-with-B-fallback)
+[Sources 200, 202,
+221, 222, 229]
+
+Architecture: Architecture C-with-B-fallback variant (the BWDS Sec 204(f)
+pattern). Sec 3(e) establishes operative bill-text severability with NFA-framework
+fallback authority — meaningfully stronger than Part III-only documentation. The
+risk vector is constitutional rather than Byrd Rule (constitutional strikes are stickier
+than Parliamentarian rulings); the fallback architecture has clear operative form
+(the existing NFA registration framework already analogized to Bruen Footnote 9 in
+Peterson); the bill anticipates judicial review reaching the question.
+(1) Primary structure. Sec 201 / 202 / 203 as drafted, anchored by Sec 3(a)–(d)
+constitutional architecture provisions. Track B is a shall-issue qualification standard
+with narrow, objective, definite criteria — Bruen Footnote 9 doctrinal home,
+extended to purchase licensing by MSI v. Moore (4th Cir. en banc 2024).
+(2) Mid-level fallback if Sec 202 assault-category definition is held invalid.
+Sec 3(e)(1) operative authority converts assault-category covered transactions to
+NFA-style registration. This preserves the regulatory framework with the posture
+changed from FCOC-tier to NFA-registration. AG / ATF / Treasury maintain Sec
+3(e)(1) regulations ready for activation per Sec 403(a). Counsel should have
+NFA-expansion regulations drafted before introduction so Sec 3(e)(1) authority is
+operationally ready if invoked.
+(3) Bottom-level fallback. If Sec 3(e)(1) fallback is also held invalid, Sec 3(e)(3)
+preserves Title I (Track A) and the structural framework of Sec 201 even if specific
+covered classes lose enforceable certification. Track A unaffected because no Bruen
+challenge reaches manual-action long guns under existing State licensing.
+(4) Pre-introduction engagement. DOJ Office of Legal Counsel review required.
+Senate Judiciary constitutional counsel pre-introduction briefing recommended. The
+deliberate posture should be named in counsel materials, not concealed — Sec 3(e)
+operative fallback IS the prepared response, not concealment of risk.
+
+REF_RDNC_Leg14_Bill12_NFSA_2030_5
+
+Page 18
+PROJECT ARA 2028 · 242
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · NFSA of 2030 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Bruen (2022)
+text-and-history
+standard [Sources
+200, 202]
+
+The Bruen majority installed a single-step test that shifts the burden to the
+government once the Second Amendment's plain text covers an individual's
+conduct. The government must "affirmatively prove that its firearms regulation is
+part of the historical tradition that delimits the outer bounds of the right to keep
+and bear arms." 597 U.S. at 19. The operative analytical concept is the "relevantly
+similar" historical analog evaluated against two metrics drawn from Heller and
+McDonald: how the regulation burdens the right and why it does so.
+Footnote 9 is the doctrinal home of the FCOC. "[N]othing in our analysis
+should be interpreted to suggest the unconstitutionality of the 43 States'
+'shall-issue' licensing regimes," 597 U.S. at 38 n.9, which "often require applicants
+to undergo a background check or pass a firearms safety course," provided they
+"contain only narrow, objective, and definite standards" and are not put toward
+"abusive ends" through "lengthy wait times" or "exorbitant fees." Sec 3(a) and Sec
+201(e)–(f) are drafted directly to this language.
+
+Rahimi (2024)
+"principles"
+formulation
+[Source 202]
+
+Rahimi (8-1, Roberts, C.J.; Thomas, J., dissenting) modestly expanded the analogical
+latitude available to the government. The methodological holding rejects an
+over-specific reading of Bruen: "the Second Amendment permits more than just
+those regulations identical to ones that could be found in 1791." Slip op. at 7. The
+operative inquiry is whether modern regulation "is consistent with the principles
+that underpin our regulatory tradition" — the law "need not be a 'dead ringer' or a
+'historical twin.'" Slip op. at 7-8. Sec 2(a)(4) Findings cite Rahimi's principles
+formulation, which is more permissive than Bruen's "distinctly similar" language.
+Justice Barrett's concurrence — analytically the most consequential for legislative
+drafters — endorsed reading historical principles at a workable level of generality,
+warning against both "overly specific analogues" producing a "law trapped in
+amber" and reading principles "at such a high level of generality that it waters
+down the right."
+
+Maryland Shall
+Issue v. Moore —
+controlling Track B
+precedent [Source
+201]
+
+MSI v. Moore, 116 F.4th 211 (4th Cir. 2024) (en banc, 14-2; Keenan, J., for the
+majority), is the most direct precedent for Track B's FCOC architecture. The en banc
+majority resolved the case at Bruen step one, holding "non-discretionary
+'shall-issue' licensing laws are presumptively constitutional and generally do not
+'infringe' the Second Amendment right to keep and bear arms." 116 F.4th at 219.
+The court treated Bruen Footnote 9 as binding guidance and extended it from carry
+licensing to purchase licensing — a doctrinal extension central to the FCOC
+architecture. Cert denied January 13, 2025 (No. 24-373) after ten conference
+distributions with no published dissent from denial. 145 S. Ct. 1049 (2025).
+Drafting implication. Track B should track MSI v. Moore's structure: shall-issue,
+objective criteria only, no subjective suitability review, no discretionary denial, free
+delivery addressing Footnote 9 exorbitant-fees caution. Sec 201(e)–(f), Sec 203(b),
+and Sec 3(a) are drafted to that template.
+
+REF_RDNC_Leg14_Bill12_NFSA_2030_5
+
+Page 19
+PROJECT ARA 2028 · 243
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · NFSA of 2030 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Post-Bruen circuit
+landscape —
+licensing uniformly
+upheld [Sources
+214, 215]
+
+Every Federal circuit to reach the merits has converged on a presumption favoring
+shall-issue regimes with objective criteria. Antonyuk v. James, 120 F.4th 941 (2d
+Cir. 2024), upheld New York's CCIA basic structure (cert denied April 7, 2025, No.
+24-795); McRorey v. Garland, 99 F.4th 831 (5th Cir. 2024), upheld
+background-check enhancements and 18-20-year-old purchase delays under
+Footnote 9; Yukutake v. Lopez (9th Cir. Mar. 14, 2025), upheld basic
+permit-to-purchase. The Antonyuk vulnerability was the "good moral character"
+requirement — the FCOC explicitly forecloses any such subjective suitability review
+(Sec 201(f), Sec 3(a)).
+Active fault lines include age-based restrictions (Worth v. Jacobson, Lara v.
+Commissioner, Reese v. ATF — all striking 18-20-year-old prohibitions, deepening
+split with older 11th Cir. authority) and private-property default rules (Wolford v.
+Lopez, No. 24-1046, cert granted Oct. 3, 2025, OT 2025 argument heard, decision
+pending). Neither directly affects the FCOC architecture but counsel should monitor.
+
+Sec 202
+assault-category
+definition —
+drafting
+justification
+[Sources 216–220]
+
+Sec 202 implements the research-recommended tightening in full. The
+two-feature-plus-detachable-magazine test (Sec 202(a)) avoids the one-feature
+trigger that has drawn concurrence-level skepticism in the Fourth Circuit.
+Named-firearm provisions (Sec 202(b)) prevent circumvention via cosmetic feature
+stripping. The 10-round magazine cap (Sec 202(c)) tracks the capacity limit
+consistently upheld across all post-Bruen circuits including Hanson v. District of
+Columbia, 120 F.4th 223 (D.C. Cir. 2024), and Duncan v. Bonta, 133 F.4th 852 (9th
+Cir. 2025) (en banc, on magazines). The "dangerous AND unusual" findings
+language (Sec 202(d)) tracks Justice Alito's Caetano concurrence rather than the
+looser "dangerous OR unusual" language struck in NAGR v. Lamont. Grandfathering
+(Sec 202(f) + Sec 202(g)) defuses the Penn Central takings argument central to the
+Duncan cert petition. Most importantly, Sec 202(e) explicitly frames the regime as
+certification, not prohibition — the Peterson NFA-as-shall-issue model.
+Pending decision. ANJRPC v. AG NJ (3d Cir. en banc, argued Oct. 15, 2025,
+decision pending) is the pivotal pending decision. If ANJRPC produces the first
+circuit-level strike of an assault-weapons ban and creates a clean split, the doctrinal
+pressure on Sec 202 increases. Sec 3(e)(1) operative fallback to NFA framework is
+the prepared response — Sec 202 transitions to NFA-tier registration without
+statutory amendment. The Kavanaugh AR-15 watch in Snope v. Brown ("next Term
+or two") makes prepared fallback architecture more important, not less.
+
+REF_RDNC_Leg14_Bill12_NFSA_2030_5
+
+Page 20
+PROJECT ARA 2028 · 244
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · NFSA of 2030 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+U.S. v. Peterson
+(5th Cir. Aug.
+2025) —
+NFA-as-shall-issue:
+key new authority
+[Source 221]
+
+United States v. Peterson, ___ F.4th ___ (5th Cir. Aug. 27, 2025), reissued the Fifth
+Circuit opinion on the more durable rationale that NFA registration is itself
+analogous to Bruen Footnote 9 shall-issue licensing — fingerprints plus background
+check plus denial only when possession would violate law qualify as "narrow,
+objective, and definite standards." This is the most important post-Bruen reasoning
+available for the NFSA: a Federal authority has now formally analogized NFA
+registration to shall-issue licensing, providing precedent for treating FCOC
+certification the same way.
+Sec 3(b) anchors this analogy in operative bill text. The Peterson holding is
+also the doctrinal foundation for the Sec 3(e)(1) operative fallback architecture — if
+the FCOC is invalidated, the fallback to NFA-style registration tracks the framework
+Peterson explicitly analogized to Footnote 9. This is not a hypothetical fallback; it is
+the framework that has operated since 1934 without successful constitutional
+challenge.
+
+Hughes
+Amendment / NFA
+post-Bruen —
+uniformly intact
+[Source 218]
+
+U.S. v. Morgan, 150 F.4th 1339 (10th Cir. Sept. 2, 2025), U.S. v. Bridges, 150 F.4th
+517 (6th Cir. Aug. 7, 2025), and U.S. v. Kittson (9th Cir. Dec. 10, 2025) all upheld
+the Hughes Amendment machine-gun ban — no circuit split exists on §922(o). Cert
+pending in Morgan v. United States, No. 25-6055. Sec 402(b) preserves §922(o) in
+operative bill text.
+United States v. Rush, No. 23-3256 (7th Cir. Mar. 10, 2025), upheld §5861(d) as
+applied to short-barreled rifles, holding United States v. Miller, 307 U.S. 174 (1939),
+still good law. Forced reset triggers were vacated as machineguns by NAGR v.
+Garland (N.D. Tex. July 23, 2024) following Garland v. Cargill, 602 U.S. 406 (2024);
+the Trump-administration DOJ settled in May 2025. NFA framework requirements
+survive Bruen in all circuits.
+
+Commerce Clause
+foundation (Sec
+3(c)) [Source 222]
+
+Sec 3(c) anchors the Commerce Clause foundation in operative bill text. Three
+doctrinal moves are critical: (1) acquisition is paradigmatic economic activity
+satisfying Lopez category three more comfortably than §922(o)'s possession ban;
+(2) the FCOC is embedded in chapter 44 of title 18, U.S.C., as part of the existing
+comprehensive scheme — the Raich-style "comprehensive regulatory scheme"
+rationale; (3) per-element jurisdictional hook in Sec 201(b) ("manufactured,
+transported, or transferred in or affecting interstate or foreign commerce")
+preempts as-applied challenges.
+Gonzales v. Raich, 545 U.S. 1 (2005), as transposed to firearms in U.S. v. Stewart,
+451 F.3d 1071 (9th Cir. 2006), upheld §922(o) as applied to homemade machine
+guns that never crossed State lines. Scarborough v. United States, 431 U.S. 563
+(1977), holds that proof a firearm "previously traveled in interstate commerce"
+satisfies the jurisdictional nexus. Every circuit to consider Commerce Clause
+challenges to §922(g), §922(o), and the NFA after Bruen has rejected them as
+foreclosed. Fifth Circuit concurrences (Willett, Ho) in Bonner / Wilson / Hembree
+urge §922(o) Commerce Clause reconsideration — counsel should pre-answer this
+fringe position in Findings (Sec 2(a)(8) does so).
+
+REF_RDNC_Leg14_Bill12_NFSA_2030_5
+
+Page 21
+PROJECT ARA 2028 · 245
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · NFSA of 2030 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Taxing Power beltand-suspenders
+(Sec 3(d)) [Source
+229]
+
+If any FCOC fee is included (even nominal), Sonzinsky v. United States, 300 U.S.
+506 (1937), provides Taxing Power authority alongside Commerce Clause — on the
+NFA model. Sec 3(d) anchors this in operative bill text.
+Drafting recommendation. Counsel should consider a nominal or de minimis fee
+(waivable for financial hardship) to preserve Taxing Power authority without
+creating access barriers that Bruen Footnote 9 flags as abusive ends. Free delivery
+through military and Guard installations under Sec 203(b) directly addresses the
+Footnote 9 exorbitant-fees caution. The belt-and-suspenders posture means even if
+Commerce Clause authority is challenged, Taxing Power authority remains
+operative.
+
+Sec 203 delivery —
+Printz anti-comma
+ndeering
+mitigation [Source
+223]
+
+Sec 203 body framing is intentionally clean ("delivered through military installation
+programs and State National Guard civilian training programs ... through such
+cooperative arrangements with the States as may be necessary, consistent with
+constitutional limits on Federal direction of State personnel"). The operational
+implementation guidance below avoids Printz v. United States, 521 U.S. 898 (1997),
+commandeering exposure:
+(1) Federal Active Component personnel administer the certification
+operation. Voluntary cooperative agreements with States provide Guard facility
+access only — State-status Title 32 Guard personnel are not commanded to
+administer or enforce.
+(2) Where State Guard personnel participate, they do so as federalized Title
+10 personnel under voluntary State-Guard authorization, OR under voluntary
+State-level cooperative arrangements with their own consent.
+(3) Federal funding conditions on State Guard cooperation must respect
+NFIB v. Sebelius, 567 U.S. 519, 580 (2012), anti-coercion limits — funding cannot be
+so substantial that withdrawal would amount to compulsion.
+(4) Sec 502(d) National Guard Bureau coordination handles
+cooperative-arrangement framework operationally. Koons / Siegel v. Platkin (3d Cir.
+en banc, decision pending) will further clarify surety-law analog doctrine — monitor
+for decision.
+
+No-registry
+provision (Sec 205)
+— FOPA
+compliance
+
+The FCOC database tracks certificate holders and qualification status only — not
+specific weapon serial numbers or transactions (Sec 205(a)). FOPA (1986) 18 U.S.C.
+§ 926(a) prohibits a national firearms registry. The FCOC holder database
+(analogous to driver-license databases) is constitutionally and statutorily
+distinguishable from a weapons registry. Sec 205(b) and Sec 3(f) state this
+distinction explicitly in operative bill text.
+Sec 205(c) prohibits any agency from maintaining a Federal database linking
+individual certificate holders to specific firearms or transactions, and bars data
+sharing with other agencies for firearm-by-firearm tracking purposes (except as
+required for criminal investigation under lawful process). Counsel should review Sec
+205 against any existing CMS or ATF data sharing arrangements that could create a
+§926(a) compliance question.
+
+REF_RDNC_Leg14_Bill12_NFSA_2030_5
+
+Page 22
+PROJECT ARA 2028 · 246
+
+Reform Democrats of the New Commonwealth
+
+
+RDNC Bill Framework · NFSA of 2030 · REF_ · 2026
+
+Item Requiring
+Resolution
+
+Guidance
+
+Grandfathered
+transfer restriction
+(Sec 302(c)) —
+Penn Central
+review
+
+The Sec 302(c) prohibition on civilian-to-civilian transfer of grandfathered
+uncertified weapons may face Penn Central Transportation Co. v. New York City,
+438 U.S. 104 (1978), Takings analysis. Mitigation: the rule is framed as a
+qualification requirement for the transferee (must obtain FCOC) rather than a
+prohibition on transfer by the grandfathered owner. Sec 303 (Certificate Upgrade)
+and Sec 304 (Family Inheritance) preserve transfer pathways without buyback. The
+full grandfathering of retention rights under Sec 301 — unconditioned and unlimited
+in time — is the central Penn Central defense (Sec 301(d) recital).
+Owners experience no investment-backed-expectation diminution as to existing
+inventory because retention is unlimited and unconditional. The buyback program
+(Sec 302) provides a voluntary fair-market-value compensation pathway. Counsel
+should review Sec 302(b) compensation methodology against takings precedent
+and ensure the methodology is not confiscatory.
+
+Koons/Siegel v.
+Platkin —
+surety-analog
+doctrine watch
+[Source 223]
+
+The Third Circuit en banc heard Koons / Siegel v. Platkin on February 11, 2026 —
+decision pending. The panel had upheld New Jersey's four-reputable-persons
+referrer requirement by analogy to surety regimes but struck the $50 victim-fund
+tax and the liability-insurance mandate as not historically grounded.
+Operational impact: En banc decision will further clarify how surety laws function
+as Rahimi principles-level analogs. If favorable, strengthens NFSA Track B
+historical analog argument. If adverse, review FCOC design to avoid any provision
+analogous to the struck elements (Sec 203(b) "no cost to participants" already
+addresses the fee-tax concern; FCOC carries no liability-insurance mandate).
+Counsel should monitor for decision and any cert petition.
+
+REF_RDNC_Leg14_Bill12_NFSA_2030_5 · REF_ Reference Layer · Reform Democrats of the New
+Commonwealth · 2026
+Legal disclaimer applies — see page 1. This framework requires licensed legislative counsel review before introduction.
+Originally conceived and authored by a concerned American citizen. Developed with the assistance of Claude
+(Anthropic). The ideas belong to anyone willing to fight for them.
+
+REF_RDNC_Leg14_Bill12_NFSA_2030_5
+
+Page 23
+PROJECT ARA 2028 · 247
+
+Reform Democrats of the New Commonwealth
+
+-----
+
+# PART VIII — The Scoring Methodology
+
+*The rubric used to evaluate every proposal — the feature that most distinguishes this agenda from comparable governing documents.*
+
+-----
+
+## Why a Formal Methodology
+
+This is the single feature that most distinguishes this agenda from comparable governing documents. Project 2025 published a program. This framework publishes a program and the rubric used to evaluate every proposal in it — the same standard of methodological defensibility applied to work by the Brookings Institution, the Urban Institute, the Congressional Budget Office, or the Heritage Foundation.
+
+Every one of the 65 proposals is scored on three independent axes. The axes are deliberately orthogonal: each measures something the others do not. Where evidence is ambiguous, the rubric defaults to the lower score — optimism must be substantiated; pessimism does not require justification.
+
+## The Three Axes
+
+**GP — Global Precedent**
+Has this policy approach been adopted and rigorously evaluated in comparable nations? GP is backward-looking. It assesses whether we are walking into territory others have successfully mapped, or building from theory. Scored against a defined pool of 16 primary comparator nations (OECD members, GDP/capita ≥ $30,000 PPP, functional welfare state and rule of law), assessed at the point of sustained implementation, not passage.
+
+**UT — US Transition Difficulty**
+How difficult is the transition from the current US status quo to this policy operating at meaningful scale? Assessed across four sub-dimensions, each of which can independently cap the score: legislative and constitutional feasibility; implementation timeline; US precedent and scaling; and agenda synergy with other proposals. A higher score means a more achievable transition. UT does not measure benefit.
+
+**B — Benefit Score**
+If the policy achieves its intended outcomes, how significant is the welfare benefit to the broad American population? Assessed conditional on success across population reach, per-beneficiary magnitude, and distributional equity. B is not a probability-weighted expected value — that is the role of UT.
+
+## The Aggregate Formula
+
+Each axis is scored 1–5. The aggregate Priority Score is computed as **(GP + UT + B) ÷ 1.5**, normalising the sum of the three axes to a 1–10 scale. The minimum possible score is 2.0 (all axes at 1), the maximum 10.0 (all axes at 5), and scores are reported to one decimal place.
+
+## Evidence Quality Tiers
+
+|Tier |Meaning                                                                                                        |
+|-----|---------------------------------------------------------------------------------------------------------------|
+|**A**|High — peer-reviewed longitudinal studies, randomized policy evaluations, CBO-equivalent scoring               |
+|**B**|Moderate — well-documented program reports, controlled comparative analyses, established think-tank evaluations|
+|**C**|Low — case studies, preliminary data, opaque modeling; insufficient to anchor a score above 2                  |
+|**D**|Non-qualifying — opinion, advocacy, anecdote; zero evidentiary weight                                          |
+
+*Calibrated conservatism is the governing principle: where evidence is ambiguous, the rubric defaults to the lower score.*
+
+## The Comparator Nation Pool
+
+|Tier                              |What It Is                                                                                                                                                                                                                                                                  |
+|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|**Tier 1 — Primary Comparators**  |Sixteen nations qualifying on all criteria: Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Ireland, Japan, Netherlands, New Zealand, Norway, Sweden, Switzerland, United Kingdom. Evidence from this pool can anchor a high Global Precedent score.|
+|**Tier 2 — Secondary Comparators**|Eleven high-income democracies with differing institutional contexts: Czech Republic, Estonia, Iceland, Israel, Luxembourg, Portugal, Singapore, Slovakia, Slovenia, South Korea, Spain. Evidence is valid but transferability to the US requires explicit justification.   |
+|**Non-Comparable**                |Authoritarian states, low-income nations, and contexts whose institutional capacity is fundamentally incompatible with the US. Evidence from these contexts may appear as supporting material but cannot anchor a Global Precedent score.                                   |
+
+*A policy’s comparator count is assessed at time of meaningful implementation and sustained operation — minimum three years — not at date of passage.*
+
+## The Per-Axis Rubric
+
+### Global Precedent (GP)
+
+|Tier                           |Qualifying Criteria                                                                                                                                                                                       |
+|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|**5 — Overwhelming Precedent** |At least 75% of Tier 1 comparators have adopted the policy at national scale and sustained it for ten years or longer, OR the approach is an international norm endorsed by OECD, WHO, ILO, or equivalent.|
+|**4 — Strong Precedent**       |Five or more Tier 1 comparators have adopted and sustained the policy, OR two or more with Tier A longitudinal evaluation showing consistent positive outcomes.                                           |
+|**3 — Moderate Precedent**     |Three to four Tier 1 comparators have implemented the policy with generally positive but contested results, OR two or more with Tier B evidence.                                                          |
+|**2 — Emerging Precedent**     |One or two Tier 1 comparators with mixed or early results, OR three or more Tier 2 comparators without clear US applicability.                                                                            |
+|**1 — No Meaningful Precedent**|The policy has not been implemented in any Tier 1 or Tier 2 comparator at scale, or only in non-comparable contexts.                                                                                      |
+
+### US Transition Difficulty (UT)
+
+|Tier                       |Qualifying Criteria                                                                                                                   |
+|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+|**5 — Minimal Difficulty** |Implementation achievable through existing statutory authority or simple-majority legislation; strong, directly relevant US precedent.|
+|**4 — Achievable**         |Implementation feasible under standard majority-governance conditions; no constitutional barriers; political contest is normal-course.|
+|**3 — Moderate Difficulty**|Some friction — agency coordination, state-federal alignment, or limited political headwinds — but no structural blocker.             |
+|**2 — High Difficulty**    |Significant structural barriers: 60-vote Senate threshold, multi-agency coordination, strong organized opposition.                    |
+|**1 — Extreme Difficulty** |Fundamental constitutional, legal, or political barriers making full implementation unlikely even under optimistic conditions.        |
+
+### Societal Benefit (B)
+
+|Tier                       |Qualifying Criteria                                                                                                                                      |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+|**5 — Maximal Benefit**    |At least 80% of Americans benefit directly with substantial per-beneficiary improvement; OR the policy is foundational infrastructure enabling much else.|
+|**4 — Substantial Benefit**|60–80% benefit directly with significant improvement, OR 30–60% with transformative per-beneficiary impact.                                              |
+|**3 — Meaningful Benefit** |30–60% benefit directly with meaningful improvement, OR a narrower population with transformative impact; distributional pattern is broadly progressive. |
+|**2 — Limited Benefit**    |10–30% benefit directly with moderate improvement, OR a broader population with modest per-beneficiary impact.                                           |
+|**1 — Narrow Benefit**     |Less than 10% benefit directly, or the policy is primarily institutional with diffuse welfare effects.                                                   |
+
+## Why the Axes Don’t Collapse
+
+The three axes are independent and genuinely orthogonal: each measures something the others do not. GP measures what has happened elsewhere; UT measures how hard it is to make it happen here; B measures what it is worth when it does. The pairwise comparisons each carry analytical weight. GP and UT together make the case that something has worked internationally and can work in the United States. GP and B together make the case that something has worked internationally and delivers real welfare improvement. UT and B together reveal the central policy tension: how difficult is implementation versus how valuable is the outcome. It is deliberate that UT does not measure benefit magnitude — that is the role of B.
+
+## Limitations and Intellectual Honesty
+
+A scoring methodology that claims more precision than it possesses is less credible, not more. Four limitations apply:
+
+1. **Cross-national comparison is bounded.** Even among Tier 1 comparators, the US differs in ways that affect policy outcomes — federalism and divided government, a healthcare and employment system built around private actors, a history of racial inequity that affects reach and distribution, a campaign-finance system with no close parallel.
+1. **Forward-looking projections carry uncertainty.** UT requires projections about what will happen — a fundamentally uncertain enterprise. UT scores for Phase III proposals fifteen or more years from introduction carry higher uncertainty than scores for Phase I proposals with current modeling available.
+1. **Welfare assessment is not value-neutral.** The B rubric weights distributional progressivity positively — a policy that primarily benefits the wealthy scores lower than one that benefits lower- and middle-income Americans at the same aggregate scale. This reflects the framework’s mission and is a defensible normative choice. Transparency is the answer, not false neutrality.
+1. **Interrater variance is real.** Two trained analysts applying this rubric to the same proposal may arrive at scores that differ by half a point on individual axes, translating to aggregate differences of up to 0.7. Score rationale is documented per proposal rather than asserted.
+
+-----
+
+# PART IX — The Source Register
+
+*The complete tier-rated evidence base. Project 2025 published an agenda with volume; this one publishes one with a graded evidence base.*
+
+-----
+
+## On Sources and Evidence
+
+The single feature that most distinguishes this agenda from comparable governing documents is that it shows its work. Every one of the 65 proposals carries axis-specific source citations in Part III: the numbers after each proposal key its Global Precedent, US Transition Difficulty, and Societal Benefit claims to the numbered register below.
+
+Every entry carries an evidence-tier rating: **A** authoritative non-partisan, **B** peer-reviewed or major think-tank with documented methodology, **C** use with caution, **D** partisan-aligned outlier cited only with explicit framing.
+
+*The register below lists each cited source by its permanent reference number, title, source type, and evidence tier, grouped by evidence domain. Full bibliographic detail, source URLs, and per-source key findings are maintained in the project’s complete source reference guide (REF_RDNC_SourceReferenceGuide, current edition). Gaps in the number sequence are intentional.*
+
+### 1. Taxation & Fiscal Policy (24 entries)
+
+|#  |Source                                                                        |Type       |Tier|
+|---|------------------------------------------------------------------------------|-----------|----|
+|1  |OECD, Tax Administration 2025 (13th ed.)                                      |OECD       |A   |
+|2  |IRS Direct File Pilot Evaluation, TIGTA (2024)                                |Gov/Agency |A   |
+|3  |IRS Publication 5869 (2024) — Tax Gap Report                                  |Gov/Agency |A   |
+|4  |Treasury, “Closing the Tax Gap” (2021)                                        |Gov/Agency |A   |
+|5  |Yale Budget Lab, IRS Staffing Analysis (April 2025)                           |Think Tank |B   |
+|7  |National Taxpayer Advocate Annual Report (2022)                               |Gov/Agency |A   |
+|8  |GAO, “Direct File Permanent Expansion” (December 2024)                        |Gov/Agency |A   |
+|9  |CBO, TCJA Extension (2024)                                                    |Gov/Agency |A   |
+|11 |CRFB, “Tax Cut Extensions Would Add $37T to Debt by 2054”                     |Think Tank |B   |
+|12 |Penn Wharton Budget Model, 2024 Trump Campaign Proposals (August 2024)        |Think Tank |B   |
+|13 |Penn Wharton Budget Model, 2024 Harris Campaign Proposals (August 2024)       |Think Tank |B   |
+|14 |PWBM, Warren 2%/3% Wealth Tax Analysis (2021)                                 |Think Tank |B   |
+|15 |Saez and Zucman, UC Berkeley (2021) — Mark-to-Market Analysis                 |Peer Review|A   |
+|16 |Mankiw & Weinzierl (2006, Journal of Public Economics)                        |Peer Review|A   |
+|17 |Concord Coalition / Holtz-Eakin Statement (May 2025)                          |Think Tank |B   |
+|18 |Gale-Haldeman, Brookings/TPC (2021) — TCJA Supply-Side Effects                |Think Tank |B   |
+|19 |Tax Justice Network (2024) — Offshore Evasion                                 |—          |C   |
+|20 |Moore v. United States, 602 U.S. 572 (2024)                                   |Law/Court  |A   |
+|21 |JCT 2024 — Employer Health Insurance Tax Expenditure                          |Gov/Agency |A   |
+|22 |Tax Policy Center, TCJA Distribution (2024)                                   |Think Tank |B   |
+|23 |Tax Foundation Tariff Tracker (2026)                                          |Think Tank |B   |
+|310|TIGTA Snapshot Report 2025-IE-R027 (July 2025)                                |Gov/Agency |A   |
+|316|Tax Policy Center, “Taxing Wealth in the United States: Issues and Challenges”|Think Tank |A   |
+|317|Balkir, Saez, Yagan & Zucman, NBER WP 34170 (Aug 2025)                        |Peer Review|A   |
+
+### 2. Fiscal Modeling & Macroeconomics (34 entries)
+
+|#  |Source                                                                               |Type       |Tier|
+|---|-------------------------------------------------------------------------------------|-----------|----|
+|25 |Penn Wharton Budget Model, OLG Model Documentation                                   |Think Tank |B   |
+|26 |Auerbach-Gorodnichenko (NBER WP 17447)                                               |Peer Review|A   |
+|27 |Zandi/Moody’s Analytics — Fiscal Multiplier Table                                    |Think Tank |B   |
+|28 |CBO WP 2012-08, Ramey — Infrastructure Multiplier                                    |Gov/Agency |A   |
+|29 |Blanchard-Leigh (2013, American Economic Review)                                     |Peer Review|A   |
+|30 |Irwin, “Peddling Protectionism” / “The Smoot-Hawley Tariff” (NBER)                   |Peer Review|A   |
+|31 |PWBM, “Economic Effects of President Trump’s Tariffs” (April 2025)                   |Think Tank |B   |
+|32 |PIIE (Clausing-Lovely) — Tariff Consumer Cost                                        |Think Tank |B   |
+|33 |Amiti, Redding, and Weinstein (NBER, 2019)                                           |Peer Review|A   |
+|34 |CRFB, IRA Energy Cost Update (2024)                                                  |Think Tank |B   |
+|35 |Moody’s Analytics, IIJA Impact Analysis                                              |Think Tank |B   |
+|36 |CRFB, FY2025 Biden Budget Analysis (March 2024)                                      |Think Tank |B   |
+|37 |NBER, Sarin-Summers (WP26475) — IRS Enforcement ROI                                  |Peer Review|A   |
+|38 |Chodorow-Reich et al. — Medicaid/State Fiscal Aid Multipliers                        |Peer Review|A   |
+|300|CBO Working Paper 2026-01 — Key CBO Methods                                          |Gov/Agency |A   |
+|301|Chodorow-Reich, Smith, Zidar & Zwick, “Tax Policy and Investment in a Global…”       |Peer Review|A   |
+|302|JCT JCX-25-25 (May 14, 2025)                                                         |Congress   |A   |
+|308|CBO Pub. 59972 (Feb 2024) — IRS enforcement ROI baseline                             |Gov/Agency |A   |
+|309|CBO Pub. 61172 (Jan 2025) — IRS rescission update                                    |Gov/Agency |A   |
+|311|Yale Budget Lab, “A Weakened IRS Has Substantial Consequences” (2026)                |Think Tank |B   |
+|328|CBO, “Estimated Budgetary Effects of Public Law 119-21” (Pub. 61570, July 2025)      |Gov/Agency |A   |
+|329|CBO, “The Budget and Economic Outlook: 2026 to 2036” (Feb 2026)                      |Gov/Agency |A   |
+|330|CBO, “Distributional Effects of Public Law 119-21” (Pub. 61367, Aug 2025)            |Gov/Agency |A   |
+|331|JCT JCX-36-25 / JCX-37-25 (July 29, 2025)                                            |Congress   |A   |
+|332|PWBM, “President Trump-Signed Reconciliation Bill…”                                  |Think Tank |A   |
+|333|Tax Foundation, “One Big Beautiful Bill Act Tax Policies…”                           |Think Tank |B   |
+|334|Tax Policy Center, “Distributional Effects of the Tax Provisions in the 2025 Budget…”|Think Tank |A   |
+|335|Auerbach & Gale, “Then and Now: A Look Back and Ahead at the Federal Budget”         |Peer Review|A   |
+|336|Brookings, Gale / Page / Patel / Pomerleau, “One Big Beautiful Bill?”                |Think Tank |A   |
+|337|CRFB, “OBBBA Dynamic Score Comes In at $4.7 Trillion” (March 11, 2026)               |Think Tank |B   |
+|338|Trump CEA OBBBA analysis — OUTLIER                                                   |Gov/Agency |D   |
+|358|CBO score, OBBBA Section 50003 (CFPB funding) — Pub. 61379                           |Gov/Agency |A   |
+|360|PWBM, “2024 Harris Campaign Policy Proposals” (Aug 26, 2024)                         |Think Tank |A   |
+
+### 3. Healthcare & Social Programs (29 entries)
+
+|#  |Source                                                                         |Type       |Tier|
+|---|-------------------------------------------------------------------------------|-----------|----|
+|39 |OECD, Health at a Glance (Annual editions 2021-2025)                           |OECD       |A   |
+|40 |Commonwealth Fund Mirror Mirror (2023)                                         |Think Tank |B   |
+|41 |Peterson-KFF Health System Tracker (March 2026)                                |Think Tank |A   |
+|42 |OECD/UNICEF (2021) — Childcare Comparative Data                                |OECD       |A   |
+|43 |World Economic Forum, Childcare Costs (July 2023)                              |Think Tank |B   |
+|44 |UNICEF Innocenti Report (2021) — Childcare & Development                       |UN/Intl    |A   |
+|45 |Pierre Fortin, Luc Godbout & Suzie St-Cerny (2013) — Quebec Universal Childcare|Peer Review|A   |
+|46 |Baker, Gruber, Milligan (2008, Journal of Political Economy) — Quebec Childcare|Peer Review|A   |
+|47 |CBO, BBB Childcare Score                                                       |Gov/Agency |A   |
+|48 |Columbia Center on Poverty and Social Policy (2021) — CTC                      |Think Tank |B   |
+|50 |Lancet (2020) — Abortion Laws and Safety                                       |Peer Review|A   |
+|51 |Endocrine Society (2023) — Gender-Affirming Care                               |NGO/Civil  |B   |
+|52 |CDC (2022) — Contraception Statistics                                          |Gov/Agency |A   |
+|53 |Turnaway Study, UCSF (Foster et al.) / Gerdts et al. (2016)                    |Peer Review|A   |
+|54 |CDC (2026) — Measles Outbreak Data                                             |Gov/Agency |A   |
+|56 |Urban Institute — Choose Medicare Act Analysis                                 |Think Tank |B   |
+|57 |CBO, “Add a Public Plan to the Health Insurance Exchanges” (2013)              |Gov/Agency |A   |
+|59 |CBO, ACA Enhanced Premium Tax Credit Extension (September 2025)                |Gov/Agency |A   |
+|60 |Bureau of Justice Statistics (2023) — Incarceration Rate                       |Gov/Agency |A   |
+|61 |Vera Institute (2022) — Private Prisons & Cash Bail                            |Think Tank |B   |
+|62 |Social Security Administration Trustees Report (2024)                          |Gov/Agency |A   |
+|319|CBO Pub. 57020 (April 2021), “A Public Option for Health Insurance…”           |Gov/Agency |A   |
+|320|CBO Pub. 61734 (Sept 2025), “Estimated Effects of Enacting Selected Health…”   |Gov/Agency |A   |
+|321|Georgetown Center for Children & Families + KFF — OBBBA-enacted baseline       |Think Tank |B   |
+|322|CBO/OMB on FY2025 President’s Budget childcare proposal                        |Gov/Agency |A   |
+|323|Yale Budget Lab — “Evaluating the Impacts of Federal…”                         |Think Tank |B   |
+|324|New Mexico ECECD & Legislative Finance Committee — First US universal childcare|Gov/Agency |B   |
+|367|KFF calculator (Oct 29, 2025) — ePTC expiration impact                         |Think Tank |A   |
+|368|Commonwealth Fund (Oct 2025) — ePTC expiration jobs / coverage analysis        |Think Tank |B   |
+
+### 4. Economy & Labor (20 entries)
+
+|#  |Source                                                                          |Type       |Tier|
+|---|--------------------------------------------------------------------------------|-----------|----|
+|64 |Brookings Institution (2022) — Industry Concentration                           |Think Tank |B   |
+|65 |Yale School of Management (September 2024) — Competition                        |Think Tank |C   |
+|67 |De Loecker, Eeckhout, Unger (QJE 2020) — Corporate Markups                      |Peer Review|A   |
+|69 |PIIE WP 18-4 (Furman-Orszag) — Competition & Growth                             |Think Tank |B   |
+|70 |CBO (2021) — Federal Minimum Wage to $15                                        |Gov/Agency |A   |
+|71 |Federal Reserve Bank of San Francisco (2020) — Minimum Wage                     |Think Tank |A   |
+|72 |Dube, Lester, Reich (Review of Economics and Statistics, 2010)                  |Peer Review|A   |
+|74 |EPI (Economic Policy Institute, 2023) — Unionization & Wages                    |Think Tank |C   |
+|75 |BLS (2024) — Union vs. Non-Union Wages                                          |Gov/Agency |A   |
+|76 |Farber et al. (NBER, 2021) — Union Decline & Inequality                         |Peer Review|A   |
+|77 |EPI (2024) — Overtime Threshold                                                 |—          |C   |
+|78 |SBA (2024) — Small Business Jobs Data                                           |Gov/Agency |A   |
+|79 |Haltiwanger, Jarmin, Miranda (Review of Economics and Statistics, 2013)         |Peer Review|A   |
+|80 |KFF 2025 Employer Benefits Survey                                               |Think Tank |A   |
+|81 |ATD 2025 State of Industry — Workforce Training; OECD Getting Skills Right      |NGO/Civil  |B   |
+|83 |Baicker & Chandra (2006, Health Affairs) — Healthcare Premiums and Wages        |Peer Review|B   |
+|84 |Partnership for Public Service / Federal News Network (April 2026)              |NGO/Civil  |B   |
+|312|De Loecker, Eeckhout & Mongey, “Quantifying Market Power and Business Dynamism…”|Peer Review|A   |
+|314|Benkard, Miller & Yurukoglu (2025) — Markup methodological challenge            |Peer Review|A   |
+|315|United States v. Google LLC (D.D.C., Sept–Dec 2025)                             |Law/Court  |B   |
+
+### 5. Infrastructure, Energy & Technology (24 entries)
+
+|#  |Source                                                                            |Type       |Tier|
+|---|----------------------------------------------------------------------------------|-----------|----|
+|85 |IEA World Energy Outlook (2024)                                                   |UN/Intl    |A   |
+|86 |Lawrence Berkeley National Laboratory (2024) — Energy Costs                       |Gov/Agency |A   |
+|89 |Boston Consulting Group (2021) — Taiwan Supply Disruption                         |Think Tank |B   |
+|90 |NBER WP 34625 (2025) — CHIPS Employment Effects                                   |Peer Review|A   |
+|91 |CBO, IRA Cost Estimate (Aug. 2022) + CRFB/Goldman Sachs Updated Projections       |Gov/Agency |A   |
+|92 |UIC High-Speed Rail Atlas 2024                                                    |UN/Intl    |A   |
+|93 |IPCC AR6 WGIII Chapter 10 (2022) — Transport Decarbonization                      |UN/Intl    |A   |
+|94 |IPCC AR6 WGII (2022) — Climate Damages                                            |UN/Intl    |A   |
+|95 |Amtrak FY2024 Ridership Data                                                      |Gov/Agency |A   |
+|96 |GAO, High Risk List (Annual)                                                      |Gov/Agency |A   |
+|97 |AFL-CIO / EPI using BLS Occupational Data (2024) — OSHA Inspector Ratio           |Think Tank |C   |
+|98 |USPS (2024) — Fleet Age Data                                                      |Gov/Agency |A   |
+|99 |FAA (2024) — Air Traffic Control Facilities                                       |Gov/Agency |A   |
+|100|Resources for the Future (August 2025) — EPA Carbon Standards                     |Think Tank |B   |
+|101|American Lung Association (2024) citing EPA Retrospective Analysis — Clean Air Act|NGO/Civil  |B   |
+|102|NOAA (2024) — Commercial Fisheries & Disasters                                    |Gov/Agency |A   |
+|103|NOAA/USGS — Water Stress Projections                                              |Gov/Agency |A   |
+|104|USBR (2023) — Desalination & Western Water                                        |Gov/Agency |A   |
+|307|Global Infrastructure Hub meta-analysis of 3,000+ multiplier estimates            |Think Tank |B   |
+|325|Ramey 2020, NBER WP 27625 — Infrastructure multiplier time-to-spend caveat        |Peer Review|A   |
+|326|Peterson Foundation, “Energy Tax Policy Under the OBBBA”                          |Think Tank |A   |
+|327|CRFB IRA Cost Update (2024)                                                       |Think Tank |B   |
+|371|Energy Innovation, “Final Analysis: Economic Impacts of OBBBA Energy Provisions”  |Think Tank |B   |
+|372|Rhodium Group Taking Stock 2025                                                   |Think Tank |B   |
+
+### 6. Legal, Governance & Civil Rights (29 entries)
+
+|#  |Source                                                                        |Type       |Tier|
+|---|------------------------------------------------------------------------------|-----------|----|
+|105|EU GDPR (2018) / UK Age Appropriate Design Code (2021)                        |Law/Court  |A   |
+|106|American Privacy Rights Act (H.R. 8818, 2024)                                 |Law/Court  |A   |
+|108|Zuboff, “The Age of Surveillance Capitalism” (PublicAffairs, 2019)            |Peer Review|B   |
+|109|Haidt, The Anxious Generation (Penguin Press, 2024); Twenge & Haidt           |Peer Review|B   |
+|110|Haugen Congressional Testimony (2021) / Internal Meta Research                |Gov/Agency |B   |
+|111|NYSRPA v. Bruen, 597 U.S. 1 (2022)                                            |Law/Court  |A   |
+|112|Maryland Shall Issue v. Moore, 4th Circuit en banc (2024), cert. denied (2025)|Law/Court  |A   |
+|113|United States v. Rahimi, 602 U.S. 680 (2024)                                  |Law/Court  |A   |
+|114|CDC WISQARS (2023) — Firearm Death Statistics                                 |Gov/Agency |A   |
+|115|Harvard T.H. Chan School of Public Health (2016, 2022)                        |Think Tank |B   |
+|116|RAND Corporation, Science of Gun Policy (2024)                                |Think Tank |A   |
+|117|OpenSecrets (2024) — Outside Spending                                         |NGO/Civil  |A   |
+|118|Gilens and Page (Perspectives on Politics, 2014)                              |Peer Review|A   |
+|119|Restore Trust in Congress Act (January 2026, Senators Moody and Gillibrand)   |Law/Court  |A   |
+|120|University of Maryland Program for Public Consultation — Stock Trading Poll   |Think Tank |B   |
+|121|Harvard Journal on Legislation (November 2025) — STOCK Act                    |Peer Review|B   |
+|122|Campaign Legal Center (2025) — Stock Trading Conflicts                        |NGO/Civil  |C   |
+|123|Brennan Center for Justice (2024) — Voting Access                             |NGO/Civil  |C   |
+|124|GAO (2014) — Voter ID Laws                                                    |Gov/Agency |A   |
+|125|Levitsky & Ziblatt, “How Democracies Die” (Harvard, 2018)                     |Peer Review|B   |
+|126|Church Committee (1975) / 9/11 Commission Report                              |Gov/Agency |A   |
+|127|Williams Institute, UCLA School of Law (2021) — LGBTQ+ Economics              |Think Tank |B   |
+|128|Trevor Project National Survey (2024)                                         |NGO/Civil  |C   |
+|129|Brennan Center (2021) — Mass Incarceration & GDP                              |NGO/Civil  |C   |
+|130|Fix the Court (2024) / Norm Ornstein (AEI) — SCOTUS Term Limits               |Think Tank |C   |
+|131|NIST AI Risk Management Framework (2023)                                      |Gov/Agency |A   |
+|132|DHS OIG (2019–2024) — Detention Facilities                                    |Gov/Agency |A   |
+|133|Harvard JCHS (2024) — Housing & Institutional Investment                      |Think Tank |A   |
+|134|NLIHC (2024) — Affordable Housing Shortage                                    |Think Tank |B   |
+
+### 7. Education (10 entries)
+
+|#  |Source                                                                       |Type       |Tier|
+|---|-----------------------------------------------------------------------------|-----------|----|
+|135|OECD, Education at a Glance (Annual editions)                                |OECD       |A   |
+|136|OECD PISA (2023) — International Education Rankings                          |OECD       |A   |
+|137|McKinsey Global Institute (2009) — Education Achievement Gap                 |Think Tank |C   |
+|138|UK Age Appropriate Design Code / EU Digital Services Act (2022)              |Law/Court  |A   |
+|139|NCES (2024) — US Tuition Data                                                |Gov/Agency |A   |
+|140|Federal Reserve Bank of New York (2024) — Student Debt                       |Gov/Agency |A   |
+|141|Jackson, Johnson, Persico (QJE 2016) — School Spending & Wages               |Peer Review|A   |
+|142|Quebec Consumer Protection Act §§248-249 (1980) / Irwin Toy v. Quebec (1989) |Law/Court  |A   |
+|143|Chile Law 20.606 (2016) / Taillie et al. (PLOS Medicine 2020); Boyland et al.|Law/Court  |A   |
+|145|UK Health and Care Act 2022 — HFSS Advertising Ban                           |Law/Court  |A   |
+
+### 8. Military & Defense (13 entries)
+
+|#  |Source                                                    |Type       |Tier|
+|---|----------------------------------------------------------|-----------|----|
+|146|ASCE Infrastructure Report Card (2021)                    |NGO/Civil  |B   |
+|147|BLS (2024) — Construction Workforce Gap                   |Gov/Agency |A   |
+|148|Commission on Wartime Contracting (2011)                  |Gov/Agency |A   |
+|149|Quincy Institute / Brown University Costs of War (2025)   |Think Tank |C   |
+|150|GAO-23-106123 — DoD Service Contracts High Risk Analysis  |Gov/Agency |B   |
+|151|CISA (2024) — Critical Infrastructure Cyber Attacks       |Gov/Agency |A   |
+|153|Fortna (2004), “Does Peacekeeping Keep Peace?”            |Peer Review|A   |
+|154|Bulletin of Atomic Scientists, Doomsday Clock (2024)      |Think Tank |B   |
+|155|Arms Control Association Fact Sheet (2024)                |NGO/Civil  |B   |
+|156|Watson Institute Costs of War (2023)                      |Think Tank |B   |
+|157|Congressional Research Service (R42699, 2021) — War Powers|Congress   |A   |
+|158|DoD Inspector General (2023) — Pentagon Audit             |Gov/Agency |A   |
+|159|Planetary Society / BDO USA (2023) — NASA Economic Impact |NGO/Civil  |B   |
+
+### 9. Agriculture & Environment (10 entries)
+
+|#  |Source                                                             |Type      |Tier|
+|---|-------------------------------------------------------------------|----------|----|
+|160|GAO (2024) — Foreign Agricultural Land Ownership                   |Gov/Agency|A   |
+|161|National Academy of Sciences (2023) — Desalination Costs           |Think Tank|A   |
+|162|FAO Food and Agriculture State Report (2023)                       |UN/Intl   |A   |
+|163|NOAA Fisheries Stock Assessment (2024)                             |Gov/Agency|A   |
+|164|NIBS “Natural Hazard Mitigation Saves” (2019) / FEMA BRIC Program  |NGO/Civil |A   |
+|165|Basel Convention Plastic Waste Amendments (Decision BC-14/12, 2021)|Law/Court |A   |
+|166|International Seabed Authority (2023)                              |UN/Intl   |A   |
+|167|Reagan-Udall Foundation Independent Panel (2022) — FDA Reform      |Think Tank|B   |
+|168|DOL Wage and Hour Division (2023) — Farm Labor Violations          |Gov/Agency|A   |
+|169|Economic Policy Institute (2022) — Farm Worker Wage Theft          |Think Tank|C   |
+
+### 10. Foreign Affairs & Immigration (6 entries)
+
+|#  |Source                                                           |Type       |Tier|
+|---|-----------------------------------------------------------------|-----------|----|
+|170|NAS, “The Economic and Fiscal Consequences of Immigration” (2016)|Think Tank |A   |
+|172|American Immigration Council (2023) — DACA Economic Contribution |NGO/Civil  |B   |
+|173|NBER (Pope, 2016) — DACA Wage Effects                            |Peer Review|A   |
+|174|RAND Corporation (2020, 2023) — Alliance Networks                |Think Tank |B   |
+|175|Ikenberry, “Liberal Leviathan” (Princeton University Press, 2011)|—          |B   |
+|176|ILO Convention 138 / Convention 182 — Child Labor                |UN/Intl    |A   |
+
+### 11. Pharmaceutical & Patent Policy (4 entries)
+
+|#  |Source                                                  |Type      |Tier|
+|---|--------------------------------------------------------|----------|----|
+|177|RAND Drug Price Comparison Report (2024)                |Think Tank|A   |
+|178|CBO, Drug Negotiation                                   |Gov/Agency|A   |
+|179|I-MAK, “Overpatented, Overpriced” (2022)                |NGO/Civil |C   |
+|180|FTC Patent Assertion Entity Study (2016) / Pay-for-Delay|Gov/Agency|B   |
+
+### 12. Democracy & Electoral Reform (5 entries)
+
+|#  |Source                                                 |Type       |Tier|
+|---|-------------------------------------------------------|-----------|----|
+|181|Brennan Center for Justice (2022) — Gerrymandering     |NGO/Civil  |C   |
+|182|OMB/CBO (2019) — Government Shutdown Cost              |Gov/Agency |A   |
+|183|Northwestern Medill Local News Report (2025)           |Peer Review|A   |
+|184|Snyder & Strömberg (Journal of Political Economy, 2010)|Peer Review|A   |
+|185|Freedom House (2024) — Global Democracy                |NGO/Civil  |B   |
+
+### 13–14. Healthcare Economics & Scoring Methodology Reference Sources (17 entries)
+
+|#  |Source                                                                             |Type       |Tier|
+|---|-----------------------------------------------------------------------------------|-----------|----|
+|186|OECD SME Finance Scoreboard (2023)                                                 |OECD       |A   |
+|187|ACOG and AMA (2024) — IVF Access                                                   |NGO/Civil  |B   |
+|188|Himmelstein & Woolhandler (Annals 2020) — Admin Savings                            |Peer Review|B   |
+|189|Deming (Review of Economics and Statistics, 2009) — Head Start                     |Peer Review|A   |
+|191|Barnichon, Matthes & Ziegenbein (2018) — FRBSF Economic Letter                     |Gov/Agency |A   |
+|192|OECD, Health at a Glance (Annual)                                                  |OECD       |A   |
+|193|OECD, Education at a Glance (Annual)                                               |OECD       |A   |
+|194|OECD, Tax Administration Series (Annual)                                           |OECD       |A   |
+|195|GAO, High Risk List (Annual)                                                       |Gov/Agency |A   |
+|196|Congressional Research Service (CRS) Reports — Various                             |Congress   |A   |
+|197|World Bank, Governance Indicators                                                  |UN/Intl    |B   |
+|198|RAND Corporation — Multiple Studies                                                |Think Tank |B   |
+|199|OECD Social Expenditure Database (Annual)                                          |OECD       |A   |
+|303|Orchard, Ramey & Wieland, NBER WP 31584 (rev. October 2024)                        |Peer Review|A   |
+|304|Ramey, “Do Temporary Cash Transfers Stimulate the Macroeconomy?”                   |Peer Review|A   |
+|305|Auerbach, Gorodnichenko, McCrory & Murphy, “Fiscal Multipliers in the Covid-19…”   |Peer Review|A   |
+|306|Jo & Zubairy, “State-Dependent Government Spending Multipliers,” AEJ Macroeconomics|Peer Review|A   |
+
+### 15. Constitutional Law Architecture (11 entries)
+
+|#  |Source                                                                      |Type     |Tier|
+|---|----------------------------------------------------------------------------|---------|----|
+|200|NYSRPA v. Bruen, 597 U.S. 1 (2022) — Text-and-History Standard              |Law/Court|A   |
+|201|Maryland Shall Issue v. Moore, 4th Cir. en banc (No. 21-2017, Aug. 23, 2024)|Law/Court|A   |
+|202|United States v. Rahimi, 602 U.S. 680 (2024) — Relevantly Similar Standard  |Law/Court|A   |
+|203|Moore v. United States, 602 U.S. 572 (2024) — Realization Requirement       |Law/Court|A   |
+|204|South Dakota v. Dole, 483 U.S. 203 (1987) — Spending Clause Conditions      |Law/Court|A   |
+|205|Sorrell v. IMS Health, 564 U.S. 552 (2011)                                  |Law/Court|A   |
+|206|Ruckelshaus v. Monsanto, 467 U.S. 986 (1984)                                |Law/Court|A   |
+|207|Speech or Debate Clause, Art. I, §6, cl. 1; IRC §§475, 1256, 1296           |Law/Court|A   |
+|209|District of Columbia v. Heller, 554 U.S. 570 (2008)                         |Law/Court|A   |
+|210|McDonald v. City of Chicago, 561 U.S. 742 (2010)                            |Law/Court|A   |
+|318|Moore v. United States, 602 U.S. ___ (June 20, 2024)                        |Law/Court|A   |
+
+### 16–20. Additional Source Domains
+
+16. COMPARATIVE GOVERNANCE & DEMOCRATIC STUDIES
+
+2 entries
+
+
+
+
+#
+
+SOURCE
+
+TYPE
+
+TIER
+
+211
+
+V-Dem Institute (2023, 2024) — Democratic Erosion
+
+Think Tank
+
+A
+
+212
+
+NAPA, Merit Civil Service System (2003) American Antitrust Institute Research
+
+Think Tank
+
+B
+
+17. CONSTITUTIONAL LAW RESEARCH — LEGISLATIVE
+ARCHITECTURE
+
+52 entries
+
+#
+
+SOURCE
+
+TYPE
+
+TIER
+
+214
+
+Antonyuk v. James, 120 F.4th 941 (2d Cir. 2024) — NY CCIA Post-Bruen
+
+Law/Court
+
+A
+
+215
+
+McRorey v. Garland, 99 F.4th 831 (5th Cir. 2024) — 18-20-Year-Old Delays
+
+Law/Court
+
+A
+
+216
+
+Bianchi v. Brown, 111 F.4th 438 (4th Cir. 2024) (en banc) — Assault Weapons Ba
+
+Law/Court
+
+A
+
+217
+
+NAGR v. Lamont, 153 F.4th 213 (2d Cir. 2025) — CT Semi-Automatic Ban Upheld
+
+Law/Court
+
+A
+
+218
+
+United States v. Morgan (10th Cir. Sept. 2, 2025) — Hughes Amendment Machine G
+
+Law/Court
+
+A
+
+219
+
+Snope v. Brown / Kavanaugh Statement (SCOTUS, June 2, 2025) — AR-15 Cert Watch
+
+Law/Court
+
+A
+
+220
+
+ANJRPC v. Attorney General New Jersey (3d Cir. en banc, argued Oct. 15, 2025)
+
+Law/Court
+
+A
+
+221
+
+United States v. Peterson (5th Cir., reissued Aug. 27, 2025) — NFA-as-Shall-Is
+
+Law/Court
+
+A
+
+222
+
+Gonzales v. Raich, 545 U.S. 1 (2005) — Commerce Clause Intrastate Activity
+
+Law/Court
+
+A
+
+224
+
+Eisner v. Macomber, 252 U.S. 189 (1920) — Original Realization Doctrine
+
+Law/Court
+
+A
+
+225
+
+Helvering v. Bruun, 309 U.S. 461 (1940) — Realization Not Required for Land
+
+Law/Court
+
+A
+
+226
+
+Cottage Savings Ass'n v. Commissioner, 499 U.S. 554 (1991) — Low Realization
+
+Law/Court
+
+A
+
+228
+
+Chamber of Commerce v. Lierman (4th Cir. Aug. 15, 2025) — Maryland Digital
+
+Law/Court
+
+A
+
+229
+
+Sonzinsky v. United States, 300 U.S. 506 (1937) — Taxing Power Belt-and-Suspen
+
+Law/Court
+
+A
+
+230
+
+IRC §877A (2008 HEART Act) — Expatriation Exit Tax Constitutional History
+
+Law/Court
+
+A
+
+231
+
+Moody v. NetChoice, 603 U.S. 707 (2024) — Platform Editorial Expression
+
+Law/Court
+
+A
+
+232
+
+Free Speech Coalition v. Paxton, 606 U.S. 461 (2025) — Age Verification for
+
+Law/Court
+
+A
+
+233
+
+NetChoice v. Bonta (CAADCA, 9th Cir. Rounds 1 & 2, 2024-2026) — Age-Appropriat
+
+Law/Court
+
+A
+
+234
+
+Zauderer v. Office of Disciplinary Counsel, 471 U.S. 626 (1985) — Compelled Di
+
+Law/Court
+
+A
+
+235
+
+NIFLA v. Becerra, 585 U.S. 755 (2018) — Compelled Disclosure Narrowed
+
+Law/Court
+
+A
+
+236
+
+Brown v. Entertainment Merchants Ass'n, 564 U.S. 786 (2011) — Minors and
+
+Law/Court
+
+A
+
+238
+
+Cedar Point Nursery v. Hassid, 594 U.S. 139 (2021) — Physical Access Takings
+
+Law/Court
+
+A
+
+239
+
+Jack M. Balkin, “Information Fiduciaries and the First Amendment” (49 UC Davis
+
+Peer Review
+
+B
+
+240
+
+303 Creative LLC v. Elenis, 600 U.S. 570 (2023) — Compelled Creative Expressio
+
+Law/Court
+
+A
+
+241
+
+United States v. Brewster, 408 U.S. 501 (1972) — Stock Trading Not Legislative
+
+Law/Court
+
+A
+
+242
+
+Gravel v. United States, 408 U.S. 606 (1972) — Legislative Act Definition;
+
+Law/Court
+
+A
+
+243
+
+United States v. Helstoski, 442 U.S. 477 (1979) — Evidentiary Bar; Waiver
+
+Law/Court
+
+A
+
+244
+
+United States v. Johnson, 383 U.S. 169 (1966) — Floor Speech Protected; Outsid
+
+Law/Court
+
+A
+
+245
+
+United States v. Park, 421 U.S. 658 (1975) — Responsible Corporate Officer Doc
+
+Law/Court
+
+A
+
+246
+
+United States v. Rayburn House Office Building, 497 F.3d 654 (D.C. Cir. 2007)
+
+Law/Court
+
+D
+
+247
+
+United States v. Renzi, 651 F.3d 1012 (9th Cir. 2011) — Individual Member
+
+Law/Court
+
+A
+
+248
+
+United States v. DeCoster, 828 F.3d 626 (8th Cir. 2016) — RCO Prison Constitut
+
+Law/Court
+
+A
+
+249
+
+Duplantier v. United States, 606 F.2d 654 (5th Cir. 1979) — Financial Disclosu
+
+Law/Court
+
+A
+
+251
+
+NFIB v. Sebelius, 567 U.S. 519 (2012) — Spending Clause Coercion Doctrine
+
+Law/Court
+
+A
+
+252
+
+Mayhew v. Burwell, 772 F.3d 80 (1st Cir. 2014) — No Coercion Post-NFIB
+
+Law/Court
+
+A
+
+253
+
+NSBU v. Treasury (11th Cir. Dec. 16, 2025) — Corporate Transparency Act Upheld
+
+Law/Court
+
+A
+
+
+
+
+
+#
+
+SOURCE
+
+TYPE
+
+TIER
+
+254
+
+McHenry v. Texas Top Cop Shop, 604 U.S. ___ (Jan. 23, 2025) — SCOTUS CTA Stay
+
+Law/Court
+
+A
+
+255
+
+Rutledge v. PCMA, 592 U.S. 80 (2020) — ERISA Preemption Narrowed (Cost Regulat
+
+Law/Court
+
+A
+
+256
+
+Gobeille v. Liberty Mutual Ins. Co., 577 U.S. 312 (2016) — ERISA Preemption
+
+Law/Court
+
+A
+
+258
+
+Biden v. Nebraska, 600 U.S. 477 (2023) — Major Questions Applied to Loan
+
+Law/Court
+
+A
+
+259
+
+FCC v. Consumers' Research, 606 U.S. 656 (2025) — Nondelegation Reaffirmed
+
+Law/Court
+
+A
+
+260
+
+Loper Bright Enterprises v. Raimondo, 603 U.S. 369 (2024) — Chevron Overruled
+
+Law/Court
+
+A
+
+261
+
+U.S. Term Limits v. Thornton, 514 U.S. 779 (1995) — State Term Limits on Congr
+
+Law/Court
+
+A
+
+262
+
+Citizens United v. FEC, 558 U.S. 310 (2010) — Independent Expenditures Protect
+
+Law/Court
+
+A
+
+263
+
+McCutcheon v. FEC, 572 U.S. 185 (2014) — Aggregate Contribution Limits Struck
+
+Law/Court
+
+A
+
+264
+
+Arizona State Legislature v. AIRC, 576 U.S. 787 (2015) — Independent Redistric
+
+Law/Court
+
+A
+
+265
+
+Moore v. Harper, 600 U.S. 1 (2023) — Independent State Legislature Theory Reje
+
+Law/Court
+
+A
+
+267
+
+Brnovich v. DNC, 594 U.S. 647 (2021) — VRA Section 2 — Five Guideposts
+
+Law/Court
+
+A
+
+268
+
+Americans for Prosperity Foundation v. Bonta, 594 U.S. 595 (2021) — Disclosure
+
+Law/Court
+
+A
+
+269
+
+Bluman v. FEC, 565 U.S. 1104 (2012) — Foreign National Spending Restrictions
+
+Law/Court
+
+A
+
+270
+
+Dillon v. Gloss, 256 U.S. 368 (1921) — Article V Time Limits and Ratification
+
+Law/Court
+
+A
+
+271
+
+One Big Beautiful Bill Act (OBBBA), Pub. L. 119-21 (July 4, 2025) — Controllin
+
+Congress
+
+A
+
+18. UT IMPLEMENTATION RESEARCH
+
+23 entries
+
+#
+
+SOURCE
+
+TYPE
+
+TIER
+
+272
+
+GAO-25-108502 (May 2025) + DOT OIG AV2025036 (July 2025) — FAA NextGen Moderni
+
+Gov/Agency
+
+A
+
+273
+
+USPS OIG Fleet Modernization Audit (2024) + USPS 10-Year Strategic Plan et-mod
+
+Gov/Agency
+
+A
+
+274
+
+NEC Commission CONNECT NEC 2035 (C35) + FTA Hudson Tunnel Quarterly Monitoring
+
+Gov/Agency
+
+A
+
+275
+
+California High-Speed Rail Authority 2024 Business Plan + 2025 Supplemental
+
+Gov/Agency
+
+A
+
+276
+
+OPM Time-to-Hire Dashboard FY2024 + DOL Top Management Challenges Report (2022
+
+Gov/Agency
+
+A
+
+277
+
+CRS IF11643 — Artemis Program (NASA); JWST Congressional Research Service
+
+Gov/Agency
+
+A
+
+278
+
+NOAA Aquaculture Strategic Plan 2023–2028 a-announces-5-year-strategic-plan-a
+
+Gov/Agency
+
+A
+
+279
+
+USDA REAP Rural Energy for America Program — IRA Section 22002 Implementation
+
+Gov/Agency
+
+A
+
+280
+
+USDA AMS Packers and Stockyards Division Annual Report FY2021–2022 (published
+
+Gov/Agency
+
+A
+
+281
+
+Treasury CFIUS Annual Report to Congress CY2024 (released August 2025) DoD Cyb
+
+Gov/Agency
+
+A
+
+283
+
+GAO-25-107427 — DoD Financial Management: Status of Remediation Efforts to Mee
+
+—
+
+A
+
+284
+
+CRS IF10597 — United Nations Issues: U.S. Funding to the UN System (updated Ap
+
+Gov/Agency
+
+A
+
+285
+
+AmeriCorps State and National (CRS IF12983, 2024) + American Climate Corps Sca
+
+Gov/Agency
+
+A
+
+286
+
+Norges Bank Investment Management (NBIM) Annual Report 2024 — Norway Governmen
+
+Gov/Agency
+
+A
+
+287
+
+Connecticut CT Baby Bonds Program (CT Treasurer, 2023–2024) + Urban Institute
+
+Think Tank
+
+B
+
+289
+
+DEA Cannabis Rescheduling Timeline 2020–2026 (Federal Register, DOJ Press
+
+Gov/Agency
+
+A
+
+290
+
+Tennessee Promise Evaluation (TN Comptroller OREA, 2024) + THEC Enrollment Dat
+
+Gov/Agency
+
+A
+
+292
+
+HHS Reorganization 2025 — Press Release (March 27, 2025) + KFF Analysis +
+
+Gov/Agency
+
+A
+
+293
+
+FTC Rulemaking Timeline Data — Negative Option / Click-to-Cancel (Oct 2024
+
+Gov/Agency
+
+A
+
+294
+
+ATF NFA Processing Timeline Data — eForms Relaunch (2021) + Post-2024 Process
+
+Gov/Agency
+
+A
+
+295
+
+Maryland HQL Implementation + Crifasi et al. (2017, RSF Journal) + Doucette, C
+
+Peer Review
+
+A
+
+296
+
+FBI NICS 2024 Operational Report + BSCA 2022 Enhanced Provisions Implementatio
+
+Gov/Agency
+
+A
+
+297
+
+Farber, Henry S. (2009) — “Increasing Voter Turnout: Is Democracy Day the
+
+Peer Review
+
+A
+
+
+
+
+
+19. TARIFF & TRADE MODELING
+
+10 entries
+
+#
+
+SOURCE
+
+TYPE
+
+TIER
+
+339
+
+Tax Foundation, “Tracking the Impact of the Trump Tariffs & Trade War” (update
+
+Think Tank
+
+B
+
+340
+
+CRFB, “Tariff Revenue Soars in FY 2025 Amid Legal Uncertainty” (updated April
+
+Think Tank
+
+B
+
+341
+
+PWBM Effective Tariff Rates and Revenues series (through April 15, 2026)
+
+Think Tank
+
+A
+
+342
+
+Yale Budget Lab, “State of US Tariffs: April 8, 2026” -tariffs-april-8-2026
+
+Think Tank
+
+A
+
+343
+
+Tax Policy Center Tariff Tracker trump-tariffs
+
+—
+
+A
+
+344
+
+PIIE WP 25-13, McKibbin / Noland / Shuetrim, “Modeling the Macroeconomic
+
+Think Tank
+
+A
+
+345
+
+Federal Reserve Board, Minton & Somale, “Detecting Tariff Effects on Consumer
+
+Gov/Agency
+
+A
+
+346
+
+Cavallo, Llamas & Vazquez, NBER WP 34496 (2025)
+
+—
+
+A
+
+347
+
+Gopinath & Neiman, NBER WP 34620 (2026), “The Incidence of Tariffs”
+
+Peer Review
+
+A
+
+348
+
+AEI, “Evaluating the Impact of Tariffs on US Agriculture a Year After Liberati
+
+Think Tank
+
+B
+
+20. FEDERAL WORKFORCE & REGULATORY COSTS
+
+17 entries
+
+#
+
+SOURCE
+
+TYPE
+
+TIER
+
+
+
+349
+
+Partnership for Public Service, Federal Harms Tracker (April 9, 2026)
+
+Think Tank
+
+A
+
+350
+
+OPM workforce data via PPS / Pew Research / FedTools (Feb 2026 snapshot)
+
+Gov/Agency
+
+A
+
+351
+
+Economic Policy Institute, “Federal layoffs trigger sharp slowdown in job
+
+Think Tank
+
+B
+
+352
+
+GAO-26-108719, “Federal Agency Workforce Changes: Update for January to June 2
+
+Gov/Agency
+
+A
+
+353
+
+OPM Final Rule 91 FR 5580, “Improving Performance, Accountability and Responsi
+
+Law/Court
+
+A
+
+354
+
+CRFB, “Potential Savings from Shrinking the Federal Workforce” king-federal-wo
+
+Think Tank
+
+B
+
+355
+
+Resources for the Future, Roy & Palmer, “Hidden Costs of Repealing EPA's
+
+Think Tank
+
+A
+
+356
+
+Federal Reserve, Financial Stability Report (Nov 2025)
+
+Gov/Agency
+
+A
+
+357
+
+Office of Financial Research 2025 Annual Report (Nov 19, 2025) 2024 PLATFORM C
+
+Gov/Agency
+
+A
+
+361
+
+PWBM Aug 26, 2024 — CTC component breakdown (extract from upstream Source 13)
+
+Think Tank
+
+A
+
+362
+
+CRFB Oct 28, 2024 — CTC + EITC bundle component (extract from upstream Source
+
+Think Tank
+
+B
+
+363
+
+Tax Policy Center, Gleckman (Oct 10, 2024) — Harris tax credits combined
+
+Think Tank
+
+A
+
+365
+
+CRFB Housing bundle — extract from upstream Source 10 nd-trump-campaign-plans
+
+Think Tank
+
+B
+
+366
+
+Tax Foundation — Housing tax credits combined
+
+Think Tank
+
+B
+
+369
+
+CRFB drug pricing analysis — extension scenario LOG of this document is record
+
+Think Tank
+
+B
+
+Tier legend: A authoritative non-partisan · B peer-reviewed or major think-tank · C use with caution · D partisan outlier. Full URLs and
+
+*Tier legend: A authoritative non-partisan · B peer-reviewed or major think-tank · C use with caution · D partisan outlier. Full URLs and per-source key findings are maintained in the project’s complete source reference guide (REF_RDNC_SourceReferenceGuide, current edition).*
+
+-----
+
+# PART X — A Note on Method and Authorship
+
+This framework was not produced by a think tank with institutional funding, a campaign, or a political party. It was conceived and authored by a private American citizen who looked at the same dysfunction everyone else sees — and wrote down a coherent answer instead of waiting for one to arrive.
+
+It was developed with the assistance of an AI system for research, structure, and editorial refinement. The ideas, judgments, and authorship are human. Where a proposal touches the conduct of AI itself, that proposal is held back from AI-assisted drafting and reserved for direct human authorship — a deliberate limit on the method, applied rather than merely stated.
+
+It is released freely for public use, discussion, and adaptation. Any candidate may run on this platform without permission, fee, or institutional relationship. Attribution is appreciated but not required. **The ideas belong to anyone willing to fight for them.**
+
+-----
+
+*Reform Democrats of the New Commonwealth*
+*American Renewal Initiative · Project ARA 2028 · 2026*
+
+**Built to work.**
+
+-----
+
+*Originally conceived and authored by a concerned American citizen. Developed with the assistance of Claude (Anthropic). The ideas belong to anyone willing to fight for them.*
